@@ -1,0 +1,17 @@
+name: debug
+on:
+  workflow_dispatch: {}
+jobs:
+  d:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: npm ci || npm install
+      - env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          echo "===== haiku ====="; node scripts/debug_search.mjs claude-haiku-5-5 || true
+          echo "===== sonnet ====="; node scripts/debug_search.mjs claude-sonnet-5-5 || true
