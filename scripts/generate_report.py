@@ -36,8 +36,27 @@ CHART_META = [
 ]
 CAT_COLORS = {"신규 오픈": "#188038", "컨텐츠 업데이트": "#1a73e8", "매출 이벤트": "#e8710a",
               "콜라보": "#6c3fd1", "시즌·패스": "#009688"}
-CAT_SHORT = {"신규 오픈": "신규", "컨텐츠 업데이트": "업데이트", "매출 이벤트": "이벤트",
-             "콜라보": "콜라보", "시즌·패스": "시즌", "기타": "기타"}
+SHORT_COLORS = {"신규": "#188038", "업데이트": "#1a73e8", "이벤트": "#e8710a", "콜라보": "#6c3fd1", "시즌": "#009688"}
+
+
+def short_cat(cat):
+    """카테고리 표기를 축약·통일(콘텐츠/컨텐츠 등 표기 흔들림 흡수)."""
+    c = cat or ""
+    if "업데이트" in c:
+        return "업데이트"
+    if "신규" in c or "오픈" in c or "출시" in c:
+        return "신규"
+    if "이벤트" in c:
+        return "이벤트"
+    if "콜라보" in c or "협업" in c:
+        return "콜라보"
+    if "시즌" in c or "패스" in c:
+        return "시즌"
+    return c or "기타"
+
+
+def cat_color(cat):
+    return SHORT_COLORS.get(short_cat(cat), "#5f6368")
 
 # 데모용(API 키 없을 때 '확인' UX 시연). 운영에서는 research.mjs 결과가 우선.
 DEMO_REASONS = {
@@ -122,9 +141,8 @@ def badges(name):
 
 
 def cat_tag(category):
-    c = CAT_COLORS.get(category, "#5f6368")
-    return (f'<span style="display:inline-block;vertical-align:middle;background:{c};color:#fff;font-size:10px;font-weight:700;'
-            f'padding:1px 7px;border-radius:10px;margin-right:5px;white-space:nowrap;">{esc(category)}</span>')
+    return (f'<span style="display:inline-block;vertical-align:middle;background:{cat_color(category)};color:#fff;font-size:10px;font-weight:700;'
+            f'padding:1px 7px;border-radius:10px;margin-right:5px;white-space:nowrap;">{esc(short_cat(category))}</span>')
 
 
 def is_mover(row):
@@ -236,7 +254,7 @@ def bigo_parts(row, reasons_by_id, demo_keys, demo_details, date):
         verified, category, short = False, "확인 필요", ""
     b = ""
     if category and category != "확인 필요":
-        b += badge_pill(CAT_SHORT.get(category, category), CAT_COLORS.get(category, "#5f6368"), "#fff")
+        b += badge_pill(short_cat(category), cat_color(category), "#fff")
     if verified and key is not None:
         href = f"{PAGES_URL}/daily/{date}.html#g-{esc(key)}" if PAGES_URL else None
         b += badge_pill("확인", "#e6f4ea", "#188038", "#a8dab5", href=href)
@@ -261,9 +279,9 @@ def render_chart_email(title, icon, rows, meta, reasons_by_id, demo_keys, demo_d
         devline = f'{(fl + " ") if fl else ""}{esc(row["developer"])} <span style="color:#9aa0a6;">· {released}</span>'
         trs.append(
             f'<tr style="background:{bg};border-bottom:1px solid #eef0f1;">'
-            f'<td valign="top" style="padding:10px 6px 10px 12px;width:46px;white-space:nowrap;">'
+            f'<td valign="top" align="center" style="padding:10px 6px 10px 8px;width:54px;white-space:nowrap;text-align:center;">'
             f'<span style="color:#80868b;font-weight:700;font-size:14px;">{row["rank"]}</span><br>'
-            f'<span style="font-size:12px;">{change_cell(row["change"])}</span></td>'
+            f'<span style="font-size:12px;display:inline-block;margin-top:2px;">{change_cell(row["change"])}</span></td>'
             f'<td valign="top" style="padding:10px 12px 10px 0;">'
             f'<div style="font-size:14px;color:#202124;font-weight:600;word-break:keep-all;line-height:1.5;">{link}{badges(row["name"])}{name_badges}</div>'
             f'<div style="font-size:12px;color:#5f6368;margin-top:2px;word-break:keep-all;">{devline}</div>'
