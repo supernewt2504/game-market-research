@@ -192,7 +192,7 @@ def render_table(title, icon, rows, meta, reasons_by_id, demo_keys, demo_details
     trs = []
     for row in rows:
         bg = "#fff" if row["rank"] % 2 else "#fafafa"
-        link = f'<a href="{esc(row["url"])}" target="_blank" style="color:#202124;text-decoration:none;">{esc(row["name"])}</a>'
+        link = f'<a href="{esc(row["url"])}" target="_blank" style="color:#202124;text-decoration:none;word-break:keep-all;">{esc(row["name"])}</a>'
         m = meta.get(row["id"], {})
         fl = flag(m.get("country"))
         fl_sp = (fl + " ") if fl else ""
@@ -207,7 +207,8 @@ def render_table(title, icon, rows, meta, reasons_by_id, demo_keys, demo_details
             f'<td style="padding:7px 10px;font-size:12px;">{bigo_cell(row, reasons_by_id, demo_keys, demo_details, date, mode)}</td>'
             f'</tr>')
     return (f'<h2 style="font-size:17px;color:#202124;margin:30px 0 10px;">{icon} {esc(title)}</h2>'
-            f'<table style="width:100%;border-collapse:collapse;border:1px solid #e8eaed;border-radius:8px;overflow:hidden;">{head}{"".join(trs)}</table>')
+            f'<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;border:1px solid #e8eaed;border-radius:8px;">'
+            f'<table style="width:100%;min-width:680px;border-collapse:collapse;">{head}{"".join(trs)}</table></div>')
 
 
 def build_details(reasons_by_id, demo_details):
@@ -259,7 +260,7 @@ window.addEventListener('load',()=>{const h=location.hash;if(h&&h.indexOf('#g-')
 """ % dj
 
 
-def page_html(date, ct_kst, demo, diffed, meta, reasons_by_id, demo_keys, demo_details, mode):
+def page_html(date, ct_kst, demo, diffed, meta, reasons_by_id, demo_keys, demo_details, mode, chart_keys=None, platform=None):
     legend = ('<div style="font-size:12px;color:#5f6368;margin:8px 0;">'
               '<span style="color:#d93025;font-weight:700;">▲ 상승</span> &nbsp; '
               '<span style="color:#1a73e8;font-weight:700;">▼ 하락</span> &nbsp; '
@@ -270,7 +271,8 @@ def page_html(date, ct_kst, demo, diffed, meta, reasons_by_id, demo_keys, demo_d
               '<span style="color:#c5221f;font-weight:700;">미확인</span> 조사중</div>')
     demo_banner = ('<div style="background:#fef7e0;border:1px solid #feefc3;color:#7a5900;padding:9px 13px;border-radius:8px;margin:14px 0;font-size:12px;">'
                    '⚠️ 샘플: 전일 데이터가 없어 변동(▲▼·NEW)은 시연용입니다. 내일부터 실제 전일 비교가 적용됩니다.</div>' if demo else "")
-    tables = "".join(render_table(t, i, diffed[k], meta, reasons_by_id, demo_keys, demo_details, date, mode) for k, t, i in CHART_META)
+    tables = "".join(render_table(t, i, diffed[k], meta, reasons_by_id, demo_keys, demo_details, date, mode)
+                     for k, t, i in CHART_META if chart_keys is None or k in chart_keys)
     modal = modal_block(build_details(reasons_by_id, demo_details)) if mode == "web" else ""
     foot = ('데이터: Apple iTunes RSS · Google Play. 상승이유는 매출 NEW·상승폭 큰 게임을 웹검색으로 조사하고, '
             '기사가 없으면 스토어 업데이트 내역을 확인해 작성합니다. 이미지/영상은 스토어 CDN을 폭 제한으로 참조해 용량을 최소화합니다.')
@@ -280,8 +282,8 @@ def page_html(date, ct_kst, demo, diffed, meta, reasons_by_id, demo_keys, demo_d
 <body style="margin:0;background:#f5f6f7;font-family:-apple-system,BlinkMacSystemFont,'Apple SD Gothic Neo','Malgun Gothic',sans-serif;">
 <div style="max-width:940px;margin:0 auto;padding:24px 16px 48px;">
   <div style="background:#202124;color:#fff;border-radius:12px;padding:20px 22px;">
-    <div style="font-size:21px;font-weight:800;">📊 {esc(TITLE)}</div>
-    <div style="font-size:13px;color:#c7c9cc;margin-top:4px;">대한민국 · Google Play &amp; App Store · 게임 Top 100</div>
+    <div style="font-size:21px;font-weight:800;">📊 {esc(TITLE)}{(' — ' + esc(platform)) if platform else ''}</div>
+    <div style="font-size:13px;color:#c7c9cc;margin-top:4px;">대한민국 · {esc(platform) if platform else 'Google Play &amp; App Store'} · 게임 Top 100</div>
     <div style="font-size:12px;color:#9aa0a6;margin-top:7px;">기준일 {date} &nbsp;|&nbsp; 집계 {esc(ct_kst)} (KST)</div>
   </div>
   {demo_banner}{legend}{tables}
@@ -336,15 +338,22 @@ def main():
         f.write(f'<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=daily/{date}.html">'
                 f'<a href="daily/{date}.html">{esc(TITLE)} {date}</a>')
 
-    email = page_html(date, ct_kst, demo, diffed, meta, reasons_by_id, demo_keys, demo_details, "email")
-    with open(os.path.join(OUT_DIR, f"email_{date}.html"), "w", encoding="utf-8") as f:
-        f.write(email)
+    # 이메일: 구글/애플 분리 발송
+    platforms = {
+        "google": (["google_popular", "google_grossing"], "Google Play"),
+        "apple": (["apple_popular", "apple_grossing"], "App Store"),
+    }
+    for pkey, (keys, label) in platforms.items():
+        em = page_html(date, ct_kst, demo, diffed, meta, reasons_by_id, demo_keys, demo_details, "email",
+                       chart_keys=keys, platform=label)
+        with open(os.path.join(OUT_DIR, f"email_{pkey}_{date}.html"), "w", encoding="utf-8") as f:
+            f.write(em)
 
-    # 미리보기 호환: 기존 샘플 경로도 갱신
+    # 미리보기 호환: 기존 샘플 경로도 갱신(통합 웹 버전)
     with open(os.path.join(REPORT_DIR, "sample_report.html"), "w", encoding="utf-8") as f:
         f.write(web)
 
-    print(f"생성: docs/daily/{date}.html, out/email_{date}.html (demo={demo}, verified={any_verified})")
+    print(f"생성: docs/daily/{date}.html, out/email_google_{date}.html, out/email_apple_{date}.html (demo={demo}, verified={any_verified})")
 
 
 if __name__ == "__main__":
