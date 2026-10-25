@@ -36,6 +36,8 @@ CHART_META = [
 ]
 CAT_COLORS = {"신규 오픈": "#188038", "컨텐츠 업데이트": "#1a73e8", "매출 이벤트": "#e8710a",
               "콜라보": "#6c3fd1", "시즌·패스": "#009688"}
+CAT_SHORT = {"신규 오픈": "신규", "컨텐츠 업데이트": "업데이트", "매출 이벤트": "이벤트",
+             "콜라보": "콜라보", "시즌·패스": "시즌", "기타": "기타"}
 
 # 데모용(API 키 없을 때 '확인' UX 시연). 운영에서는 research.mjs 결과가 우선.
 DEMO_REASONS = {
@@ -121,8 +123,8 @@ def badges(name):
 
 def cat_tag(category):
     c = CAT_COLORS.get(category, "#5f6368")
-    return (f'<span style="background:{c};color:#fff;font-size:10px;font-weight:700;'
-            f'padding:1px 7px;border-radius:10px;margin-right:6px;white-space:nowrap;">{esc(category)}</span>')
+    return (f'<span style="display:inline-block;vertical-align:middle;background:{c};color:#fff;font-size:10px;font-weight:700;'
+            f'padding:1px 7px;border-radius:10px;margin-right:5px;white-space:nowrap;">{esc(category)}</span>')
 
 
 def is_mover(row):
@@ -158,27 +160,27 @@ def bigo_cell(row, reasons_by_id, demo_keys, demo_details, date, mode):
     if category and category != "확인 필요":
         pieces.append(cat_tag(category))
     elif not verified:
-        pieces.append('<span style="background:#f1f3f4;color:#80868b;font-size:10px;font-weight:700;padding:1px 7px;border-radius:10px;">확인 필요</span>')
+        pieces.append('<span style="display:inline-block;vertical-align:middle;background:#f1f3f4;color:#80868b;font-size:10px;font-weight:700;padding:1px 7px;border-radius:10px;margin-right:5px;white-space:nowrap;">확인 필요</span>')
     if short:
-        pieces.append(f'<span style="color:#3c4043;">{esc(short)}</span>')
+        pieces.append(f'<span style="vertical-align:middle;color:#3c4043;">{esc(short)}</span>')
     elif not verified:
-        pieces.append('<span style="color:#9aa0a6;">원인 조사 중</span>')
+        pieces.append('<span style="vertical-align:middle;color:#9aa0a6;">원인 조사 중</span>')
 
     if verified and key is not None:
         if mode == "web":
-            btn = (f'<button onclick="openDetail(\'{esc(key)}\')" style="background:#e6f4ea;color:#188038;'
+            btn = (f'<button onclick="openDetail(\'{esc(key)}\')" style="display:inline-block;vertical-align:middle;margin-left:5px;background:#e6f4ea;color:#188038;'
                    f'border:1px solid #a8dab5;border-radius:12px;font-size:11px;font-weight:700;padding:2px 9px;cursor:pointer;white-space:nowrap;">확인 ▸</button>')
         else:  # email
             if PAGES_URL:
-                btn = (f'<a href="{PAGES_URL}/daily/{date}.html#g-{esc(key)}" style="background:#e6f4ea;color:#188038;'
+                btn = (f'<a href="{PAGES_URL}/daily/{date}.html#g-{esc(key)}" style="display:inline-block;vertical-align:middle;margin-left:5px;background:#e6f4ea;color:#188038;'
                        f'border:1px solid #a8dab5;border-radius:12px;font-size:11px;font-weight:700;padding:2px 9px;text-decoration:none;white-space:nowrap;">확인 ▸</a>')
             else:
-                btn = '<span style="color:#188038;font-weight:700;">확인</span>'
+                btn = '<span style="vertical-align:middle;margin-left:5px;color:#188038;font-weight:700;">확인</span>'
         pieces.append(btn)
     elif not verified:
-        pieces.append('<span style="background:#fce8e6;color:#c5221f;border:1px solid #f6aea9;border-radius:12px;font-size:11px;font-weight:700;padding:2px 9px;white-space:nowrap;">미확인</span>')
+        pieces.append('<span style="display:inline-block;vertical-align:middle;margin-left:5px;background:#fce8e6;color:#c5221f;border:1px solid #f6aea9;border-radius:12px;font-size:11px;font-weight:700;padding:2px 9px;white-space:nowrap;">미확인</span>')
 
-    return '<div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap;">' + "".join(pieces) + '</div>'
+    return '<div style="line-height:1.9;">' + "".join(pieces) + '</div>'
 
 
 def render_table(title, icon, rows, meta, reasons_by_id, demo_keys, demo_details, date, mode):
@@ -211,6 +213,39 @@ def render_table(title, icon, rows, meta, reasons_by_id, demo_keys, demo_details
             f'<table style="width:100%;min-width:680px;border-collapse:collapse;">{head}{"".join(trs)}</table></div>')
 
 
+def badge_pill(text, bg, fg, border=None, href=None):
+    style = (f'display:inline-block;vertical-align:middle;background:{bg};color:{fg};font-size:10px;'
+             f'font-weight:700;padding:1px 7px;border-radius:10px;margin-left:4px;white-space:nowrap;'
+             + (f'border:1px solid {border};' if border else ''))
+    if href:
+        return f'<a href="{href}" style="{style}text-decoration:none;">{esc(text)}</a>'
+    return f'<span style="{style}">{esc(text)}</span>'
+
+
+def bigo_parts(row, reasons_by_id, demo_keys, demo_details, date):
+    """모바일용: (게임명 옆 배지들, 하단 사유텍스트) 반환."""
+    if not is_mover(row) and row["id"] not in reasons_by_id and not any(n in row["name"] for n in demo_keys):
+        return "", ""
+    key, r = reason_for_row(row, reasons_by_id, demo_keys)
+    if r is None and key is not None:
+        d = demo_details[key]
+        verified, category, short = True, d["category"], d["short"]
+    elif r is not None:
+        verified, category, short = bool(r.get("verified")), r.get("category") or "확인 필요", r.get("short") or ""
+    else:
+        verified, category, short = False, "확인 필요", ""
+    b = ""
+    if category and category != "확인 필요":
+        b += badge_pill(CAT_SHORT.get(category, category), CAT_COLORS.get(category, "#5f6368"), "#fff")
+    if verified and key is not None:
+        href = f"{PAGES_URL}/daily/{date}.html#g-{esc(key)}" if PAGES_URL else None
+        b += badge_pill("확인", "#e6f4ea", "#188038", "#a8dab5", href=href)
+    elif not verified:
+        b += badge_pill("미확인", "#fce8e6", "#c5221f", "#f6aea9")
+    reason = esc(short) if short else ("원인 조사 중" if not verified else "")
+    return b, reason
+
+
 def render_chart_email(title, icon, rows, meta, reasons_by_id, demo_keys, demo_details, date):
     """이메일용 모바일 친화 레이아웃: 2열(순위/변동 | 게임·개발사·런칭일·비고 스택)."""
     trs = []
@@ -220,8 +255,9 @@ def render_chart_email(title, icon, rows, meta, reasons_by_id, demo_keys, demo_d
         fl = flag(m.get("country"))
         released = m.get("released") or "—"
         link = f'<a href="{esc(row["url"])}" target="_blank" style="color:#202124;text-decoration:none;word-break:keep-all;">{esc(row["name"])}</a>'
-        bigo = bigo_cell(row, reasons_by_id, demo_keys, demo_details, date, "email")
-        bigo_html = f'<div style="margin-top:5px;">{bigo}</div>' if bigo else ""
+        name_badges, reason_text = bigo_parts(row, reasons_by_id, demo_keys, demo_details, date)
+        reason_block = (f'<div style="font-size:11px;color:#5f6368;margin-top:4px;word-break:keep-all;line-height:1.5;">{reason_text}</div>'
+                        if reason_text else "")
         devline = f'{(fl + " ") if fl else ""}{esc(row["developer"])} <span style="color:#9aa0a6;">· {released}</span>'
         trs.append(
             f'<tr style="background:{bg};border-bottom:1px solid #eef0f1;">'
@@ -229,9 +265,9 @@ def render_chart_email(title, icon, rows, meta, reasons_by_id, demo_keys, demo_d
             f'<span style="color:#80868b;font-weight:700;font-size:14px;">{row["rank"]}</span><br>'
             f'<span style="font-size:12px;">{change_cell(row["change"])}</span></td>'
             f'<td valign="top" style="padding:10px 12px 10px 0;">'
-            f'<div style="font-size:14px;color:#202124;font-weight:600;word-break:keep-all;line-height:1.4;">{link}{badges(row["name"])}</div>'
+            f'<div style="font-size:14px;color:#202124;font-weight:600;word-break:keep-all;line-height:1.5;">{link}{badges(row["name"])}{name_badges}</div>'
             f'<div style="font-size:12px;color:#5f6368;margin-top:2px;word-break:keep-all;">{devline}</div>'
-            f'{bigo_html}</td></tr>'
+            f'{reason_block}</td></tr>'
         )
     return (f'<h2 style="font-size:17px;color:#202124;margin:28px 0 8px;">{icon} {esc(title)}</h2>'
             f'<table role="presentation" style="width:100%;border-collapse:collapse;border:1px solid #e8eaed;border-radius:8px;overflow:hidden;">{"".join(trs)}</table>')
@@ -305,11 +341,12 @@ def page_html(date, ct_kst, demo, diffed, meta, reasons_by_id, demo_keys, demo_d
     modal = modal_block(build_details(reasons_by_id, demo_details)) if mode == "web" else ""
     foot = ('데이터: Apple iTunes RSS · Google Play. 상승이유는 매출 NEW·상승폭 큰 게임을 웹검색으로 조사하고, '
             '기사가 없으면 스토어 업데이트 내역을 확인해 작성합니다. 이미지/영상은 스토어 CDN을 폭 제한으로 참조해 용량을 최소화합니다.')
+    maxw = 640 if mode == "email" else 940  # 이메일은 고정 폭 중앙정렬(PC·모바일 모두 자연스럽게)
     return f"""<!doctype html>
 <html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(TITLE)} — {date}</title></head>
 <body style="margin:0;background:#f5f6f7;font-family:-apple-system,BlinkMacSystemFont,'Apple SD Gothic Neo','Malgun Gothic',sans-serif;">
-<div style="max-width:940px;margin:0 auto;padding:24px 16px 48px;">
+<div style="max-width:{maxw}px;margin:0 auto;padding:24px 16px 48px;">
   <div style="background:#202124;color:#fff;border-radius:12px;padding:20px 22px;">
     <div style="font-size:21px;font-weight:800;">📊 {esc(TITLE)}{(' — ' + esc(platform)) if platform else ''}</div>
     <div style="font-size:13px;color:#c7c9cc;margin-top:4px;">대한민국 · {esc(platform) if platform else 'Google Play &amp; App Store'} · 게임 Top 100</div>
