@@ -2,7 +2,7 @@
   "329218549": {
     "released": "2011.11.02",
     "developer": "Chess.com",
-    "country": null,
+    "country": "US",
     "source": "apple"
   },
   "431946152": {
@@ -38,13 +38,13 @@
   "698255242": {
     "released": "2013.09.12",
     "developer": "RobTop Games AB",
-    "country": null,
+    "country": "SE",
     "source": "apple"
   },
   "848091833": {
     "released": "2014.07.03",
     "developer": "ponos corporation",
-    "country": null,
+    "country": "JP",
     "source": "apple"
   },
   "870442795": {
@@ -68,7 +68,7 @@
   "947258826": {
     "released": "2015.01.07",
     "developer": "TEAM42 CO., LTD.",
-    "country": null,
+    "country": "KR",
     "source": "apple"
   },
   "947742764": {
@@ -92,7 +92,7 @@
   "1036661603": {
     "released": "2016.01.20",
     "developer": "Forward Vision Corporation Limited",
-    "country": null,
+    "country": "HK",
     "source": "apple"
   },
   "1053012308": {
@@ -122,7 +122,7 @@
   "1128255542": {
     "released": "2017.06.20",
     "developer": "NC Corp.",
-    "country": null,
+    "country": "KR",
     "source": "apple"
   },
   "1133463693": {
@@ -134,13 +134,13 @@
   "1144557284": {
     "released": "2016.09.09",
     "developer": "AppteenPlanet Co.,Ltd.",
-    "country": null,
+    "country": "KR",
     "source": "apple"
   },
   "1160056295": {
     "released": "2016.11.11",
     "developer": "MOONTON",
-    "country": null,
+    "country": "SG",
     "source": "apple"
   },
   "1193508329": {
@@ -170,13 +170,13 @@
   "1344700142": {
     "released": "2020.03.11",
     "developer": "Mattel Game Studios HK Limited",
-    "country": null,
+    "country": "US",
     "source": "apple"
   },
   "1347671890": {
     "released": "2018.02.12",
     "developer": "Jongchan Yoon",
-    "country": null,
+    "country": "KR",
     "source": "apple"
   },
   "1347780764": {
@@ -206,7 +206,7 @@
   "1443446174": {
     "released": "2018.12.15",
     "developer": "Amanotes Pte. Ltd.",
-    "country": null,
+    "country": "SG",
     "source": "apple"
   },
   "1448979486": {
@@ -230,13 +230,13 @@
   "1471486284": {
     "released": "2019.08.25",
     "developer": "NHN Corp.",
-    "country": null,
+    "country": "KR",
     "source": "apple"
   },
   "1471942989": {
     "released": "2019.08.22",
     "developer": "NHN Corp.",
-    "country": null,
+    "country": "KR",
     "source": "apple"
   },
   "1473903308": {
@@ -248,7 +248,7 @@
   "1474589366": {
     "released": "2019.09.24",
     "developer": "NC Corp.",
-    "country": null,
+    "country": "KR",
     "source": "apple"
   },
   "1478371252": {
@@ -260,13 +260,13 @@
   "1480616748": {
     "released": "2020.03.18",
     "developer": "Riot Games",
-    "country": null,
+    "country": "US",
     "source": "apple"
   },
   "1480616990": {
     "released": "2020.10.27",
     "developer": "Riot Games",
-    "country": null,
+    "country": "US",
     "source": "apple"
   },
   "1482155847": {
@@ -320,19 +320,19 @@
   "1533248097": {
     "released": "2020.12.16",
     "developer": "Eureka Creation Limited",
-    "country": null,
+    "country": "HK",
     "source": "apple"
   },
   "1548882289": {
     "released": "2021.02.24",
     "developer": "Jongchan Yoon",
-    "country": null,
+    "country": "KR",
     "source": "apple"
   },
   "1558248707": {
     "released": "2021.10.06",
     "developer": "Gaggle Studios, Inc.",
-    "country": null,
+    "country": "US",
     "source": "apple"
   },
   "1580691683": {
@@ -344,25 +344,25 @@
   "1582390510": {
     "released": "2021.11.05",
     "developer": "NHN Corp.",
-    "country": null,
+    "country": "KR",
     "source": "apple"
   },
   "1585915174": {
     "released": "2022.11.02",
     "developer": "Level Infinite",
-    "country": null,
+    "country": "US",
     "source": "apple"
   },
   "1599719154": {
     "released": "2023.04.22",
     "developer": "COGNOSPHERE PTE. LTD.",
-    "country": null,
+    "country": "SG",
     "source": "apple"
   },
   "1606356401": {
     "released": "2024.07.02",
     "developer": "COGNOSPHERE PTE. LTD.",
-    "country": null,
+    "country": "SG",
     "source": "apple"
   },
   "1606549505": {
@@ -458,7 +458,7 @@
   "jp.co.applibot.chiikawapocketgl": {
     "released": "2025.03.17",
     "developer": "Applibot, Inc.",
-    "country": null,
+    "country": "JP",
     "source": "google"
   },
   "com.cyphergames.royalsmash": {
@@ -470,7 +470,7 @@
   "com.grandgames.magicsort": {
     "released": "2024.06.26",
     "developer": "Grand Games A.Ş.",
-    "country": null,
+    "country": "TR",
     "source": "google"
   },
   "com.block.juggle": {
@@ -530,13 +530,13 @@
   "com.mobibrain.championforge": {
     "released": "2026.10.11",
     "developer": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
-    "country": null,
+    "country": "SG",
     "source": "google"
   },
   "com.iyagames.flotshelter": {
     "released": "2026.08.31",
     "developer": "Hong Kong Just Game Technology Limited",
-    "country": null,
+    "country": "HK",
     "source": "google"
   },
   "com.soulgames.luna19": {
@@ -560,7 +560,7 @@
   "com.Chodun.CatGunner": {
     "released": "2026.04.12",
     "developer": "NEPTUNE(TREEPLLA)",
-    "country": null,
+    "country": "JP",
     "source": "google"
   },
   "com.mrtgd2kr.google": {
@@ -578,7 +578,7 @@
   "com.tg.ysczg.kr": {
     "released": "2026.10.07",
     "developer": "37 Mobile Games",
-    "country": null,
+    "country": "CN",
     "source": "google"
   },
   "sort.casual.color.cat.puzzle.match": {
@@ -626,7 +626,7 @@
   "com.mobirix.ldwm": {
     "released": "2024.11.17",
     "developer": "mobirix",
-    "country": null,
+    "country": "KR",
     "source": "google"
   },
   "com.phs.global": {
@@ -674,19 +674,19 @@
   "com.krd8.google": {
     "released": "2026.08.28",
     "developer": "Efun Company",
-    "country": null,
+    "country": "HK",
     "source": "google"
   },
   "com.hollywood.merge": {
     "released": "2026.05.07",
     "developer": "VoyagerOne IE",
-    "country": null,
+    "country": "IE",
     "source": "google"
   },
   "com.daerigame.scarecrow": {
     "released": "2026.10.19",
     "developer": "DAERI SOFT Inc",
-    "country": null,
+    "country": "KR",
     "source": "google"
   },
   "com.percent.aos.cooptd": {
@@ -746,7 +746,7 @@
   "com.slbcareer.app": {
     "released": "2026.10.10",
     "developer": "이번생 스튜디오",
-    "country": null,
+    "country": "KR",
     "source": "google"
   },
   "com.cola.game": {
@@ -770,7 +770,7 @@
   "com.davincinote.twomergesimul": {
     "released": "2025.11.04",
     "developer": "DaVinciNote",
-    "country": null,
+    "country": "KR",
     "source": "google"
   },
   "hidden.object.find.seek.search.mystery.puzzle.games.free": {
@@ -794,19 +794,19 @@
   "com.goods.sorting.games.triple.match3d.puzzle": {
     "released": "2024.02.28",
     "developer": "Joymaster Puzzle Game Studio",
-    "country": null,
+    "country": "CN",
     "source": "google"
   },
   "com.r3.zhzz1.kr": {
     "released": "2026.08.24",
     "developer": "Reality Squared Games",
-    "country": null,
+    "country": "US",
     "source": "google"
   },
   "com.superplaystudios.disneysolitairedreams": {
     "released": "2025.04.16",
     "developer": "SuperPlay.",
-    "country": null,
+    "country": "DK",
     "source": "google"
   },
   "com.QuestLab.DraftWar": {
@@ -818,19 +818,19 @@
   "com.ig.screwdom": {
     "released": "2024.12.18",
     "developer": "iKame Games - Zego Studio",
-    "country": null,
+    "country": "VN",
     "source": "google"
   },
   "com.flow.smashparty": {
     "released": "2026.08.14",
     "developer": "Flow Games A.S.",
-    "country": null,
+    "country": "CZ",
     "source": "google"
   },
   "com.abi.colony.flow": {
     "released": "2026.06.12",
     "developer": "ABI GAMES PTE. LTD.",
-    "country": null,
+    "country": "SG",
     "source": "google"
   },
   "io.supercent.bulldozermasters": {
@@ -842,7 +842,7 @@
   "com.slg.policewar": {
     "released": "2026.09.17",
     "developer": "VoyagerOne IE",
-    "country": null,
+    "country": "IE",
     "source": "google"
   },
   "com.nianticlabs.pokemongo": {
@@ -878,7 +878,7 @@
   "com.youmusic.magictiles": {
     "released": "2017.02.24",
     "developer": "AMANOTES PTE. LTD.",
-    "country": null,
+    "country": "SG",
     "source": "google"
   },
   "defense.roguelike.cell.shoot.survivor": {
@@ -896,7 +896,7 @@
   "com.grandgames.catblockjam": {
     "released": "2026.09.08",
     "developer": "Grand Games A.Ş.",
-    "country": null,
+    "country": "TR",
     "source": "google"
   },
   "com.clarkstudio.an.queen.colordoku": {
@@ -914,7 +914,7 @@
   "com.abi.foodpop": {
     "released": "2026.10.10",
     "developer": "ABI GAMES PTE. LTD.",
-    "country": null,
+    "country": "SG",
     "source": "google"
   },
   "com.playrix.township": {
@@ -926,7 +926,7 @@
   "com.robtopx.geometryjumplite": {
     "released": "2013.09.15",
     "developer": "RobTop Games",
-    "country": null,
+    "country": "SE",
     "source": "google"
   },
   "jigsolitaire.jigsort.jigsaw.solitaire.puzzle": {
@@ -938,7 +938,7 @@
   "jp.co.ponos.battlecatskr": {
     "released": "2014.06.26",
     "developer": "PONOS Corporation",
-    "country": null,
+    "country": "JP",
     "source": "google"
   },
   "color.number.paint.pixle.art.sort.jigsaw": {
@@ -950,7 +950,7 @@
   "com.starutopia.global": {
     "released": "2026.09.03",
     "developer": "EVISTA PTE. LTD.",
-    "country": null,
+    "country": "SG",
     "source": "google"
   },
   "word.games.puzzle.offline.games": {
@@ -968,7 +968,7 @@
   "jp.co.goodroid.hyper.puzzle.arrows3dcubepuzzle": {
     "released": "2026.03.13",
     "developer": "GOODROID,Inc.",
-    "country": null,
+    "country": "JP",
     "source": "google"
   },
   "com.metax.obby.escape.run": {
@@ -998,7 +998,7 @@
   "com.sled.surfers.game": {
     "released": "2025.10.16",
     "developer": "CrazyLabs LTD",
-    "country": null,
+    "country": "IL",
     "source": "google"
   },
   "com.tricky.brain.annoying.puzzle.prank.master": {
@@ -1016,7 +1016,7 @@
   "com.ncsoft.lineagem19": {
     "released": "2017.07.05",
     "developer": "NC Corporation",
-    "country": null,
+    "country": "KR",
     "source": "google"
   },
   "com.kurogame.wutheringwaves.global": {
@@ -1028,13 +1028,13 @@
   "com.HoYoverse.Nap": {
     "released": "2024.06.19",
     "developer": "COGNOSPHERE PTE. LTD.",
-    "country": null,
+    "country": "SG",
     "source": "google"
   },
   "com.fun.lastwar.gp": {
     "released": "2023.07.13",
     "developer": "FUNFLY PTE. LTD.",
-    "country": null,
+    "country": "SG",
     "source": "google"
   },
   "com.smilegate.eclipse.stove.google": {
@@ -1058,7 +1058,7 @@
   "com.nhnent.Qpoker": {
     "released": "2014.03.23",
     "developer": "NHN Corp.",
-    "country": null,
+    "country": "KR",
     "source": "google"
   },
   "com.rxjhglkr.gp": {
@@ -1070,7 +1070,7 @@
   "com.readygo.barrel.gp": {
     "released": "2024.12.26",
     "developer": "Omnilojo Pte Ltd",
-    "country": null,
+    "country": "SG",
     "source": "google"
   },
   "com.nexon.fmk": {
@@ -1082,7 +1082,7 @@
   "com.nhnent.pokerclassic": {
     "released": "2020.08.12",
     "developer": "NHN Corp.",
-    "country": null,
+    "country": "KR",
     "source": "google"
   },
   "com.hottagames.nte": {
@@ -1118,13 +1118,13 @@
   "com.ncsoft.lineagew": {
     "released": "2021.11.01",
     "developer": "NC Corporation",
-    "country": null,
+    "country": "KR",
     "source": "google"
   },
   "com.blizzard.wtcg.hearthstone": {
     "released": "2014.12.16",
     "developer": "Blizzard Entertainment, Inc.",
-    "country": null,
+    "country": "US",
     "source": "google"
   },
   "com.devsisters.cc": {
@@ -1148,7 +1148,7 @@
   "com.proximabeta.nikke": {
     "released": "2022.10.30",
     "developer": "Level Infinite",
-    "country": null,
+    "country": "US",
     "source": "google"
   },
   "com.YoStarKR.Arknights": {
@@ -1178,7 +1178,7 @@
   "com.farlightgames.pgame.gp": {
     "released": "2026.08.25",
     "developer": "FARLIGHT",
-    "country": null,
+    "country": "SG",
     "source": "google"
   },
   "com.kingsgroup.sos": {
@@ -1190,7 +1190,7 @@
   "com.ncsoft.lineage2m19": {
     "released": "2019.11.24",
     "developer": "NC Corporation",
-    "country": null,
+    "country": "KR",
     "source": "google"
   },
   "com.com2us.probaseball3d.normal.freefull.google.global.android.common": {
@@ -1214,7 +1214,7 @@
   "com.NHNEnt.MSudda": {
     "released": "2017.08.09",
     "developer": "NHN Corp.",
-    "country": null,
+    "country": "KR",
     "source": "google"
   },
   "com.playrix.homescapes": {
@@ -1268,7 +1268,7 @@
   "com.NHNEnt.NDuelgo": {
     "released": "2015.05.18",
     "developer": "NHN Corp.",
-    "country": null,
+    "country": "KR",
     "source": "google"
   },
   "com.webzen.muangel.google": {
@@ -1280,13 +1280,13 @@
   "com.HoYoverse.hkrpgoversea": {
     "released": "2023.04.06",
     "developer": "COGNOSPHERE PTE. LTD.",
-    "country": null,
+    "country": "SG",
     "source": "google"
   },
   "com.ProjectMoon.LimbusCompany": {
     "released": "2023.02.26",
     "developer": "Project Moon",
-    "country": null,
+    "country": "KR",
     "source": "google"
   },
   "com.fmkr.az": {
@@ -1364,13 +1364,13 @@
   "com.screenshake.dominodreams": {
     "released": "2023.01.10",
     "developer": "SuperPlay.",
-    "country": null,
+    "country": "DK",
     "source": "google"
   },
   "com.bhk.newslgkr": {
     "released": "2026.06.18",
     "developer": "BILIBILI",
-    "country": null,
+    "country": "CN",
     "source": "google"
   },
   "com.qjzj4399kr.google": {
@@ -1388,13 +1388,13 @@
   "com.riotgames.league.wildrift": {
     "released": "2020.10.27",
     "developer": "Riot Games, Inc",
-    "country": null,
+    "country": "US",
     "source": "google"
   },
   "com.fiveminlab.overgeared.hero.backpack.merge": {
     "released": "2026.05.25",
     "developer": "5minlab Corp.",
-    "country": null,
+    "country": "KR",
     "source": "google"
   },
   "com.fatr.global": {
@@ -1418,7 +1418,7 @@
   "game.qualiarts.hololive.dreams.com": {
     "released": "2026.07.09",
     "developer": "QualiArts, Inc.",
-    "country": null,
+    "country": "JP",
     "source": "google"
   },
   "6789467258": {
@@ -1430,19 +1430,19 @@
   "6780387121": {
     "released": "2026.09.01",
     "developer": "Hong Kong Just Game Technology Limited",
-    "country": null,
+    "country": "HK",
     "source": "apple"
   },
   "6740838442": {
     "released": "2025.03.25",
     "developer": "Applibot Inc.",
-    "country": null,
+    "country": "JP",
     "source": "apple"
   },
   "6767834940": {
     "released": "2026.06.01",
     "developer": "GAME SPARK PTE. LTD.",
-    "country": null,
+    "country": "SG",
     "source": "apple"
   },
   "6796890313": {
@@ -1454,7 +1454,7 @@
   "6752672568": {
     "released": "2026.03.30",
     "developer": "Grand Games A.Ş.",
-    "country": null,
+    "country": "TR",
     "source": "apple"
   },
   "6761760135": {
@@ -1478,7 +1478,7 @@
   "6791394610": {
     "released": "2026.10.01",
     "developer": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
-    "country": null,
+    "country": "SG",
     "source": "apple"
   },
   "6819516070": {
@@ -1490,13 +1490,13 @@
   "6769314786": {
     "released": "2026.05.14",
     "developer": "FUNFINITY PTE. LTD",
-    "country": null,
+    "country": "SG",
     "source": "apple"
   },
   "6499209744": {
     "released": "2024.06.26",
     "developer": "Grand Games A.Ş.",
-    "country": null,
+    "country": "TR",
     "source": "apple"
   },
   "6764201639": {
@@ -1514,7 +1514,7 @@
   "6754370732": {
     "released": "2026.01.21",
     "developer": "FTY LLC.",
-    "country": null,
+    "country": "US",
     "source": "apple"
   },
   "6443575749": {
@@ -1544,7 +1544,7 @@
   "6759763476": {
     "released": "2026.03.13",
     "developer": "GOODROID,Inc.",
-    "country": null,
+    "country": "JP",
     "source": "apple"
   },
   "6759081967": {
@@ -1598,7 +1598,7 @@
   "6760325543": {
     "released": "2026.03.13",
     "developer": "GOODROID,Inc.",
-    "country": null,
+    "country": "JP",
     "source": "apple"
   },
   "6503702666": {
@@ -1736,7 +1736,7 @@
   "6795797684": {
     "released": "2026.09.02",
     "developer": "MOBIRIX",
-    "country": null,
+    "country": "KR",
     "source": "apple"
   },
   "6762239563": {
@@ -1874,7 +1874,7 @@
   "6448786147": {
     "released": "2023.08.02",
     "developer": "FUNFLY PTE. LTD.",
-    "country": null,
+    "country": "SG",
     "source": "apple"
   },
   "6479595079": {
@@ -1946,7 +1946,7 @@
   "6443477650": {
     "released": "2023.01.28",
     "developer": "NHN Corp.",
-    "country": null,
+    "country": "KR",
     "source": "apple"
   },
   "6762442041": {
@@ -1958,7 +1958,7 @@
   "6503272652": {
     "released": "2025.05.05",
     "developer": "Omnilojo Pte Ltd",
-    "country": null,
+    "country": "SG",
     "source": "apple"
   },
   "6746151928": {
