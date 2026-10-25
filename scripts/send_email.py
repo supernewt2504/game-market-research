@@ -72,7 +72,8 @@ def main():
                 continue
             with open(path, encoding="utf-8") as f:
                 html = f.read()
-            subject = f'{CFG["subject_prefix"]} {date} {label} Top100 리포트'
+            tag = os.environ.get("SUBJECT_TAG", "").strip()
+            subject = f'{CFG["subject_prefix"]} {date} {label} Top100 리포트' + (f' {tag}' if tag else '')
             msg = MIMEText(html, "html", "utf-8")
             msg["Subject"] = str(Header(subject, "utf-8"))
             msg["From"] = formataddr((str(Header(f"게임시장조사 · {label}", "utf-8")), CFG["from"]))

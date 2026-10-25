@@ -3,7 +3,12 @@ name: daily-email
 on:
   schedule:
     - cron: "0 23 * * *"    # 23:00 UTC = 08:00 KST (다음날)
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "제목 뒤에 붙일 태그(스레드 분리/테스트용)"
+        required: false
+        default: ""
 
 jobs:
   send:
@@ -18,4 +23,5 @@ jobs:
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           MAIL_TO: ${{ vars.MAIL_TO }}
+          SUBJECT_TAG: ${{ inputs.tag }}
         run: python3 scripts/send_email.py
