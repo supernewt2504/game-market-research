@@ -1,0 +1,48 @@
+name: daily-collect
+# 매일 밤(한국시간 23:50) 순위 수집 → 변동 비교 → 상승이유 조사 → 리포트 생성 → 커밋
+on:
+  schedule:
+    - cron: "50 14 * * *"   # 14:50 UTC = 23:50 KST
+  workflow_dispatch: {}       # 수동 실행 버튼
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-collect
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: npm ci || npm install
+
+      - name: Collect / enrich / research / report
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PAGES_BASE_URL: ${{ vars.PAGES_BASE_URL }}
+        run: |
+          DATE=$(TZ=Asia/Seoul date +%F)
+          echo "기준일(KST): $DATE"
+          node scripts/collect.mjs
+          node scripts/enrich.mjs "$DATE"
+          node scripts/research.mjs "$DATE"
+          python3 scripts/generate_report.py "$DATE"
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data docs out
+          git commit -m "daily: $(TZ=Asia/Seoul date +%F)" || { echo "변경 없음"; exit 0; }
+          git push

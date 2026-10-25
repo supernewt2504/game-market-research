@@ -1,0 +1,21 @@
+name: daily-email
+# 다음날 아침(한국시간 08:00) 전날 리포트를 메일로 발송
+on:
+  schedule:
+    - cron: "0 23 * * *"    # 23:00 UTC = 08:00 KST (다음날)
+  workflow_dispatch: {}
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Send report email
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_TO: ${{ vars.MAIL_TO }}
+        run: python3 scripts/send_email.py

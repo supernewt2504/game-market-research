@@ -1,0 +1,28 @@
+{
+  "country": "kr",
+  "lang": "ko",
+  "charts": ["google_popular", "google_grossing", "apple_popular", "apple_grossing"],
+
+  "research": {
+    "enabled": true,
+    "model": "claude-haiku-5-5",
+    "max_research_per_day": 15,
+    "rise_threshold": 5,
+    "include_popular_charts": true,
+    "reason_cache_ttl_days": 7,
+    "web_search_max_uses": 3
+  },
+
+  "report": {
+    "title": "게임 시장 일일 리포트",
+    "pages_base_url": ""
+  },
+
+  "email": {
+    "from": "service@supernewt.co.kr",
+    "to": ["dragonewt@supernewt.co.kr"],
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 587,
+    "subject_prefix": "[게임시장조사]"
+  }
+}
