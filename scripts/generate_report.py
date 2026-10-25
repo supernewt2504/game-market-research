@@ -134,6 +134,33 @@ def change_cell(ch):
     return '<span style="color:#9aa0a6;">—</span>'
 
 
+EMAIL_CSS = """<style>
+.ct{width:100%;border-collapse:collapse;border:1px solid #e8eaed;border-radius:8px;overflow:hidden}
+.ct td{border-bottom:1px solid #eef0f1}
+.rk{padding:10px 6px 10px 8px;width:54px;white-space:nowrap;text-align:center;vertical-align:top}
+.rk .n{color:#80868b;font-weight:700;font-size:14px}
+.rk .c{font-size:12px;display:inline-block;margin-top:2px}
+.dt{padding:10px 12px 10px 0;vertical-align:top}
+.nm{font-size:14px;color:#202124;font-weight:600;word-break:keep-all;line-height:1.5}
+.nm a{color:#202124;text-decoration:none}
+.dv{font-size:12px;color:#5f6368;margin-top:2px;word-break:keep-all}
+.rs{font-size:11px;color:#5f6368;margin-top:4px;word-break:keep-all;line-height:1.5}
+.up{color:#d93025;font-weight:700}.dn{color:#1a73e8;font-weight:700}.sm0{color:#9aa0a6}
+.nw{background:#d93025;color:#fff;font-size:11px;font-weight:700;padding:2px 6px;border-radius:4px}
+</style>"""
+
+
+def change_cls(ch):
+    t = ch["type"]
+    if t == "up":
+        return f'<span class="up">▲ {ch["delta"]}</span>'
+    if t == "down":
+        return f'<span class="dn">▼ {ch["delta"]}</span>'
+    if t == "new":
+        return '<span class="nw">NEW</span>'
+    return '<span class="sm0">—</span>'
+
+
 def badges(name):
     if any(f in name for f in FEATURED_DEMO):
         return '<span style="background:#6c3fd1;color:#fff;font-size:10px;font-weight:700;padding:1px 6px;border-radius:4px;margin-left:6px;">피쳐드</span>'
@@ -268,27 +295,20 @@ def render_chart_email(title, icon, rows, meta, reasons_by_id, demo_keys, demo_d
     """이메일용 모바일 친화 레이아웃: 2열(순위/변동 | 게임·개발사·런칭일·비고 스택)."""
     trs = []
     for row in rows:
-        bg = "#fff" if row["rank"] % 2 else "#fafafa"
         m = meta.get(row["id"], {})
         fl = flag(m.get("country"))
         released = m.get("released") or "—"
-        link = f'<a href="{esc(row["url"])}" target="_blank" style="color:#202124;text-decoration:none;word-break:keep-all;">{esc(row["name"])}</a>'
+        link = f'<a href="{esc(row["url"])}">{esc(row["name"])}</a>'
         name_badges, reason_text = bigo_parts(row, reasons_by_id, demo_keys, demo_details, date)
-        reason_block = (f'<div style="font-size:11px;color:#5f6368;margin-top:4px;word-break:keep-all;line-height:1.5;">{reason_text}</div>'
-                        if reason_text else "")
-        devline = f'{(fl + " ") if fl else ""}{esc(row["developer"])} <span style="color:#9aa0a6;">· {released}</span>'
+        reason_block = f'<div class="rs">{reason_text}</div>' if reason_text else ""
+        devline = f'{(fl + " ") if fl else ""}{esc(row["developer"])} · {released}'
         trs.append(
-            f'<tr style="background:{bg};border-bottom:1px solid #eef0f1;">'
-            f'<td valign="top" align="center" style="padding:10px 6px 10px 8px;width:54px;white-space:nowrap;text-align:center;">'
-            f'<span style="color:#80868b;font-weight:700;font-size:14px;">{row["rank"]}</span><br>'
-            f'<span style="font-size:12px;display:inline-block;margin-top:2px;">{change_cell(row["change"])}</span></td>'
-            f'<td valign="top" style="padding:10px 12px 10px 0;">'
-            f'<div style="font-size:14px;color:#202124;font-weight:600;word-break:keep-all;line-height:1.5;">{link}{badges(row["name"])}{name_badges}</div>'
-            f'<div style="font-size:12px;color:#5f6368;margin-top:2px;word-break:keep-all;">{devline}</div>'
-            f'{reason_block}</td></tr>'
+            f'<tr><td class="rk"><span class="n">{row["rank"]}</span><br><span class="c">{change_cls(row["change"])}</span></td>'
+            f'<td class="dt"><div class="nm">{link}{badges(row["name"])}{name_badges}</div>'
+            f'<div class="dv">{devline}</div>{reason_block}</td></tr>'
         )
     return (f'<h2 style="font-size:17px;color:#202124;margin:28px 0 8px;">{icon} {esc(title)}</h2>'
-            f'<table role="presentation" style="width:100%;border-collapse:collapse;border:1px solid #e8eaed;border-radius:8px;overflow:hidden;">{"".join(trs)}</table>')
+            f'<table class="ct" role="presentation">{"".join(trs)}</table>')
 
 
 def build_details(reasons_by_id, demo_details):
@@ -360,9 +380,10 @@ def page_html(date, ct_kst, demo, diffed, meta, reasons_by_id, demo_keys, demo_d
     foot = ('데이터: Apple iTunes RSS · Google Play. 상승이유는 매출 NEW·상승폭 큰 게임을 웹검색으로 조사하고, '
             '기사가 없으면 스토어 업데이트 내역을 확인해 작성합니다. 이미지/영상은 스토어 CDN을 폭 제한으로 참조해 용량을 최소화합니다.')
     maxw = 640 if mode == "email" else 940  # 이메일은 고정 폭 중앙정렬(PC·모바일 모두 자연스럽게)
+    email_css = EMAIL_CSS if mode == "email" else ""
     return f"""<!doctype html>
 <html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{esc(TITLE)} — {date}</title></head>
+<title>{esc(TITLE)} — {date}</title>{email_css}</head>
 <body style="margin:0;background:#f5f6f7;font-family:-apple-system,BlinkMacSystemFont,'Apple SD Gothic Neo','Malgun Gothic',sans-serif;">
 <div style="max-width:{maxw}px;margin:0 auto;padding:24px 16px 48px;">
   <div style="background:#202124;color:#fff;border-radius:12px;padding:20px 22px;">
