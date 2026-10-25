@@ -62,7 +62,7 @@
   "898986747": {
     "released": "2014.07.30",
     "developer": "AWESOMEPIECE",
-    "country": null,
+    "country": "KR",
     "source": "apple"
   },
   "947258826": {
@@ -1262,7 +1262,7 @@
   "com.kr.firegp": {
     "released": "2025.01.10",
     "developer": "Leniu Technology Co., Limited",
-    "country": null,
+    "country": "HK",
     "source": "google"
   },
   "com.NHNEnt.NDuelgo": {
@@ -1634,7 +1634,7 @@
   "6737874398": {
     "released": "2024.11.08",
     "developer": "Wind's Choice Tech Limited",
-    "country": null,
+    "country": "HK",
     "source": "apple"
   },
   "6740043080": {
@@ -1778,7 +1778,7 @@
   "6819031624": {
     "released": "2026.10.08",
     "developer": "HANNA KWON",
-    "country": null,
+    "country": "KR",
     "source": "apple"
   },
   "6689516366": {
@@ -2008,5 +2008,161 @@
     "developer": "Netmarble Corporation",
     "country": "KR",
     "source": "apple"
+  },
+  "com.eonku.myfootballhero": {
+    "released": "2026.10.03",
+    "developer": "Onullan",
+    "country": null,
+    "source": "google"
+  },
+  "com.loadcomplete.welldiver": {
+    "released": "2026.10.14",
+    "developer": "LoadComplete",
+    "country": null,
+    "source": "google"
+  },
+  "net.gameduo.gv": {
+    "released": "2023.10.09",
+    "developer": "Gameduo",
+    "country": "KR",
+    "source": "google"
+  },
+  "com.Nanali.ArrowsAndCats": {
+    "released": "2026.08.24",
+    "developer": "Nanali Studios",
+    "country": null,
+    "source": "google"
+  },
+  "com.byabyak.soda": {
+    "released": "2026.09.28",
+    "developer": "Byabyak Games",
+    "country": null,
+    "source": "google"
+  },
+  "com.red.sortingstore.android": {
+    "released": "2025.08.04",
+    "developer": "Youyoutang Technology",
+    "country": "CN",
+    "source": "google"
+  },
+  "beats.color.sing.star.rush": {
+    "released": "2025.06.14",
+    "developer": "Beatwave Studio",
+    "country": null,
+    "source": "google"
+  },
+  "io.voodoo.holeio": {
+    "released": "2018.06.21",
+    "developer": "VOODOO",
+    "country": "FR",
+    "source": "google"
+  },
+  "com.brain.puzzle.tricky.test.annoying.quest": {
+    "released": "2025.08.20",
+    "developer": "SLEEK CHARM LIMITED",
+    "country": "HK",
+    "source": "google"
+  },
+  "com.bunbunstudio.magicblocktiles": {
+    "released": "2023.10.12",
+    "developer": "Melodya Muses",
+    "country": null,
+    "source": "google"
+  },
+  "com.warrior.screw.gp": {
+    "released": "2025.08.24",
+    "developer": "Warrior Puzzle Game Studio",
+    "country": null,
+    "source": "google"
+  },
+  "com.liteorange.hometopia": {
+    "released": "2026.04.06",
+    "developer": "Tuyoo Games (HK) Limited",
+    "country": "CN",
+    "source": "google"
+  },
+  "com.roomperfect.global": {
+    "released": "2026.05.09",
+    "developer": "Century Games Innovation Pte. Ltd.",
+    "country": "CN",
+    "source": "google"
+  },
+  "com.kayac.slow_mo_strike": {
+    "released": "2026.05.14",
+    "developer": "KAYAC Inc.",
+    "country": "JP",
+    "source": "google"
+  },
+  "com.kayac.NeonFill": {
+    "released": "2026.06.15",
+    "developer": "KAYAC Inc.",
+    "country": "JP",
+    "source": "google"
+  },
+  "com.vcgames.bus.master.traffic.jam": {
+    "released": "2026.06.07",
+    "developer": "Amobear Game Global",
+    "country": "SG",
+    "source": "google"
+  },
+  "com.agavegames.findthecat2": {
+    "released": "2026.01.30",
+    "developer": "Agave Games",
+    "country": null,
+    "source": "google"
+  },
+  "com.gryphline.endfield.gp": {
+    "released": "2026.01.10",
+    "developer": "GRYPHLINE",
+    "country": "CN",
+    "source": "google"
+  },
+  "com.com2us.smon.normal.freefull.google.kr.android.common": {
+    "released": "2014.04.17",
+    "developer": "Com2uS",
+    "country": "KR",
+    "source": "google"
+  },
+  "com.gear2.growslayer": {
+    "released": "2021.05.16",
+    "developer": "GEAR2",
+    "country": null,
+    "source": "google"
+  },
+  "com.nexon.bluearchive": {
+    "released": "2021.11.05",
+    "developer": "NEXON Company",
+    "country": "KR",
+    "source": "google"
+  },
+  "com.ncsoft.aion2": {
+    "released": "2025.11.06",
+    "developer": "NC Corporation",
+    "country": "KR",
+    "source": "google"
+  },
+  "com.readygo.dark.gp": {
+    "released": "2024.09.19",
+    "developer": "Omnilojo Pte Ltd",
+    "country": "SG",
+    "source": "google"
+  },
+  "com.miHoYo.GenshinImpact": {
+    "released": "2020.09.26",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "country": "SG",
+    "source": "google"
+  },
+  "com.zempot.wplpoker": {
+    "released": "2020.12.07",
+    "developer": "Zempot INC.",
+    "country": null,
+    "source": "google"
+  },
+  "com.merge.cooking.theme.restaurant.food": {
+    "released": "2022.11.24",
+    "developer": "Happibits Game",
+    "country": null,
+    "source": "google"
   }
 }
