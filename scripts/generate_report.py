@@ -211,6 +211,32 @@ def render_table(title, icon, rows, meta, reasons_by_id, demo_keys, demo_details
             f'<table style="width:100%;min-width:680px;border-collapse:collapse;">{head}{"".join(trs)}</table></div>')
 
 
+def render_chart_email(title, icon, rows, meta, reasons_by_id, demo_keys, demo_details, date):
+    """이메일용 모바일 친화 레이아웃: 2열(순위/변동 | 게임·개발사·런칭일·비고 스택)."""
+    trs = []
+    for row in rows:
+        bg = "#fff" if row["rank"] % 2 else "#fafafa"
+        m = meta.get(row["id"], {})
+        fl = flag(m.get("country"))
+        released = m.get("released") or "—"
+        link = f'<a href="{esc(row["url"])}" target="_blank" style="color:#202124;text-decoration:none;word-break:keep-all;">{esc(row["name"])}</a>'
+        bigo = bigo_cell(row, reasons_by_id, demo_keys, demo_details, date, "email")
+        bigo_html = f'<div style="margin-top:5px;">{bigo}</div>' if bigo else ""
+        devline = f'{(fl + " ") if fl else ""}{esc(row["developer"])} <span style="color:#9aa0a6;">· {released}</span>'
+        trs.append(
+            f'<tr style="background:{bg};border-bottom:1px solid #eef0f1;">'
+            f'<td valign="top" style="padding:10px 6px 10px 12px;width:46px;white-space:nowrap;">'
+            f'<span style="color:#80868b;font-weight:700;font-size:14px;">{row["rank"]}</span><br>'
+            f'<span style="font-size:12px;">{change_cell(row["change"])}</span></td>'
+            f'<td valign="top" style="padding:10px 12px 10px 0;">'
+            f'<div style="font-size:14px;color:#202124;font-weight:600;word-break:keep-all;line-height:1.4;">{link}{badges(row["name"])}</div>'
+            f'<div style="font-size:12px;color:#5f6368;margin-top:2px;word-break:keep-all;">{devline}</div>'
+            f'{bigo_html}</td></tr>'
+        )
+    return (f'<h2 style="font-size:17px;color:#202124;margin:28px 0 8px;">{icon} {esc(title)}</h2>'
+            f'<table role="presentation" style="width:100%;border-collapse:collapse;border:1px solid #e8eaed;border-radius:8px;overflow:hidden;">{"".join(trs)}</table>')
+
+
 def build_details(reasons_by_id, demo_details):
     """verified 상세(모달용). id 기준 + 데모 key 기준 병합."""
     details = {}
@@ -271,8 +297,11 @@ def page_html(date, ct_kst, demo, diffed, meta, reasons_by_id, demo_keys, demo_d
               '<span style="color:#c5221f;font-weight:700;">미확인</span> 조사중</div>')
     demo_banner = ('<div style="background:#fef7e0;border:1px solid #feefc3;color:#7a5900;padding:9px 13px;border-radius:8px;margin:14px 0;font-size:12px;">'
                    '⚠️ 샘플: 전일 데이터가 없어 변동(▲▼·NEW)은 시연용입니다. 내일부터 실제 전일 비교가 적용됩니다.</div>' if demo else "")
-    tables = "".join(render_table(t, i, diffed[k], meta, reasons_by_id, demo_keys, demo_details, date, mode)
-                     for k, t, i in CHART_META if chart_keys is None or k in chart_keys)
+    keys = [(k, t, i) for k, t, i in CHART_META if chart_keys is None or k in chart_keys]
+    if mode == "email":
+        tables = "".join(render_chart_email(t, i, diffed[k], meta, reasons_by_id, demo_keys, demo_details, date) for k, t, i in keys)
+    else:
+        tables = "".join(render_table(t, i, diffed[k], meta, reasons_by_id, demo_keys, demo_details, date, mode) for k, t, i in keys)
     modal = modal_block(build_details(reasons_by_id, demo_details)) if mode == "web" else ""
     foot = ('데이터: Apple iTunes RSS · Google Play. 상승이유는 매출 NEW·상승폭 큰 게임을 웹검색으로 조사하고, '
             '기사가 없으면 스토어 업데이트 내역을 확인해 작성합니다. 이미지/영상은 스토어 CDN을 폭 제한으로 참조해 용량을 최소화합니다.')
