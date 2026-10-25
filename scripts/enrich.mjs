@@ -61,6 +61,9 @@ function addrCountry(addr) {
   for (const [k, c] of ADDR_COUNTRY) if (a.includes(k)) return c;
   return null;
 }
+function sizedIcon(url, w = 48) {
+  return (url && url.includes('googleusercontent.com')) ? url.replace(/=.*$/, '') + `=w${w}` : url;
+}
 function normDate(s) {
   if (!s) return null;
   // ISO (Apple)
@@ -91,9 +94,8 @@ async function pool(items, size, worker) {
   return out;
 }
 
-async function appleLookup(ids) {
-  // 최대 100개씩 묶어 조회
-  const metas = {};
+async function appleLookup(ids, meta) {
+  // 최대 80개씩 묶어 조회. 기존 국적은 보존하고 아이콘만 채움.
   for (let i = 0; i < ids.length; i += 80) {
     const batch = ids.slice(i, i + 80);
     const url = `https://itunes.apple.com/lookup?id=${batch.join(',')}&country=kr`;
@@ -101,16 +103,18 @@ async function appleLookup(ids) {
       const res = await fetch(url);
       const data = await res.json();
       for (const r of data.results || []) {
-        metas[String(r.trackId)] = {
-          released: normDate(r.releaseDate),
-          developer: r.artistName,
-          country: seedCountry(r.artistName),
+        const id = String(r.trackId);
+        const prev = meta[id] || {};
+        meta[id] = {
+          released: prev.released || normDate(r.releaseDate),
+          developer: r.artistName || prev.developer,
+          country: prev.country || seedCountry(r.artistName),
+          icon: r.artworkUrl100 || r.artworkUrl60 || prev.icon,
           source: 'apple',
         };
       }
     } catch (e) { /* skip */ }
   }
-  return metas;
 }
 
 async function main() {
@@ -127,23 +131,25 @@ async function main() {
       if (isApple) appleIds.add(it.id); else googleIds.add(it.id);
     }
   }
-  // 미캐시만 조회
-  const needGoogle = [...googleIds].filter((id) => !meta[id]);
-  const needApple = [...appleIds].filter((id) => !meta[id]);
-  console.log(`캐시됨 ${Object.keys(meta).length} | 신규 Google ${needGoogle.length} / Apple ${needApple.length}`);
+  // 미캐시 또는 아이콘 없는 항목만 조회
+  const needGoogle = [...googleIds].filter((id) => !meta[id] || !meta[id].icon);
+  const needApple = [...appleIds].filter((id) => !meta[id] || !meta[id].icon);
+  console.log(`캐시됨 ${Object.keys(meta).length} | 보강대상 Google ${needGoogle.length} / Apple ${needApple.length}`);
 
-  // Google: app() 병렬(동시 8)
+  // Google: app() 병렬(동시 8). 기존 국적 보존, 아이콘 추가.
   await pool(needGoogle, 8, async (id) => {
     const a = await g.app({ appId: id, country: 'kr', lang: 'ko' });
+    const prev = meta[id] || {};
     meta[id] = {
-      released: normDate(a.released),
-      developer: a.developer,
-      country: seedCountry(a.developer) || addrCountry(a.developerAddress),
+      released: prev.released || normDate(a.released),
+      developer: a.developer || prev.developer,
+      country: prev.country || seedCountry(a.developer) || addrCountry(a.developerAddress),
+      icon: sizedIcon(a.icon, 48),
       source: 'google',
     };
   });
   // Apple: lookup 배치
-  if (needApple.length) Object.assign(meta, await appleLookup(needApple));
+  if (needApple.length) await appleLookup(needApple, meta);
 
   mkdirSync(DATA, { recursive: true });
   writeFileSync(metaPath, JSON.stringify(meta, null, 2), 'utf-8');

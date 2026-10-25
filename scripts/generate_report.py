@@ -27,6 +27,7 @@ CFG = json.load(open(os.path.join(ROOT, "config.json"), encoding="utf-8"))
 RISE = CFG["research"]["rise_threshold"]
 PAGES_URL = (os.environ.get("PAGES_BASE_URL") or CFG["report"].get("pages_base_url") or "").rstrip("/")
 TITLE = CFG["report"]["title"]
+SHOW_ICONS = bool(CFG["report"].get("show_icons", True))
 
 CHART_META = [
     ("google_popular", "Google Play · 인기(무료)순위", "🟢"),
@@ -143,6 +144,7 @@ EMAIL_CSS = """<style>
 .dt{padding:10px 12px 10px 0;vertical-align:top}
 .nm{font-size:14px;color:#202124;font-weight:600;word-break:keep-all;line-height:1.5}
 .nm a{color:#202124;text-decoration:none}
+.ic{width:22px;height:22px;border-radius:6px;vertical-align:middle;margin-right:6px}
 .dv{font-size:12px;color:#5f6368;margin-top:2px;word-break:keep-all}
 .rs{font-size:11px;color:#5f6368;margin-top:4px;word-break:keep-all;line-height:1.5}
 .up{color:#d93025;font-weight:700}.dn{color:#1a73e8;font-weight:700}.sm0{color:#9aa0a6}
@@ -244,11 +246,13 @@ def render_table(title, icon, rows, meta, reasons_by_id, demo_keys, demo_details
         fl = flag(m.get("country"))
         fl_sp = (fl + " ") if fl else ""
         released = m.get("released") or "<span style='color:#c0c3c7;'>—</span>"
+        icon_url = m.get("icon")
+        icon_img = f'<img src="{esc(icon_url)}" width="20" height="20" style="border-radius:5px;vertical-align:middle;margin-right:6px;" alt="">' if (SHOW_ICONS and icon_url) else ""
         trs.append(
             f'<tr style="background:{bg};border-bottom:1px solid #f1f3f4;font-size:13px;">'
             f'<td style="padding:7px 10px;color:#80868b;font-weight:700;">{row["rank"]}</td>'
             f'<td style="padding:7px 10px;">{change_cell(row["change"])}</td>'
-            f'<td style="padding:7px 10px;color:#202124;">{link}{badges(row["name"])}</td>'
+            f'<td style="padding:7px 10px;color:#202124;">{icon_img}{link}{badges(row["name"])}</td>'
             f'<td style="padding:7px 10px;color:#5f6368;">{fl_sp}{esc(row["developer"])}</td>'
             f'<td style="padding:7px 10px;color:#5f6368;font-size:12px;white-space:nowrap;">{released}</td>'
             f'<td style="padding:7px 10px;font-size:12px;">{bigo_cell(row, reasons_by_id, demo_keys, demo_details, date, mode)}</td>'
@@ -299,6 +303,7 @@ def render_chart_email(title, icon, rows, meta, reasons_by_id, demo_keys, demo_d
         fl = flag(m.get("country"))
         released = m.get("released") or "—"
         link = f'<a href="{esc(row["url"])}">{esc(row["name"])}</a>'
+        # 이메일은 용량(Gmail 102KB) 때문에 아이콘 미포함 — 아이콘은 웹 리포트에만 표시
         name_badges, reason_text = bigo_parts(row, reasons_by_id, demo_keys, demo_details, date)
         reason_block = f'<div class="rs">{reason_text}</div>' if reason_text else ""
         devline = f'{(fl + " ") if fl else ""}{esc(row["developer"])} · {released}'

@@ -15,7 +15,8 @@
 
   "report": {
     "title": "게임 시장 일일 리포트",
-    "pages_base_url": ""
+    "pages_base_url": "",
+    "show_icons": true
   },
 
   "email": {
