@@ -42,11 +42,12 @@ async function ask(system, userText, useWeb, maxTokens = 1500) {
          user_location: { type: 'approximate', country: 'KR' } }]
     : undefined;
   const messages = [{ role: 'user', content: userText }];
-  let msg = await client.messages.create({ model: MODEL, max_tokens: maxTokens, system, messages, ...(tools ? { tools } : {}) });
+  const base = { model: MODEL, max_tokens: maxTokens, system, output_config: { effort: 'low' } };
+  let msg = await client.messages.create({ ...base, messages, ...(tools ? { tools } : {}) });
   let guard = 0;
-  while (msg.stop_reason === 'pause_turn' && guard++ < 2) {
+  while (msg.stop_reason === 'pause_turn' && guard++ < 3) {
     messages.push({ role: 'assistant', content: msg.content });
-    msg = await client.messages.create({ model: MODEL, max_tokens: maxTokens, system, messages, ...(tools ? { tools } : {}) });
+    msg = await client.messages.create({ ...base, messages, ...(tools ? { tools } : {}) });
   }
   return finalText(msg);
 }
@@ -140,7 +141,8 @@ async function researchMover(m) {
   const system = '너는 한국 모바일 게임 시장 분석가다. 주어진 게임의 순위 상승/신규진입 원인을 조사한다. '
     + '먼저 web_search로 최신 한국어 기사를 찾고, 기사가 있으면 verified=true로 요약+링크를 담는다. '
     + '기사를 못 찾으면 제공된 스토어 업데이트 내역(recentChanges)을 근거로 판단하되 verified=false로 둔다. '
-    + '추측만으로 verified=true를 주지 마라. 반드시 아래 JSON 하나만 출력.';
+    + '추측만으로 verified=true를 주지 마라. '
+    + '매우 중요: 검색이 끝나면 설명 문장을 쓰지 말고, 오직 JSON 객체 하나만 출력한다(마크다운 코드펜스도 금지).';
   const schema = `{"verified": true/false,
  "category": "신규 오픈|컨텐츠 업데이트|매출 이벤트|콜라보|시즌·패스|기타 중 하나",
  "short": "비고란에 넣을 한 줄 요약(40자 이내)",
@@ -148,9 +150,9 @@ async function researchMover(m) {
  "articles": [{"title":"기사 제목","url":"https URL"}]}`;
   const prompt = `게임: ${m.name}\n개발사: ${m.developer}\n차트: ${chartLabel}\n변동: ${changeLabel} (현재 ${m.rank}위)\n`
     + (md.recentChanges ? `스토어 최근 업데이트 내역:\n${md.recentChanges.slice(0, 600)}\n` : '')
-    + `\n위 게임의 순위 상승 원인을 조사해 아래 형식의 JSON만 출력해줘:\n${schema}`;
+    + `\n위 게임의 순위 상승 원인을 조사해 아래 형식의 JSON 객체만 출력(앞뒤 설명·코드펜스 금지):\n${schema}`;
   let r;
-  try { r = extractJson(await ask(system, prompt, true)); } catch { r = null; }
+  try { r = extractJson(await ask(system, prompt, true, 4000)); } catch { r = null; }
   if (!r) r = { verified: false, category: '확인 필요', short: '', summary: '', articles: [] };
   r.articles = Array.isArray(r.articles) ? r.articles.filter((a) => a && a.url && /^https?:/.test(a.url)) : [];
   return { ...r, ...md };
