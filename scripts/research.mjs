@@ -36,17 +36,17 @@ function finalText(msg) {
 }
 
 // web_search 포함 요청(pause_turn 1회 이어받기)
-async function ask(system, userText, useWeb) {
+async function ask(system, userText, useWeb, maxTokens = 1500) {
   const tools = useWeb
     ? [{ type: 'web_search_20250305', name: 'web_search', max_uses: cfg.research.web_search_max_uses,
          user_location: { type: 'approximate', country: 'KR' } }]
     : undefined;
   const messages = [{ role: 'user', content: userText }];
-  let msg = await client.messages.create({ model: MODEL, max_tokens: 1500, system, messages, ...(tools ? { tools } : {}) });
+  let msg = await client.messages.create({ model: MODEL, max_tokens: maxTokens, system, messages, ...(tools ? { tools } : {}) });
   let guard = 0;
   while (msg.stop_reason === 'pause_turn' && guard++ < 2) {
     messages.push({ role: 'assistant', content: msg.content });
-    msg = await client.messages.create({ model: MODEL, max_tokens: 1500, system, messages, ...(tools ? { tools } : {}) });
+    msg = await client.messages.create({ model: MODEL, max_tokens: maxTokens, system, messages, ...(tools ? { tools } : {}) });
   }
   return finalText(msg);
 }
@@ -74,21 +74,33 @@ async function media(name, googleId) {
 }
 
 // ---------- 1) 개발사 국적 보완 ----------
+const normDev = (s) => (s || '').toLowerCase().replace(/\s+/g, ' ').trim();
+
 async function resolveCountries(meta) {
   if (!HAS_KEY) return 0;
   const unknownDevs = [...new Set(
     Object.values(meta).filter((m) => m && m.developer && !m.country).map((m) => m.developer)
   )];
   if (!unknownDevs.length) return 0;
-  // 한 번에 질의(웹검색 없음)
-  const system = '너는 모바일 게임 퍼블리셔 국적 분류기다. 각 회사의 본사 국가를 ISO 3166-1 alpha-2 코드로 판단한다. 모르면 null. 반드시 JSON만 출력.';
-  const prompt = `다음 게임 개발사/퍼블리셔 각각의 본사 국가코드를 알려줘.\n출력 형식(JSON): {"회사명":"KR", ...}\n회사 목록:\n${unknownDevs.map((d) => `- ${d}`).join('\n')}`;
-  let map = {};
-  try { map = extractJson(await ask(system, prompt, false)) || {}; } catch { map = {}; }
+  const system = '너는 모바일 게임 퍼블리셔 국적 분류기다. 각 회사의 본사 국가를 ISO 3166-1 alpha-2 코드로 판단한다. 모르면 "??". 반드시 JSON 객체만 출력.';
+  const resolved = {};  // normDev(name) -> code
+  const CHUNK = 40;
+  for (let i = 0; i < unknownDevs.length; i += CHUNK) {
+    const chunk = unknownDevs.slice(i, i + CHUNK);
+    const prompt = `다음 게임 개발사/퍼블리셔 각각의 본사 국가를 ISO 3166-1 alpha-2 코드로 알려줘. 모르면 "??".\n`
+      + `출력은 JSON 객체 하나만: {"회사명":"KR", ...}\n목록:\n${chunk.map((d) => `- ${d}`).join('\n')}`;
+    try {
+      const map = extractJson(await ask(system, prompt, false, 2500)) || {};
+      for (const [k, v] of Object.entries(map)) {
+        if (typeof v === 'string' && /^[A-Za-z]{2}$/.test(v)) resolved[normDev(k)] = v.toUpperCase();
+      }
+    } catch (e) { console.log('  국적 청크 오류:', e.message); }
+  }
   let n = 0;
   for (const m of Object.values(meta)) {
-    if (m && m.developer && !m.country && map[m.developer] && /^[A-Za-z]{2}$/.test(map[m.developer])) {
-      m.country = map[m.developer].toUpperCase(); n++;
+    if (m && m.developer && !m.country) {
+      const c = resolved[normDev(m.developer)];
+      if (c) { m.country = c; n++; }
     }
   }
   return n;
