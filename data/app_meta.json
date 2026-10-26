@@ -512,6 +512,7 @@
     "released": "2023.01.05",
     "developer": "GEAR2",
     "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/b3/3f/59b33f6d-d5f8-5f70-a820-85b79cf334bb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
   "1643509748": {
@@ -1099,6 +1100,7 @@
     "released": "2026.08.19",
     "developer": "Pleasure City",
     "country": null,
+    "icon": "https://play-lh.googleusercontent.com/J2rcibLvo9EZJXkIT4hbF6aL2V6XyyKjUu4L0yt2k1MO5xPJDnzXKIaaUadX12Z7k_vEfNpqVMMH4908BmX0Kw=w48",
     "source": "google"
   },
   "com.grandgames.catblockjam": {
@@ -2396,6 +2398,7 @@
     "released": "2026.06.16",
     "developer": "Netmarble Corporation",
     "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/13/bd/b413bdc6-02a0-8793-c9a2-692b0b0a164a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
   "com.eonku.myfootballhero": {
@@ -2590,7 +2593,7 @@
   "6759914688": {
     "released": "2026.05.14",
     "developer": "RIFF GAMES Co., Ltd.",
-    "country": null,
+    "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/f0/8b/39f08b34-3bc5-b801-abc8-709681c6f418/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -2690,6 +2693,111 @@
     "developer": "YT Lab",
     "country": null,
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/21/4e/3b214e6c-3eb6-7e0b-1160-526f3eb5d69b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "wool.match.color.sort.jam.puzzle": {
+    "released": "2025.08.27",
+    "developer": "Astrasen Global",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/V5DYQj3Pr3ONe6_vLyzdycvIgEMUHDliR-Jlc76qdfQex6chXzJuQjmQt-OHvNjPvStjnTI67PtzmYVYtLuPuQ=w48",
+    "source": "google"
+  },
+  "6761421604": {
+    "released": "2026.10.26",
+    "developer": "Tae won Go",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/10/2c/1c102c98-30da-bd1c-1ed4-19fe53a916ab/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6792678112": {
+    "released": "2026.09.28",
+    "developer": "SONEW",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/dc/53/c2dc5347-6f26-e115-eb1a-4fa7cd688219/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6761253603": {
+    "released": "2026.08.25",
+    "developer": "Nanali Inc.",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/b9/e3/8bb9e395-9eab-1e88-ac40-07b5af9f9286/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6790707229": {
+    "released": "2026.07.29",
+    "developer": "Ta Ta Game Technology Limited",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/37/93/d7379303-79cf-c6e4-8681-4bf18c226b97/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6755509102": {
+    "released": "2025.11.26",
+    "developer": "Astrasen Global",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/fe/4f/84fe4f8e-04ec-38b3-4491-1223e51be814/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6795531178": {
+    "released": "2026.08.17",
+    "developer": "Nova Games Technology Limited",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/70/b9/7f70b938-8c74-95a2-f5e1-637ff9fbfc6b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6797907221": {
+    "released": "2026.08.27",
+    "developer": "Stormborn Inc.",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/f1/af/49f1afc6-616f-0ef8-4efe-94448c32828b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6768258203": {
+    "released": "2026.05.14",
+    "developer": "Gloryway Puzzle",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/9f/17/2f9f176a-946c-6ebe-6ecc-440af8c64564/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6737022506": {
+    "released": "2025.09.12",
+    "developer": "Chengdu Warrior Tech Limited",
+    "country": "CN",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/22/7e/05227e1c-9524-19ee-ef8e-1454b16b1b04/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6740848451": {
+    "released": "2025.03.19",
+    "developer": "Netmarble Corporation",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/2b/05/df2b0587-4894-eb2c-7dd5-89605d081729/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6762268182": {
+    "released": "2026.06.11",
+    "developer": "BUILDING-BLOCKS NETWORK TECHNOLOGY CO.,LIMITED",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/f0/41/bcf04188-9e35-c6ff-e7de-1692321862b0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6736896540": {
+    "released": "2025.02.28",
+    "developer": "ACTGames Co., Ltd.",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/42/4b/5d424bf4-7f59-0d27-2e42-866c4bf956d3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6670441558": {
+    "released": "2024.09.19",
+    "developer": "Omnilojo Pte Ltd",
+    "country": "SG",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/a1/17/c4a117d4-40eb-3f27-a441-9d6d9f6ce5bc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6745761596": {
+    "released": "2026.03.12",
+    "developer": "Moon Active",
+    "country": "IL",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/ca/5e/b6ca5e71-f38d-9469-0681-67ed99b8a17a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   }
 }
