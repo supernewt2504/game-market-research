@@ -230,7 +230,7 @@ def bigo_cell(row, reasons_by_id, demo_keys, demo_details, date, mode):
     return '<div style="line-height:1.9;">' + "".join(pieces) + '</div>'
 
 
-def render_table(title, icon, rows, meta, reasons_by_id, demo_keys, demo_details, date, mode):
+def render_table(title, icon, rows, meta, reasons_by_id, demo_keys, demo_details, date, mode, chart_key=""):
     head = ('<tr style="background:#f1f3f4;color:#5f6368;font-size:12px;text-align:left;">'
             '<th style="padding:8px 10px;width:44px;">순위</th>'
             '<th style="padding:8px 10px;width:60px;">변동</th>'
@@ -255,7 +255,7 @@ def render_table(title, icon, rows, meta, reasons_by_id, demo_keys, demo_details
             f'<td style="padding:7px 10px;color:#202124;">{icon_img}{link}{badges(row["name"])}</td>'
             f'<td style="padding:7px 10px;color:#5f6368;">{fl_sp}{esc(row["developer"])}</td>'
             f'<td style="padding:7px 10px;color:#5f6368;font-size:12px;white-space:nowrap;">{released}</td>'
-            f'<td style="padding:7px 10px;font-size:12px;">{bigo_cell(row, reasons_by_id, demo_keys, demo_details, date, mode)}</td>'
+            f'<td style="padding:7px 10px;font-size:12px;">{bigo_cell(row, reasons_by_id, demo_keys, demo_details, date, mode) if chart_key.endswith("grossing") else ""}</td>'
             f'</tr>')
     return (f'<h2 style="font-size:17px;color:#202124;margin:30px 0 10px;">{icon} {esc(title)}</h2>'
             f'<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;border:1px solid #e8eaed;border-radius:8px;">'
@@ -295,8 +295,9 @@ def bigo_parts(row, reasons_by_id, demo_keys, demo_details, date):
     return b, reason
 
 
-def render_chart_email(title, icon, rows, meta, reasons_by_id, demo_keys, demo_details, date):
+def render_chart_email(title, icon, rows, meta, reasons_by_id, demo_keys, demo_details, date, chart_key=""):
     """이메일용 모바일 친화 레이아웃: 2열(순위/변동 | 게임·개발사·런칭일·비고 스택)."""
+    show_bigo = chart_key.endswith("grossing")  # 비고(상승이유)는 매출 차트에서만
     trs = []
     for row in rows:
         m = meta.get(row["id"], {})
@@ -304,7 +305,7 @@ def render_chart_email(title, icon, rows, meta, reasons_by_id, demo_keys, demo_d
         released = m.get("released") or "—"
         link = f'<a href="{esc(row["url"])}">{esc(row["name"])}</a>'
         # 이메일은 용량(Gmail 102KB) 때문에 아이콘 미포함 — 아이콘은 웹 리포트에만 표시
-        name_badges, reason_text = bigo_parts(row, reasons_by_id, demo_keys, demo_details, date)
+        name_badges, reason_text = bigo_parts(row, reasons_by_id, demo_keys, demo_details, date) if show_bigo else ("", "")
         reason_block = f'<div class="rs">{reason_text}</div>' if reason_text else ""
         devline = f'{(fl + " ") if fl else ""}{esc(row["developer"])} · {released}'
         trs.append(
@@ -378,9 +379,9 @@ def page_html(date, ct_kst, demo, diffed, meta, reasons_by_id, demo_keys, demo_d
                    '⚠️ 샘플: 전일 데이터가 없어 변동(▲▼·NEW)은 시연용입니다. 내일부터 실제 전일 비교가 적용됩니다.</div>' if demo else "")
     keys = [(k, t, i) for k, t, i in CHART_META if chart_keys is None or k in chart_keys]
     if mode == "email":
-        tables = "".join(render_chart_email(t, i, diffed[k], meta, reasons_by_id, demo_keys, demo_details, date) for k, t, i in keys)
+        tables = "".join(render_chart_email(t, i, diffed[k], meta, reasons_by_id, demo_keys, demo_details, date, k) for k, t, i in keys)
     else:
-        tables = "".join(render_table(t, i, diffed[k], meta, reasons_by_id, demo_keys, demo_details, date, mode) for k, t, i in keys)
+        tables = "".join(render_table(t, i, diffed[k], meta, reasons_by_id, demo_keys, demo_details, date, mode, k) for k, t, i in keys)
     modal = modal_block(build_details(reasons_by_id, demo_details)) if mode == "web" else ""
     foot = ('데이터: Apple iTunes RSS · Google Play. 상승이유는 매출 NEW·상승폭 큰 게임을 웹검색으로 조사하고, '
             '기사가 없으면 스토어 업데이트 내역을 확인해 작성합니다. 이미지/영상은 스토어 CDN을 폭 제한으로 참조해 용량을 최소화합니다.')
