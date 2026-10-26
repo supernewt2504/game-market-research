@@ -257,9 +257,12 @@ def render_table(title, icon, rows, meta, reasons_by_id, demo_keys, demo_details
             f'<td style="padding:7px 10px;color:#5f6368;font-size:12px;white-space:nowrap;">{released}</td>'
             f'<td style="padding:7px 10px;font-size:12px;">{bigo_cell(row, reasons_by_id, demo_keys, demo_details, date, mode) if chart_key.endswith("grossing") else ""}</td>'
             f'</tr>')
-    return (f'<h2 style="font-size:17px;color:#202124;margin:30px 0 10px;">{icon} {esc(title)}</h2>'
+    dtype = "grossing" if chart_key.endswith("grossing") else "popular"
+    return (f'<div class="chart-sec" data-type="{dtype}">'
+            f'<h2 style="font-size:17px;color:#202124;margin:30px 0 10px;">{icon} {esc(title)}</h2>'
             f'<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;border:1px solid #e8eaed;border-radius:8px;">'
-            f'<table style="width:100%;min-width:680px;border-collapse:collapse;">{head}{"".join(trs)}</table></div>')
+            f'<table style="width:100%;min-width:680px;border-collapse:collapse;">{head}{"".join(trs)}</table></div>'
+            f'</div>')
 
 
 def badge_pill(text, bg, fg, border=None, href=None):
@@ -383,6 +386,23 @@ def page_html(date, ct_kst, demo, diffed, meta, reasons_by_id, demo_keys, demo_d
     else:
         tables = "".join(render_table(t, i, diffed[k], meta, reasons_by_id, demo_keys, demo_details, date, mode, k) for k, t, i in keys)
     modal = modal_block(build_details(reasons_by_id, demo_details)) if mode == "web" else ""
+
+    tabs, tabs_js = "", ""
+    if mode != "email":
+        def _btn(tid, label, active):
+            bg = "#202124" if active else "#fff"
+            fg = "#fff" if active else "#5f6368"
+            return (f'<button id="tab-{tid}" onclick="showType(\'{tid}\')" '
+                    f'style="border:1px solid #dadce0;border-radius:20px;padding:6px 16px;font-size:13px;'
+                    f'font-weight:700;cursor:pointer;background:{bg};color:{fg};">{label}</button>')
+        tabs = ('<div style="display:flex;gap:8px;margin:16px 0 4px;flex-wrap:wrap;">'
+                + _btn("all", "전체", True) + _btn("popular", "인기순위", False)
+                + _btn("grossing", "매출순위", False) + '</div>')
+        tabs_js = ("<script>function showType(t){"
+                   "document.querySelectorAll('.chart-sec').forEach(function(s){s.style.display=(t==='all'||s.dataset.type===t)?'':'none';});"
+                   "['all','popular','grossing'].forEach(function(x){var b=document.getElementById('tab-'+x);"
+                   "if(b){b.style.background=(x===t)?'#202124':'#fff';b.style.color=(x===t)?'#fff':'#5f6368';}});}</script>")
+
     foot = ('데이터: Apple iTunes RSS · Google Play. 상승이유는 매출 NEW·상승폭 큰 게임을 웹검색으로 조사하고, '
             '기사가 없으면 스토어 업데이트 내역을 확인해 작성합니다. 이미지/영상은 스토어 CDN을 폭 제한으로 참조해 용량을 최소화합니다.')
     maxw = 640 if mode == "email" else 940  # 이메일은 고정 폭 중앙정렬(PC·모바일 모두 자연스럽게)
@@ -397,9 +417,9 @@ def page_html(date, ct_kst, demo, diffed, meta, reasons_by_id, demo_keys, demo_d
     <div style="font-size:13px;color:#c7c9cc;margin-top:4px;">대한민국 · {esc(platform) if platform else 'Google Play &amp; App Store'} · 게임 Top 100</div>
     <div style="font-size:12px;color:#9aa0a6;margin-top:7px;">기준일 {date} &nbsp;|&nbsp; 집계 {esc(ct_kst)} (KST)</div>
   </div>
-  {demo_banner}{legend}{tables}
+  {demo_banner}{legend}{tabs}{tables}
   <div style="margin-top:34px;color:#9aa0a6;font-size:12px;line-height:1.7;border-top:1px solid #e8eaed;padding-top:14px;">{foot}</div>
-</div>{modal}
+</div>{modal}{tabs_js}
 </body></html>"""
 
 
