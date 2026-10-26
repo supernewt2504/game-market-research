@@ -66,6 +66,7 @@
     "released": "2018.01.11",
     "developer": "SUD Inc.",
     "country": "JP",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d4/2e/65/d42e65c7-8f56-8998-ceb7-c916bebee4b3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
     "source": "apple"
   },
   "880551258": {
@@ -2291,7 +2292,7 @@
   "6446516059": {
     "released": "2023.10.09",
     "developer": "Game Duo Co.,Ltd.",
-    "country": null,
+    "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/7d/c6/7d7dc62e-16a0-9edc-6e7a-28cd3f37c264/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -2319,7 +2320,7 @@
   "6754373623": {
     "released": "2025.12.17",
     "developer": "Ryong Game Co., Ltd",
-    "country": null,
+    "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/b6/8e/7db68eda-9a11-2e22-6dd9-76f89f2a8f27/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -2362,6 +2363,7 @@
     "released": "2026.01.26",
     "developer": "Moon Active",
     "country": "IL",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/b3/ac/0fb3accd-bded-fd27-4608-092d854f165d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
   "6771652722": {
@@ -2568,6 +2570,7 @@
     "released": "2020.12.07",
     "developer": "Zempot INC.",
     "country": null,
+    "icon": "https://play-lh.googleusercontent.com/QQVS3cmt_fMF91ecz8fHExUP_VJUty-9dCmA7sOZQR3086-4nD-2ANOA2cOkFeiHt5eFW55CZJGpiaO_BahNZA=w48",
     "source": "google"
   },
   "com.merge.cooking.theme.restaurant.food": {
@@ -2636,7 +2639,7 @@
   "com.TeamSparta.brd": {
     "released": "2026.08.06",
     "developer": "Teamsparta Inc.",
-    "country": null,
+    "country": "KR",
     "icon": "https://play-lh.googleusercontent.com/DmPLc6Wvm4nJPprYijuMCEHlEhbhAjzFgGvD31KKKpwE1a7jJMYkM4ak-o5WiTjf5GhLRjF4oYdZDxx0lK653g=w48",
     "source": "google"
   },
@@ -2664,7 +2667,7 @@
   "6783591388": {
     "released": "2026.07.01",
     "developer": "Nftstory",
-    "country": null,
+    "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/09/6b/70096bcc-9d2e-08ce-1532-abbe629cad04/CatCollector-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -2673,6 +2676,20 @@
     "developer": "Luong Vuong",
     "country": "VN",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/db/6a/97db6a2f-48a9-936a-8ab4-14b8f09d276a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "com.tg.jsxw.kr": {
+    "released": "2026.07.31",
+    "developer": "37 Mobile Games",
+    "country": "CN",
+    "icon": "https://play-lh.googleusercontent.com/Cf2Y8DptuJm7oVDLpmbu1mpRyv15oMXUH_VoROWZxNtxJDYSUXBO28yPBssP9PckC98n-9ckXZnUWKBdxvRH=w48",
+    "source": "google"
+  },
+  "6807107830": {
+    "released": "2026.09.21",
+    "developer": "YT Lab",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/21/4e/3b214e6c-3eb6-7e0b-1160-526f3eb5d69b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   }
 }
