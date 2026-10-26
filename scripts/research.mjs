@@ -110,10 +110,13 @@ async function resolveCountries(meta) {
 // ---------- 2) 상승이유 조사 ----------
 function diffMovers(today, prev) {
   const movers = [];
+  const grossingLimit = cfg.research.grossing_rank_limit || 100;
   for (const key of cfg.charts) {
     if (!cfg.research.include_popular_charts && key.endsWith('popular')) continue;
+    const limit = key.endsWith('grossing') ? grossingLimit : 100;  // 매출은 상위 N위 내만
     const pm = Object.fromEntries((prev.charts[key] || []).map((x) => [x.id, x.rank]));
     for (const it of today.charts[key]) {
+      if (it.rank > limit) continue;
       const pr = pm[it.id];
       let type = null, delta = 0;
       if (pr === undefined) type = 'new';
