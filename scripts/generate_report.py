@@ -395,13 +395,21 @@ def page_html(date, ct_kst, demo, diffed, meta, reasons_by_id, demo_keys, demo_d
             return (f'<button id="tab-{tid}" onclick="showType(\'{tid}\')" '
                     f'style="border:1px solid #dadce0;border-radius:20px;padding:6px 16px;font-size:13px;'
                     f'font-weight:700;cursor:pointer;background:{bg};color:{fg};">{label}</button>')
-        tabs = ('<div style="display:flex;gap:8px;margin:16px 0 4px;flex-wrap:wrap;">'
-                + _btn("all", "전체", True) + _btn("popular", "인기순위", False)
+        date_sel = (f'<select id="dateSel" style="border:1px solid #dadce0;border-radius:20px;padding:6px 14px;'
+                    f'font-size:13px;font-weight:700;color:#5f6368;background:#fff;cursor:pointer;">'
+                    f'<option value="{date}" selected>📅 {date}</option></select>')
+        tabs = ('<div style="display:flex;gap:8px;margin:16px 0 4px;flex-wrap:wrap;align-items:center;">'
+                + date_sel + _btn("all", "전체", True) + _btn("popular", "인기순위", False)
                 + _btn("grossing", "매출순위", False) + '</div>')
         tabs_js = ("<script>function showType(t){"
                    "document.querySelectorAll('.chart-sec').forEach(function(s){s.style.display=(t==='all'||s.dataset.type===t)?'':'none';});"
                    "['all','popular','grossing'].forEach(function(x){var b=document.getElementById('tab-'+x);"
-                   "if(b){b.style.background=(x===t)?'#202124':'#fff';b.style.color=(x===t)?'#fff':'#5f6368';}});}</script>")
+                   "if(b){b.style.background=(x===t)?'#202124':'#fff';b.style.color=(x===t)?'#fff':'#5f6368';}});}"
+                   f"fetch('../dates.json').then(function(r){{return r.json();}}).then(function(ds){{"
+                   "var sel=document.getElementById('dateSel');if(!sel)return;sel.innerHTML='';"
+                   f"ds.forEach(function(d){{var o=document.createElement('option');o.value=d;o.textContent='📅 '+d;if(d==='{date}')o.selected=true;sel.appendChild(o);}});"
+                   "}).catch(function(){});"
+                   "document.addEventListener('change',function(e){if(e.target&&e.target.id==='dateSel'){location.href=e.target.value+'.html';}});</script>")
 
     foot = ('데이터: Apple iTunes RSS · Google Play. 상승이유는 매출 NEW·상승폭 큰 게임을 웹검색으로 조사하고, '
             '기사가 없으면 스토어 업데이트 내역을 확인해 작성합니다. 이미지/영상은 스토어 CDN을 폭 제한으로 참조해 용량을 최소화합니다.')
@@ -465,9 +473,14 @@ def main():
     with open(os.path.join(DOCS_DIR, "daily", f"{date}.html"), "w", encoding="utf-8") as f:
         f.write(web)
     # index.html -> 최신으로 리다이렉트
+    latest = max(f[:-5] for f in os.listdir(os.path.join(DOCS_DIR, "daily")) if f.endswith(".html"))
     with open(os.path.join(DOCS_DIR, "index.html"), "w", encoding="utf-8") as f:
-        f.write(f'<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=daily/{date}.html">'
-                f'<a href="daily/{date}.html">{esc(TITLE)} {date}</a>')
+        f.write(f'<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=daily/{latest}.html">'
+                f'<a href="daily/{latest}.html">{esc(TITLE)} {latest}</a>')
+    # dates.json -> 날짜 선택기용 사용 가능 일자 목록(최신순)
+    all_dates = sorted({f[:-5] for f in os.listdir(os.path.join(DOCS_DIR, "daily")) if f.endswith(".html")}, reverse=True)
+    with open(os.path.join(DOCS_DIR, "dates.json"), "w", encoding="utf-8") as f:
+        json.dump(all_dates, f, ensure_ascii=False)
 
     # 이메일: 구글/애플 분리 발송
     platforms = {
