@@ -191,9 +191,9 @@ def reason_for_row(row, reasons_by_id, demo_keys):
 
 
 def bigo_cell(row, reasons_by_id, demo_keys, demo_details, date, mode):
-    if not is_mover(row) and row["id"] not in reasons_by_id and not any(n in row["name"] for n in demo_keys):
-        return ""
     key, r = reason_for_row(row, reasons_by_id, demo_keys)
+    if r is None and key is None:
+        return ""  # 실제 조사된 게임만 비고 표시(상한 초과 미조사 게임은 비움)
     # 데모 처리
     if r is None and key is not None:
         d = demo_details[key]
@@ -272,10 +272,10 @@ def badge_pill(text, bg, fg, border=None, href=None):
 
 
 def bigo_parts(row, reasons_by_id, demo_keys, demo_details, date):
-    """모바일용: (게임명 옆 배지들, 하단 사유텍스트) 반환."""
-    if not is_mover(row) and row["id"] not in reasons_by_id and not any(n in row["name"] for n in demo_keys):
-        return "", ""
+    """모바일용: (게임명 옆 배지들, 하단 사유텍스트) 반환. 실제 조사된 게임만 표시."""
     key, r = reason_for_row(row, reasons_by_id, demo_keys)
+    if r is None and key is None:
+        return "", ""
     if r is None and key is not None:
         d = demo_details[key]
         verified, category, short = True, d["category"], d["short"]
