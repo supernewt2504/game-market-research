@@ -22,7 +22,7 @@
 
   "email": {
     "from": "service@supernewt.co.kr",
-    "to": ["dragonewt@supernewt.co.kr"],
+    "to": ["dragonewt@supernewt.co.kr", "xixi@supernewt.co.kr", "gang@supernewt.co.kr", "maria@supernewt.co.kr"],
     "smtp_host": "smtp.gmail.com",
     "smtp_port": 587,
     "subject_prefix": "[게임시장조사]"
