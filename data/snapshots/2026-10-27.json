@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "collectedAt": "2026-10-26T20:10:29.044Z",
+  "collectedAt": "2026-10-27T02:59:45.786Z",
   "country": "kr",
   "charts": {
     "google_popular": [
@@ -13,73 +13,73 @@
       },
       {
         "rank": 2,
+        "name": "Galactic Outlaw: Tower Defense",
+        "id": "com.cookapps.towerroguedefense",
+        "developer": "Purplecow games",
+        "url": "https://play.google.com/store/apps/details?id=com.cookapps.towerroguedefense"
+      },
+      {
+        "rank": 3,
+        "name": "세피루스 키우기",
+        "id": "com.DreamIdeaSoft.Sephiruth_Idle",
+        "developer": "DREAMIDEASOFT",
+        "url": "https://play.google.com/store/apps/details?id=com.DreamIdeaSoft.Sephiruth_Idle"
+      },
+      {
+        "rank": 4,
+        "name": "Survivor: Ace",
+        "id": "com.survivor.ace",
+        "developer": "Gorilla Studio",
+        "url": "https://play.google.com/store/apps/details?id=com.survivor.ace"
+      },
+      {
+        "rank": 5,
         "name": "Rotate Rings",
         "id": "com.nebula.rotaterings",
         "developer": "Nebula  Studio",
         "url": "https://play.google.com/store/apps/details?id=com.nebula.rotaterings"
       },
       {
-        "rank": 3,
-        "name": "씰M2",
-        "id": "com.playwith.seal2.google",
-        "developer": "PlaywithKorea Inc.",
-        "url": "https://play.google.com/store/apps/details?id=com.playwith.seal2.google"
-      },
-      {
-        "rank": 4,
+        "rank": 6,
         "name": "Chiikawa Pocket",
         "id": "jp.co.applibot.chiikawapocketgl",
         "developer": "Applibot, Inc.",
         "url": "https://play.google.com/store/apps/details?id=jp.co.applibot.chiikawapocketgl"
       },
       {
-        "rank": 5,
-        "name": "Tile King - Triple Match",
-        "id": "com.mocacorp.tile",
-        "developer": "Moca",
-        "url": "https://play.google.com/store/apps/details?id=com.mocacorp.tile"
-      },
-      {
-        "rank": 6,
+        "rank": 7,
         "name": "고스톱M : 데이터 필요없는 맞고 게임",
         "id": "com.noriworks.gm",
         "developer": "Noriworks",
         "url": "https://play.google.com/store/apps/details?id=com.noriworks.gm"
       },
       {
-        "rank": 7,
-        "name": "2026 프로야구GO!",
-        "id": "com.haegin.kbo",
-        "developer": "HAEGIN Co., Ltd.",
-        "url": "https://play.google.com/store/apps/details?id=com.haegin.kbo"
-      },
-      {
         "rank": 8,
-        "name": "도깨비의세계",
-        "id": "com.kakaogames.dokkaebi",
-        "developer": "Kakao Games Corp.",
-        "url": "https://play.google.com/store/apps/details?id=com.kakaogames.dokkaebi"
-      },
-      {
-        "rank": 9,
         "name": "Meowdoku: Brain Puzzle Games",
         "id": "com.oakever.meowdoku",
         "developer": "Oakever Games",
         "url": "https://play.google.com/store/apps/details?id=com.oakever.meowdoku"
       },
       {
-        "rank": 10,
-        "name": "Sudoku",
-        "id": "com.mocacorp.sudoku",
-        "developer": "Moca",
-        "url": "https://play.google.com/store/apps/details?id=com.mocacorp.sudoku"
-      },
-      {
-        "rank": 11,
+        "rank": 9,
         "name": "Block Blast!",
         "id": "com.block.juggle",
         "developer": "HungryStudio",
         "url": "https://play.google.com/store/apps/details?id=com.block.juggle"
+      },
+      {
+        "rank": 10,
+        "name": "도깨비의세계",
+        "id": "com.kakaogames.dokkaebi",
+        "developer": "Kakao Games Corp.",
+        "url": "https://play.google.com/store/apps/details?id=com.kakaogames.dokkaebi"
+      },
+      {
+        "rank": 11,
+        "name": "Tile King - Triple Match",
+        "id": "com.mocacorp.tile",
+        "developer": "Moca",
+        "url": "https://play.google.com/store/apps/details?id=com.mocacorp.tile"
       },
       {
         "rank": 12,
@@ -90,73 +90,73 @@
       },
       {
         "rank": 13,
-        "name": "Amaze GO!™",
-        "id": "com.oakever.arrows",
-        "developer": "Oakever Games",
-        "url": "https://play.google.com/store/apps/details?id=com.oakever.arrows"
-      },
-      {
-        "rank": 14,
         "name": "Top Lords",
         "id": "com.gamespark.topking.gp",
         "developer": "GAME SPARK",
         "url": "https://play.google.com/store/apps/details?id=com.gamespark.topking.gp"
       },
       {
+        "rank": 14,
+        "name": "Easy Drum - Real Music Drum",
+        "id": "easy.drum.real.music.drum.set",
+        "developer": "AVA GAMES",
+        "url": "https://play.google.com/store/apps/details?id=easy.drum.real.music.drum.set"
+      },
+      {
         "rank": 15,
-        "name": "Wild Water World",
-        "id": "com.iyagames.flotshelter",
-        "developer": "Hong Kong Just Game Technology Limited",
-        "url": "https://play.google.com/store/apps/details?id=com.iyagames.flotshelter"
+        "name": "Royal Smash! - Physics Puzzle",
+        "id": "com.cyphergames.royalsmash",
+        "developer": "Cypher Games",
+        "url": "https://play.google.com/store/apps/details?id=com.cyphergames.royalsmash"
       },
       {
         "rank": 16,
+        "name": "Sudoku",
+        "id": "com.mocacorp.sudoku",
+        "developer": "Moca",
+        "url": "https://play.google.com/store/apps/details?id=com.mocacorp.sudoku"
+      },
+      {
+        "rank": 17,
+        "name": "씰M2",
+        "id": "com.playwith.seal2.google",
+        "developer": "PlaywithKorea Inc.",
+        "url": "https://play.google.com/store/apps/details?id=com.playwith.seal2.google"
+      },
+      {
+        "rank": 18,
         "name": "Royal Kingdom",
         "id": "com.dreamgames.royalkingdom",
         "developer": "Dream Games, Ltd.",
         "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom"
       },
       {
-        "rank": 17,
-        "name": "Gossip Harbor®: Merge & Story",
-        "id": "com.mergegames.gossipharbor",
-        "developer": "Microfun Limited",
-        "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor"
-      },
-      {
-        "rank": 18,
-        "name": "세피루스 키우기",
-        "id": "com.DreamIdeaSoft.Sephiruth_Idle",
-        "developer": "DREAMIDEASOFT",
-        "url": "https://play.google.com/store/apps/details?id=com.DreamIdeaSoft.Sephiruth_Idle"
-      },
-      {
         "rank": 19,
+        "name": "Champion Forge: Idle RPG",
+        "id": "com.mobibrain.championforge",
+        "developer": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
+        "url": "https://play.google.com/store/apps/details?id=com.mobibrain.championforge"
+      },
+      {
+        "rank": 20,
         "name": "Roblox",
         "id": "com.roblox.client",
         "developer": "Roblox Corporation",
         "url": "https://play.google.com/store/apps/details?id=com.roblox.client"
       },
       {
-        "rank": 20,
-        "name": "국민 고스톱",
-        "id": "com.noriworks.kg",
-        "developer": "Noriworks",
-        "url": "https://play.google.com/store/apps/details?id=com.noriworks.kg"
-      },
-      {
         "rank": 21,
-        "name": "후더덕 서바이벌-777뽑기 증정",
-        "id": "com.mrtgd2kr.google",
-        "developer": "Joy Nice Games",
-        "url": "https://play.google.com/store/apps/details?id=com.mrtgd2kr.google"
+        "name": "Tank Busters: Cannon Battle",
+        "id": "com.tank.busters",
+        "developer": "SayGames Ltd",
+        "url": "https://play.google.com/store/apps/details?id=com.tank.busters"
       },
       {
         "rank": 22,
-        "name": "Idle Cat Gunner: Shooter RPG",
-        "id": "com.Chodun.CatGunner",
-        "developer": "NEPTUNE(TREEPLLA)",
-        "url": "https://play.google.com/store/apps/details?id=com.Chodun.CatGunner"
+        "name": "Gossip Harbor®: Merge & Story",
+        "id": "com.mergegames.gossipharbor",
+        "developer": "Microfun Limited",
+        "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor"
       },
       {
         "rank": 23,
@@ -167,542 +167,542 @@
       },
       {
         "rank": 24,
-        "name": "Champion Forge: Idle RPG",
-        "id": "com.mobibrain.championforge",
-        "developer": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
-        "url": "https://play.google.com/store/apps/details?id=com.mobibrain.championforge"
+        "name": "Idle Cat Gunner: Shooter RPG",
+        "id": "com.Chodun.CatGunner",
+        "developer": "NEPTUNE(TREEPLLA)",
+        "url": "https://play.google.com/store/apps/details?id=com.Chodun.CatGunner"
       },
       {
         "rank": 25,
-        "name": "히어로즈 테일즈2",
-        "id": "com.tg.ysczg.kr",
-        "developer": "37 Mobile Games",
-        "url": "https://play.google.com/store/apps/details?id=com.tg.ysczg.kr"
+        "name": "Wild Water World",
+        "id": "com.iyagames.flotshelter",
+        "developer": "Hong Kong Just Game Technology Limited",
+        "url": "https://play.google.com/store/apps/details?id=com.iyagames.flotshelter"
       },
       {
         "rank": 26,
-        "name": "트릭컬 리바이브",
-        "id": "com.epidgames.trickcalrevive",
-        "developer": "EPIDGames",
-        "url": "https://play.google.com/store/apps/details?id=com.epidgames.trickcalrevive"
+        "name": "Amaze GO!™",
+        "id": "com.oakever.arrows",
+        "developer": "Oakever Games",
+        "url": "https://play.google.com/store/apps/details?id=com.oakever.arrows"
       },
       {
         "rank": 27,
-        "name": "Cutie Sort: Kitten Games",
-        "id": "sort.casual.color.cat.puzzle.match",
-        "developer": "Easetouch",
-        "url": "https://play.google.com/store/apps/details?id=sort.casual.color.cat.puzzle.match"
+        "name": "국민 고스톱",
+        "id": "com.noriworks.kg",
+        "developer": "Noriworks",
+        "url": "https://play.google.com/store/apps/details?id=com.noriworks.kg"
       },
       {
         "rank": 28,
-        "name": "로그W : 리메인즈 오브 갓",
-        "id": "com.krd8.google",
-        "developer": "Efun Company",
-        "url": "https://play.google.com/store/apps/details?id=com.krd8.google"
+        "name": "후더덕 서바이벌-777뽑기 증정",
+        "id": "com.mrtgd2kr.google",
+        "developer": "Joy Nice Games",
+        "url": "https://play.google.com/store/apps/details?id=com.mrtgd2kr.google"
       },
       {
         "rank": 29,
-        "name": "Color Block: Combo Blast",
-        "id": "com.puzzlegames.puzzlebrickslegend",
-        "developer": "Ivy",
-        "url": "https://play.google.com/store/apps/details?id=com.puzzlegames.puzzlebrickslegend"
-      },
-      {
-        "rank": 30,
-        "name": "Hollywood Merge",
-        "id": "com.hollywood.merge",
-        "developer": "VoyagerOne IE",
-        "url": "https://play.google.com/store/apps/details?id=com.hollywood.merge"
-      },
-      {
-        "rank": 31,
         "name": "Food Hunt: Pixel Puzzle",
         "id": "com.vigafun.funfinity.foodhunt",
         "developer": "EVERFUN",
         "url": "https://play.google.com/store/apps/details?id=com.vigafun.funfinity.foodhunt"
       },
       {
+        "rank": 30,
+        "name": "Draft Showdown",
+        "id": "com.QuestLab.DraftWar",
+        "developer": "VOODOO",
+        "url": "https://play.google.com/store/apps/details?id=com.QuestLab.DraftWar"
+      },
+      {
+        "rank": 31,
+        "name": "Cutie Sort: Kitten Games",
+        "id": "sort.casual.color.cat.puzzle.match",
+        "developer": "Easetouch",
+        "url": "https://play.google.com/store/apps/details?id=sort.casual.color.cat.puzzle.match"
+      },
+      {
         "rank": 32,
-        "name": "Bus Fever Party!",
-        "id": "gridplus.busjam.carpuzzle",
-        "developer": "Lumi Games",
-        "url": "https://play.google.com/store/apps/details?id=gridplus.busjam.carpuzzle"
+        "name": "히어로즈 테일즈2",
+        "id": "com.tg.ysczg.kr",
+        "developer": "37 Mobile Games",
+        "url": "https://play.google.com/store/apps/details?id=com.tg.ysczg.kr"
       },
       {
         "rank": 33,
-        "name": "Royal Smash! - Physics Puzzle",
-        "id": "com.cyphergames.royalsmash",
-        "developer": "Cypher Games",
-        "url": "https://play.google.com/store/apps/details?id=com.cyphergames.royalsmash"
-      },
-      {
-        "rank": 34,
-        "name": "Hidden Object Games: Seek It",
-        "id": "hidden.object.find.seek.search.mystery.puzzle.games.free",
-        "developer": "NimbleMind Network Inc.",
-        "url": "https://play.google.com/store/apps/details?id=hidden.object.find.seek.search.mystery.puzzle.games.free"
-      },
-      {
-        "rank": 35,
-        "name": "Top Force",
-        "id": "com.project.idle.cd",
-        "developer": "Century Games Innovation Pte. Ltd.",
-        "url": "https://play.google.com/store/apps/details?id=com.project.idle.cd"
-      },
-      {
-        "rank": 36,
-        "name": "Lordrush",
-        "id": "com.s01.global",
-        "developer": "Century Games Innovation Pte. Ltd.",
-        "url": "https://play.google.com/store/apps/details?id=com.s01.global"
-      },
-      {
-        "rank": 37,
-        "name": "Royal Match",
-        "id": "com.dreamgames.royalmatch",
-        "developer": "Dream Games, Ltd.",
-        "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch"
-      },
-      {
-        "rank": 38,
-        "name": "TopTop: 게임, 채팅 & 친구들",
-        "id": "com.game.friends.kr",
-        "developer": "Social Game Lab",
-        "url": "https://play.google.com/store/apps/details?id=com.game.friends.kr"
-      },
-      {
-        "rank": 39,
-        "name": "GOGO! Blast",
-        "id": "com.nebula.arrows",
-        "developer": "Nebula  Studio",
-        "url": "https://play.google.com/store/apps/details?id=com.nebula.arrows"
-      },
-      {
-        "rank": 40,
-        "name": "Mahjong Blast",
-        "id": "com.nebula.mahjongtile",
-        "developer": "Nebula  Studio",
-        "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile"
-      },
-      {
-        "rank": 41,
-        "name": "Merge Cooktopia",
-        "id": "com.davincinote.twomergesimul",
-        "developer": "DaVinciNote",
-        "url": "https://play.google.com/store/apps/details?id=com.davincinote.twomergesimul"
-      },
-      {
-        "rank": 42,
-        "name": "Tiles Survive!",
-        "id": "com.funplus.ts.global",
-        "developer": "FunPlus International AG",
-        "url": "https://play.google.com/store/apps/details?id=com.funplus.ts.global"
-      },
-      {
-        "rank": 43,
-        "name": "Whiteout Survival",
-        "id": "com.gof.global",
-        "developer": "Century Games PTE. LTD.",
-        "url": "https://play.google.com/store/apps/details?id=com.gof.global"
-      },
-      {
-        "rank": 44,
-        "name": "Furry Fighters : Idle RPG",
-        "id": "com.blackdust.redblue",
-        "developer": "RIFF GAMES Co., Ltd.",
-        "url": "https://play.google.com/store/apps/details?id=com.blackdust.redblue"
-      },
-      {
-        "rank": 45,
-        "name": "Cat Hero : Idle RPG",
-        "id": "net.gameduo.gv",
-        "developer": "Gameduo",
-        "url": "https://play.google.com/store/apps/details?id=net.gameduo.gv"
-      },
-      {
-        "rank": 46,
-        "name": "Tasty Travels: Merge Game",
-        "id": "com.fatmerge.global",
-        "developer": "Century Games PTE. LTD.",
-        "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global"
-      },
-      {
-        "rank": 47,
-        "name": "Last Asylum: Plague",
-        "id": "com.phs.global",
-        "developer": "37GAMES GLOBAL",
-        "url": "https://play.google.com/store/apps/details?id=com.phs.global"
-      },
-      {
-        "rank": 48,
-        "name": "Pocket Sort: Coin Merge Puzzle",
-        "id": "com.pocket.sort.coin.puzzle.game",
-        "developer": "SayGames Ltd",
-        "url": "https://play.google.com/store/apps/details?id=com.pocket.sort.coin.puzzle.game"
-      },
-      {
-        "rank": 49,
-        "name": "Goods Triple Match: Sorting 3D",
-        "id": "com.goods.sorting.games.triple.match3d.puzzle",
-        "developer": "Joymaster Puzzle Game Studio",
-        "url": "https://play.google.com/store/apps/details?id=com.goods.sorting.games.triple.match3d.puzzle"
-      },
-      {
-        "rank": 50,
-        "name": "Water Match® - ASMR Water Sort",
-        "id": "com.red.sortingstore.android",
-        "developer": "Youyoutang Technology",
-        "url": "https://play.google.com/store/apps/details?id=com.red.sortingstore.android"
-      },
-      {
-        "rank": 51,
-        "name": "MapleStory : Idle RPG",
-        "id": "com.nexon.ma",
-        "developer": "NEXON Company",
-        "url": "https://play.google.com/store/apps/details?id=com.nexon.ma"
-      },
-      {
-        "rank": 52,
-        "name": "Coop TD: Together",
-        "id": "com.percent.aos.cooptd",
-        "developer": "Supermagic",
-        "url": "https://play.google.com/store/apps/details?id=com.percent.aos.cooptd"
-      },
-      {
-        "rank": 53,
-        "name": "Kingshot",
-        "id": "com.run.tower.defense",
-        "developer": "Century Games PTE. LTD.",
-        "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense"
-      },
-      {
-        "rank": 54,
-        "name": "Smash Land!",
-        "id": "com.flow.smashparty",
-        "developer": "Flow Games A.S.",
-        "url": "https://play.google.com/store/apps/details?id=com.flow.smashparty"
-      },
-      {
-        "rank": 55,
-        "name": "Tank Busters: Cannon Battle",
-        "id": "com.tank.busters",
-        "developer": "SayGames Ltd",
-        "url": "https://play.google.com/store/apps/details?id=com.tank.busters"
-      },
-      {
-        "rank": 56,
-        "name": "Colony Flow!",
-        "id": "com.abi.colony.flow",
-        "developer": "ABI GAMES PTE. LTD.",
-        "url": "https://play.google.com/store/apps/details?id=com.abi.colony.flow"
-      },
-      {
-        "rank": 57,
-        "name": "Bulldozer Master: Crush & Mine",
-        "id": "io.supercent.bulldozermasters",
-        "developer": "Supercent, Inc.",
-        "url": "https://play.google.com/store/apps/details?id=io.supercent.bulldozermasters"
-      },
-      {
-        "rank": 58,
-        "name": "Vita Mahjong",
-        "id": "com.vitastudio.mahjong",
-        "developer": "Vita Studio.",
-        "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong"
-      },
-      {
-        "rank": 59,
-        "name": "Soda Legend",
-        "id": "com.byabyak.soda",
-        "developer": "Byabyak Games",
-        "url": "https://play.google.com/store/apps/details?id=com.byabyak.soda"
-      },
-      {
-        "rank": 60,
-        "name": "Search It - Hidden Objects",
-        "id": "com.leap.searchit",
-        "developer": "Leap Game Studios",
-        "url": "https://play.google.com/store/apps/details?id=com.leap.searchit"
-      },
-      {
-        "rank": 61,
-        "name": "Block Crush - Block Blast Wood",
-        "id": "com.wood.block.sudoku.puzzle.bm",
-        "developer": "Wonderful  Studio",
-        "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm"
-      },
-      {
-        "rank": 62,
-        "name": "Flambé®: Merge & Cook",
-        "id": "com.cola.game",
-        "developer": "Microfun Limited",
-        "url": "https://play.google.com/store/apps/details?id=com.cola.game"
-      },
-      {
-        "rank": 63,
-        "name": "Arrows & Cats: Rescue Puzzle",
-        "id": "com.Nanali.ArrowsAndCats",
-        "developer": "Nanali Studios",
-        "url": "https://play.google.com/store/apps/details?id=com.Nanali.ArrowsAndCats"
-      },
-      {
-        "rank": 64,
-        "name": "Disney Solitaire",
-        "id": "com.superplaystudios.disneysolitairedreams",
-        "developer": "SuperPlay.",
-        "url": "https://play.google.com/store/apps/details?id=com.superplaystudios.disneysolitairedreams"
-      },
-      {
-        "rank": 65,
-        "name": "삼국지: 제후의 전쟁",
-        "id": "com.r3.zhzz1.kr",
-        "developer": "Reality Squared Games",
-        "url": "https://play.google.com/store/apps/details?id=com.r3.zhzz1.kr"
-      },
-      {
-        "rank": 66,
-        "name": "Police Chief",
-        "id": "com.slg.policewar",
-        "developer": "VoyagerOne IE",
-        "url": "https://play.google.com/store/apps/details?id=com.slg.policewar"
-      },
-      {
-        "rank": 67,
-        "name": "Magic Level 9 Music Piano Game",
-        "id": "beats.color.sing.star.rush",
-        "developer": "Beatwave Studio",
-        "url": "https://play.google.com/store/apps/details?id=beats.color.sing.star.rush"
-      },
-      {
-        "rank": 68,
-        "name": "WellDiver",
-        "id": "com.loadcomplete.welldiver",
-        "developer": "LoadComplete",
-        "url": "https://play.google.com/store/apps/details?id=com.loadcomplete.welldiver"
-      },
-      {
-        "rank": 69,
-        "name": "Only I Get Rich: Life Rewind",
-        "id": "com.seizemode.up",
-        "developer": "seizemode",
-        "url": "https://play.google.com/store/apps/details?id=com.seizemode.up"
-      },
-      {
-        "rank": 70,
-        "name": "Infinite Stairs",
-        "id": "com.nflystudio.InfiniteStaircase",
-        "developer": "Neptune Corp.",
-        "url": "https://play.google.com/store/apps/details?id=com.nflystudio.InfiniteStaircase"
-      },
-      {
-        "rank": 71,
-        "name": "Tap Tile!",
-        "id": "com.nebula.tiles",
-        "developer": "Nebula  Studio",
-        "url": "https://play.google.com/store/apps/details?id=com.nebula.tiles"
-      },
-      {
-        "rank": 72,
-        "name": "Hole.io - Original Hole Game",
-        "id": "io.voodoo.holeio",
-        "developer": "VOODOO",
-        "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio"
-      },
-      {
-        "rank": 73,
         "name": "Watermelon Maker 2048",
         "id": "com.mobirix.ldwm",
         "developer": "mobirix",
         "url": "https://play.google.com/store/apps/details?id=com.mobirix.ldwm"
       },
       {
-        "rank": 74,
-        "name": "Hotel Legacy: Merge Game",
-        "id": "com.fatr.global",
-        "developer": "Century Games Innovation Pte. Ltd.",
-        "url": "https://play.google.com/store/apps/details?id=com.fatr.global"
+        "rank": 34,
+        "name": "Training Hero Remastered",
+        "id": "com.daerigame.scarecrow",
+        "developer": "DAERI SOFT Inc",
+        "url": "https://play.google.com/store/apps/details?id=com.daerigame.scarecrow"
       },
       {
-        "rank": 75,
-        "name": "My Football Hero: Soccer Sim",
-        "id": "com.eonku.myfootballhero",
-        "developer": "Onullan",
-        "url": "https://play.google.com/store/apps/details?id=com.eonku.myfootballhero"
+        "rank": 35,
+        "name": "Last Asylum: Plague",
+        "id": "com.phs.global",
+        "developer": "37GAMES GLOBAL",
+        "url": "https://play.google.com/store/apps/details?id=com.phs.global"
       },
       {
-        "rank": 76,
+        "rank": 36,
+        "name": "Furry Fighters : Idle RPG",
+        "id": "com.blackdust.redblue",
+        "developer": "RIFF GAMES Co., Ltd.",
+        "url": "https://play.google.com/store/apps/details?id=com.blackdust.redblue"
+      },
+      {
+        "rank": 37,
+        "name": "Whiteout Survival",
+        "id": "com.gof.global",
+        "developer": "Century Games PTE. LTD.",
+        "url": "https://play.google.com/store/apps/details?id=com.gof.global"
+      },
+      {
+        "rank": 38,
+        "name": "Bus Fever Party!",
+        "id": "gridplus.busjam.carpuzzle",
+        "developer": "Lumi Games",
+        "url": "https://play.google.com/store/apps/details?id=gridplus.busjam.carpuzzle"
+      },
+      {
+        "rank": 39,
+        "name": "Tiles Survive!",
+        "id": "com.funplus.ts.global",
+        "developer": "FunPlus International AG",
+        "url": "https://play.google.com/store/apps/details?id=com.funplus.ts.global"
+      },
+      {
+        "rank": 40,
+        "name": "GOGO! Blast",
+        "id": "com.nebula.arrows",
+        "developer": "Nebula  Studio",
+        "url": "https://play.google.com/store/apps/details?id=com.nebula.arrows"
+      },
+      {
+        "rank": 41,
+        "name": "Color Block: Combo Blast",
+        "id": "com.puzzlegames.puzzlebrickslegend",
+        "developer": "Ivy",
+        "url": "https://play.google.com/store/apps/details?id=com.puzzlegames.puzzlebrickslegend"
+      },
+      {
+        "rank": 42,
+        "name": "TopTop: 게임, 채팅 & 친구들",
+        "id": "com.game.friends.kr",
+        "developer": "Social Game Lab",
+        "url": "https://play.google.com/store/apps/details?id=com.game.friends.kr"
+      },
+      {
+        "rank": 43,
+        "name": "Viral Streamer: Idle Clicker",
+        "id": "com.cscmobi.livestream.idle.clicker",
+        "developer": "CSCMobi Studios",
+        "url": "https://play.google.com/store/apps/details?id=com.cscmobi.livestream.idle.clicker"
+      },
+      {
+        "rank": 44,
+        "name": "Hollywood Merge",
+        "id": "com.hollywood.merge",
+        "developer": "VoyagerOne IE",
+        "url": "https://play.google.com/store/apps/details?id=com.hollywood.merge"
+      },
+      {
+        "rank": 45,
+        "name": "Coop TD: Together",
+        "id": "com.percent.aos.cooptd",
+        "developer": "Supermagic",
+        "url": "https://play.google.com/store/apps/details?id=com.percent.aos.cooptd"
+      },
+      {
+        "rank": 46,
         "name": "Difference: Spot & Find Master",
         "id": "com.find.spot.photo.hunt.differences.free.hidden",
         "developer": "LifePulse Puzzle Game Studio",
         "url": "https://play.google.com/store/apps/details?id=com.find.spot.photo.hunt.differences.free.hidden"
       },
       {
-        "rank": 77,
-        "name": "Pokémon GO",
-        "id": "com.nianticlabs.pokemongo",
-        "developer": "Scopely Explore, Inc.",
-        "url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo"
+        "rank": 47,
+        "name": "Merge Cooktopia",
+        "id": "com.davincinote.twomergesimul",
+        "developer": "DaVinciNote",
+        "url": "https://play.google.com/store/apps/details?id=com.davincinote.twomergesimul"
       },
       {
-        "rank": 78,
-        "name": "Brain Puzzle: Tricky Test",
-        "id": "com.brain.puzzle.tricky.test.annoying.quest",
-        "developer": "SLEEK CHARM LIMITED",
-        "url": "https://play.google.com/store/apps/details?id=com.brain.puzzle.tricky.test.annoying.quest"
+        "rank": 48,
+        "name": "Royal Match",
+        "id": "com.dreamgames.royalmatch",
+        "developer": "Dream Games, Ltd.",
+        "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch"
       },
       {
-        "rank": 79,
-        "name": "Blade War:Three Kingdoms",
-        "id": "com.starutopia.global",
-        "developer": "EVISTA PTE. LTD.",
-        "url": "https://play.google.com/store/apps/details?id=com.starutopia.global"
+        "rank": 49,
+        "name": "Tasty Travels: Merge Game",
+        "id": "com.fatmerge.global",
+        "developer": "Century Games PTE. LTD.",
+        "url": "https://play.google.com/store/apps/details?id=com.fatmerge.global"
       },
       {
-        "rank": 80,
-        "name": "Geometry Dash Lite",
-        "id": "com.robtopx.geometryjumplite",
-        "developer": "RobTop Games",
-        "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite"
+        "rank": 50,
+        "name": "Bunker TapTap Defense",
+        "id": "com.TeamSparta.brd",
+        "developer": "Teamsparta Inc.",
+        "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.brd"
       },
       {
-        "rank": 81,
-        "name": "Magic Tiles 3™ - Piano Game",
-        "id": "com.youmusic.magictiles",
-        "developer": "AMANOTES PTE. LTD.",
-        "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles"
-      },
-      {
-        "rank": 82,
-        "name": "Music Piano 7: Tiles Song Game",
-        "id": "com.bunbunstudio.magicblocktiles",
-        "developer": "Melodya Muses",
-        "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles"
-      },
-      {
-        "rank": 83,
-        "name": "Foodie Pop!",
-        "id": "com.abi.foodpop",
-        "developer": "ABI GAMES PTE. LTD.",
-        "url": "https://play.google.com/store/apps/details?id=com.abi.foodpop"
-      },
-      {
-        "rank": 84,
-        "name": "Screw All Out - Jam Master",
-        "id": "com.warrior.screw.gp",
-        "developer": "Warrior Puzzle Game Studio",
-        "url": "https://play.google.com/store/apps/details?id=com.warrior.screw.gp"
-      },
-      {
-        "rank": 85,
-        "name": "Family Farm Merge",
-        "id": "com.roomperfect.global",
+        "rank": 51,
+        "name": "Lordrush",
+        "id": "com.s01.global",
         "developer": "Century Games Innovation Pte. Ltd.",
-        "url": "https://play.google.com/store/apps/details?id=com.roomperfect.global"
+        "url": "https://play.google.com/store/apps/details?id=com.s01.global"
       },
       {
-        "rank": 86,
-        "name": "Frost Valley™: Merge & Story",
-        "id": "com.liteorange.hometopia",
-        "developer": "Tuyoo Games (HK) Limited",
-        "url": "https://play.google.com/store/apps/details?id=com.liteorange.hometopia"
+        "rank": 52,
+        "name": "Infinite Stairs",
+        "id": "com.nflystudio.InfiniteStaircase",
+        "developer": "Neptune Corp.",
+        "url": "https://play.google.com/store/apps/details?id=com.nflystudio.InfiniteStaircase"
       },
       {
-        "rank": 87,
-        "name": "냥코 대전쟁",
-        "id": "jp.co.ponos.battlecatskr",
-        "developer": "PONOS Corporation",
-        "url": "https://play.google.com/store/apps/details?id=jp.co.ponos.battlecatskr"
+        "rank": 53,
+        "name": "Police Chief",
+        "id": "com.slg.policewar",
+        "developer": "VoyagerOne IE",
+        "url": "https://play.google.com/store/apps/details?id=com.slg.policewar"
       },
       {
-        "rank": 88,
-        "name": "Bus Master: Traffic Jam",
-        "id": "com.vcgames.bus.master.traffic.jam",
-        "developer": "Amobear Game Global",
-        "url": "https://play.google.com/store/apps/details?id=com.vcgames.bus.master.traffic.jam"
+        "rank": 54,
+        "name": "삼국지: 킹덤",
+        "id": "com.destiny3k.tmkr",
+        "developer": "Hot GameCenter",
+        "url": "https://play.google.com/store/apps/details?id=com.destiny3k.tmkr"
       },
       {
-        "rank": 89,
-        "name": "Block Out! - Color Sort Puzzle",
-        "id": "com.grandgames.catblockjam",
-        "developer": "Grand Games A.Ş.",
-        "url": "https://play.google.com/store/apps/details?id=com.grandgames.catblockjam"
+        "rank": 55,
+        "name": "Mahjong Blast",
+        "id": "com.nebula.mahjongtile",
+        "developer": "Nebula  Studio",
+        "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile"
       },
       {
-        "rank": 90,
-        "name": "Slow Mo Strike: Knives in Time",
-        "id": "com.kayac.slow_mo_strike",
-        "developer": "KAYAC Inc.",
-        "url": "https://play.google.com/store/apps/details?id=com.kayac.slow_mo_strike"
+        "rank": 56,
+        "name": "Pocket Sort: Coin Merge Puzzle",
+        "id": "com.pocket.sort.coin.puzzle.game",
+        "developer": "SayGames Ltd",
+        "url": "https://play.google.com/store/apps/details?id=com.pocket.sort.coin.puzzle.game"
       },
       {
-        "rank": 91,
+        "rank": 57,
+        "name": "Cell Survivor",
+        "id": "defense.roguelike.cell.shoot.survivor",
+        "developer": "Snap Brain Games",
+        "url": "https://play.google.com/store/apps/details?id=defense.roguelike.cell.shoot.survivor"
+      },
+      {
+        "rank": 58,
+        "name": "로그W : 리메인즈 오브 갓",
+        "id": "com.krd8.google",
+        "developer": "Efun Company",
+        "url": "https://play.google.com/store/apps/details?id=com.krd8.google"
+      },
+      {
+        "rank": 59,
+        "name": "Bulldozer Master: Crush & Mine",
+        "id": "io.supercent.bulldozermasters",
+        "developer": "Supercent, Inc.",
+        "url": "https://play.google.com/store/apps/details?id=io.supercent.bulldozermasters"
+      },
+      {
+        "rank": 60,
+        "name": "Chaos Zero Nightmare",
+        "id": "com.smilegate.chaoszero.stove.google",
+        "developer": "Smilegate, Inc.",
+        "url": "https://play.google.com/store/apps/details?id=com.smilegate.chaoszero.stove.google"
+      },
+      {
+        "rank": 61,
         "name": "Tricky Brain: Annoying Puzzle",
         "id": "com.tricky.brain.annoying.puzzle.prank.master",
         "developer": "FemeAves",
         "url": "https://play.google.com/store/apps/details?id=com.tricky.brain.annoying.puzzle.prank.master"
       },
       {
-        "rank": 92,
-        "name": "낱말퀴즈: Idiom Quiz Game",
-        "id": "word.games.puzzle.offline.games",
-        "developer": "Astrasen Global",
-        "url": "https://play.google.com/store/apps/details?id=word.games.puzzle.offline.games"
+        "rank": 62,
+        "name": "Block Crush - Block Blast Wood",
+        "id": "com.wood.block.sudoku.puzzle.bm",
+        "developer": "Wonderful  Studio",
+        "url": "https://play.google.com/store/apps/details?id=com.wood.block.sudoku.puzzle.bm"
       },
       {
-        "rank": 93,
-        "name": "Neon Fill",
-        "id": "com.kayac.NeonFill",
-        "developer": "KAYAC Inc.",
-        "url": "https://play.google.com/store/apps/details?id=com.kayac.NeonFill"
+        "rank": 63,
+        "name": "Flambé®: Merge & Cook",
+        "id": "com.cola.game",
+        "developer": "Microfun Limited",
+        "url": "https://play.google.com/store/apps/details?id=com.cola.game"
       },
       {
-        "rank": 94,
-        "name": "Jewel Coloring",
-        "id": "color.number.paint.pixle.art.sort.jigsaw",
-        "developer": "TaTa Game Technology Limited",
-        "url": "https://play.google.com/store/apps/details?id=color.number.paint.pixle.art.sort.jigsaw"
+        "rank": 64,
+        "name": "Vita Mahjong",
+        "id": "com.vitastudio.mahjong",
+        "developer": "Vita Studio.",
+        "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong"
       },
       {
-        "rank": 95,
-        "name": "Find The Cat 2 - Spot It!",
-        "id": "com.agavegames.findthecat2",
-        "developer": "Agave Games",
-        "url": "https://play.google.com/store/apps/details?id=com.agavegames.findthecat2"
+        "rank": 65,
+        "name": "Top Force",
+        "id": "com.project.idle.cd",
+        "developer": "Century Games Innovation Pte. Ltd.",
+        "url": "https://play.google.com/store/apps/details?id=com.project.idle.cd"
       },
       {
-        "rank": 96,
-        "name": "Yarn Loop",
-        "id": "com.combo.yarnflow",
-        "developer": "Combo Game",
-        "url": "https://play.google.com/store/apps/details?id=com.combo.yarnflow"
+        "rank": 66,
+        "name": "트릭컬 리바이브",
+        "id": "com.epidgames.trickcalrevive",
+        "developer": "EPIDGames",
+        "url": "https://play.google.com/store/apps/details?id=com.epidgames.trickcalrevive"
       },
       {
-        "rank": 97,
+        "rank": 67,
+        "name": "Kingshot",
+        "id": "com.run.tower.defense",
+        "developer": "Century Games PTE. LTD.",
+        "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense"
+      },
+      {
+        "rank": 68,
+        "name": "도원결의 : 방치형 삼국지",
+        "id": "com.codetiger.threekingdom",
+        "developer": "CODE TIGER",
+        "url": "https://play.google.com/store/apps/details?id=com.codetiger.threekingdom"
+      },
+      {
+        "rank": 69,
+        "name": "Disney Solitaire",
+        "id": "com.superplaystudios.disneysolitairedreams",
+        "developer": "SuperPlay.",
+        "url": "https://play.google.com/store/apps/details?id=com.superplaystudios.disneysolitairedreams"
+      },
+      {
+        "rank": 70,
+        "name": "이번 생은 야구다",
+        "id": "com.slbcareer.app",
+        "developer": "이번생 스튜디오",
+        "url": "https://play.google.com/store/apps/details?id=com.slbcareer.app"
+      },
+      {
+        "rank": 71,
         "name": "Keyboard Escape: +1 Speed ASMR",
         "id": "com.metax.obby.escape.run",
         "developer": "Goldoint",
         "url": "https://play.google.com/store/apps/details?id=com.metax.obby.escape.run"
       },
       {
-        "rank": 98,
-        "name": "Car Jam Solver: Traffic Jam",
-        "id": "car.parking.jam.solver.puzzle.games",
-        "developer": "Ladaneta Games",
-        "url": "https://play.google.com/store/apps/details?id=car.parking.jam.solver.puzzle.games"
+        "rank": 72,
+        "name": "Search It - Hidden Objects",
+        "id": "com.leap.searchit",
+        "developer": "Leap Game Studios",
+        "url": "https://play.google.com/store/apps/details?id=com.leap.searchit"
       },
       {
-        "rank": 99,
-        "name": "Wool Crush® - Yarn Color Sort",
-        "id": "wool.match.color.sort.jam.puzzle",
-        "developer": "Astrasen Global",
-        "url": "https://play.google.com/store/apps/details?id=wool.match.color.sort.jam.puzzle"
+        "rank": 73,
+        "name": "Colony Flow!",
+        "id": "com.abi.colony.flow",
+        "developer": "ABI GAMES PTE. LTD.",
+        "url": "https://play.google.com/store/apps/details?id=com.abi.colony.flow"
       },
       {
-        "rank": 100,
+        "rank": 74,
+        "name": "Only I Get Rich: Life Rewind",
+        "id": "com.seizemode.up",
+        "developer": "seizemode",
+        "url": "https://play.google.com/store/apps/details?id=com.seizemode.up"
+      },
+      {
+        "rank": 75,
+        "name": "Colordoku: Logic Puzzle",
+        "id": "com.clarkstudio.an.queen.colordoku",
+        "developer": "CLARK STUDIO",
+        "url": "https://play.google.com/store/apps/details?id=com.clarkstudio.an.queen.colordoku"
+      },
+      {
+        "rank": 76,
+        "name": "Pokémon GO",
+        "id": "com.nianticlabs.pokemongo",
+        "developer": "Scopely Explore, Inc.",
+        "url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo"
+      },
+      {
+        "rank": 77,
+        "name": "Township",
+        "id": "com.playrix.township",
+        "developer": "Playrix",
+        "url": "https://play.google.com/store/apps/details?id=com.playrix.township"
+      },
+      {
+        "rank": 78,
+        "name": "Magic Tiles 3™ - Piano Game",
+        "id": "com.youmusic.magictiles",
+        "developer": "AMANOTES PTE. LTD.",
+        "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles"
+      },
+      {
+        "rank": 79,
+        "name": "Tanghulu Master - Mukbang ASMR",
+        "id": "com.whoyaho.tanghulu",
+        "developer": "Whoyaho Corp.",
+        "url": "https://play.google.com/store/apps/details?id=com.whoyaho.tanghulu"
+      },
+      {
+        "rank": 80,
+        "name": "Magic Level 9 Music Piano Game",
+        "id": "beats.color.sing.star.rush",
+        "developer": "Beatwave Studio",
+        "url": "https://play.google.com/store/apps/details?id=beats.color.sing.star.rush"
+      },
+      {
+        "rank": 81,
+        "name": "MapleStory : Idle RPG",
+        "id": "com.nexon.ma",
+        "developer": "NEXON Company",
+        "url": "https://play.google.com/store/apps/details?id=com.nexon.ma"
+      },
+      {
+        "rank": 82,
+        "name": "Snake Clash!",
+        "id": "io.supercent.linkedcubic",
+        "developer": "Supercent, Inc.",
+        "url": "https://play.google.com/store/apps/details?id=io.supercent.linkedcubic"
+      },
+      {
+        "rank": 83,
+        "name": "루나 모바일: 부스팅 서버 소환권 1000장",
+        "id": "com.soulgames.luna19",
+        "developer": "soulgames",
+        "url": "https://play.google.com/store/apps/details?id=com.soulgames.luna19"
+      },
+      {
+        "rank": 84,
+        "name": "삼국지: 제후의 전쟁",
+        "id": "com.r3.zhzz1.kr",
+        "developer": "Reality Squared Games",
+        "url": "https://play.google.com/store/apps/details?id=com.r3.zhzz1.kr"
+      },
+      {
+        "rank": 85,
+        "name": "Screwdom 3D",
+        "id": "com.ig.screwdom",
+        "developer": "iKame Games - Zego Studio",
+        "url": "https://play.google.com/store/apps/details?id=com.ig.screwdom"
+      },
+      {
+        "rank": 86,
+        "name": "Hamdoku: Sudoku Logic Puzzle",
+        "id": "com.mobirix.hamdoku",
+        "developer": "mobirix",
+        "url": "https://play.google.com/store/apps/details?id=com.mobirix.hamdoku"
+      },
+      {
+        "rank": 87,
+        "name": "Paper.io 2",
+        "id": "io.voodoo.paper2",
+        "developer": "VOODOO",
+        "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2"
+      },
+      {
+        "rank": 88,
+        "name": "Foodstars: Merge & Cook",
+        "id": "com.merge.game.foodstars",
+        "developer": "Happibits Game",
+        "url": "https://play.google.com/store/apps/details?id=com.merge.game.foodstars"
+      },
+      {
+        "rank": 89,
+        "name": "Music Piano 7: Tiles Song Game",
+        "id": "com.bunbunstudio.magicblocktiles",
+        "developer": "Melodya Muses",
+        "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles"
+      },
+      {
+        "rank": 90,
+        "name": "Jigsort®: Solitaire",
+        "id": "jigsolitaire.jigsort.jigsaw.solitaire.puzzle",
+        "developer": "EasyFun Puzzle Game Studio",
+        "url": "https://play.google.com/store/apps/details?id=jigsolitaire.jigsort.jigsaw.solitaire.puzzle"
+      },
+      {
+        "rank": 91,
+        "name": "CubeAway - 3DPuzzle",
+        "id": "jp.co.goodroid.hyper.puzzle.arrows3dcubepuzzle",
+        "developer": "GOODROID,Inc.",
+        "url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.puzzle.arrows3dcubepuzzle"
+      },
+      {
+        "rank": 92,
         "name": "Arrow Rush: Water Color Sort",
         "id": "com.arrow.out.color.line.brian.puzzle",
         "developer": "Pleasure City",
         "url": "https://play.google.com/store/apps/details?id=com.arrow.out.color.line.brian.puzzle"
+      },
+      {
+        "rank": 93,
+        "name": "Block Out! - Color Sort Puzzle",
+        "id": "com.grandgames.catblockjam",
+        "developer": "Grand Games A.Ş.",
+        "url": "https://play.google.com/store/apps/details?id=com.grandgames.catblockjam"
+      },
+      {
+        "rank": 94,
+        "name": "Brain Puzzle 2: Logic Twist",
+        "id": "com.brain.logic.joygame",
+        "developer": "JoyGame Studio",
+        "url": "https://play.google.com/store/apps/details?id=com.brain.logic.joygame"
+      },
+      {
+        "rank": 95,
+        "name": "Goods Triple Match: Sorting 3D",
+        "id": "com.goods.sorting.games.triple.match3d.puzzle",
+        "developer": "Joymaster Puzzle Game Studio",
+        "url": "https://play.google.com/store/apps/details?id=com.goods.sorting.games.triple.match3d.puzzle"
+      },
+      {
+        "rank": 96,
+        "name": "Geometry Dash Lite",
+        "id": "com.robtopx.geometryjumplite",
+        "developer": "RobTop Games",
+        "url": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite"
+      },
+      {
+        "rank": 97,
+        "name": "Slow Mo Strike: Knives in Time",
+        "id": "com.kayac.slow_mo_strike",
+        "developer": "KAYAC Inc.",
+        "url": "https://play.google.com/store/apps/details?id=com.kayac.slow_mo_strike"
+      },
+      {
+        "rank": 98,
+        "name": "Hidden Object Games: Seek It",
+        "id": "hidden.object.find.seek.search.mystery.puzzle.games.free",
+        "developer": "NimbleMind Network Inc.",
+        "url": "https://play.google.com/store/apps/details?id=hidden.object.find.seek.search.mystery.puzzle.games.free"
+      },
+      {
+        "rank": 99,
+        "name": "Hole.io - Original Hole Game",
+        "id": "io.voodoo.holeio",
+        "developer": "VOODOO",
+        "url": "https://play.google.com/store/apps/details?id=io.voodoo.holeio"
+      },
+      {
+        "rank": 100,
+        "name": "Find The Cat 2 - Spot It!",
+        "id": "com.agavegames.findthecat2",
+        "developer": "Agave Games",
+        "url": "https://play.google.com/store/apps/details?id=com.agavegames.findthecat2"
       }
     ],
     "google_grossing": [
@@ -729,101 +729,101 @@
       },
       {
         "rank": 4,
-        "name": "MapleStory : Idle RPG",
-        "id": "com.nexon.ma",
-        "developer": "NEXON Company",
-        "url": "https://play.google.com/store/apps/details?id=com.nexon.ma"
-      },
-      {
-        "rank": 5,
-        "name": "Kingshot",
-        "id": "com.run.tower.defense",
-        "developer": "Century Games PTE. LTD.",
-        "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense"
-      },
-      {
-        "rank": 6,
-        "name": "리니지M",
-        "id": "com.ncsoft.lineagem19",
-        "developer": "NC Corporation",
-        "url": "https://play.google.com/store/apps/details?id=com.ncsoft.lineagem19"
-      },
-      {
-        "rank": 7,
         "name": "Gossip Harbor®: Merge & Story",
         "id": "com.mergegames.gossipharbor",
         "developer": "Microfun Limited",
         "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor"
       },
       {
-        "rank": 8,
-        "name": "Roblox",
-        "id": "com.roblox.client",
-        "developer": "Roblox Corporation",
-        "url": "https://play.google.com/store/apps/details?id=com.roblox.client"
+        "rank": 5,
+        "name": "리니지M",
+        "id": "com.ncsoft.lineagem19",
+        "developer": "NC Corporation",
+        "url": "https://play.google.com/store/apps/details?id=com.ncsoft.lineagem19"
       },
       {
-        "rank": 9,
-        "name": "Wuthering Waves",
-        "id": "com.kurogame.wutheringwaves.global",
-        "developer": "HK KURO GAMES LIMITED",
-        "url": "https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global"
-      },
-      {
-        "rank": 10,
-        "name": "이클립스: 더 어웨이크닝",
-        "id": "com.smilegate.eclipse.stove.google",
-        "developer": "Smilegate, Inc.",
-        "url": "https://play.google.com/store/apps/details?id=com.smilegate.eclipse.stove.google"
-      },
-      {
-        "rank": 11,
-        "name": "Royal Match",
-        "id": "com.dreamgames.royalmatch",
-        "developer": "Dream Games, Ltd.",
-        "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch"
-      },
-      {
-        "rank": 12,
-        "name": "Zenless Zone Zero",
-        "id": "com.HoYoverse.Nap",
-        "developer": "COGNOSPHERE PTE. LTD.",
-        "url": "https://play.google.com/store/apps/details?id=com.HoYoverse.Nap"
-      },
-      {
-        "rank": 13,
-        "name": "Chaos Zero Nightmare",
-        "id": "com.smilegate.chaoszero.stove.google",
-        "developer": "Smilegate, Inc.",
-        "url": "https://play.google.com/store/apps/details?id=com.smilegate.chaoszero.stove.google"
-      },
-      {
-        "rank": 14,
+        "rank": 6,
         "name": "SOL: enchant",
         "id": "com.netmarble.sol",
         "developer": "Netmarble",
         "url": "https://play.google.com/store/apps/details?id=com.netmarble.sol"
       },
       {
-        "rank": 15,
-        "name": "명일방주",
-        "id": "com.YoStarKR.Arknights",
-        "developer": "Yostar Limited.",
-        "url": "https://play.google.com/store/apps/details?id=com.YoStarKR.Arknights"
+        "rank": 7,
+        "name": "Roblox",
+        "id": "com.roblox.client",
+        "developer": "Roblox Corporation",
+        "url": "https://play.google.com/store/apps/details?id=com.roblox.client"
       },
       {
-        "rank": 16,
+        "rank": 8,
+        "name": "Royal Match",
+        "id": "com.dreamgames.royalmatch",
+        "developer": "Dream Games, Ltd.",
+        "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch"
+      },
+      {
+        "rank": 9,
+        "name": "Kingshot",
+        "id": "com.run.tower.defense",
+        "developer": "Century Games PTE. LTD.",
+        "url": "https://play.google.com/store/apps/details?id=com.run.tower.defense"
+      },
+      {
+        "rank": 10,
+        "name": "Wuthering Waves",
+        "id": "com.kurogame.wutheringwaves.global",
+        "developer": "HK KURO GAMES LIMITED",
+        "url": "https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global"
+      },
+      {
+        "rank": 11,
+        "name": "Zenless Zone Zero",
+        "id": "com.HoYoverse.Nap",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "url": "https://play.google.com/store/apps/details?id=com.HoYoverse.Nap"
+      },
+      {
+        "rank": 12,
+        "name": "Chaos Zero Nightmare",
+        "id": "com.smilegate.chaoszero.stove.google",
+        "developer": "Smilegate, Inc.",
+        "url": "https://play.google.com/store/apps/details?id=com.smilegate.chaoszero.stove.google"
+      },
+      {
+        "rank": 13,
+        "name": "MapleStory : Idle RPG",
+        "id": "com.nexon.ma",
+        "developer": "NEXON Company",
+        "url": "https://play.google.com/store/apps/details?id=com.nexon.ma"
+      },
+      {
+        "rank": 14,
         "name": "Lucky Defense",
         "id": "com.percent.aos.luckydefense",
         "developer": "111%",
         "url": "https://play.google.com/store/apps/details?id=com.percent.aos.luckydefense"
       },
       {
+        "rank": 15,
+        "name": "Last War:Survival Game",
+        "id": "com.fun.lastwar.gp",
+        "developer": "FUNFLY PTE. LTD.",
+        "url": "https://play.google.com/store/apps/details?id=com.fun.lastwar.gp"
+      },
+      {
+        "rank": 16,
+        "name": "이클립스: 더 어웨이크닝",
+        "id": "com.smilegate.eclipse.stove.google",
+        "developer": "Smilegate, Inc.",
+        "url": "https://play.google.com/store/apps/details?id=com.smilegate.eclipse.stove.google"
+      },
+      {
         "rank": 17,
-        "name": "오딘: 발할라 라이징",
-        "id": "com.kakaogames.odin",
-        "developer": "Kakao Games Corp.",
-        "url": "https://play.google.com/store/apps/details?id=com.kakaogames.odin"
+        "name": "Coop TD: Together",
+        "id": "com.percent.aos.cooptd",
+        "developer": "Supermagic",
+        "url": "https://play.google.com/store/apps/details?id=com.percent.aos.cooptd"
       },
       {
         "rank": 18,
@@ -834,10 +834,10 @@
       },
       {
         "rank": 19,
-        "name": "Last War:Survival Game",
-        "id": "com.fun.lastwar.gp",
-        "developer": "FUNFLY PTE. LTD.",
-        "url": "https://play.google.com/store/apps/details?id=com.fun.lastwar.gp"
+        "name": "오딘: 발할라 라이징",
+        "id": "com.kakaogames.odin",
+        "developer": "Kakao Games Corp.",
+        "url": "https://play.google.com/store/apps/details?id=com.kakaogames.odin"
       },
       {
         "rank": 20,
@@ -855,136 +855,136 @@
       },
       {
         "rank": 22,
-        "name": "후더덕 서바이벌-777뽑기 증정",
-        "id": "com.mrtgd2kr.google",
-        "developer": "Joy Nice Games",
-        "url": "https://play.google.com/store/apps/details?id=com.mrtgd2kr.google"
-      },
-      {
-        "rank": 23,
         "name": "열혈강호: 넥스트",
         "id": "com.rxjhglkr.gp",
         "developer": "Kingnet Technology Limited",
         "url": "https://play.google.com/store/apps/details?id=com.rxjhglkr.gp"
       },
       {
-        "rank": 24,
-        "name": "우마무스메 프리티 더비",
-        "id": "com.kakaogames.umamusume",
-        "developer": "Kakao Games Corp.",
-        "url": "https://play.google.com/store/apps/details?id=com.kakaogames.umamusume"
+        "rank": 23,
+        "name": "후더덕 서바이벌-777뽑기 증정",
+        "id": "com.mrtgd2kr.google",
+        "developer": "Joy Nice Games",
+        "url": "https://play.google.com/store/apps/details?id=com.mrtgd2kr.google"
       },
       {
-        "rank": 25,
+        "rank": 24,
         "name": "Gardenscapes",
         "id": "com.playrix.gardenscapes",
         "developer": "Playrix",
         "url": "https://play.google.com/store/apps/details?id=com.playrix.gardenscapes"
       },
       {
-        "rank": 26,
+        "rank": 25,
         "name": "Seaside Escape®: Merge & Story",
         "id": "com.gamedots.seasideescape",
         "developer": "Microfun Limited",
         "url": "https://play.google.com/store/apps/details?id=com.gamedots.seasideescape"
       },
       {
-        "rank": 27,
-        "name": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
-        "id": "com.nhnent.pokerclassic",
-        "developer": "NHN Corp.",
-        "url": "https://play.google.com/store/apps/details?id=com.nhnent.pokerclassic"
-      },
-      {
-        "rank": 28,
+        "rank": 26,
         "name": "Royal Kingdom",
         "id": "com.dreamgames.royalkingdom",
         "developer": "Dream Games, Ltd.",
         "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom"
       },
       {
-        "rank": 29,
+        "rank": 27,
         "name": "Last Asylum: Plague",
         "id": "com.phs.global",
         "developer": "37GAMES GLOBAL",
         "url": "https://play.google.com/store/apps/details?id=com.phs.global"
       },
       {
-        "rank": 30,
-        "name": "Wild Water World",
-        "id": "com.iyagames.flotshelter",
-        "developer": "Hong Kong Just Game Technology Limited",
-        "url": "https://play.google.com/store/apps/details?id=com.iyagames.flotshelter"
-      },
-      {
-        "rank": 31,
-        "name": "FC 모바일",
-        "id": "com.nexon.fmk",
-        "developer": "NEXON Company",
-        "url": "https://play.google.com/store/apps/details?id=com.nexon.fmk"
-      },
-      {
-        "rank": 32,
-        "name": "로그W : 리메인즈 오브 갓",
-        "id": "com.krd8.google",
-        "developer": "Efun Company",
-        "url": "https://play.google.com/store/apps/details?id=com.krd8.google"
-      },
-      {
-        "rank": 33,
-        "name": "마비노기 모바일",
-        "id": "com.nexon.devcat.mm",
-        "developer": "NEXON Company",
-        "url": "https://play.google.com/store/apps/details?id=com.nexon.devcat.mm"
-      },
-      {
-        "rank": 34,
+        "rank": 28,
         "name": "Last Z: Survival Shooter",
         "id": "com.readygo.barrel.gp",
         "developer": "Omnilojo Pte Ltd",
         "url": "https://play.google.com/store/apps/details?id=com.readygo.barrel.gp"
       },
       {
+        "rank": 29,
+        "name": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯",
+        "id": "com.nhnent.pokerclassic",
+        "developer": "NHN Corp.",
+        "url": "https://play.google.com/store/apps/details?id=com.nhnent.pokerclassic"
+      },
+      {
+        "rank": 30,
+        "name": "FC 모바일",
+        "id": "com.nexon.fmk",
+        "developer": "NEXON Company",
+        "url": "https://play.google.com/store/apps/details?id=com.nexon.fmk"
+      },
+      {
+        "rank": 31,
+        "name": "던전앤파이터 모바일",
+        "id": "com.nexon.mdnf",
+        "developer": "NEXON Company",
+        "url": "https://play.google.com/store/apps/details?id=com.nexon.mdnf"
+      },
+      {
+        "rank": 32,
+        "name": "Wild Water World",
+        "id": "com.iyagames.flotshelter",
+        "developer": "Hong Kong Just Game Technology Limited",
+        "url": "https://play.google.com/store/apps/details?id=com.iyagames.flotshelter"
+      },
+      {
+        "rank": 33,
+        "name": "NTE: Neverness to Everness",
+        "id": "com.hottagames.nte",
+        "developer": "N2E",
+        "url": "https://play.google.com/store/apps/details?id=com.hottagames.nte"
+      },
+      {
+        "rank": 34,
+        "name": "로그W : 리메인즈 오브 갓",
+        "id": "com.krd8.google",
+        "developer": "Efun Company",
+        "url": "https://play.google.com/store/apps/details?id=com.krd8.google"
+      },
+      {
         "rank": 35,
-        "name": "SD Gundam G Generation ETERNAL",
-        "id": "com.bandainamcoent.gget_WW",
-        "developer": "Bandai Namco Entertainment Inc.",
-        "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.gget_WW"
+        "name": "컴투스프로야구V26",
+        "id": "com.com2us.futurecpb.android.google.global.normal",
+        "developer": "Com2uS",
+        "url": "https://play.google.com/store/apps/details?id=com.com2us.futurecpb.android.google.global.normal"
       },
       {
         "rank": 36,
-        "name": "Limbus Company",
-        "id": "com.ProjectMoon.LimbusCompany",
-        "developer": "Project Moon",
-        "url": "https://play.google.com/store/apps/details?id=com.ProjectMoon.LimbusCompany"
+        "name": "RF ONLINE NEXT",
+        "id": "com.netmarble.rfnext",
+        "developer": "Netmarble",
+        "url": "https://play.google.com/store/apps/details?id=com.netmarble.rfnext"
       },
       {
         "rank": 37,
-        "name": "Arknights: Endfield",
-        "id": "com.gryphline.endfield.gp",
-        "developer": "GRYPHLINE",
-        "url": "https://play.google.com/store/apps/details?id=com.gryphline.endfield.gp"
+        "name": "씰M2",
+        "id": "com.playwith.seal2.google",
+        "developer": "PlaywithKorea Inc.",
+        "url": "https://play.google.com/store/apps/details?id=com.playwith.seal2.google"
       },
       {
         "rank": 38,
+        "name": "CookieRun: Crumble - Idle RPG",
+        "id": "com.devsisters.cc",
+        "developer": "Devsisters Corporation",
+        "url": "https://play.google.com/store/apps/details?id=com.devsisters.cc"
+      },
+      {
+        "rank": 39,
         "name": "Hollywood Merge",
         "id": "com.hollywood.merge",
         "developer": "VoyagerOne IE",
         "url": "https://play.google.com/store/apps/details?id=com.hollywood.merge"
       },
       {
-        "rank": 39,
-        "name": "트릭컬 리바이브",
-        "id": "com.epidgames.trickcalrevive",
-        "developer": "EPIDGames",
-        "url": "https://play.google.com/store/apps/details?id=com.epidgames.trickcalrevive"
-      },
-      {
         "rank": 40,
-        "name": "컴투스프로야구V26",
-        "id": "com.com2us.futurecpb.android.google.global.normal",
-        "developer": "Com2uS",
-        "url": "https://play.google.com/store/apps/details?id=com.com2us.futurecpb.android.google.global.normal"
+        "name": "Hearthstone",
+        "id": "com.blizzard.wtcg.hearthstone",
+        "developer": "Blizzard Entertainment, Inc.",
+        "url": "https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone"
       },
       {
         "rank": 41,
@@ -995,87 +995,87 @@
       },
       {
         "rank": 42,
-        "name": "Hearthstone",
-        "id": "com.blizzard.wtcg.hearthstone",
-        "developer": "Blizzard Entertainment, Inc.",
-        "url": "https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone"
-      },
-      {
-        "rank": 43,
-        "name": "CookieRun: Crumble - Idle RPG",
-        "id": "com.devsisters.cc",
-        "developer": "Devsisters Corporation",
-        "url": "https://play.google.com/store/apps/details?id=com.devsisters.cc"
-      },
-      {
-        "rank": 44,
-        "name": "Candy Crush Saga",
-        "id": "com.king.candycrushsaga",
-        "developer": "King",
-        "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga"
-      },
-      {
-        "rank": 45,
-        "name": "Pmang Poker : Casino Royal",
-        "id": "com.neowiz.games.poker",
-        "developer": "NEOWIZ corp",
-        "url": "https://play.google.com/store/apps/details?id=com.neowiz.games.poker"
-      },
-      {
-        "rank": 46,
         "name": "Mystery Town: Merge Games",
         "id": "com.cedargames.mysterytown",
         "developer": "Cedar Games Studio",
         "url": "https://play.google.com/store/apps/details?id=com.cedargames.mysterytown"
       },
       {
-        "rank": 47,
-        "name": "Homescapes",
-        "id": "com.playrix.homescapes",
-        "developer": "Playrix",
-        "url": "https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+        "rank": 43,
+        "name": "CookieRun: Kingdom",
+        "id": "com.devsisters.ck",
+        "developer": "Devsisters Corporation",
+        "url": "https://play.google.com/store/apps/details?id=com.devsisters.ck"
       },
       {
-        "rank": 48,
-        "name": "GODDESS OF VICTORY: NIKKE",
-        "id": "com.proximabeta.nikke",
-        "developer": "Level Infinite",
-        "url": "https://play.google.com/store/apps/details?id=com.proximabeta.nikke"
+        "rank": 44,
+        "name": "CookieRun: OvenBreak",
+        "id": "com.devsisters.gb",
+        "developer": "Devsisters Corporation",
+        "url": "https://play.google.com/store/apps/details?id=com.devsisters.gb"
       },
       {
-        "rank": 49,
-        "name": "씰M2",
-        "id": "com.playwith.seal2.google",
-        "developer": "PlaywithKorea Inc.",
-        "url": "https://play.google.com/store/apps/details?id=com.playwith.seal2.google"
-      },
-      {
-        "rank": 50,
-        "name": "삼국지: 천하결전",
-        "id": "com.bhk.newslgkr",
-        "developer": "BILIBILI",
-        "url": "https://play.google.com/store/apps/details?id=com.bhk.newslgkr"
-      },
-      {
-        "rank": 51,
-        "name": "Township",
-        "id": "com.playrix.township",
-        "developer": "Playrix",
-        "url": "https://play.google.com/store/apps/details?id=com.playrix.township"
-      },
-      {
-        "rank": 52,
+        "rank": 45,
         "name": "Top Force",
         "id": "com.project.idle.cd",
         "developer": "Century Games Innovation Pte. Ltd.",
         "url": "https://play.google.com/store/apps/details?id=com.project.idle.cd"
       },
       {
+        "rank": 46,
+        "name": "트릭컬 리바이브",
+        "id": "com.epidgames.trickcalrevive",
+        "developer": "EPIDGames",
+        "url": "https://play.google.com/store/apps/details?id=com.epidgames.trickcalrevive"
+      },
+      {
+        "rank": 47,
+        "name": "GODDESS OF VICTORY: NIKKE",
+        "id": "com.proximabeta.nikke",
+        "developer": "Level Infinite",
+        "url": "https://play.google.com/store/apps/details?id=com.proximabeta.nikke"
+      },
+      {
+        "rank": 48,
+        "name": "명일방주",
+        "id": "com.YoStarKR.Arknights",
+        "developer": "Yostar Limited.",
+        "url": "https://play.google.com/store/apps/details?id=com.YoStarKR.Arknights"
+      },
+      {
+        "rank": 49,
+        "name": "Candy Crush Saga",
+        "id": "com.king.candycrushsaga",
+        "developer": "King",
+        "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga"
+      },
+      {
+        "rank": 50,
+        "name": "Township",
+        "id": "com.playrix.township",
+        "developer": "Playrix",
+        "url": "https://play.google.com/store/apps/details?id=com.playrix.township"
+      },
+      {
+        "rank": 51,
+        "name": "Lordrush",
+        "id": "com.s01.global",
+        "developer": "Century Games Innovation Pte. Ltd.",
+        "url": "https://play.google.com/store/apps/details?id=com.s01.global"
+      },
+      {
+        "rank": 52,
+        "name": "Homescapes",
+        "id": "com.playrix.homescapes",
+        "developer": "Playrix",
+        "url": "https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+      },
+      {
         "rank": 53,
-        "name": "Flambé®: Merge & Cook",
-        "id": "com.cola.game",
-        "developer": "Microfun Limited",
-        "url": "https://play.google.com/store/apps/details?id=com.cola.game"
+        "name": "컴투스프로야구2026",
+        "id": "com.com2us.probaseball3d.normal.freefull.google.global.android.common",
+        "developer": "Com2uS",
+        "url": "https://play.google.com/store/apps/details?id=com.com2us.probaseball3d.normal.freefull.google.global.android.common"
       },
       {
         "rank": 54,
@@ -1086,325 +1086,325 @@
       },
       {
         "rank": 55,
-        "name": "Lordrush",
-        "id": "com.s01.global",
-        "developer": "Century Games Innovation Pte. Ltd.",
-        "url": "https://play.google.com/store/apps/details?id=com.s01.global"
+        "name": "Flambé®: Merge & Cook",
+        "id": "com.cola.game",
+        "developer": "Microfun Limited",
+        "url": "https://play.google.com/store/apps/details?id=com.cola.game"
       },
       {
         "rank": 56,
-        "name": "리니지2M",
-        "id": "com.ncsoft.lineage2m19",
-        "developer": "NC Corporation",
-        "url": "https://play.google.com/store/apps/details?id=com.ncsoft.lineage2m19"
+        "name": "Pmang Poker : Casino Royal",
+        "id": "com.neowiz.games.poker",
+        "developer": "NEOWIZ corp",
+        "url": "https://play.google.com/store/apps/details?id=com.neowiz.games.poker"
       },
       {
         "rank": 57,
-        "name": "Seven Knights Re:BIRTH",
-        "id": "com.netmarble.tskgb",
-        "developer": "Netmarble",
-        "url": "https://play.google.com/store/apps/details?id=com.netmarble.tskgb"
-      },
-      {
-        "rank": 58,
-        "name": "한게임 섯다&맞고",
-        "id": "com.NHNEnt.MSudda",
-        "developer": "NHN Corp.",
-        "url": "https://play.google.com/store/apps/details?id=com.NHNEnt.MSudda"
-      },
-      {
-        "rank": 59,
-        "name": "Vampir",
-        "id": "com.netmarble.thered",
-        "developer": "Netmarble",
-        "url": "https://play.google.com/store/apps/details?id=com.netmarble.thered"
-      },
-      {
-        "rank": 60,
-        "name": "Pokémon GO",
-        "id": "com.nianticlabs.pokemongo",
-        "developer": "Scopely Explore, Inc.",
-        "url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo"
-      },
-      {
-        "rank": 61,
-        "name": "던전앤파이터 모바일",
-        "id": "com.nexon.mdnf",
-        "developer": "NEXON Company",
-        "url": "https://play.google.com/store/apps/details?id=com.nexon.mdnf"
-      },
-      {
-        "rank": 62,
-        "name": "Tiles Survive!",
-        "id": "com.funplus.ts.global",
-        "developer": "FunPlus International AG",
-        "url": "https://play.google.com/store/apps/details?id=com.funplus.ts.global"
-      },
-      {
-        "rank": 63,
-        "name": "State of Survival: Zombie War",
-        "id": "com.kingsgroup.sos",
-        "developer": "FunPlus International AG",
-        "url": "https://play.google.com/store/apps/details?id=com.kingsgroup.sos"
-      },
-      {
-        "rank": 64,
-        "name": "MONGIL: STAR DIVE",
-        "id": "com.netmarble.monster2",
-        "developer": "Netmarble",
-        "url": "https://play.google.com/store/apps/details?id=com.netmarble.monster2"
-      },
-      {
-        "rank": 65,
-        "name": "Honkai: Star Rail",
-        "id": "com.HoYoverse.hkrpgoversea",
-        "developer": "COGNOSPHERE PTE. LTD.",
-        "url": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea"
-      },
-      {
-        "rank": 66,
-        "name": "냥코 대전쟁",
-        "id": "jp.co.ponos.battlecatskr",
-        "developer": "PONOS Corporation",
-        "url": "https://play.google.com/store/apps/details?id=jp.co.ponos.battlecatskr"
-      },
-      {
-        "rank": 67,
-        "name": "Idle Cat Gunner: Shooter RPG",
-        "id": "com.Chodun.CatGunner",
-        "developer": "NEPTUNE(TREEPLLA)",
-        "url": "https://play.google.com/store/apps/details?id=com.Chodun.CatGunner"
-      },
-      {
-        "rank": 68,
-        "name": "Coop TD: Together",
-        "id": "com.percent.aos.cooptd",
-        "developer": "Supermagic",
-        "url": "https://play.google.com/store/apps/details?id=com.percent.aos.cooptd"
-      },
-      {
-        "rank": 69,
-        "name": "Summoners War",
-        "id": "com.com2us.smon.normal.freefull.google.kr.android.common",
-        "developer": "Com2uS",
-        "url": "https://play.google.com/store/apps/details?id=com.com2us.smon.normal.freefull.google.kr.android.common"
-      },
-      {
-        "rank": 70,
         "name": "Brawl Stars",
         "id": "com.supercell.brawlstars",
         "developer": "Supercell",
         "url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars"
       },
       {
-        "rank": 71,
+        "rank": 58,
+        "name": "Pokémon GO",
+        "id": "com.nianticlabs.pokemongo",
+        "developer": "Scopely Explore, Inc.",
+        "url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo"
+      },
+      {
+        "rank": 59,
+        "name": "리니지2M",
+        "id": "com.ncsoft.lineage2m19",
+        "developer": "NC Corporation",
+        "url": "https://play.google.com/store/apps/details?id=com.ncsoft.lineage2m19"
+      },
+      {
+        "rank": 60,
+        "name": "한게임 섯다&맞고",
+        "id": "com.NHNEnt.MSudda",
+        "developer": "NHN Corp.",
+        "url": "https://play.google.com/store/apps/details?id=com.NHNEnt.MSudda"
+      },
+      {
+        "rank": 61,
+        "name": "Seven Knights Re:BIRTH",
+        "id": "com.netmarble.tskgb",
+        "developer": "Netmarble",
+        "url": "https://play.google.com/store/apps/details?id=com.netmarble.tskgb"
+      },
+      {
+        "rank": 62,
         "name": "뮤 모나크",
         "id": "com.webzen.muangel.google",
         "developer": "Webzen Inc.",
         "url": "https://play.google.com/store/apps/details?id=com.webzen.muangel.google"
       },
       {
-        "rank": 72,
-        "name": "FC 온라인 M",
-        "id": "com.nexon.fo4m",
-        "developer": "NEXON Company",
-        "url": "https://play.google.com/store/apps/details?id=com.nexon.fo4m"
+        "rank": 63,
+        "name": "냥코 대전쟁",
+        "id": "jp.co.ponos.battlecatskr",
+        "developer": "PONOS Corporation",
+        "url": "https://play.google.com/store/apps/details?id=jp.co.ponos.battlecatskr"
       },
       {
-        "rank": 73,
-        "name": "뮤 모나크2",
-        "id": "com.webzen.mumonarch2.google",
-        "developer": "Webzen Inc.",
-        "url": "https://play.google.com/store/apps/details?id=com.webzen.mumonarch2.google"
-      },
-      {
-        "rank": 74,
-        "name": "I9: 인페르노 나인",
-        "id": "com.kr.firegp",
-        "developer": "Leniu Technology Co., Limited",
-        "url": "https://play.google.com/store/apps/details?id=com.kr.firegp"
-      },
-      {
-        "rank": 75,
-        "name": "컴투스프로야구2026",
-        "id": "com.com2us.probaseball3d.normal.freefull.google.global.android.common",
-        "developer": "Com2uS",
-        "url": "https://play.google.com/store/apps/details?id=com.com2us.probaseball3d.normal.freefull.google.global.android.common"
-      },
-      {
-        "rank": 76,
-        "name": "Blue Archive",
-        "id": "com.nexon.bluearchive",
-        "developer": "NEXON Company",
-        "url": "https://play.google.com/store/apps/details?id=com.nexon.bluearchive"
-      },
-      {
-        "rank": 77,
-        "name": "Travel Town - 결합 어드벤처",
-        "id": "io.randomco.travel",
-        "developer": "Magmatic Games LTD",
-        "url": "https://play.google.com/store/apps/details?id=io.randomco.travel"
-      },
-      {
-        "rank": 78,
-        "name": "나만 SSS급 퇴마사",
-        "id": "com.fmkr.az",
-        "developer": "Stardome Game",
-        "url": "https://play.google.com/store/apps/details?id=com.fmkr.az"
-      },
-      {
-        "rank": 79,
-        "name": "Torchlight: Infinite",
-        "id": "com.xd.TLglobal",
-        "developer": "XD Entertainment Pte Ltd",
-        "url": "https://play.google.com/store/apps/details?id=com.xd.TLglobal"
-      },
-      {
-        "rank": 80,
-        "name": "한게임 신맞고 : 대한민국 원조 고스톱",
-        "id": "com.NHNEnt.NDuelgo",
-        "developer": "NHN Corp.",
-        "url": "https://play.google.com/store/apps/details?id=com.NHNEnt.NDuelgo"
-      },
-      {
-        "rank": 81,
-        "name": "메이플스토리M",
-        "id": "com.nexon.nsc.maplem",
-        "developer": "NEXON Company",
-        "url": "https://play.google.com/store/apps/details?id=com.nexon.nsc.maplem"
-      },
-      {
-        "rank": 82,
+        "rank": 64,
         "name": "PUBG Mobile",
         "id": "com.pubg.krmobile",
         "developer": "KRAFTON, Inc.",
         "url": "https://play.google.com/store/apps/details?id=com.pubg.krmobile"
       },
       {
-        "rank": 83,
+        "rank": 65,
+        "name": "Vampir",
+        "id": "com.netmarble.thered",
+        "developer": "Netmarble",
+        "url": "https://play.google.com/store/apps/details?id=com.netmarble.thered"
+      },
+      {
+        "rank": 66,
+        "name": "Tiles Survive!",
+        "id": "com.funplus.ts.global",
+        "developer": "FunPlus International AG",
+        "url": "https://play.google.com/store/apps/details?id=com.funplus.ts.global"
+      },
+      {
+        "rank": 67,
+        "name": "MONGIL: STAR DIVE",
+        "id": "com.netmarble.monster2",
+        "developer": "Netmarble",
+        "url": "https://play.google.com/store/apps/details?id=com.netmarble.monster2"
+      },
+      {
+        "rank": 68,
+        "name": "State of Survival: Zombie War",
+        "id": "com.kingsgroup.sos",
+        "developer": "FunPlus International AG",
+        "url": "https://play.google.com/store/apps/details?id=com.kingsgroup.sos"
+      },
+      {
+        "rank": 69,
+        "name": "Idle Cat Gunner: Shooter RPG",
+        "id": "com.Chodun.CatGunner",
+        "developer": "NEPTUNE(TREEPLLA)",
+        "url": "https://play.google.com/store/apps/details?id=com.Chodun.CatGunner"
+      },
+      {
+        "rank": 70,
+        "name": "I9: 인페르노 나인",
+        "id": "com.kr.firegp",
+        "developer": "Leniu Technology Co., Limited",
+        "url": "https://play.google.com/store/apps/details?id=com.kr.firegp"
+      },
+      {
+        "rank": 71,
+        "name": "Travel Town - 결합 어드벤처",
+        "id": "io.randomco.travel",
+        "developer": "Magmatic Games LTD",
+        "url": "https://play.google.com/store/apps/details?id=io.randomco.travel"
+      },
+      {
+        "rank": 72,
+        "name": "나만 SSS급 퇴마사",
+        "id": "com.fmkr.az",
+        "developer": "Stardome Game",
+        "url": "https://play.google.com/store/apps/details?id=com.fmkr.az"
+      },
+      {
+        "rank": 73,
+        "name": "FC 온라인 M",
+        "id": "com.nexon.fo4m",
+        "developer": "NEXON Company",
+        "url": "https://play.google.com/store/apps/details?id=com.nexon.fo4m"
+      },
+      {
+        "rank": 74,
+        "name": "뮤 모나크2",
+        "id": "com.webzen.mumonarch2.google",
+        "developer": "Webzen Inc.",
+        "url": "https://play.google.com/store/apps/details?id=com.webzen.mumonarch2.google"
+      },
+      {
+        "rank": 75,
+        "name": "스텔라 소라",
+        "id": "com.YoStarKR.StellaSora",
+        "developer": "Yostar Limited.",
+        "url": "https://play.google.com/store/apps/details?id=com.YoStarKR.StellaSora"
+      },
+      {
+        "rank": 76,
+        "name": "Honkai: Star Rail",
+        "id": "com.HoYoverse.hkrpgoversea",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "url": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea"
+      },
+      {
+        "rank": 77,
+        "name": "한게임 신맞고 : 대한민국 원조 고스톱",
+        "id": "com.NHNEnt.NDuelgo",
+        "developer": "NHN Corp.",
+        "url": "https://play.google.com/store/apps/details?id=com.NHNEnt.NDuelgo"
+      },
+      {
+        "rank": 78,
+        "name": "Survivor: Ace",
+        "id": "com.survivor.ace",
+        "developer": "Gorilla Studio",
+        "url": "https://play.google.com/store/apps/details?id=com.survivor.ace"
+      },
+      {
+        "rank": 79,
+        "name": "마비노기 모바일",
+        "id": "com.nexon.devcat.mm",
+        "developer": "NEXON Company",
+        "url": "https://play.google.com/store/apps/details?id=com.nexon.devcat.mm"
+      },
+      {
+        "rank": 80,
         "name": "Disney Solitaire",
         "id": "com.superplaystudios.disneysolitairedreams",
         "developer": "SuperPlay.",
         "url": "https://play.google.com/store/apps/details?id=com.superplaystudios.disneysolitairedreams"
       },
       {
-        "rank": 84,
-        "name": "Genshin Impact 6th Anniversary",
-        "id": "com.miHoYo.GenshinImpact",
-        "developer": "COGNOSPHERE PTE. LTD.",
-        "url": "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact"
+        "rank": 81,
+        "name": "TFT: Teamfight Tactics",
+        "id": "com.riotgames.league.teamfighttactics",
+        "developer": "Riot Games, Inc",
+        "url": "https://play.google.com/store/apps/details?id=com.riotgames.league.teamfighttactics"
       },
       {
-        "rank": 85,
-        "name": "eFootball™",
-        "id": "jp.konami.pesam",
-        "developer": "KONAMI",
-        "url": "https://play.google.com/store/apps/details?id=jp.konami.pesam"
-      },
-      {
-        "rank": 86,
-        "name": "피망 뉴맞고: 고스톱 대표 맞고 게임",
-        "id": "com.neowiz.games.newmatgo",
-        "developer": "NEOWIZ corp",
-        "url": "https://play.google.com/store/apps/details?id=com.neowiz.games.newmatgo"
-      },
-      {
-        "rank": 87,
-        "name": "RAVEN2",
-        "id": "com.netmarble.raven2",
-        "developer": "Netmarble",
-        "url": "https://play.google.com/store/apps/details?id=com.netmarble.raven2"
-      },
-      {
-        "rank": 88,
+        "rank": 82,
         "name": "히어로즈 테일즈2",
         "id": "com.tg.ysczg.kr",
         "developer": "37 Mobile Games",
         "url": "https://play.google.com/store/apps/details?id=com.tg.ysczg.kr"
       },
       {
-        "rank": 89,
-        "name": "League of Legends: Wild Rift",
-        "id": "com.riotgames.league.wildrift",
-        "developer": "Riot Games, Inc",
-        "url": "https://play.google.com/store/apps/details?id=com.riotgames.league.wildrift"
+        "rank": 83,
+        "name": "Limbus Company",
+        "id": "com.ProjectMoon.LimbusCompany",
+        "developer": "Project Moon",
+        "url": "https://play.google.com/store/apps/details?id=com.ProjectMoon.LimbusCompany"
       },
       {
-        "rank": 90,
-        "name": "기적의 검",
-        "id": "com.qjzj4399kr.google",
-        "developer": "4399 KOREA",
-        "url": "https://play.google.com/store/apps/details?id=com.qjzj4399kr.google"
+        "rank": 84,
+        "name": "RAVEN2",
+        "id": "com.netmarble.raven2",
+        "developer": "Netmarble",
+        "url": "https://play.google.com/store/apps/details?id=com.netmarble.raven2"
       },
       {
-        "rank": 91,
-        "name": "Merge Teahouse",
-        "id": "com.mhclyxpb.gatja",
-        "developer": "X.P. Games",
-        "url": "https://play.google.com/store/apps/details?id=com.mhclyxpb.gatja"
+        "rank": 85,
+        "name": "SD Gundam G Generation ETERNAL",
+        "id": "com.bandainamcoent.gget_WW",
+        "developer": "Bandai Namco Entertainment Inc.",
+        "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.gget_WW"
       },
       {
-        "rank": 92,
+        "rank": 86,
+        "name": "로드나인",
+        "id": "com.smilegate.lordnine.stove.google",
+        "developer": "Smilegate, Inc.",
+        "url": "https://play.google.com/store/apps/details?id=com.smilegate.lordnine.stove.google"
+      },
+      {
+        "rank": 87,
         "name": "삼국지: 제후의 전쟁",
         "id": "com.r3.zhzz1.kr",
         "developer": "Reality Squared Games",
         "url": "https://play.google.com/store/apps/details?id=com.r3.zhzz1.kr"
       },
       {
+        "rank": 88,
+        "name": "우마무스메 프리티 더비",
+        "id": "com.kakaogames.umamusume",
+        "developer": "Kakao Games Corp.",
+        "url": "https://play.google.com/store/apps/details?id=com.kakaogames.umamusume"
+      },
+      {
+        "rank": 89,
+        "name": "피망 뉴맞고: 고스톱 대표 맞고 게임",
+        "id": "com.neowiz.games.newmatgo",
+        "developer": "NEOWIZ corp",
+        "url": "https://play.google.com/store/apps/details?id=com.neowiz.games.newmatgo"
+      },
+      {
+        "rank": 90,
+        "name": "Soul Hunter Idle: AFK RPG",
+        "id": "com.ryonggame.soulhunteridle",
+        "developer": "RyongGames",
+        "url": "https://play.google.com/store/apps/details?id=com.ryonggame.soulhunteridle"
+      },
+      {
+        "rank": 91,
+        "name": "메이플스토리M",
+        "id": "com.nexon.nsc.maplem",
+        "developer": "NEXON Company",
+        "url": "https://play.google.com/store/apps/details?id=com.nexon.nsc.maplem"
+      },
+      {
+        "rank": 92,
+        "name": "Merge Teahouse",
+        "id": "com.mhclyxpb.gatja",
+        "developer": "X.P. Games",
+        "url": "https://play.google.com/store/apps/details?id=com.mhclyxpb.gatja"
+      },
+      {
         "rank": 93,
-        "name": "Domino Dreams™",
-        "id": "com.screenshake.dominodreams",
-        "developer": "SuperPlay.",
-        "url": "https://play.google.com/store/apps/details?id=com.screenshake.dominodreams"
-      },
-      {
-        "rank": 94,
-        "name": "갓깨비 키우기-999뽑기 증정",
-        "id": "com.zzsjkr.google",
-        "developer": "Joy Nice Games",
-        "url": "https://play.google.com/store/apps/details?id=com.zzsjkr.google"
-      },
-      {
-        "rank": 95,
         "name": "Dark War Survival",
         "id": "com.readygo.dark.gp",
         "developer": "Omnilojo Pte Ltd",
         "url": "https://play.google.com/store/apps/details?id=com.readygo.dark.gp"
       },
       {
-        "rank": 96,
-        "name": "Slayer Legend : Idle RPG",
-        "id": "com.gear2.growslayer",
-        "developer": "GEAR2",
-        "url": "https://play.google.com/store/apps/details?id=com.gear2.growslayer"
+        "rank": 94,
+        "name": "Domino Dreams™",
+        "id": "com.screenshake.dominodreams",
+        "developer": "SuperPlay.",
+        "url": "https://play.google.com/store/apps/details?id=com.screenshake.dominodreams"
       },
       {
-        "rank": 97,
-        "name": "AION2",
-        "id": "com.ncsoft.aion2",
-        "developer": "NC Corporation",
-        "url": "https://play.google.com/store/apps/details?id=com.ncsoft.aion2"
-      },
-      {
-        "rank": 98,
+        "rank": 95,
         "name": "Z Route: Redemption",
         "id": "com.zroute.global",
         "developer": "37GAMES GLOBAL",
         "url": "https://play.google.com/store/apps/details?id=com.zroute.global"
       },
       {
+        "rank": 96,
+        "name": "Overgeared Hero: Merge RPG",
+        "id": "com.fiveminlab.overgeared.hero.backpack.merge",
+        "developer": "5minlab Corp.",
+        "url": "https://play.google.com/store/apps/details?id=com.fiveminlab.overgeared.hero.backpack.merge"
+      },
+      {
+        "rank": 97,
+        "name": "기적의 검",
+        "id": "com.qjzj4399kr.google",
+        "developer": "4399 KOREA",
+        "url": "https://play.google.com/store/apps/details?id=com.qjzj4399kr.google"
+      },
+      {
+        "rank": 98,
+        "name": "Foodstars: Merge & Cook",
+        "id": "com.merge.game.foodstars",
+        "developer": "Happibits Game",
+        "url": "https://play.google.com/store/apps/details?id=com.merge.game.foodstars"
+      },
+      {
         "rank": 99,
-        "name": "WPL:Texas Hold'em, MTT, Sit&Go",
-        "id": "com.zempot.wplpoker",
-        "developer": "Zempot INC.",
-        "url": "https://play.google.com/store/apps/details?id=com.zempot.wplpoker"
+        "name": "eFootball™",
+        "id": "jp.konami.pesam",
+        "developer": "KONAMI",
+        "url": "https://play.google.com/store/apps/details?id=jp.konami.pesam"
       },
       {
         "rank": 100,
-        "name": "데블2M",
-        "id": "com.tg.jsxw.kr",
-        "developer": "37 Mobile Games",
-        "url": "https://play.google.com/store/apps/details?id=com.tg.jsxw.kr"
+        "name": "League of Legends: Wild Rift",
+        "id": "com.riotgames.league.wildrift",
+        "developer": "Riot Games, Inc",
+        "url": "https://play.google.com/store/apps/details?id=com.riotgames.league.wildrift"
       }
     ],
     "apple_popular": [
@@ -1494,17 +1494,17 @@
       },
       {
         "rank": 13,
-        "name": "마법의 정렬 (Magic Sort!)",
-        "id": "6499209744",
-        "developer": "Grand Games A.Ş.",
-        "url": "https://apps.apple.com/kr/app/%EB%A7%88%EB%B2%95%EC%9D%98-%EC%A0%95%EB%A0%AC-magic-sort/id6499209744?uo=2"
-      },
-      {
-        "rank": 14,
         "name": "도깨비의세계",
         "id": "6758975161",
         "developer": "Kakao Games Corp.",
         "url": "https://apps.apple.com/kr/app/%EB%8F%84%EA%B9%A8%EB%B9%84%EC%9D%98%EC%84%B8%EA%B3%84/id6758975161?uo=2"
+      },
+      {
+        "rank": 14,
+        "name": "마법의 정렬 (Magic Sort!)",
+        "id": "6499209744",
+        "developer": "Grand Games A.Ş.",
+        "url": "https://apps.apple.com/kr/app/%EB%A7%88%EB%B2%95%EC%9D%98-%EC%A0%95%EB%A0%AC-magic-sort/id6499209744?uo=2"
       },
       {
         "rank": 15,
@@ -1543,10 +1543,10 @@
       },
       {
         "rank": 20,
-        "name": "무기 마스터：방치형 RPG",
-        "id": "6791394610",
-        "developer": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
-        "url": "https://apps.apple.com/kr/app/%EB%AC%B4%EA%B8%B0-%EB%A7%88%EC%8A%A4%ED%84%B0-%EB%B0%A9%EC%B9%98%ED%98%95-rpg/id6791394610?uo=2"
+        "name": "Bus Traffic Fever!",
+        "id": "6759763476",
+        "developer": "GOODROID,Inc.",
+        "url": "https://apps.apple.com/kr/app/bus-traffic-fever/id6759763476?uo=2"
       },
       {
         "rank": 21,
@@ -1557,10 +1557,10 @@
       },
       {
         "rank": 22,
-        "name": "Bus Traffic Fever!",
-        "id": "6759763476",
-        "developer": "GOODROID,Inc.",
-        "url": "https://apps.apple.com/kr/app/bus-traffic-fever/id6759763476?uo=2"
+        "name": "무기 마스터：방치형 RPG",
+        "id": "6791394610",
+        "developer": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
+        "url": "https://apps.apple.com/kr/app/%EB%AC%B4%EA%B8%B0-%EB%A7%88%EC%8A%A4%ED%84%B0-%EB%B0%A9%EC%B9%98%ED%98%95-rpg/id6791394610?uo=2"
       },
       {
         "rank": 23,
@@ -1592,17 +1592,17 @@
       },
       {
         "rank": 27,
-        "name": "Bus Fever Party! 버스게임교통체증차빼기퍼즐",
-        "id": "6746743297",
-        "developer": "Lumi Games",
-        "url": "https://apps.apple.com/kr/app/bus-fever-party-%EB%B2%84%EC%8A%A4%EA%B2%8C%EC%9E%84%EA%B5%90%ED%86%B5%EC%B2%B4%EC%A6%9D%EC%B0%A8%EB%B9%BC%EA%B8%B0%ED%8D%BC%EC%A6%90/id6746743297?uo=2"
-      },
-      {
-        "rank": 28,
         "name": "ArrowCube - 3DPuzzle",
         "id": "6760325543",
         "developer": "GOODROID,Inc.",
         "url": "https://apps.apple.com/kr/app/arrowcube-3dpuzzle/id6760325543?uo=2"
+      },
+      {
+        "rank": 28,
+        "name": "Bus Fever Party! 버스게임교통체증차빼기퍼즐",
+        "id": "6746743297",
+        "developer": "Lumi Games",
+        "url": "https://apps.apple.com/kr/app/bus-fever-party-%EB%B2%84%EC%8A%A4%EA%B2%8C%EC%9E%84%EA%B5%90%ED%86%B5%EC%B2%B4%EC%A6%9D%EC%B0%A8%EB%B9%BC%EA%B8%B0%ED%8D%BC%EC%A6%90/id6746743297?uo=2"
       },
       {
         "rank": 29,
@@ -1648,38 +1648,38 @@
       },
       {
         "rank": 35,
-        "name": "Smash Fest!",
-        "id": "6748084174",
-        "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
-        "url": "https://apps.apple.com/kr/app/smash-fest/id6748084174?uo=2"
-      },
-      {
-        "rank": 36,
         "name": "Screwdom : 나사와 볼트 퍼즐",
         "id": "6740043080",
         "developer": "Zego Global Pte Ltd",
         "url": "https://apps.apple.com/kr/app/screwdom-%EB%82%98%EC%82%AC%EC%99%80-%EB%B3%BC%ED%8A%B8-%ED%8D%BC%EC%A6%90/id6740043080?uo=2"
       },
       {
-        "rank": 37,
+        "rank": 36,
         "name": "협타디: 협동 타워 디펜스",
         "id": "6503702666",
         "developer": "SuperMagic",
         "url": "https://apps.apple.com/kr/app/%ED%98%91%ED%83%80%EB%94%94-%ED%98%91%EB%8F%99-%ED%83%80%EC%9B%8C-%EB%94%94%ED%8E%9C%EC%8A%A4/id6503702666?uo=2"
       },
       {
+        "rank": 37,
+        "name": "Smash Fest!",
+        "id": "6748084174",
+        "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
+        "url": "https://apps.apple.com/kr/app/smash-fest/id6748084174?uo=2"
+      },
+      {
         "rank": 38,
+        "name": "아이러브레스토랑 : 고양이와 매장 경영",
+        "id": "6792678112",
+        "developer": "SONEW",
+        "url": "https://apps.apple.com/kr/app/%EC%95%84%EC%9D%B4%EB%9F%AC%EB%B8%8C%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91-%EA%B3%A0%EC%96%91%EC%9D%B4%EC%99%80-%EB%A7%A4%EC%9E%A5-%EA%B2%BD%EC%98%81/id6792678112?uo=2"
+      },
+      {
+        "rank": 39,
         "name": "푸드스타（Foodstars）: 합쳐서 요리하기",
         "id": "6753862216",
         "developer": "Happibits",
         "url": "https://apps.apple.com/kr/app/%ED%91%B8%EB%93%9C%EC%8A%A4%ED%83%80-foodstars-%ED%95%A9%EC%B3%90%EC%84%9C-%EC%9A%94%EB%A6%AC%ED%95%98%EA%B8%B0/id6753862216?uo=2"
-      },
-      {
-        "rank": 39,
-        "name": "Search It - Hidden Objects",
-        "id": "6756185760",
-        "developer": "LEAP BILISIM TEKNOLOJILERI VE YAZILIM TICARET ANONIM SIRKETI",
-        "url": "https://apps.apple.com/kr/app/search-it-hidden-objects/id6756185760?uo=2"
       },
       {
         "rank": 40,
@@ -1690,38 +1690,38 @@
       },
       {
         "rank": 41,
-        "name": "TopTop: 게임, 채팅 & 친구들",
-        "id": "6760818996",
-        "developer": "MX INNOVATION PTE. LTD.",
-        "url": "https://apps.apple.com/kr/app/toptop-%EA%B2%8C%EC%9E%84-%EC%B1%84%ED%8C%85-%EC%B9%9C%EA%B5%AC%EB%93%A4/id6760818996?uo=2"
-      },
-      {
-        "rank": 42,
-        "name": "나 혼자만 상한가 : 회귀 인생게임",
-        "id": "6790010650",
-        "developer": "SEIZEMODE",
-        "url": "https://apps.apple.com/kr/app/%EB%82%98-%ED%98%BC%EC%9E%90%EB%A7%8C-%EC%83%81%ED%95%9C%EA%B0%80-%ED%9A%8C%EA%B7%80-%EC%9D%B8%EC%83%9D%EA%B2%8C%EC%9E%84/id6790010650?uo=2"
-      },
-      {
-        "rank": 43,
-        "name": "Fish Sort Puzzle: 물고기 정렬 거품 게임",
-        "id": "6771681639",
-        "developer": "Shycheese",
-        "url": "https://apps.apple.com/kr/app/fish-sort-puzzle-%EB%AC%BC%EA%B3%A0%EA%B8%B0-%EC%A0%95%EB%A0%AC-%EA%B1%B0%ED%92%88-%EA%B2%8C%EC%9E%84/id6771681639?uo=2"
-      },
-      {
-        "rank": 44,
         "name": "배틀그라운드",
         "id": "1366526331",
         "developer": "KRAFTON Inc",
         "url": "https://apps.apple.com/kr/app/%EB%B0%B0%ED%8B%80%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C/id1366526331?uo=2"
       },
       {
+        "rank": 42,
+        "name": "TopTop: 게임, 채팅 & 친구들",
+        "id": "6760818996",
+        "developer": "MX INNOVATION PTE. LTD.",
+        "url": "https://apps.apple.com/kr/app/toptop-%EA%B2%8C%EC%9E%84-%EC%B1%84%ED%8C%85-%EC%B9%9C%EA%B5%AC%EB%93%A4/id6760818996?uo=2"
+      },
+      {
+        "rank": 43,
+        "name": "Search It - Hidden Objects",
+        "id": "6756185760",
+        "developer": "LEAP BILISIM TEKNOLOJILERI VE YAZILIM TICARET ANONIM SIRKETI",
+        "url": "https://apps.apple.com/kr/app/search-it-hidden-objects/id6756185760?uo=2"
+      },
+      {
+        "rank": 44,
+        "name": "나 혼자만 상한가 : 회귀 인생게임",
+        "id": "6790010650",
+        "developer": "SEIZEMODE",
+        "url": "https://apps.apple.com/kr/app/%EB%82%98-%ED%98%BC%EC%9E%90%EB%A7%8C-%EC%83%81%ED%95%9C%EA%B0%80-%ED%9A%8C%EA%B7%80-%EC%9D%B8%EC%83%9D%EA%B2%8C%EC%9E%84/id6790010650?uo=2"
+      },
+      {
         "rank": 45,
-        "name": "아이러브레스토랑 : 고양이와 매장 경영",
-        "id": "6792678112",
-        "developer": "SONEW",
-        "url": "https://apps.apple.com/kr/app/%EC%95%84%EC%9D%B4%EB%9F%AC%EB%B8%8C%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91-%EA%B3%A0%EC%96%91%EC%9D%B4%EC%99%80-%EB%A7%A4%EC%9E%A5-%EA%B2%BD%EC%98%81/id6792678112?uo=2"
+        "name": "Fish Sort Puzzle: 물고기 정렬 거품 게임",
+        "id": "6771681639",
+        "developer": "Shycheese",
+        "url": "https://apps.apple.com/kr/app/fish-sort-puzzle-%EB%AC%BC%EA%B3%A0%EA%B8%B0-%EC%A0%95%EB%A0%AC-%EA%B1%B0%ED%92%88-%EA%B2%8C%EC%9E%84/id6771681639?uo=2"
       },
       {
         "rank": 46,
@@ -1746,31 +1746,31 @@
       },
       {
         "rank": 49,
-        "name": "꿈의 마을 (Township)",
-        "id": "638689075",
-        "developer": "Playrix",
-        "url": "https://apps.apple.com/kr/app/%EA%BF%88%EC%9D%98-%EB%A7%88%EC%9D%84-township/id638689075?uo=2"
-      },
-      {
-        "rank": 50,
         "name": "로테이트 링스 (Rotate Rings)",
         "id": "6793924927",
         "developer": "Nebula Studio",
         "url": "https://apps.apple.com/kr/app/%EB%A1%9C%ED%85%8C%EC%9D%B4%ED%8A%B8-%EB%A7%81%EC%8A%A4-rotate-rings/id6793924927?uo=2"
       },
       {
-        "rank": 51,
+        "rank": 50,
         "name": "소년가행: 강호의 시작",
         "id": "6768501839",
         "developer": "Dreamplay Games Inc.",
         "url": "https://apps.apple.com/kr/app/%EC%86%8C%EB%85%84%EA%B0%80%ED%96%89-%EA%B0%95%ED%98%B8%EC%9D%98-%EC%8B%9C%EC%9E%91/id6768501839?uo=2"
       },
       {
+        "rank": 51,
+        "name": "꿈의 마을 (Township)",
+        "id": "638689075",
+        "developer": "Playrix",
+        "url": "https://apps.apple.com/kr/app/%EA%BF%88%EC%9D%98-%EB%A7%88%EC%9D%84-township/id638689075?uo=2"
+      },
+      {
         "rank": 52,
-        "name": "머지 패션: 로맨스 스토리(Merge Fashion)",
-        "id": "6737874398",
-        "developer": "Wind's Choice Tech Limited",
-        "url": "https://apps.apple.com/kr/app/%EB%A8%B8%EC%A7%80-%ED%8C%A8%EC%85%98-%EB%A1%9C%EB%A7%A8%EC%8A%A4-%EC%8A%A4%ED%86%A0%EB%A6%AC-merge-fashion/id6737874398?uo=2"
+        "name": "무한의 계단",
+        "id": "947742764",
+        "developer": "Neptune Company",
+        "url": "https://apps.apple.com/kr/app/%EB%AC%B4%ED%95%9C%EC%9D%98-%EA%B3%84%EB%8B%A8/id947742764?uo=2"
       },
       {
         "rank": 53,
@@ -1781,38 +1781,38 @@
       },
       {
         "rank": 54,
-        "name": "무한의 계단",
-        "id": "947742764",
-        "developer": "Neptune Company",
-        "url": "https://apps.apple.com/kr/app/%EB%AC%B4%ED%95%9C%EC%9D%98-%EA%B3%84%EB%8B%A8/id947742764?uo=2"
-      },
-      {
-        "rank": 55,
         "name": "Sand Blocks: Drop Puzzle",
         "id": "6757140488",
         "developer": "Rollic Games",
         "url": "https://apps.apple.com/kr/app/sand-blocks-drop-puzzle/id6757140488?uo=2"
       },
       {
+        "rank": 55,
+        "name": "머지 패션: 로맨스 스토리(Merge Fashion)",
+        "id": "6737874398",
+        "developer": "Wind's Choice Tech Limited",
+        "url": "https://apps.apple.com/kr/app/%EB%A8%B8%EC%A7%80-%ED%8C%A8%EC%85%98-%EB%A1%9C%EB%A7%A8%EC%8A%A4-%EC%8A%A4%ED%86%A0%EB%A6%AC-merge-fashion/id6737874398?uo=2"
+      },
+      {
         "rank": 56,
+        "name": "브롤스타즈",
+        "id": "1229016807",
+        "developer": "Supercell",
+        "url": "https://apps.apple.com/kr/app/%EB%B8%8C%EB%A1%A4%EC%8A%A4%ED%83%80%EC%A6%88/id1229016807?uo=2"
+      },
+      {
+        "rank": 57,
         "name": "Brain Puzzle 2: Logic Twist",
         "id": "6747063674",
         "developer": "SmallStep Dev Team",
         "url": "https://apps.apple.com/kr/app/brain-puzzle-2-logic-twist/id6747063674?uo=2"
       },
       {
-        "rank": 57,
+        "rank": 58,
         "name": "Rummikub",
         "id": "1015322991",
         "developer": "Kinkajoo Ltd",
         "url": "https://apps.apple.com/kr/app/rummikub/id1015322991?uo=2"
-      },
-      {
-        "rank": 58,
-        "name": "Sled Surfers - 슬로프 어드벤처",
-        "id": "6744975195",
-        "developer": "Crazy Labs",
-        "url": "https://apps.apple.com/kr/app/sled-surfers-%EC%8A%AC%EB%A1%9C%ED%94%84-%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B2%98/id6744975195?uo=2"
       },
       {
         "rank": 59,
@@ -1823,24 +1823,24 @@
       },
       {
         "rank": 60,
-        "name": "수련충 리마스터",
-        "id": "6803365307",
-        "developer": "DAERI SOFT",
-        "url": "https://apps.apple.com/kr/app/%EC%88%98%EB%A0%A8%EC%B6%A9-%EB%A6%AC%EB%A7%88%EC%8A%A4%ED%84%B0/id6803365307?uo=2"
-      },
-      {
-        "rank": 61,
         "name": "컴투스프로야구V26",
         "id": "1458848044",
         "developer": "Com2uS Corp.",
         "url": "https://apps.apple.com/kr/app/%EC%BB%B4%ED%88%AC%EC%8A%A4%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%ACv26/id1458848044?uo=2"
       },
       {
+        "rank": 61,
+        "name": "수련충 리마스터",
+        "id": "6803365307",
+        "developer": "DAERI SOFT",
+        "url": "https://apps.apple.com/kr/app/%EC%88%98%EB%A0%A8%EC%B6%A9-%EB%A6%AC%EB%A7%88%EC%8A%A4%ED%84%B0/id6803365307?uo=2"
+      },
+      {
         "rank": 62,
-        "name": "브롤스타즈",
-        "id": "1229016807",
-        "developer": "Supercell",
-        "url": "https://apps.apple.com/kr/app/%EB%B8%8C%EB%A1%A4%EC%8A%A4%ED%83%80%EC%A6%88/id1229016807?uo=2"
+        "name": "Sled Surfers - 슬로프 어드벤처",
+        "id": "6744975195",
+        "developer": "Crazy Labs",
+        "url": "https://apps.apple.com/kr/app/sled-surfers-%EC%8A%AC%EB%A1%9C%ED%94%84-%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B2%98/id6744975195?uo=2"
       },
       {
         "rank": 63,
@@ -1865,52 +1865,52 @@
       },
       {
         "rank": 66,
-        "name": "Cat Collector: 진짜 고양이",
-        "id": "6783591388",
-        "developer": "Nftstory",
-        "url": "https://apps.apple.com/kr/app/cat-collector-%EC%A7%84%EC%A7%9C-%EA%B3%A0%EC%96%91%EC%9D%B4/id6783591388?uo=2"
-      },
-      {
-        "rank": 67,
-        "name": "스도쿠 - 클래식 로직 퍼즐 게임",
-        "id": "1193508329",
-        "developer": "Easybrain Ltd",
-        "url": "https://apps.apple.com/kr/app/%EC%8A%A4%EB%8F%84%EC%BF%A0-%ED%81%B4%EB%9E%98%EC%8B%9D-%EB%A1%9C%EC%A7%81-%ED%8D%BC%EC%A6%90-%EA%B2%8C%EC%9E%84/id1193508329?uo=2"
-      },
-      {
-        "rank": 68,
-        "name": "Top Force: 탑 포스",
-        "id": "6761893238",
-        "developer": "Century Games Innovation Pte. Ltd.",
-        "url": "https://apps.apple.com/kr/app/top-force-%ED%83%91-%ED%8F%AC%EC%8A%A4/id6761893238?uo=2"
-      },
-      {
-        "rank": 69,
         "name": "나사 3D 퍼즐: 핀 풀기 게임",
         "id": "6749300334",
         "developer": "Kiwi Fun HK Limited",
         "url": "https://apps.apple.com/kr/app/%EB%82%98%EC%82%AC-3d-%ED%8D%BC%EC%A6%90-%ED%95%80-%ED%92%80%EA%B8%B0-%EA%B2%8C%EC%9E%84/id6749300334?uo=2"
       },
       {
-        "rank": 70,
+        "rank": 67,
+        "name": "Cat Collector: 진짜 고양이",
+        "id": "6783591388",
+        "developer": "Nftstory",
+        "url": "https://apps.apple.com/kr/app/cat-collector-%EC%A7%84%EC%A7%9C-%EA%B3%A0%EC%96%91%EC%9D%B4/id6783591388?uo=2"
+      },
+      {
+        "rank": 68,
+        "name": "스도쿠 - 클래식 로직 퍼즐 게임",
+        "id": "1193508329",
+        "developer": "Easybrain Ltd",
+        "url": "https://apps.apple.com/kr/app/%EC%8A%A4%EB%8F%84%EC%BF%A0-%ED%81%B4%EB%9E%98%EC%8B%9D-%EB%A1%9C%EC%A7%81-%ED%8D%BC%EC%A6%90-%EA%B2%8C%EC%9E%84/id1193508329?uo=2"
+      },
+      {
+        "rank": 69,
         "name": "후더덕 서바이벌",
         "id": "6793854765",
         "developer": "Joy Net Games",
         "url": "https://apps.apple.com/kr/app/%ED%9B%84%EB%8D%94%EB%8D%95-%EC%84%9C%EB%B0%94%EC%9D%B4%EB%B2%8C/id6793854765?uo=2"
       },
       {
-        "rank": 71,
+        "rank": 70,
         "name": "의미심장 스토리",
         "id": "6762239563",
         "developer": "CHICKEN SKIN LLC",
         "url": "https://apps.apple.com/kr/app/%EC%9D%98%EB%AF%B8%EC%8B%AC%EC%9E%A5-%EC%8A%A4%ED%86%A0%EB%A6%AC/id6762239563?uo=2"
       },
       {
+        "rank": 71,
+        "name": "Top Force: 탑 포스",
+        "id": "6761893238",
+        "developer": "Century Games Innovation Pte. Ltd.",
+        "url": "https://apps.apple.com/kr/app/top-force-%ED%83%91-%ED%8F%AC%EC%8A%A4/id6761893238?uo=2"
+      },
+      {
         "rank": 72,
-        "name": "Exponential Idle",
-        "id": "1538487382",
-        "developer": "Gilles-Philippe Paille",
-        "url": "https://apps.apple.com/kr/app/exponential-idle/id1538487382?uo=2"
+        "name": "구해줄거냥? : 고양이 마을 퍼즐",
+        "id": "6761253603",
+        "developer": "Nanali Inc.",
+        "url": "https://apps.apple.com/kr/app/%EA%B5%AC%ED%95%B4%EC%A4%84%EA%B1%B0%EB%83%A5-%EA%B3%A0%EC%96%91%EC%9D%B4-%EB%A7%88%EC%9D%84-%ED%8D%BC%EC%A6%90/id6761253603?uo=2"
       },
       {
         "rank": 73,
@@ -1935,94 +1935,94 @@
       },
       {
         "rank": 76,
-        "name": "구해줄거냥? : 고양이 마을 퍼즐",
-        "id": "6761253603",
-        "developer": "Nanali Inc.",
-        "url": "https://apps.apple.com/kr/app/%EA%B5%AC%ED%95%B4%EC%A4%84%EA%B1%B0%EB%83%A5-%EA%B3%A0%EC%96%91%EC%9D%B4-%EB%A7%88%EC%9D%84-%ED%8D%BC%EC%A6%90/id6761253603?uo=2"
-      },
-      {
-        "rank": 77,
-        "name": "계급장 키우기",
-        "id": "1347671890",
-        "developer": "Jongchan Yoon",
-        "url": "https://apps.apple.com/kr/app/%EA%B3%84%EA%B8%89%EC%9E%A5-%ED%82%A4%EC%9A%B0%EA%B8%B0/id1347671890?uo=2"
-      },
-      {
-        "rank": 78,
-        "name": "Geometry Dash Lite",
-        "id": "698255242",
-        "developer": "RobTop Games AB",
-        "url": "https://apps.apple.com/kr/app/geometry-dash-lite/id698255242?uo=2"
-      },
-      {
-        "rank": 79,
         "name": "메이플 키우기",
         "id": "6739616715",
         "developer": "NEXON Company",
         "url": "https://apps.apple.com/kr/app/%EB%A9%94%EC%9D%B4%ED%94%8C-%ED%82%A4%EC%9A%B0%EA%B8%B0/id6739616715?uo=2"
       },
       {
-        "rank": 80,
-        "name": "Cookingo: Perfect Meal",
-        "id": "6756288168",
-        "developer": "Higame Global Limited",
-        "url": "https://apps.apple.com/kr/app/cookingo-perfect-meal/id6756288168?uo=2"
+        "rank": 77,
+        "name": "Exponential Idle",
+        "id": "1538487382",
+        "developer": "Gilles-Philippe Paille",
+        "url": "https://apps.apple.com/kr/app/exponential-idle/id1538487382?uo=2"
       },
       {
-        "rank": 81,
-        "name": "라스트 어사일럼: 페스트",
-        "id": "6756989323",
-        "developer": "WISENESS GAME ONLINE INTERNATIONAL LTD",
-        "url": "https://apps.apple.com/kr/app/%EB%9D%BC%EC%8A%A4%ED%8A%B8-%EC%96%B4%EC%82%AC%EC%9D%BC%EB%9F%BC-%ED%8E%98%EC%8A%A4%ED%8A%B8/id6756989323?uo=2"
-      },
-      {
-        "rank": 82,
-        "name": "Jewel Loop - Coloring Sort",
-        "id": "6790707229",
-        "developer": "Ta Ta Game Technology Limited",
-        "url": "https://apps.apple.com/kr/app/jewel-loop-coloring-sort/id6790707229?uo=2"
-      },
-      {
-        "rank": 83,
+        "rank": 78,
         "name": "미스터리 타운: 합성 게임 (Mystery Town)",
         "id": "6503603603",
         "developer": "Cedar Games Studio",
         "url": "https://apps.apple.com/kr/app/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC-%ED%83%80%EC%9A%B4-%ED%95%A9%EC%84%B1-%EA%B2%8C%EC%9E%84-mystery-town/id6503603603?uo=2"
       },
       {
-        "rank": 84,
+        "rank": 79,
+        "name": "라스트 어사일럼: 페스트",
+        "id": "6756989323",
+        "developer": "WISENESS GAME ONLINE INTERNATIONAL LTD",
+        "url": "https://apps.apple.com/kr/app/%EB%9D%BC%EC%8A%A4%ED%8A%B8-%EC%96%B4%EC%82%AC%EC%9D%BC%EB%9F%BC-%ED%8E%98%EC%8A%A4%ED%8A%B8/id6756989323?uo=2"
+      },
+      {
+        "rank": 80,
+        "name": "Geometry Dash Lite",
+        "id": "698255242",
+        "developer": "RobTop Games AB",
+        "url": "https://apps.apple.com/kr/app/geometry-dash-lite/id698255242?uo=2"
+      },
+      {
+        "rank": 81,
+        "name": "Jewel Loop - Coloring Sort",
+        "id": "6790707229",
+        "developer": "Ta Ta Game Technology Limited",
+        "url": "https://apps.apple.com/kr/app/jewel-loop-coloring-sort/id6790707229?uo=2"
+      },
+      {
+        "rank": 82,
+        "name": "계급장 키우기",
+        "id": "1347671890",
+        "developer": "Jongchan Yoon",
+        "url": "https://apps.apple.com/kr/app/%EA%B3%84%EA%B8%89%EC%9E%A5-%ED%82%A4%EC%9A%B0%EA%B8%B0/id1347671890?uo=2"
+      },
+      {
+        "rank": 83,
         "name": "템빨용사: 픽셀 아이템 머지 RPG",
         "id": "6755585789",
         "developer": "5minlab Co., Ltd.",
         "url": "https://apps.apple.com/kr/app/%ED%85%9C%EB%B9%A8%EC%9A%A9%EC%82%AC-%ED%94%BD%EC%85%80-%EC%95%84%EC%9D%B4%ED%85%9C-%EB%A8%B8%EC%A7%80-rpg/id6755585789?uo=2"
       },
       {
-        "rank": 85,
-        "name": "매직 타일 3™: 리듬 피아노 게임",
-        "id": "1443446174",
-        "developer": "Amanotes Pte. Ltd.",
-        "url": "https://apps.apple.com/kr/app/%EB%A7%A4%EC%A7%81-%ED%83%80%EC%9D%BC-3-%EB%A6%AC%EB%93%AC-%ED%94%BC%EC%95%84%EB%85%B8-%EA%B2%8C%EC%9E%84/id1443446174?uo=2"
-      },
-      {
-        "rank": 86,
+        "rank": 84,
         "name": "한게임 포커",
         "id": "1471486284",
         "developer": "NHN Corp.",
         "url": "https://apps.apple.com/kr/app/%ED%95%9C%EA%B2%8C%EC%9E%84-%ED%8F%AC%EC%BB%A4/id1471486284?uo=2"
       },
       {
-        "rank": 87,
-        "name": "나의 축구영웅 키우기",
-        "id": "6819031624",
-        "developer": "HANNA KWON",
-        "url": "https://apps.apple.com/kr/app/%EB%82%98%EC%9D%98-%EC%B6%95%EA%B5%AC%EC%98%81%EC%9B%85-%ED%82%A4%EC%9A%B0%EA%B8%B0/id6819031624?uo=2"
+        "rank": 85,
+        "name": "Cookingo: Perfect Meal",
+        "id": "6756288168",
+        "developer": "Higame Global Limited",
+        "url": "https://apps.apple.com/kr/app/cookingo-perfect-meal/id6756288168?uo=2"
       },
       {
-        "rank": 88,
+        "rank": 86,
         "name": "카트라이더 러쉬플러스",
         "id": "1466736988",
         "developer": "NEXON Company",
         "url": "https://apps.apple.com/kr/app/%EC%B9%B4%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%8D%94-%EB%9F%AC%EC%89%AC%ED%94%8C%EB%9F%AC%EC%8A%A4/id1466736988?uo=2"
+      },
+      {
+        "rank": 87,
+        "name": "매직 타일 3™: 리듬 피아노 게임",
+        "id": "1443446174",
+        "developer": "Amanotes Pte. Ltd.",
+        "url": "https://apps.apple.com/kr/app/%EB%A7%A4%EC%A7%81-%ED%83%80%EC%9D%BC-3-%EB%A6%AC%EB%93%AC-%ED%94%BC%EC%95%84%EB%85%B8-%EA%B2%8C%EC%9E%84/id1443446174?uo=2"
+      },
+      {
+        "rank": 88,
+        "name": "나의 축구영웅 키우기",
+        "id": "6819031624",
+        "developer": "HANNA KWON",
+        "url": "https://apps.apple.com/kr/app/%EB%82%98%EC%9D%98-%EC%B6%95%EA%B5%AC%EC%98%81%EC%9B%85-%ED%82%A4%EC%9A%B0%EA%B8%B0/id6819031624?uo=2"
       },
       {
         "rank": 89,
@@ -2033,31 +2033,31 @@
       },
       {
         "rank": 90,
-        "name": "단어 연상 - 단어잇기 낱말 퀴즈 퍼즐게임",
-        "id": "6755509102",
-        "developer": "Astrasen Global",
-        "url": "https://apps.apple.com/kr/app/%EB%8B%A8%EC%96%B4-%EC%97%B0%EC%83%81-%EB%8B%A8%EC%96%B4%EC%9E%87%EA%B8%B0-%EB%82%B1%EB%A7%90-%ED%80%B4%EC%A6%88-%ED%8D%BC%EC%A6%90%EA%B2%8C%EC%9E%84/id6755509102?uo=2"
+        "name": "Family Go! - 대를 잇는 인생 시뮬레이션",
+        "id": "6747957875",
+        "developer": "KIKO FUN INTERACTIVE ENTERTAINMENT CO., LIMITED",
+        "url": "https://apps.apple.com/kr/app/family-go-%EB%8C%80%EB%A5%BC-%EC%9E%87%EB%8A%94-%EC%9D%B8%EC%83%9D-%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/id6747957875?uo=2"
       },
       {
         "rank": 91,
-        "name": "Twist Colors: Cube Smash",
-        "id": "6795531178",
-        "developer": "Nova Games Technology Limited",
-        "url": "https://apps.apple.com/kr/app/twist-colors-cube-smash/id6795531178?uo=2"
-      },
-      {
-        "rank": 92,
         "name": "Hole.io",
         "id": "1389111413",
         "developer": "Voodoo",
         "url": "https://apps.apple.com/kr/app/hole-io/id1389111413?uo=2"
       },
       {
+        "rank": 92,
+        "name": "단어 연상 - 단어잇기 낱말 퀴즈 퍼즐게임",
+        "id": "6755509102",
+        "developer": "Astrasen Global",
+        "url": "https://apps.apple.com/kr/app/%EB%8B%A8%EC%96%B4-%EC%97%B0%EC%83%81-%EB%8B%A8%EC%96%B4%EC%9E%87%EA%B8%B0-%EB%82%B1%EB%A7%90-%ED%80%B4%EC%A6%88-%ED%8D%BC%EC%A6%90%EA%B2%8C%EC%9E%84/id6755509102?uo=2"
+      },
+      {
         "rank": 93,
-        "name": "Family Go! - 대를 잇는 인생 시뮬레이션",
-        "id": "6747957875",
-        "developer": "KIKO FUN INTERACTIVE ENTERTAINMENT CO., LIMITED",
-        "url": "https://apps.apple.com/kr/app/family-go-%EB%8C%80%EB%A5%BC-%EC%9E%87%EB%8A%94-%EC%9D%B8%EC%83%9D-%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/id6747957875?uo=2"
+        "name": "Sticker Life - 스티커 방꾸미기 게임",
+        "id": "6768258203",
+        "developer": "Gloryway Puzzle",
+        "url": "https://apps.apple.com/kr/app/sticker-life-%EC%8A%A4%ED%8B%B0%EC%BB%A4-%EB%B0%A9%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EA%B2%8C%EC%9E%84/id6768258203?uo=2"
       },
       {
         "rank": 94,
@@ -2068,45 +2068,45 @@
       },
       {
         "rank": 95,
-        "name": "Sticker Life - 스티커 방꾸미기 게임",
-        "id": "6768258203",
-        "developer": "Gloryway Puzzle",
-        "url": "https://apps.apple.com/kr/app/sticker-life-%EC%8A%A4%ED%8B%B0%EC%BB%A4-%EB%B0%A9%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EA%B2%8C%EC%9E%84/id6768258203?uo=2"
+        "name": "Twist Colors: Cube Smash",
+        "id": "6795531178",
+        "developer": "Nova Games Technology Limited",
+        "url": "https://apps.apple.com/kr/app/twist-colors-cube-smash/id6795531178?uo=2"
       },
       {
         "rank": 96,
-        "name": "Goose Goose Duck",
-        "id": "1558248707",
-        "developer": "Gaggle Studios, Inc.",
-        "url": "https://apps.apple.com/kr/app/goose-goose-duck/id1558248707?uo=2"
+        "name": "Runner Poker",
+        "id": "6758372976",
+        "developer": "주식회사 러너소프트",
+        "url": "https://apps.apple.com/kr/app/runner-poker/id6758372976?uo=2"
       },
       {
         "rank": 97,
-        "name": "탕탕특공대",
-        "id": "1528941310",
-        "developer": "HABBY",
-        "url": "https://apps.apple.com/kr/app/%ED%83%95%ED%83%95%ED%8A%B9%EA%B3%B5%EB%8C%80/id1528941310?uo=2"
-      },
-      {
-        "rank": 98,
-        "name": "나사 풀기 대작전",
-        "id": "6737022506",
-        "developer": "Chengdu Warrior Tech Limited",
-        "url": "https://apps.apple.com/kr/app/%EB%82%98%EC%82%AC-%ED%92%80%EA%B8%B0-%EB%8C%80%EC%9E%91%EC%A0%84/id6737022506?uo=2"
-      },
-      {
-        "rank": 99,
         "name": "데이터 필요없는 게임 - 와이파이 필요없는 게임",
         "id": "6448104157",
         "developer": "Moreno Maio",
         "url": "https://apps.apple.com/kr/app/%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%84%EC%9A%94%EC%97%86%EB%8A%94-%EA%B2%8C%EC%9E%84-%EC%99%80%EC%9D%B4%ED%8C%8C%EC%9D%B4-%ED%95%84%EC%9A%94%EC%97%86%EB%8A%94-%EA%B2%8C%EC%9E%84/id6448104157?uo=2"
       },
       {
+        "rank": 98,
+        "name": "탕탕특공대",
+        "id": "1528941310",
+        "developer": "HABBY",
+        "url": "https://apps.apple.com/kr/app/%ED%83%95%ED%83%95%ED%8A%B9%EA%B3%B5%EB%8C%80/id1528941310?uo=2"
+      },
+      {
+        "rank": 99,
+        "name": "클럽스토리:야구 매니저",
+        "id": "6806143798",
+        "developer": "ILWOONG JUNG",
+        "url": "https://apps.apple.com/kr/app/%ED%81%B4%EB%9F%BD%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%95%BC%EA%B5%AC-%EB%A7%A4%EB%8B%88%EC%A0%80/id6806143798?uo=2"
+      },
+      {
         "rank": 100,
-        "name": "오목의 달인",
-        "id": "870442795",
-        "developer": "SUD Inc.",
-        "url": "https://apps.apple.com/kr/app/%EC%98%A4%EB%AA%A9%EC%9D%98-%EB%8B%AC%EC%9D%B8/id870442795?uo=2"
+        "name": "Goose Goose Duck",
+        "id": "1558248707",
+        "developer": "Gaggle Studios, Inc.",
+        "url": "https://apps.apple.com/kr/app/goose-goose-duck/id1558248707?uo=2"
       }
     ],
     "apple_grossing": [
@@ -2147,17 +2147,17 @@
       },
       {
         "rank": 6,
-        "name": "쿠키런: 오븐브레이크",
-        "id": "963067330",
-        "developer": "Devsisters",
-        "url": "https://apps.apple.com/kr/app/%EC%BF%A0%ED%82%A4%EB%9F%B0-%EC%98%A4%EB%B8%90%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%81%AC/id963067330?uo=2"
-      },
-      {
-        "rank": 7,
         "name": "로블록스(Roblox)",
         "id": "431946152",
         "developer": "Roblox Corporation",
         "url": "https://apps.apple.com/kr/app/%EB%A1%9C%EB%B8%94%EB%A1%9D%EC%8A%A4-roblox/id431946152?uo=2"
+      },
+      {
+        "rank": 7,
+        "name": "쿠키런: 오븐브레이크",
+        "id": "963067330",
+        "developer": "Devsisters",
+        "url": "https://apps.apple.com/kr/app/%EC%BF%A0%ED%82%A4%EB%9F%B0-%EC%98%A4%EB%B8%90%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%81%AC/id963067330?uo=2"
       },
       {
         "rank": 8,
@@ -2168,31 +2168,31 @@
       },
       {
         "rank": 9,
-        "name": "테이스티 트레블: 합성 게임",
-        "id": "6471045672",
-        "developer": "Century Games Pte. Ltd.",
-        "url": "https://apps.apple.com/kr/app/%ED%85%8C%EC%9D%B4%EC%8A%A4%ED%8B%B0-%ED%8A%B8%EB%A0%88%EB%B8%94-%ED%95%A9%EC%84%B1-%EA%B2%8C%EC%9E%84/id6471045672?uo=2"
-      },
-      {
-        "rank": 10,
         "name": "리니지M",
         "id": "1474589366",
         "developer": "NC Corp.",
         "url": "https://apps.apple.com/kr/app/%EB%A6%AC%EB%8B%88%EC%A7%80m/id1474589366?uo=2"
       },
       {
-        "rank": 11,
-        "name": "탑 로드",
-        "id": "6767834940",
-        "developer": "GAME SPARK PTE. LTD.",
-        "url": "https://apps.apple.com/kr/app/%ED%83%91-%EB%A1%9C%EB%93%9C/id6767834940?uo=2"
+        "rank": 10,
+        "name": "테이스티 트레블: 합성 게임",
+        "id": "6471045672",
+        "developer": "Century Games Pte. Ltd.",
+        "url": "https://apps.apple.com/kr/app/%ED%85%8C%EC%9D%B4%EC%8A%A4%ED%8B%B0-%ED%8A%B8%EB%A0%88%EB%B8%94-%ED%95%A9%EC%84%B1-%EA%B2%8C%EC%9E%84/id6471045672?uo=2"
       },
       {
-        "rank": 12,
+        "rank": 11,
         "name": "도깨비의세계",
         "id": "6758975161",
         "developer": "Kakao Games Corp.",
         "url": "https://apps.apple.com/kr/app/%EB%8F%84%EA%B9%A8%EB%B9%84%EC%9D%98%EC%84%B8%EA%B3%84/id6758975161?uo=2"
+      },
+      {
+        "rank": 12,
+        "name": "탑 로드",
+        "id": "6767834940",
+        "developer": "GAME SPARK PTE. LTD.",
+        "url": "https://apps.apple.com/kr/app/%ED%83%91-%EB%A1%9C%EB%93%9C/id6767834940?uo=2"
       },
       {
         "rank": 13,
@@ -2203,10 +2203,10 @@
       },
       {
         "rank": 14,
-        "name": "킹샷:Kingshot",
-        "id": "6739554056",
-        "developer": "Century Games Pte. Ltd.",
-        "url": "https://apps.apple.com/kr/app/%ED%82%B9%EC%83%B7-kingshot/id6739554056?uo=2"
+        "name": "협타디: 협동 타워 디펜스",
+        "id": "6503702666",
+        "developer": "SuperMagic",
+        "url": "https://apps.apple.com/kr/app/%ED%98%91%ED%83%80%EB%94%94-%ED%98%91%EB%8F%99-%ED%83%80%EC%9B%8C-%EB%94%94%ED%8E%9C%EC%8A%A4/id6503702666?uo=2"
       },
       {
         "rank": 15,
@@ -2217,10 +2217,10 @@
       },
       {
         "rank": 16,
-        "name": "협타디: 협동 타워 디펜스",
-        "id": "6503702666",
-        "developer": "SuperMagic",
-        "url": "https://apps.apple.com/kr/app/%ED%98%91%ED%83%80%EB%94%94-%ED%98%91%EB%8F%99-%ED%83%80%EC%9B%8C-%EB%94%94%ED%8E%9C%EC%8A%A4/id6503702666?uo=2"
+        "name": "킹샷:Kingshot",
+        "id": "6739554056",
+        "developer": "Century Games Pte. Ltd.",
+        "url": "https://apps.apple.com/kr/app/%ED%82%B9%EC%83%B7-kingshot/id6739554056?uo=2"
       },
       {
         "rank": 17,
@@ -2238,31 +2238,31 @@
       },
       {
         "rank": 19,
-        "name": "라스트 어사일럼: 페스트",
-        "id": "6756989323",
-        "developer": "WISENESS GAME ONLINE INTERNATIONAL LTD",
-        "url": "https://apps.apple.com/kr/app/%EB%9D%BC%EC%8A%A4%ED%8A%B8-%EC%96%B4%EC%82%AC%EC%9D%BC%EB%9F%BC-%ED%8E%98%EC%8A%A4%ED%8A%B8/id6756989323?uo=2"
-      },
-      {
-        "rank": 20,
         "name": "탕탕에이스",
         "id": "6789467258",
         "developer": "Gorilla Games",
         "url": "https://apps.apple.com/kr/app/%ED%83%95%ED%83%95%EC%97%90%EC%9D%B4%EC%8A%A4/id6789467258?uo=2"
       },
       {
-        "rank": 21,
-        "name": "배틀그라운드",
-        "id": "1366526331",
-        "developer": "KRAFTON Inc",
-        "url": "https://apps.apple.com/kr/app/%EB%B0%B0%ED%8B%80%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C/id1366526331?uo=2"
+        "rank": 20,
+        "name": "라스트 어사일럼: 페스트",
+        "id": "6756989323",
+        "developer": "WISENESS GAME ONLINE INTERNATIONAL LTD",
+        "url": "https://apps.apple.com/kr/app/%EB%9D%BC%EC%8A%A4%ED%8A%B8-%EC%96%B4%EC%82%AC%EC%9D%BC%EB%9F%BC-%ED%8E%98%EC%8A%A4%ED%8A%B8/id6756989323?uo=2"
       },
       {
-        "rank": 22,
+        "rank": 21,
         "name": "아쿠아랜드: 크레이지 서바이벌",
         "id": "6780387121",
         "developer": "Hong Kong Just Game Technology Limited",
         "url": "https://apps.apple.com/kr/app/%EC%95%84%EC%BF%A0%EC%95%84%EB%9E%9C%EB%93%9C-%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A7%80-%EC%84%9C%EB%B0%94%EC%9D%B4%EB%B2%8C/id6780387121?uo=2"
+      },
+      {
+        "rank": 22,
+        "name": "배틀그라운드",
+        "id": "1366526331",
+        "developer": "KRAFTON Inc",
+        "url": "https://apps.apple.com/kr/app/%EB%B0%B0%ED%8B%80%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C/id1366526331?uo=2"
       },
       {
         "rank": 23,
@@ -2308,17 +2308,17 @@
       },
       {
         "rank": 29,
+        "name": "WPL : 홀덤, 토너먼트, 오마하, 올인폴드, 픽앤고",
+        "id": "1507872328",
+        "developer": "Zempot Inc.",
+        "url": "https://apps.apple.com/kr/app/wpl-%ED%99%80%EB%8D%A4-%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8-%EC%98%A4%EB%A7%88%ED%95%98-%EC%98%AC%EC%9D%B8%ED%8F%B4%EB%93%9C-%ED%94%BD%EC%95%A4%EA%B3%A0/id1507872328?uo=2"
+      },
+      {
+        "rank": 30,
         "name": "핫레스토랑: 머지&쿠킹",
         "id": "6618142292",
         "developer": "Microfun Limited",
         "url": "https://apps.apple.com/kr/app/%ED%95%AB%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91-%EB%A8%B8%EC%A7%80-%EC%BF%A0%ED%82%B9/id6618142292?uo=2"
-      },
-      {
-        "rank": 30,
-        "name": "브롤스타즈",
-        "id": "1229016807",
-        "developer": "Supercell",
-        "url": "https://apps.apple.com/kr/app/%EB%B8%8C%EB%A1%A4%EC%8A%A4%ED%83%80%EC%A6%88/id1229016807?uo=2"
       },
       {
         "rank": 31,
@@ -2329,10 +2329,10 @@
       },
       {
         "rank": 32,
-        "name": "WPL : 홀덤, 토너먼트, 오마하, 올인폴드, 픽앤고",
-        "id": "1507872328",
-        "developer": "Zempot Inc.",
-        "url": "https://apps.apple.com/kr/app/wpl-%ED%99%80%EB%8D%A4-%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8-%EC%98%A4%EB%A7%88%ED%95%98-%EC%98%AC%EC%9D%B8%ED%8F%B4%EB%93%9C-%ED%94%BD%EC%95%A4%EA%B3%A0/id1507872328?uo=2"
+        "name": "브롤스타즈",
+        "id": "1229016807",
+        "developer": "Supercell",
+        "url": "https://apps.apple.com/kr/app/%EB%B8%8C%EB%A1%A4%EC%8A%A4%ED%83%80%EC%A6%88/id1229016807?uo=2"
       },
       {
         "rank": 33,
@@ -2350,59 +2350,59 @@
       },
       {
         "rank": 35,
-        "name": "던전앤파이터 모바일",
-        "id": "1448979486",
-        "developer": "NEXON Company",
-        "url": "https://apps.apple.com/kr/app/%EB%8D%98%EC%A0%84%EC%95%A4%ED%8C%8C%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%B0%94%EC%9D%BC/id1448979486?uo=2"
-      },
-      {
-        "rank": 36,
         "name": "카오스 제로 나이트메어",
         "id": "6502326151",
         "developer": "Smilegate, Inc.",
         "url": "https://apps.apple.com/kr/app/%EC%B9%B4%EC%98%A4%EC%8A%A4-%EC%A0%9C%EB%A1%9C-%EB%82%98%EC%9D%B4%ED%8A%B8%EB%A9%94%EC%96%B4/id6502326151?uo=2"
       },
       {
+        "rank": 36,
+        "name": "던전앤파이터 모바일",
+        "id": "1448979486",
+        "developer": "NEXON Company",
+        "url": "https://apps.apple.com/kr/app/%EB%8D%98%EC%A0%84%EC%95%A4%ED%8C%8C%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%B0%94%EC%9D%BC/id1448979486?uo=2"
+      },
+      {
         "rank": 37,
-        "name": "로얄 킹덤 (Royal Kingdom)",
-        "id": "1606549505",
-        "developer": "Dream Games",
-        "url": "https://apps.apple.com/kr/app/%EB%A1%9C%EC%96%84-%ED%82%B9%EB%8D%A4-royal-kingdom/id1606549505?uo=2"
-      },
-      {
-        "rank": 38,
-        "name": "이클립스: 더 어웨이크닝",
-        "id": "6745164499",
-        "developer": "Smilegate, Inc.",
-        "url": "https://apps.apple.com/kr/app/%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4-%EB%8D%94-%EC%96%B4%EC%9B%A8%EC%9D%B4%ED%81%AC%EB%8B%9D/id6745164499?uo=2"
-      },
-      {
-        "rank": 39,
-        "name": "캔디크러쉬사가",
-        "id": "553834731",
-        "developer": "King",
-        "url": "https://apps.apple.com/kr/app/%EC%BA%94%EB%94%94%ED%81%AC%EB%9F%AC%EC%89%AC%EC%82%AC%EA%B0%80/id553834731?uo=2"
-      },
-      {
-        "rank": 40,
         "name": "한게임 섯다&맞고",
         "id": "1471942989",
         "developer": "NHN Corp.",
         "url": "https://apps.apple.com/kr/app/%ED%95%9C%EA%B2%8C%EC%9E%84-%EC%84%AF%EB%8B%A4-%EB%A7%9E%EA%B3%A0/id1471942989?uo=2"
       },
       {
-        "rank": 41,
-        "name": "명조:워더링 웨이브",
-        "id": "6475033368",
-        "developer": "KURO GAMES",
-        "url": "https://apps.apple.com/kr/app/%EB%AA%85%EC%A1%B0-%EC%9B%8C%EB%8D%94%EB%A7%81-%EC%9B%A8%EC%9D%B4%EB%B8%8C/id6475033368?uo=2"
+        "rank": 38,
+        "name": "로얄 킹덤 (Royal Kingdom)",
+        "id": "1606549505",
+        "developer": "Dream Games",
+        "url": "https://apps.apple.com/kr/app/%EB%A1%9C%EC%96%84-%ED%82%B9%EB%8D%A4-royal-kingdom/id1606549505?uo=2"
       },
       {
-        "rank": 42,
+        "rank": 39,
+        "name": "이클립스: 더 어웨이크닝",
+        "id": "6745164499",
+        "developer": "Smilegate, Inc.",
+        "url": "https://apps.apple.com/kr/app/%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4-%EB%8D%94-%EC%96%B4%EC%9B%A8%EC%9D%B4%ED%81%AC%EB%8B%9D/id6745164499?uo=2"
+      },
+      {
+        "rank": 40,
+        "name": "캔디크러쉬사가",
+        "id": "553834731",
+        "developer": "King",
+        "url": "https://apps.apple.com/kr/app/%EC%BA%94%EB%94%94%ED%81%AC%EB%9F%AC%EC%89%AC%EC%82%AC%EA%B0%80/id553834731?uo=2"
+      },
+      {
+        "rank": 41,
         "name": "리니지M(12)",
         "id": "1128255542",
         "developer": "NC Corp.",
         "url": "https://apps.apple.com/kr/app/%EB%A6%AC%EB%8B%88%EC%A7%80m-12/id1128255542?uo=2"
+      },
+      {
+        "rank": 42,
+        "name": "명조:워더링 웨이브",
+        "id": "6475033368",
+        "developer": "KURO GAMES",
+        "url": "https://apps.apple.com/kr/app/%EB%AA%85%EC%A1%B0-%EC%9B%8C%EB%8D%94%EB%A7%81-%EC%9B%A8%EC%9D%B4%EB%B8%8C/id6475033368?uo=2"
       },
       {
         "rank": 43,
@@ -2420,38 +2420,38 @@
       },
       {
         "rank": 45,
-        "name": "Pokémon GO",
-        "id": "1094591345",
-        "developer": "Scopely Explore, Inc.",
-        "url": "https://apps.apple.com/kr/app/pok%C3%A9mon-go/id1094591345?uo=2"
-      },
-      {
-        "rank": 46,
         "name": "전략적 팀 전투: 리그 오브 레전드 전략 게임",
         "id": "1480616748",
         "developer": "Riot Games",
         "url": "https://apps.apple.com/kr/app/%EC%A0%84%EB%9E%B5%EC%A0%81-%ED%8C%80-%EC%A0%84%ED%88%AC-%EB%A6%AC%EA%B7%B8-%EC%98%A4%EB%B8%8C-%EB%A0%88%EC%A0%84%EB%93%9C-%EC%A0%84%EB%9E%B5-%EA%B2%8C%EC%9E%84/id1480616748?uo=2"
       },
       {
-        "rank": 47,
-        "name": "후더덕 서바이벌",
-        "id": "6793854765",
-        "developer": "Joy Net Games",
-        "url": "https://apps.apple.com/kr/app/%ED%9B%84%EB%8D%94%EB%8D%95-%EC%84%9C%EB%B0%94%EC%9D%B4%EB%B2%8C/id6793854765?uo=2"
+        "rank": 46,
+        "name": "Pokémon GO",
+        "id": "1094591345",
+        "developer": "Scopely Explore, Inc.",
+        "url": "https://apps.apple.com/kr/app/pok%C3%A9mon-go/id1094591345?uo=2"
       },
       {
-        "rank": 48,
+        "rank": 47,
         "name": "쿠키런: 킹덤",
         "id": "1509450845",
         "developer": "Devsisters",
         "url": "https://apps.apple.com/kr/app/%EC%BF%A0%ED%82%A4%EB%9F%B0-%ED%82%B9%EB%8D%A4/id1509450845?uo=2"
       },
       {
-        "rank": 49,
+        "rank": 48,
         "name": "세븐나이츠 리버스 - 콜라보",
         "id": "6479595079",
         "developer": "Netmarble Corporation",
         "url": "https://apps.apple.com/kr/app/%EC%84%B8%EB%B8%90%EB%82%98%EC%9D%B4%EC%B8%A0-%EB%A6%AC%EB%B2%84%EC%8A%A4-%EC%BD%9C%EB%9D%BC%EB%B3%B4/id6479595079?uo=2"
+      },
+      {
+        "rank": 49,
+        "name": "후더덕 서바이벌",
+        "id": "6793854765",
+        "developer": "Joy Net Games",
+        "url": "https://apps.apple.com/kr/app/%ED%9B%84%EB%8D%94%EB%8D%95-%EC%84%9C%EB%B0%94%EC%9D%B4%EB%B2%8C/id6793854765?uo=2"
       },
       {
         "rank": 50,
@@ -2469,108 +2469,108 @@
       },
       {
         "rank": 52,
-        "name": "드래곤빌리지3",
-        "id": "6499562253",
-        "developer": "Highbrow",
-        "url": "https://apps.apple.com/kr/app/%EB%93%9C%EB%9E%98%EA%B3%A4%EB%B9%8C%EB%A6%AC%EC%A7%803/id6499562253?uo=2"
-      },
-      {
-        "rank": 53,
-        "name": "Disney Solitaire 디즈니 솔리테어",
-        "id": "6475757306",
-        "developer": "SuperPlay",
-        "url": "https://apps.apple.com/kr/app/disney-solitaire-%EB%94%94%EC%A6%88%EB%8B%88-%EC%86%94%EB%A6%AC%ED%85%8C%EC%96%B4/id6475757306?uo=2"
-      },
-      {
-        "rank": 54,
-        "name": "푸드스타（Foodstars）: 합쳐서 요리하기",
-        "id": "6753862216",
-        "developer": "Happibits",
-        "url": "https://apps.apple.com/kr/app/%ED%91%B8%EB%93%9C%EC%8A%A4%ED%83%80-foodstars-%ED%95%A9%EC%B3%90%EC%84%9C-%EC%9A%94%EB%A6%AC%ED%95%98%EA%B8%B0/id6753862216?uo=2"
-      },
-      {
-        "rank": 55,
         "name": "한게임 포커",
         "id": "1471486284",
         "developer": "NHN Corp.",
         "url": "https://apps.apple.com/kr/app/%ED%95%9C%EA%B2%8C%EC%9E%84-%ED%8F%AC%EC%BB%A4/id1471486284?uo=2"
       },
       {
-        "rank": 56,
-        "name": "한게임 로얄홀덤",
-        "id": "6443477650",
-        "developer": "NHN Corp.",
-        "url": "https://apps.apple.com/kr/app/%ED%95%9C%EA%B2%8C%EC%9E%84-%EB%A1%9C%EC%96%84%ED%99%80%EB%8D%A4/id6443477650?uo=2"
+        "rank": 53,
+        "name": "드래곤빌리지3",
+        "id": "6499562253",
+        "developer": "Highbrow",
+        "url": "https://apps.apple.com/kr/app/%EB%93%9C%EB%9E%98%EA%B3%A4%EB%B9%8C%EB%A6%AC%EC%A7%803/id6499562253?uo=2"
       },
       {
-        "rank": 57,
+        "rank": 54,
+        "name": "Disney Solitaire 디즈니 솔리테어",
+        "id": "6475757306",
+        "developer": "SuperPlay",
+        "url": "https://apps.apple.com/kr/app/disney-solitaire-%EB%94%94%EC%A6%88%EB%8B%88-%EC%86%94%EB%A6%AC%ED%85%8C%EC%96%B4/id6475757306?uo=2"
+      },
+      {
+        "rank": 55,
         "name": "총잡이 고양이 - 방치형 키우기",
         "id": "6764201639",
         "developer": "Neptune Company",
         "url": "https://apps.apple.com/kr/app/%EC%B4%9D%EC%9E%A1%EC%9D%B4-%EA%B3%A0%EC%96%91%EC%9D%B4-%EB%B0%A9%EC%B9%98%ED%98%95-%ED%82%A4%EC%9A%B0%EA%B8%B0/id6764201639?uo=2"
       },
       {
-        "rank": 58,
+        "rank": 56,
+        "name": "푸드스타（Foodstars）: 합쳐서 요리하기",
+        "id": "6753862216",
+        "developer": "Happibits",
+        "url": "https://apps.apple.com/kr/app/%ED%91%B8%EB%93%9C%EC%8A%A4%ED%83%80-foodstars-%ED%95%A9%EC%B3%90%EC%84%9C-%EC%9A%94%EB%A6%AC%ED%95%98%EA%B8%B0/id6753862216?uo=2"
+      },
+      {
+        "rank": 57,
         "name": "더 코지 플로리스트",
         "id": "6760822948",
         "developer": "RiftSky Games",
         "url": "https://apps.apple.com/kr/app/%EB%8D%94-%EC%BD%94%EC%A7%80-%ED%94%8C%EB%A1%9C%EB%A6%AC%EC%8A%A4%ED%8A%B8/id6760822948?uo=2"
       },
       {
-        "rank": 59,
+        "rank": 58,
         "name": "리그 오브 레전드: 와일드 리프트",
         "id": "1480616990",
         "developer": "Riot Games",
         "url": "https://apps.apple.com/kr/app/%EB%A6%AC%EA%B7%B8-%EC%98%A4%EB%B8%8C-%EB%A0%88%EC%A0%84%EB%93%9C-%EC%99%80%EC%9D%BC%EB%93%9C-%EB%A6%AC%ED%94%84%ED%8A%B8/id1480616990?uo=2"
       },
       {
-        "rank": 60,
+        "rank": 59,
         "name": "카트라이더 러쉬플러스",
         "id": "1466736988",
         "developer": "NEXON Company",
         "url": "https://apps.apple.com/kr/app/%EC%B9%B4%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%8D%94-%EB%9F%AC%EC%89%AC%ED%94%8C%EB%9F%AC%EC%8A%A4/id1466736988?uo=2"
       },
       {
-        "rank": 61,
-        "name": "호텔 레거시",
-        "id": "6752886832",
-        "developer": "Century Games Innovation Pte. Ltd.",
-        "url": "https://apps.apple.com/kr/app/%ED%98%B8%ED%85%94-%EB%A0%88%EA%B1%B0%EC%8B%9C/id6752886832?uo=2"
-      },
-      {
-        "rank": 62,
-        "name": "오피스 퀸 키우기",
-        "id": "6740026253",
-        "developer": "Wish Interactive Technology Limited",
-        "url": "https://apps.apple.com/kr/app/%EC%98%A4%ED%94%BC%EC%8A%A4-%ED%80%B8-%ED%82%A4%EC%9A%B0%EA%B8%B0/id6740026253?uo=2"
-      },
-      {
-        "rank": 63,
-        "name": "ONE PIECE TREASURE CRUISE",
-        "id": "943690848",
-        "developer": "Bandai Namco Entertainment Inc.",
-        "url": "https://apps.apple.com/kr/app/one-piece-treasure-cruise/id943690848?uo=2"
-      },
-      {
-        "rank": 64,
-        "name": "씰M2",
-        "id": "6758812727",
-        "developer": "PLAYWITH Inc",
-        "url": "https://apps.apple.com/kr/app/%EC%94%B0m2/id6758812727?uo=2"
-      },
-      {
-        "rank": 65,
+        "rank": 60,
         "name": "먼작귀 포켓",
         "id": "6740838442",
         "developer": "Applibot Inc.",
         "url": "https://apps.apple.com/kr/app/%EB%A8%BC%EC%9E%91%EA%B7%80-%ED%8F%AC%EC%BC%93/id6740838442?uo=2"
       },
       {
-        "rank": 66,
+        "rank": 61,
         "name": "승리의 여신: 니케",
         "id": "1585915174",
         "developer": "Level Infinite",
         "url": "https://apps.apple.com/kr/app/%EC%8A%B9%EB%A6%AC%EC%9D%98-%EC%97%AC%EC%8B%A0-%EB%8B%88%EC%BC%80/id1585915174?uo=2"
+      },
+      {
+        "rank": 62,
+        "name": "호텔 레거시",
+        "id": "6752886832",
+        "developer": "Century Games Innovation Pte. Ltd.",
+        "url": "https://apps.apple.com/kr/app/%ED%98%B8%ED%85%94-%EB%A0%88%EA%B1%B0%EC%8B%9C/id6752886832?uo=2"
+      },
+      {
+        "rank": 63,
+        "name": "오피스 퀸 키우기",
+        "id": "6740026253",
+        "developer": "Wish Interactive Technology Limited",
+        "url": "https://apps.apple.com/kr/app/%EC%98%A4%ED%94%BC%EC%8A%A4-%ED%80%B8-%ED%82%A4%EC%9A%B0%EA%B8%B0/id6740026253?uo=2"
+      },
+      {
+        "rank": 64,
+        "name": "한게임 로얄홀덤",
+        "id": "6443477650",
+        "developer": "NHN Corp.",
+        "url": "https://apps.apple.com/kr/app/%ED%95%9C%EA%B2%8C%EC%9E%84-%EB%A1%9C%EC%96%84%ED%99%80%EB%8D%A4/id6443477650?uo=2"
+      },
+      {
+        "rank": 65,
+        "name": "씰M2",
+        "id": "6758812727",
+        "developer": "PLAYWITH Inc",
+        "url": "https://apps.apple.com/kr/app/%EC%94%B0m2/id6758812727?uo=2"
+      },
+      {
+        "rank": 66,
+        "name": "ONE PIECE TREASURE CRUISE",
+        "id": "943690848",
+        "developer": "Bandai Namco Entertainment Inc.",
+        "url": "https://apps.apple.com/kr/app/one-piece-treasure-cruise/id943690848?uo=2"
       },
       {
         "rank": 67,
@@ -2581,17 +2581,17 @@
       },
       {
         "rank": 68,
-        "name": "라스트 Z: 서바이벌 슈터",
-        "id": "6503272652",
-        "developer": "Omnilojo Pte Ltd",
-        "url": "https://apps.apple.com/kr/app/%EB%9D%BC%EC%8A%A4%ED%8A%B8-z-%EC%84%9C%EB%B0%94%EC%9D%B4%EB%B2%8C-%EC%8A%88%ED%84%B0/id6503272652?uo=2"
-      },
-      {
-        "rank": 69,
         "name": "뚜까펫: 서바이벌",
         "id": "6741567125",
         "developer": "Farlight Games",
         "url": "https://apps.apple.com/kr/app/%EB%9A%9C%EA%B9%8C%ED%8E%AB-%EC%84%9C%EB%B0%94%EC%9D%B4%EB%B2%8C/id6741567125?uo=2"
+      },
+      {
+        "rank": 69,
+        "name": "라스트 Z: 서바이벌 슈터",
+        "id": "6503272652",
+        "developer": "Omnilojo Pte Ltd",
+        "url": "https://apps.apple.com/kr/app/%EB%9D%BC%EC%8A%A4%ED%8A%B8-z-%EC%84%9C%EB%B0%94%EC%9D%B4%EB%B2%8C-%EC%8A%88%ED%84%B0/id6503272652?uo=2"
       },
       {
         "rank": 70,
@@ -2616,31 +2616,31 @@
       },
       {
         "rank": 73,
+        "name": "명일방주",
+        "id": "1473903308",
+        "developer": "YOSTAR LIMITED",
+        "url": "https://apps.apple.com/kr/app/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/id1473903308?uo=2"
+      },
+      {
+        "rank": 74,
         "name": "캣 히어로 : 방치형 RPG",
         "id": "6446516059",
         "developer": "Game Duo Co.,Ltd.",
         "url": "https://apps.apple.com/kr/app/%EC%BA%A3-%ED%9E%88%EC%96%B4%EB%A1%9C-%EB%B0%A9%EC%B9%98%ED%98%95-rpg/id6446516059?uo=2"
       },
       {
-        "rank": 74,
+        "rank": 75,
         "name": "열혈강호: 넥스트",
         "id": "6762442041",
         "developer": "HONGKONG FAME CHAMPION TRADING CO., LIMITED",
         "url": "https://apps.apple.com/kr/app/%EC%97%B4%ED%98%88%EA%B0%95%ED%98%B8-%EB%84%A5%EC%8A%A4%ED%8A%B8/id6762442041?uo=2"
       },
       {
-        "rank": 75,
+        "rank": 76,
         "name": "모바일 레전드: Bang Bang",
         "id": "1160056295",
         "developer": "MOONTON",
         "url": "https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EB%A0%88%EC%A0%84%EB%93%9C-bang-bang/id1160056295?uo=2"
-      },
-      {
-        "rank": 76,
-        "name": "명일방주",
-        "id": "1473903308",
-        "developer": "YOSTAR LIMITED",
-        "url": "https://apps.apple.com/kr/app/%EB%AA%85%EC%9D%BC%EB%B0%A9%EC%A3%BC/id1473903308?uo=2"
       },
       {
         "rank": 77,
@@ -2665,24 +2665,24 @@
       },
       {
         "rank": 80,
+        "name": "세포 특공대 - 전략형 타워 디펜스",
+        "id": "6746465127",
+        "developer": "Snap Brain Games",
+        "url": "https://apps.apple.com/kr/app/%EC%84%B8%ED%8F%AC-%ED%8A%B9%EA%B3%B5%EB%8C%80-%EC%A0%84%EB%9E%B5%ED%98%95-%ED%83%80%EC%9B%8C-%EB%94%94%ED%8E%9C%EC%8A%A4/id6746465127?uo=2"
+      },
+      {
+        "rank": 81,
         "name": "삼국지: 천하결전",
         "id": "6757360957",
         "developer": "BILIBILI HK LIMITED",
         "url": "https://apps.apple.com/kr/app/%EC%82%BC%EA%B5%AD%EC%A7%80-%EC%B2%9C%ED%95%98%EA%B2%B0%EC%A0%84/id6757360957?uo=2"
       },
       {
-        "rank": 81,
+        "rank": 82,
         "name": "냥찍 히어로즈 : 방치형 RPG",
         "id": "6759914688",
         "developer": "RIFF GAMES Co., Ltd.",
         "url": "https://apps.apple.com/kr/app/%EB%83%A5%EC%B0%8D-%ED%9E%88%EC%96%B4%EB%A1%9C%EC%A6%88-%EB%B0%A9%EC%B9%98%ED%98%95-rpg/id6759914688?uo=2"
-      },
-      {
-        "rank": 82,
-        "name": "세포 특공대 - 전략형 타워 디펜스",
-        "id": "6746465127",
-        "developer": "Snap Brain Games",
-        "url": "https://apps.apple.com/kr/app/%EC%84%B8%ED%8F%AC-%ED%8A%B9%EA%B3%B5%EB%8C%80-%EC%A0%84%EB%9E%B5%ED%98%95-%ED%83%80%EC%9B%8C-%EB%94%94%ED%8E%9C%EC%8A%A4/id6746465127?uo=2"
       },
       {
         "rank": 83,
@@ -2700,24 +2700,24 @@
       },
       {
         "rank": 85,
-        "name": "컴투스프로야구2026",
-        "id": "880551258",
-        "developer": "Com2uS Corp.",
-        "url": "https://apps.apple.com/kr/app/%EC%BB%B4%ED%88%AC%EC%8A%A4%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC2026/id880551258?uo=2"
-      },
-      {
-        "rank": 86,
         "name": "좀비고등학교",
         "id": "898986747",
         "developer": "AWESOMEPIECE",
         "url": "https://apps.apple.com/kr/app/%EC%A2%80%EB%B9%84%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90/id898986747?uo=2"
       },
       {
-        "rank": 87,
+        "rank": 86,
         "name": "템빨용사: 픽셀 아이템 머지 RPG",
         "id": "6755585789",
         "developer": "5minlab Co., Ltd.",
         "url": "https://apps.apple.com/kr/app/%ED%85%9C%EB%B9%A8%EC%9A%A9%EC%82%AC-%ED%94%BD%EC%85%80-%EC%95%84%EC%9D%B4%ED%85%9C-%EB%A8%B8%EC%A7%80-rpg/id6755585789?uo=2"
+      },
+      {
+        "rank": 87,
+        "name": "슬레이어 키우기",
+        "id": "1635712706",
+        "developer": "GEAR2",
+        "url": "https://apps.apple.com/kr/app/%EC%8A%AC%EB%A0%88%EC%9D%B4%EC%96%B4-%ED%82%A4%EC%9A%B0%EA%B8%B0/id1635712706?uo=2"
       },
       {
         "rank": 88,
@@ -2728,17 +2728,17 @@
       },
       {
         "rank": 89,
-        "name": "붕괴: 스타레일",
-        "id": "1599719154",
-        "developer": "COGNOSPHERE PTE. LTD.",
-        "url": "https://apps.apple.com/kr/app/%EB%B6%95%EA%B4%B4-%EC%8A%A4%ED%83%80%EB%A0%88%EC%9D%BC/id1599719154?uo=2"
+        "name": "컴투스프로야구2026",
+        "id": "880551258",
+        "developer": "Com2uS Corp.",
+        "url": "https://apps.apple.com/kr/app/%EC%BB%B4%ED%88%AC%EC%8A%A4%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC2026/id880551258?uo=2"
       },
       {
         "rank": 90,
-        "name": "2026 프로야구GO!",
-        "id": "6757381033",
-        "developer": "HAEGIN Co., Ltd.",
-        "url": "https://apps.apple.com/kr/app/2026-%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%ACgo/id6757381033?uo=2"
+        "name": "젤리 버스터즈: 퍼즐 게임",
+        "id": "6756058501",
+        "developer": "Moon Active",
+        "url": "https://apps.apple.com/kr/app/%EC%A0%A4%EB%A6%AC-%EB%B2%84%EC%8A%A4%ED%84%B0%EC%A6%88-%ED%8D%BC%EC%A6%90-%EA%B2%8C%EC%9E%84/id6756058501?uo=2"
       },
       {
         "rank": 91,
@@ -2756,59 +2756,59 @@
       },
       {
         "rank": 93,
-        "name": "슬레이어 키우기",
-        "id": "1635712706",
-        "developer": "GEAR2",
-        "url": "https://apps.apple.com/kr/app/%EC%8A%AC%EB%A0%88%EC%9D%B4%EC%96%B4-%ED%82%A4%EC%9A%B0%EA%B8%B0/id1635712706?uo=2"
-      },
-      {
-        "rank": 94,
-        "name": "젤리 버스터즈: 퍼즐 게임",
-        "id": "6756058501",
-        "developer": "Moon Active",
-        "url": "https://apps.apple.com/kr/app/%EC%A0%A4%EB%A6%AC-%EB%B2%84%EC%8A%A4%ED%84%B0%EC%A6%88-%ED%8D%BC%EC%A6%90-%EA%B2%8C%EC%9E%84/id6756058501?uo=2"
-      },
-      {
-        "rank": 95,
-        "name": "피망 뉴맞고 : 고스톱으로 대한민국 1등",
-        "id": "1458568643",
-        "developer": "NEOWIZ",
-        "url": "https://apps.apple.com/kr/app/%ED%94%BC%EB%A7%9D-%EB%89%B4%EB%A7%9E%EA%B3%A0-%EA%B3%A0%EC%8A%A4%ED%86%B1%EC%9C%BC%EB%A1%9C-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-1%EB%93%B1/id1458568643?uo=2"
-      },
-      {
-        "rank": 96,
         "name": "쿠키런",
         "id": "608808713",
         "developer": "Devsisters",
         "url": "https://apps.apple.com/kr/app/%EC%BF%A0%ED%82%A4%EB%9F%B0/id608808713?uo=2"
       },
       {
-        "rank": 97,
-        "name": "동방 찻집",
-        "id": "6749302379",
-        "developer": "HONGKONG HEILI LIMITED",
-        "url": "https://apps.apple.com/kr/app/%EB%8F%99%EB%B0%A9-%EC%B0%BB%EC%A7%91/id6749302379?uo=2"
+        "rank": 94,
+        "name": "2026 프로야구GO!",
+        "id": "6757381033",
+        "developer": "HAEGIN Co., Ltd.",
+        "url": "https://apps.apple.com/kr/app/2026-%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%ACgo/id6757381033?uo=2"
       },
       {
-        "rank": 98,
+        "rank": 95,
+        "name": "붕괴: 스타레일",
+        "id": "1599719154",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "url": "https://apps.apple.com/kr/app/%EB%B6%95%EA%B4%B4-%EC%8A%A4%ED%83%80%EB%A0%88%EC%9D%BC/id1599719154?uo=2"
+      },
+      {
+        "rank": 96,
         "name": "Coin Master - Board Adventure",
         "id": "6745761596",
         "developer": "Moon Active",
         "url": "https://apps.apple.com/kr/app/coin-master-board-adventure/id6745761596?uo=2"
       },
       {
-        "rank": 99,
-        "name": "오딘: 발할라 라이징",
-        "id": "1520354659",
-        "developer": "Kakao Games Corp.",
-        "url": "https://apps.apple.com/kr/app/%EC%98%A4%EB%94%98-%EB%B0%9C%ED%95%A0%EB%9D%BC-%EB%9D%BC%EC%9D%B4%EC%A7%95/id1520354659?uo=2"
+        "rank": 97,
+        "name": "피망 뉴맞고 : 고스톱으로 대한민국 1등",
+        "id": "1458568643",
+        "developer": "NEOWIZ",
+        "url": "https://apps.apple.com/kr/app/%ED%94%BC%EB%A7%9D-%EB%89%B4%EB%A7%9E%EA%B3%A0-%EA%B3%A0%EC%8A%A4%ED%86%B1%EC%9C%BC%EB%A1%9C-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-1%EB%93%B1/id1458568643?uo=2"
       },
       {
-        "rank": 100,
+        "rank": 98,
         "name": "SOL: enchant",
         "id": "6748004690",
         "developer": "Netmarble Corporation",
         "url": "https://apps.apple.com/kr/app/sol-enchant/id6748004690?uo=2"
+      },
+      {
+        "rank": 99,
+        "name": "러브앤딥스페이스",
+        "id": "6443468110",
+        "developer": "INFOLD PTE. LTD.",
+        "url": "https://apps.apple.com/kr/app/%EB%9F%AC%EB%B8%8C%EC%95%A4%EB%94%A5%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4/id6443468110?uo=2"
+      },
+      {
+        "rank": 100,
+        "name": "오딘: 발할라 라이징",
+        "id": "1520354659",
+        "developer": "Kakao Games Corp.",
+        "url": "https://apps.apple.com/kr/app/%EC%98%A4%EB%94%98-%EB%B0%9C%ED%95%A0%EB%9D%BC-%EB%9D%BC%EC%9D%B4%EC%A7%95/id1520354659?uo=2"
       }
     ]
   }

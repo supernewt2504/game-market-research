@@ -1191,6 +1191,7 @@
     "released": "2026.03.13",
     "developer": "GOODROID,Inc.",
     "country": "JP",
+    "icon": "https://play-lh.googleusercontent.com/k_9MZtpdy3gYNVgynIWwv-1omuSkl4WGr5bOKYT-PJDC5PsEdFQMXWEBU7Jr3TfyjeBviAD3DN3_2KpDhGfa=w48",
     "source": "google"
   },
   "com.metax.obby.escape.run": {
@@ -2705,7 +2706,7 @@
   "6761421604": {
     "released": "2026.10.26",
     "developer": "Tae won Go",
-    "country": null,
+    "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/10/2c/1c102c98-30da-bd1c-1ed4-19fe53a916ab/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -2775,7 +2776,7 @@
   "6762268182": {
     "released": "2026.06.11",
     "developer": "BUILDING-BLOCKS NETWORK TECHNOLOGY CO.,LIMITED",
-    "country": null,
+    "country": "HK",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/f0/41/bcf04188-9e35-c6ff-e7de-1692321862b0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -2798,6 +2799,48 @@
     "developer": "Moon Active",
     "country": "IL",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/ca/5e/b6ca5e71-f38d-9469-0681-67ed99b8a17a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "io.supercent.linkedcubic": {
+    "released": "2023.08.08",
+    "developer": "Supercent, Inc.",
+    "country": "KR",
+    "icon": "https://play-lh.googleusercontent.com/IFZ89btnaAvGhze1EENTZdaH5gRrvTJTQYVGE9it8wIMpPtNwcDyzZbeNlzpAvUXyOioQRF2gHrTEeQZbgUpuOo=w48",
+    "source": "google"
+  },
+  "io.voodoo.paper2": {
+    "released": "2018.09.13",
+    "developer": "VOODOO",
+    "country": "FR",
+    "icon": "https://play-lh.googleusercontent.com/xU4lRs99d93VzHX09xCf6ZkBVOxPuDqZxjVVuhbmLxXAEd6uxq7gBCEzubAfkabAp2r7l_D6qQ7bcOXpEQqg=w48",
+    "source": "google"
+  },
+  "com.brain.logic.joygame": {
+    "released": "2025.05.21",
+    "developer": "JoyGame Studio",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/tLqL9_9MLw59h_h3q1BPmMkrs7-Kwe7I0cMIvVKR840JigyPkhY27eu03rkOtLKY7_1AYbIAcfM3XDnzQ603xxY=w48",
+    "source": "google"
+  },
+  "6758372976": {
+    "released": "2026.10.14",
+    "developer": "주식회사 러너소프트",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/e7/c1/0ee7c121-f3e2-76b2-d7b9-83bc1ff0f608/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6806143798": {
+    "released": "2026.09.04",
+    "developer": "ILWOONG JUNG",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/68/3e/ed683ec6-4e3c-73ed-a629-b2e7980bc7cf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6443468110": {
+    "released": "2024.01.17",
+    "developer": "INFOLD PTE. LTD.",
+    "country": "SG",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/18/80/1b1880dc-2b5f-7504-4463-e9da778a96d0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   }
 }
