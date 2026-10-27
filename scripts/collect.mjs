@@ -35,6 +35,7 @@ async function googleChart(collection) {
     collection,
     category: g.category.GAME,
     country: COUNTRY,
+    lang: 'ko',       // 한국어 명칭 우선(있으면 한글 타이틀 반환)
     num: LIMIT,
   });
   return r.map((a, i) => ({

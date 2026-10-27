@@ -13,6 +13,7 @@
 import json
 import os
 import random
+import re
 import sys
 from datetime import datetime, timedelta, timezone
 
@@ -115,6 +116,16 @@ def diff_chart(today_items, prev_items):
 
 def esc(s):
     return str(s).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
+def display_name(name):
+    """한글 명칭이 있으면 한글 우선. 끝의 (영문) 괄호·영문 꼬리는 제거(영문 접두 브랜드는 보존)."""
+    name = (name or "").strip()
+    if re.search(r"[가-힣]", name):
+        name = re.sub(r"\s*\([\x00-\x7F][^)]*\)\s*$", "", name)            # 끝 (영문) 괄호
+        name = re.sub(r"(?<=[가-힣])[ :\-–]+[A-Za-z0-9][\x00-\x7F]*$", "", name)  # 한글 뒤 영문 꼬리
+        name = name.strip()
+    return name
 
 
 def flag(country):
@@ -241,7 +252,7 @@ def render_table(title, icon, rows, meta, reasons_by_id, demo_keys, demo_details
     trs = []
     for row in rows:
         bg = "#fff" if row["rank"] % 2 else "#fafafa"
-        link = f'<a href="{esc(row["url"])}" target="_blank" style="color:#202124;text-decoration:none;word-break:keep-all;">{esc(row["name"])}</a>'
+        link = f'<a href="{esc(row["url"])}" target="_blank" style="color:#202124;text-decoration:none;word-break:keep-all;">{esc(display_name(row["name"]))}</a>'
         m = meta.get(row["id"], {})
         fl = flag(m.get("country"))
         fl_sp = (fl + " ") if fl else ""
@@ -306,7 +317,7 @@ def render_chart_email(title, icon, rows, meta, reasons_by_id, demo_keys, demo_d
         m = meta.get(row["id"], {})
         fl = flag(m.get("country"))
         released = m.get("released") or "—"
-        link = f'<a href="{esc(row["url"])}">{esc(row["name"])}</a>'
+        link = f'<a href="{esc(row["url"])}">{esc(display_name(row["name"]))}</a>'
         # 이메일은 용량(Gmail 102KB) 때문에 아이콘 미포함 — 아이콘은 웹 리포트에만 표시
         name_badges, reason_text = bigo_parts(row, reasons_by_id, demo_keys, demo_details, date) if show_bigo else ("", "")
         reason_block = f'<div class="rs">{reason_text}</div>' if reason_text else ""
@@ -415,13 +426,16 @@ def page_html(date, ct_kst, demo, diffed, meta, reasons_by_id, demo_keys, demo_d
             '기사가 없으면 스토어 업데이트 내역을 확인해 작성합니다. 이미지/영상은 스토어 CDN을 폭 제한으로 참조해 용량을 최소화합니다.')
     maxw = 640 if mode == "email" else 940  # 이메일은 고정 폭 중앙정렬(PC·모바일 모두 자연스럽게)
     email_css = EMAIL_CSS if mode == "email" else ""
+    head_inner = f'📊 {esc(TITLE)}' + (f' — {esc(platform)}' if platform else '')
+    if mode == "email" and PAGES_URL:  # 제목 클릭 시 최신 웹 리포트로 이동
+        head_inner = f'<a href="{PAGES_URL}/" style="color:#fff;text-decoration:none;">{head_inner} <span style="font-size:14px;">↗ 웹에서 보기</span></a>'
     return f"""<!doctype html>
 <html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(TITLE)} — {date}</title>{email_css}</head>
 <body style="margin:0;background:#f5f6f7;font-family:-apple-system,BlinkMacSystemFont,'Apple SD Gothic Neo','Malgun Gothic',sans-serif;">
 <div style="max-width:{maxw}px;margin:0 auto;padding:24px 16px 48px;">
   <div style="background:#202124;color:#fff;border-radius:12px;padding:20px 22px;">
-    <div style="font-size:21px;font-weight:800;">📊 {esc(TITLE)}{(' — ' + esc(platform)) if platform else ''}</div>
+    <div style="font-size:21px;font-weight:800;">{head_inner}</div>
     <div style="font-size:13px;color:#c7c9cc;margin-top:4px;">대한민국 · {esc(platform) if platform else 'Google Play &amp; App Store'} · 게임 Top 100</div>
     <div style="font-size:12px;color:#9aa0a6;margin-top:7px;">기준일 {date} &nbsp;|&nbsp; 집계 {esc(ct_kst)} (KST)</div>
   </div>
