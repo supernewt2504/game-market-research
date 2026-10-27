@@ -100,6 +100,67 @@
       "recentChanges": "**신규유저 특별 보상 이벤트 (~11/27)<br>쉽고 재밌는 국민 런게임!<br>수백 종의 귀여운 쿠키와 함께 즐겨요.<br><br>1. 모든 용감한 우리들에게 이벤트모드 OPEN!<br>어느날 갑자기 게임 속에 떨어졌다?!<br>이벤트를 플레이하며 스위트 아카이브의 위기를 해결해 주세요!<br><br>2. 브레이브 로드 쿠키 &amp; 픽셀방울 출시!<br>스위트 아카이브의 창조자 브레이브 로드 쿠키를 만나보세요!<br><br>3. 점프맛 쿠키 &amp; 토마토 찹찹 출시!<br>스위트 아카이브 전담 안전 점검관 점프맛 쿠키를 만나보세요!<br><br>4. 세계 제작용 콘솔창 보물 출시!<br>달콤한 세계를 만드는 방법이 실시간으로 입력되는 콘솔창!<br><br>5. 마이쿠키 출시!<br>오븐브레이크 세계를 달리는 나만의 쿠키를 만들어 보세요!<br>마이쿠키 우정런에서 친구들과 달리며 내 마이쿠키를 자랑해 보세요!<br><br>6. 10주년 기념! 10가지 이벤트 OPEN!<br>다양한 이벤트를 플레이하고 스위트 키코드를 모아<br>엄청난 보상과 특별한 기념 스킨들을 획득하세요!"
     }
   },
+  "1117270703": {
+    "researchedAt": "2026-10-27T03:00:33.441Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "매출 이벤트",
+      "short": "월드컵 이벤트 추정 매출 상승(일본 기사 참고, 한국 차트 미확인)",
+      "summary": "찾은 기사는 일본 시장 기준으로, 2026년 1~7월 인앱구매 순위에서 eFootball이 6계단 오른 1위를 기록했다고 전합니다. 월드컵 관련 이벤트로 이용자 참여와 지출이 늘어 7월에 월간 최고 수익을 냈다는 내용입니다. 다만 사용자가 지정한 App Store 매출 27위(13계단 상승)와 직접 대응하는 한국 차트 기사는 찾지 못했고, 스토어 업데이트 내역은 버그 수정뿐이라 이 원인은 추정에 그칩니다.",
+      "articles": [
+        {
+          "title": "일본 모바일 게임 수익 100억달러 돌파, 한국의 2배 이상… 해외 퍼블리셔 영향력 확대 속 PC·콘솔 게임 시장도 성장 - 뉴스와이어",
+          "url": "https://www.newswire.co.kr/newsRead.php?no=1045199"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/jn-jaGEFUPiu0dBP9O6PjiRk-BCwFFLm0RdeOjLH-qLYjhHJlzNBMgl3Sah24htajj67_fdve-DzGsqmMUx1tqQ=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/CfFU4pqBrg8fQRMF6uXwiHY_xSFkT3O-BKkiOITrEQ6XxOe0RDg3O9o3H4d9RT7z4ZEU2C3mv3GUU6wTMGNVB_0=w400",
+        "https://play-lh.googleusercontent.com/BkLwbQbxSUnf_s3uAI3aNk15hauWxNNLDYIuETSHCoiOrLXyJfq0MI3E8lwyhptP0KKA_e_3If5c6Vc4m6-0Qg=w400",
+        "https://play-lh.googleusercontent.com/lzCZ46EO5QUP3KjILZeUn6cfD9f9bwgIdpeirBD89EEwvwPTXhFYtkgEPSvSM1X13eqO5bGwQsi6qpGb3KBObEk=w400",
+        "https://play-lh.googleusercontent.com/bt0WvJ_qdE_AsSBDGS15bTPw0GokKLBxGAfC3MSXjcZXC_GGg7iwt0sCvSS6ZGarCCciMOREJNufyfmCoQ45iL4=w400"
+      ],
+      "video": "https://www.youtube.com/embed/ukS69modIvI?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/icYdbHP_gF_rgr9UjrpXy5faLDH1Apqozq-EuTbBp7MRRloCw_9Gg7mz--0vWBjYJNGr1xP6PIxFfc8m8_cx7QI=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=ko&gl=kr",
+      "recentChanges": "버그를 수정했습니다.<br>상세 정보는 게임의 뉴스에서 확인하십시오."
+    }
+  },
+  "1128255542": {
+    "researchedAt": "2026-10-27T03:00:24.926Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "기타",
+      "short": "앱스토어 17계단 상승 원인 기사 미확인, 추정 보류",
+      "summary": "검색된 기사는 주로 구글 플레이 매출 순위 회복(6월 전후)과 9주년 업데이트를 다루며, 현재 앱스토어에서 41위로 17계단 오른 시점의 원인을 직접 설명하지 않는다. 6월 9주년 대규모 업데이트와 '요정' 클래스 리부트 기대감이 순위 변동에 영향을 준 것으로 보인다는 개발사 관계자 언급이 있으나, 이는 이번 변동과 시점이 일치한다는 확인이 없다. 따라서 이번 상승 원인은 스토어 업데이트 내역(recentChanges)으로 추가 검증이 필요하다.",
+      "articles": [
+        {
+          "title": "[기획] 리니지, 다시 증명하다 ② - 되찾은 모바일 왕좌",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318361"
+        },
+        {
+          "title": "PC 빼도 이긴다...'리니지M' 매출 1위 싹쓸이",
+          "url": "https://www.gameple.co.kr/news/articleView.html?idxno=215762"
+        },
+        {
+          "title": "8년 차 국산 MMORPG ‘리니지M’, 상반기 매출 1위 사수",
+          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=413313"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/MzMjZDpV2qLj34eMjWXBNSyOaSINWvqjWuzF7W0LiazKbWbqae230F0BwkATJl4eQd1a6S1Lp1SLeRn6tRUt=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/rIum95LtgyAaAPvG10HD_BY0L2Qj11NFAQHh7a3Zjfoe8U4C_G6vKl1DRkcqSM8ifhRv2IovtA0g2scX38km444=w400",
+        "https://play-lh.googleusercontent.com/y1SI3XFzYtd6_kex8xg-ir3JDGmY9TsG7eHeiZZPo8QbvOxtrqUTK9n6FTwvVHIvWXY-mMBOxBu5tcVCl5Dz=w400",
+        "https://play-lh.googleusercontent.com/cPoS-FUnPP4TrSXdTsY-LqT23ZiEY_GUGzhMaqIbJYNbGfQM_92S_QWQNiWwmLVlz_shS6Ro-igFac65Uhg_=w400",
+        "https://play-lh.googleusercontent.com/XZF4pNE5ouJO8dxDAK6hN8PY0qy-wP5m8fpFeAbIeWTllIyPdKamRyrQeu9VIqc91Pi48IYuPXFh_q75wg1lYAg=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.ncsoft.lineagem&hl=ko&gl=kr",
+      "recentChanges": ""
+    }
+  },
   "1176027022": {
     "researchedAt": "2026-10-25T12:58:44.204Z",
     "verified": false,
@@ -177,6 +238,62 @@
       "videoImage": "https://play-lh.googleusercontent.com/l6oOsmoTYryCbbyrU7JleRHUkIMdW8lfVHTy_TLTgN_dzxDathfUU4Vyg5PISFcQ-HQpNxQ5KL4XEoB8V2_85Q=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.com2us.futurecpb.android.google.global.normal&hl=ko&gl=kr",
       "recentChanges": "컴투스프로야구V26 업데이트!<br>현존 최고의 리얼리티 야구 게임을 경험해보세요!<br><br>- 클럽 대전 역할군 추가 : 백투백 히터<br>- 선수 보관 시스템 개선<br>- 편의성 및 인게임 개선<br>- UI/UX 개선<br>- 버그 수정<br><br>여러분의 소중한 의견을 리뷰로 남겨주세요.<br>컴프야V26은 모든 리뷰를 확인합니다."
+    }
+  },
+  "1471942989": {
+    "researchedAt": "2026-10-26T20:12:20.407Z",
+    "verified": true,
+    "data": {
+      "verified": true,
+      "category": "컨텐츠 업데이트",
+      "short": "스토리 퀘스트 '타짜의 길' 추가로 신규·복귀 유입 확대 추정",
+      "summary": "NHN이 오늘(10월 26일) '한게임 섯다&맞고'에 이야기 중심 성장형 퀘스트 '타짜의 길'을 추가했다. 초보부터 최상위 고수까지 3개 챕터로 구성되며, 플레이 수준에 따라 시작 지점이 자동 배정된다. 모든 퀘스트를 완료하면 누적 100억 쩐 이상의 게임머니와 전용 칭호가 주어지고, 11월 19일까지 기념 프로모션도 진행된다. 다만 기사들이 앱스토어 순위 상승 원인으로 이 업데이트를 직접 지목하지는 않아, 순위 상승과의 연관은 업데이트 시점과 콘텐츠 성격에 기반한 추정이다.",
+      "articles": [
+        {
+          "title": "한게임 섯다&맞고, 스토리 기반 콘텐츠 '타짜의 길' 업데이트",
+          "url": "https://www.ipnn.co.kr/news/articleView.html?idxno=418022"
+        },
+        {
+          "title": "초짜에서 고수까지 이야기 따라 성장…NHN, '한게임 섯다&맞고' 새 퀘스트",
+          "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=257242"
+        },
+        {
+          "title": "NHN '한게임 섯다&맞고', 스토리 퀘스트 '타짜의 길' 업데이트…육성 재미 강화",
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=150733"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/CqdDCCaoUKuuANbhIfbCWehb2UTPN6YPbucx6KUzurF6WebH10KPaG46AG-fBCl9w1hAnOqbr2psIJtQFoUOaHw=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/i3kjXoGH98sN_1aiGkkONgyiPouI-e-8IIuFxMH_2XqzdrLwnepRR0W6xQ78h3cnHM9NFS7WzBx3zu0DCYNc=w400",
+        "https://play-lh.googleusercontent.com/ca0Af_wZZp4q7NYfUOSnmeL8MmAtVxBZ8tnVlH8vkRiKVDGLgJB2M_mT9CjrRl8AHWJrQIpq94P04Sbg5WQSOw=w400",
+        "https://play-lh.googleusercontent.com/lIkvD099g5_ho6UcsnNrNHBi5325hIMdkG2bwB0cZkWv6To6uhX38Z7glUN_vTCvX2dlHKlpGw1s7CUokLH5kw=w400",
+        "https://play-lh.googleusercontent.com/7dGvTP9Oh_0Z3b2EvP8j2LA9vRfiymHAPYO5AJbGq1Ct9azeYfQOGR4wB-cbS0XiiEjJ4TydbQF1iJ8v6RJb0g=w400"
+      ],
+      "video": "https://www.youtube.com/embed/jvCh1Wh8jpk?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/IezSuMiicJVAWbnQs6s2GyBrQTH0YzIMIlkhsfrMU4-OlVng9iZsB3bwPFTHTGQfcTZ8YU6R6ZkNZFYac6YbNw=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.NHNEnt.MSudda&hl=ko&gl=kr",
+      "recentChanges": "▶ 족보도 모르던 초짜가 타짜가 되기까지의 이야기! 타짜의 길 추가<br>▶ 보너스 피도 피잖여, 싹 다 내놔유! 큐라백작 한능청 등장!<br>▶ 할로윈 맞이! 유령 삥아리 한정 상품 출시!<br>▶ 초월 수호령 곡옥 교환 수량 밸런스 개선<br>▶ 일일목표 보상이 동호회 회장에서 나의 랭킹전 등급으로 변경<br>▶ 2장 섯다 20억 경기장 최소 입장 머니 조정<br>▶ 입장 머니 부족 시 자동 금고 출금 설정되는 금액 조정<br>▶ 로비 금고 출금 일 100회 초과 시 3% 수수료 적용<br>▶ 신규 캐릭터 나최고 상점 출시<br>▶ 기타 오류 수정 및 서비스 개선"
+    }
+  },
+  "1507872328": {
+    "researchedAt": "2026-10-27T03:01:31.531Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "2.36.1 컴패니언 시스템 개선으로 인한 상승 추정(기사 미확인)",
+      "summary": "순위 상승을 직접 다룬 한국어 기사는 찾지 못했다. 스토어 기록상 2.36.1 업데이트는 컴패니언을 체험과 무관하게 바로 구매할 수 있게 했고, 여러 상황에서 더 자주 등장하도록 바꿨다. 다만 이것이 순위 상승의 원인이라는 근거는 없어 추정에 그친다. 앱스토어 노출 외 이벤트·광고 요인은 확인되지 않았다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/QQVS3cmt_fMF91ecz8fHExUP_VJUty-9dCmA7sOZQR3086-4nD-2ANOA2cOkFeiHt5eFW55CZJGpiaO_BahNZA=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/W3dlwnwBRc3RXDKpAeMCp8KdWmaMFbaVVwl4e7L510Vx_tcNjM0LpLO7AuZ72sg9oni-MOs8AOuYfqAR2SOn_zI=w400",
+        "https://play-lh.googleusercontent.com/RlULZq3mvBiiI_2DJnjnhGS_4pkJQCnK2k3r56nUpodbuJPpaTby5tQo2z4MCKQb8lESaAsLQhqMFtiUbjYq=w400",
+        "https://play-lh.googleusercontent.com/koibziE9iUY9OP0cX-zuoECDndCmC88ewCInLH5sZqXmm75PDWdFAQekl53b4Yq5vd59aR6P85khYiMVwRFIhHs=w400",
+        "https://play-lh.googleusercontent.com/GtiCgBr-MaItDpkNW6wwClIVmaM2PTcO3vLA7yyE4D7RHjQ3ef21xTHcAWxrb8c73t7A97x8X8j2dh-RRr32Vw=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.zempot.wplpoker&hl=ko&gl=kr",
+      "recentChanges": "개선<br>- 컴패니언이 체험하기와 상관 없이 즉시 구매가 가능합니다.<br>- 컴패니언이 조금더 다양한 상황에서 자주 등장합니다.<br><br>버그 수정<br>- 기타 버그 수정 및 UI/UX 최적화가 적용되었습니다."
     }
   },
   "1509450845": {
@@ -298,13 +415,13 @@
     }
   },
   "1643509748": {
-    "researchedAt": "2026-10-26T02:15:21.145Z",
+    "researchedAt": "2026-10-27T03:01:37.657Z",
     "verified": false,
     "data": {
       "verified": false,
-      "category": "기타",
-      "short": "스토어 업데이트 공지만 확인, 상승 원인 특정 불가(추정)",
-      "summary": "검색으로는 이 게임의 매출 순위 상승을 직접 다룬 최신 한국어 기사를 찾지 못했다. 제공된 스토어 업데이트 내역은 새 버전 출시, 성능 최적화, 콘텐츠 제공을 언급할 뿐 구체적인 이벤트나 신규 콘텐츠를 명시하지 않는다. 따라서 상승 원인은 확인되지 않은 추정이며, 신규 오픈이나 매출 이벤트 여부도 검증되지 않았다.",
+      "category": "컨텐츠 업데이트",
+      "short": "신버전 출시·최적화 업데이트 뒤 순위 상승 추정(기사 미확인)",
+      "summary": "검색에서 이 게임의 순위 상승을 다룬 한국어 기사는 찾지 못했다. 제공된 스토어 업데이트 내역은 새 버전 출시와 성능 최적화, 콘텐츠 추가를 언급하지만 구체적인 이벤트나 매출 요인은 적혀 있지 않다. 따라서 컨텐츠 업데이트가 상승 원인일 가능성은 있으나 확정할 수 없다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/FjEQ_owl-a4h7Sn6hIcJjhzcsdns6XdQiuuVzppzXZnlKSIYzPXAvm3lExtqKBZCSnF5remmvV_JePcVN6DMTg=w128",
       "screenshots": [
@@ -582,17 +699,21 @@
     }
   },
   "com.hottagames.nte": {
-    "researchedAt": "2026-10-25T17:53:20.573Z",
-    "verified": false,
+    "researchedAt": "2026-10-27T03:00:07.993Z",
+    "verified": true,
     "data": {
-      "verified": false,
+      "verified": true,
       "category": "컨텐츠 업데이트",
-      "short": "1.4 업데이트(레이븐·아크·Porsche 컬래버) 공개 후 신규 진입, 한국어 기사 미확인",
-      "summary": "한국어 기사에서 Google 매출 순위 상승 원인을 확인하지 못했습니다. 검색된 기사 중 가장 관련 있는 것은 일본어 기사로, Ver.1.4 후반 업데이트(10월 21일 배포, 신규 S랭크 명음린 등장)를 다룹니다. 1.4 버전은 9월 30일 글로벌 배포되었고 한정 S급 캐릭터 Blackbird와 Lacrimosa 복각이 포함되어 있어, 제공된 recentChanges의 신규 캐릭터·아크·컬래버 업데이트가 신규 진입 시점과 맞물린 것으로 보이나 이는 추정이며 매출 순위와의 직접적 인과는 확인되지 않았습니다. 또한 누적 매출이 2026년 8월 기준 약 2억 9,800만 달러라는 보도가 있어 순위 변동 배경으로 참고할 수 있습니다.",
+      "short": "1.4 버전 레이븐 한정 S급 등 대규모 업데이트로 신규 진입",
+      "summary": "퍼펙트월드는 9월 30일 1.4 버전 대규모 업데이트를 적용했고, 이 업데이트로 신규 S급 캐릭터 레이븐의 기간 한정 보드가 열렸다. 한정 보드에서는 한정 글라이더와 리버리, 레이븐 신규 코스튬을 받을 수 있다. 다만 기사들은 차트 순위 상승의 직접 원인을 밝히지 않았으므로, 매출 순위 진입은 이 업데이트 시기와의 시점 일치로 추정한 것이다.",
       "articles": [
         {
-          "title": "『NTE』Ver.1.4後半で新Sランク「明音凛」が登場！ 新カバー曲「God knows…」も実装",
-          "url": "https://www.appbank.net/2026/10/25/game/3139723.php"
+          "title": "'이환' 신규 캐릭터 '레이븐' 추가 등 1.4 버전 대규모 업데이트",
+          "url": "https://www.ilovepcbang.com/news/articleView.html?idxno=202156"
+        },
+        {
+          "title": "1.4 버전 「누구를 위하여 기도를 올리나」 업데이트 공지",
+          "url": "https://nte.perfectworld.com/kr/article/news/gamenews/20260929/264413.html"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw=w128",
@@ -1061,6 +1182,374 @@
       "video": null,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=kr",
       "recentChanges": "[최적화 및 조정]<br>1.낚시 선수권 대회 최적화: 해초 도감이 추가됩니다. 지정 조건 달성 시 해초 도감이 자동으로 해제되며, 수집 진행도를 높이면 한정 채팅 스킨 보상도 획득할 수 있습니다. 또한 왕국이 지정 진행도에 도달하면 배수 낚시에 10배 옵션이 추가되며, 기본 낚시 도구 레벨도 자동으로 최고 레벨까지 상승하여 영주님들이 이벤트에 더욱 효율적으로 참여할 수 있게 됩니다. 이번 임무 기능이 추가되어, 이벤트 기간에 낚시 포인트를 획득하면 귀중한 섬 장식품 보상을 받을 수 있습니다. 이 밖에도 보상 일괄 수령 기능이 추가되고, 물고기 사료 설명이 최적화되어 더욱 편리하게 이용할 수 있습니다.<br>2.영주 프로필 최적화: 업데이트 후 다른 영주의 영주 정보에서 프로필을 누르면 상대방의 고화질 프로필을 확인할 수 있습니다."
+    }
+  },
+  "com.playwith.seal2.google": {
+    "researchedAt": "2026-10-26T20:10:52.665Z",
+    "verified": true,
+    "data": {
+      "verified": true,
+      "category": "신규 오픈",
+      "short": "정식 출시 당일 구글·앱스토어 1위, 사전예약 130만명",
+      "summary": "씰M2는 2026년 10월 22일 정식 출시 당일 구글플레이와 애플 앱스토어 인기 순위 1위에 올랐다는 보도가 나왔다. 19일 사전 다운로드 직후 앱스토어에서 먼저 정상에 오르고 20일 구글플레이에서도 1위를 기록하는 등 출시 전부터 상위권 흐름을 이어 갔다. 사전예약 130만 명과 씰온라인·씰M의 IP 인지도가 초반 관심을 끌었고, 출시 기념으로 전 이용자에게 희귀 코스튬과 펫큐브 등을 지급한 점도 유입을 도운 것으로 보인다. 다만 현재 49위는 기사 작성 시점 이후의 순위 변화로 보이며, 기사 내용만으로 현재 순위의 원인을 단정하기는 어렵다.",
+      "articles": [
+        {
+          "title": "플레이위드코리아 '씰M2', 출시 당일 구글·애플 인기 1위",
+          "url": "https://www.ddaily.co.kr/page/view/2026102215562317771"
+        },
+        {
+          "title": "플레이위드코리아 '씰M2', 출시일 구글 인기 1위…흥행 청신호",
+          "url": "https://zdnet.co.kr/view/?no=20261022152657"
+        },
+        {
+          "title": "씰M2, 사전예약 130만 명 모은 뒤 출시 당일 양대 앱마켓 인기 1위 올랐다",
+          "url": "https://www.wikitree.co.kr/articles/1168578"
+        },
+        {
+          "title": "플레이위드코리아 '씰M2', 유쾌한 감성으로 초기 유입 이끌어",
+          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=61721"
+        },
+        {
+          "title": "씰M2, 양대 앱 마켓 인기 순위 1위 기록",
+          "url": "https://www.inven.co.kr/webzine/news/?news=322453"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/eyhC7dpiSYiQ0HTfRkQRormeIVKg9GC8yxl6zFspw-6Iai0uh6vnanpIDcrq4gXB7-bI5nivNmWnsf3JNtaEakk=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/sKlJeoqxdqTgNqok9OZAzrx5DqJQS2o8Sdz4eLKyT5KZIStil0vzc_DLCcUp-wRXuMb0j1fSRpmU37VLWyXz0j4=w400",
+        "https://play-lh.googleusercontent.com/bXV28_oac375BmRC6YSu_G8MBs_z8_NIK0IZ0wRptkwpj5n8eIK_f-CIycqMrmvi9d-w5fibcYi_xMpddJPn3A=w400",
+        "https://play-lh.googleusercontent.com/ldvN7L8GJTirWe0oNMr-OvfM0YmK8BmKNANVJ17y6gKy_ms9km2NP7qtfNxE7wyFkNKkWPu96NFV58GNJa_L58E=w400",
+        "https://play-lh.googleusercontent.com/u4tx6EOjbl6FMH8Iy2a5-eI4_9Mr92kRwnd0veXZidzReo_bGDG_vPT6AGiz3GggYFff_Kn6PqmlMgGFgqFguqg=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.playwith.seal2.google&hl=ko&gl=kr",
+      "recentChanges": "◆씰M2 정식 출시!"
+    }
+  },
+  "6761893238": {
+    "researchedAt": "2026-10-27T03:00:15.634Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "신규 이벤트·알림·자동도전 추가로 콘텐츠 보강, 기사 미확인",
+      "summary": "최신 한국어 기사는 찾지 못했다. 스토어 업데이트 내역 기준으로 일요일 이벤트 「전장 기습」과 대규모 서버 간 이벤트 「핵폭탄 습격」이 추가됐고, 연맹 공지 템플릿과 연맹 열차 등 오프라인 알림이 더해졌다. 또한 메인 스테이지 550 클리어 후 다음 스테이지에 자동 도전하는 편의 기능도 들어갔다. 이 신규 이벤트와 편의 기능이 신규 유입과 이탈 방지에 기여해 매출 순위 49계단 상승으로 이어졌을 가능성이 있으나, 이는 업데이트 내용에 근거한 추정이며 매출 증가의 직접 원인은 확인되지 않았다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/dIGYOhW1mwhxLLCti6-O-VQAL_5oz7yzyLkP5WJH80i6j3HWcaIOfTnJ-FaQC1tQ7DC2pR5BphwkZJ9tFQe_ag=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/5Jo5XmNHTS9x9R0U9mfEoUc1miy_cMPccXOMph-vu4Aypcgn2joXBL0Nenq5iyt-8adhCjUZV4eGcn10fP-E8Q=w400",
+        "https://play-lh.googleusercontent.com/THKO90CIC5QAB0qKBsxe8BtNo_DvHrZL5UGCE1rgx1WJtrK52LxIDyHHzv1-R6HALKkS-VKSncmPYD5qbcaS=w400",
+        "https://play-lh.googleusercontent.com/KpchkQHC1ZlK0W_A2yE7VccKhz1AYWgo2FDCPWgQDo37H2ukKIjMteW-Q8tfureNcG2GAVSeJPnm-foWFBJ-=w400",
+        "https://play-lh.googleusercontent.com/N40COevAks6AcIdMsRlbJAq9RRNCDyYRIBAC9MIMh5kTxErdYiQudDiMXncxevmRt0ahPmd3WJE040jEjPkE=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.project.idle.cd&hl=ko&gl=kr",
+      "recentChanges": "1. 일요일 이벤트 「전장 기습」이 추가됩니다.<br>2. 대규모 서버 간 이벤트 「핵폭탄 습격」이 추가됩니다.<br>3. 「연맹 공지 템플릿」이 추가됩니다.<br>4. 일부 이벤트에 오프라인 알림이 추가됩니다.<br>5. 「연맹 열차」 오프라인 알림이 추가됩니다.<br>6. 메인 스테이지 550을 클리어하면 다음 스테이지에 자동 도전하는 기능이 추가됩니다."
+    }
+  },
+  "6756989323": {
+    "researchedAt": "2026-10-26T20:11:07.913Z",
+    "verified": true,
+    "data": {
+      "verified": true,
+      "category": "기타",
+      "short": "SNS 광고 효과와 흑사병 소재로 차트 상위권 진입",
+      "summary": "1코노미뉴스 기사에 따르면 최근 SNS 광고로 눈길을 끈 이 게임이 인기 차트 1위에 올랐고, 기사는 흑사병이라는 독특한 소재와 광고 효과가 이용자들의 호기심을 자극한 결과로 보인다고 분석했습니다. 다만 이 기사는 출시 초기 차트 상위권 진입 시점의 보도이며, 현재 19위로 41계단 오른 구체적 시점과 직접 연결된 자료는 찾지 못했습니다. 스토어 최근 업데이트 내역은 'New Update.'로만 표시되어 콘텐츠 업데이트 여부는 확인되지 않습니다.",
+      "articles": [
+        {
+          "title": "[김 기자의 겜 어때?] '라스트 어사일럼: 페스트', 익숙한 소재 아쉬운 완성도",
+          "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=47488"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/x3k0QqK6E-L66PFBOeFDGUIcfX5sZ4xgWrP1ZjxN8U6zoDkIOp4M0v2SihVrYVYB0KPhWnKXN9CVlAJotzNNRZI=w400",
+        "https://play-lh.googleusercontent.com/Y1MZV5uBlQqnOAIaIwx90XCWsXpbvU-4tbCwVtajm992C9L2q9doipssNyU75BXL6P3CbsguDUVlXnKdTt6ubw=w400",
+        "https://play-lh.googleusercontent.com/nyJ8nmR87wp20u1FVMP8CNVk1MkrXWqf1wwgWbfFIubpakwm89zpAkR__JX8C9IDcGLC94JrfhR2e--ZwhS7=w400",
+        "https://play-lh.googleusercontent.com/dBpVOg-1qytxMrKDp_sfOj39pvKyTZLHRS8F3NTUgO2BfcpMdWgSvkQUlsuSQqhnueosueOXzjY8x9YjAhzx=w400"
+      ],
+      "video": "https://www.youtube.com/watch?v=M9BVonbfSCk",
+      "videoImage": "https://play-lh.googleusercontent.com/O7oXgrWjMJlxZztgAX1pxnYV9PzLPYtKbMhJJylRVARRNvEppM8CIVXp8XnPYR7CIQWUdzY6GRv3C3oqhTnWtA=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.phs.global&hl=ko&gl=kr",
+      "recentChanges": "New Update."
+    }
+  },
+  "com.blizzard.wtcg.hearthstone": {
+    "researchedAt": "2026-10-26T20:11:41.153Z",
+    "verified": true,
+    "data": {
+      "verified": true,
+      "category": "컨텐츠 업데이트",
+      "short": "확장팩 '검은 제국의 지배' 출시로 42위까지 상승",
+      "summary": "블리자드는 10월 21일 확장팩 '검은 제국의 지배'를 출시했고, 고대 신 4종과 신규 키워드 '조합', 신규 카드 135종이 포함되었다. 10월 14일 시작된 캠페인 '여정'도 함께 운영 중이며, 첫 장은 7주 동안 매주 스토리와 퀘스트가 열린다. 기사들은 출시 사실과 콘텐츠를 보도했을 뿐 Google 매출 순위 변동과의 직접적 인과관계는 명시하지 않았으므로, 순위 상승은 확장팩 출시에 따른 신규 유입으로 추정된다. 11월 11일까지 나이알로사 탐험 이벤트도 진행된다.",
+      "articles": [
+        {
+          "title": "'하스스톤' 신규 확장팩 '검은 제국의 지배' 출시, 고대 신 4종 등장",
+          "url": "https://www.thisisgame.com/articles/431175"
+        },
+        {
+          "title": "‘하스스톤’, 신규 확장팩 ‘검은 제국의 지배’ 출시",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309504"
+        },
+        {
+          "title": "하스스톤, ‘검은 제국의 지배’ 출시…‘조합’ 키워드·티탄벼림 추가",
+          "url": "https://www.sportsworldi.com/newsView/20261021506993?OutUrl=google"
+        },
+        {
+          "title": "하스스톤, 신규 확장팩 ‘검은 제국의 지배’ 출시",
+          "url": "https://www.ipnn.co.kr/news/articleView.html?idxno=417955"
+        },
+        {
+          "title": "하스스톤, 신규 확장팩 ‘검은 제국의 지배’ 21일 출시",
+          "url": "https://wvzine.com/?p=8260"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/Ho2UMDCefu9_FD_j9NURUf9WZHB6q6iWorKKH1C53DGtMP5C0bLqsfww8XhCHr8K62_3wCGczYsINQ6noRP5GQ=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/DP0f4THCryIhaUlCClGDuOdE9IzCpTWErEgNsco0e-Cx3LMXw6hyiGuEs4Wx5-yUKK76Wban_m7lycSsxXRb1g=w400",
+        "https://play-lh.googleusercontent.com/SehUJ_DW1uRqxOfmQBdxm0-u8m7XK-5d7dVHcSOyql0eWXkFUDPXJZ1hjIpi1o9VysHsnrigNHJklgVdVGTJpQ=w400",
+        "https://play-lh.googleusercontent.com/sVOPqnxrko9h8vPSZcLHp5dfesg9QKv3WMHRTJHKNnF0wQ0aPVYynmUROr2uTfGIVyL1N3QyedWnI354BBFKPw=w400",
+        "https://play-lh.googleusercontent.com/7D6eaItCOurNpOC2CFD1r9EU7m0_wZ7giI21iAfpIL8w187FfDq-UGiAXXREv-lW3DYEOROZ5g83R1g8adZZoA=w400"
+      ],
+      "video": "https://www.youtube.com/embed/07bHuvCrcls?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/A_jPQJ5-UIffWKZF6xkv_YTcH7AlVMR1EFx0BnN2iqIG0NzKtjk9gWg7yzyLdupWjaR2N3-eOh6v-1G2nZTU=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone&hl=ko&gl=kr",
+      "recentChanges": "새로운 확장팩 - 검은 제국의 지배가 고대 신 카드, 신규 키워드 &#39;조합&#39;과 함께 출시됩니다!<br><br>새로운 투기장 시즌 - 신규 카드 세트와 돌아오는 세트로 덱을 구성하고 새 시즌에 뛰어드세요!<br><br>새롭게 시작되는 여정 - 업데이트된 일지에서 스토리와 이벤트, 보상 등의 콘텐츠를 파고드세요.<br><br><br><br>패치 노트 전문: hearthstone.blizzard.com/ko-kr"
+    }
+  },
+  "6618142292": {
+    "researchedAt": "2026-10-27T03:00:40.060Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "새 버전 출시 및 콘텐츠·최적화 업데이트로 순위 8계단 상승 추정",
+      "summary": "순위 상승 원인을 다룬 최신 한국어 기사는 찾지 못했다. 제공된 스토어 업데이트 내역은 새 버전 출시, 게임 성능 최적화, 콘텐츠 제공을 언급하는 일반적인 문구다. 따라서 신규 콘텐츠 업데이트가 상승 요인일 가능성이 있다고 보지만, 구체적 근거는 확인되지 않았다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/FjEQ_owl-a4h7Sn6hIcJjhzcsdns6XdQiuuVzppzXZnlKSIYzPXAvm3lExtqKBZCSnF5remmvV_JePcVN6DMTg=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/a7sDWhMjAf-1kqo4_CJ3wlljIniO9J13mehNjXgF5WDzGC2gXbqhCxpgRMAvDramnVjCHagoQvue6HC3kkZi=w400",
+        "https://play-lh.googleusercontent.com/eefaeKy-p2qTUhfaT0LwotN9ANX_DO14bzpvjscSQ-48_z6aRF_zKCmX-gHPPEqMelfPfv2vVjZ03RHYLpuYCw=w400",
+        "https://play-lh.googleusercontent.com/fFex91x5-WO_qgaX_5ZenRiRsQOdNoGREXhtWywt6f0pP9bpAJY1FGInaz9tdMofSnW2Sw0vpp2-ATFEhf-i=w400",
+        "https://play-lh.googleusercontent.com/fZrvsN8lkYB6VPNe5zKwdJe98OWqPECyuc7a-Mm7hLW3IDJtZfr0OA9beZJBxY2oLKQo9g4qgsYQ9Us-q5mmiw=w400"
+      ],
+      "video": "https://www.youtube.com/embed/Mvd8yCzLLKc?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/qyu7yRExNjiWG1EWJLsnZBypEXrVux2HMRVb-ct6CEE1YxdXiEUf2ahWbcv899S3XWvNq0Fs4JIxg4CAPxL6vA=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.merge.cooking.theme.restaurant.food&hl=ko&gl=kr",
+      "recentChanges": "돌아오신 것을 환영합니다, 셰프님!<br>새 버전의 머지 쿠킹이 출시되었습니다!<br>더 나은 사용자 경험을 위해, 저희는 게임 성능 최적화와 흥미로운 콘텐츠 제공에 힘쓰고 있습니다.<br>게임 플레이 동안 즐거움이 가득하길 바랍니다!<br>게임에 처음 오셨나요? 걱정하지 마세요. 각 단계별 설명을 통해 안내하겠습니다. 저희와 함께 즐겨봐요!"
+    }
+  },
+  "6448786147": {
+    "researchedAt": "2026-10-27T03:01:04.205Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "시즌·패스",
+      "short": "슈퍼 월간 패스 연계 방어 참가 최적화 업데이트",
+      "summary": "상승 원인을 직접 설명하는 최신 한국어 기사를 찾지 못했습니다. 검색된 기사들은 4월 등 과거 시점의 전체 매출 순위와 게임의 누적 흥행을 다루며, 이번 6계단 상승을 특정하지 않습니다. 따라서 제공된 스토어 업데이트 내역을 근거로 보면, 슈퍼 월간 패스 활성화 후 제4부대 방어 참가 상태를 최적화한 패치가 패스 이용자의 경험을 개선했을 가능성이 있습니다. 다만 이는 추정이므로 검증되지 않았습니다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/qCOgHAZXkT9YdtvqDkX_453sWftwT1DodPsAXc2Vq2EQGjcZMQARfW-9taq9Eei5YKYTqddvyAGCtB7SCjCtAA=w400",
+        "https://play-lh.googleusercontent.com/jLqM7XUXlV_rg3XyHaHb6omH0UPqLgbgjiqVy1fu7K-iqTG6PjOBJ6PGuJGXywwr6nQEHUWkxdTgBRUVKVM6=w400",
+        "https://play-lh.googleusercontent.com/-4QLRC6J3YlXxFJ_58yALivhTpPw03vYHIsxIPPpRxIQvOADvP5jb9UY7L-S7kpbPa4tZ5qKwbgq94CtQbG1Vw=w400",
+        "https://play-lh.googleusercontent.com/3gcQQf5_1wbG8Uf29nbFKghOsYM6E1JaVI5hRekhqzwJcP4TMUhM_TrIUNuU5RGUtG45xub_xpo1TutKLbkQ7g=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.fun.lastwar.gp&hl=ko&gl=kr",
+      "recentChanges": "[최적화]<br>[슈퍼 월간 패스] 활성화 후 제4부대 [방어 참가] 상태 최적화."
+    }
+  },
+  "6767834940": {
+    "researchedAt": "2026-10-26T20:11:58.969Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "신규 국왕 관직 시스템 추가 및 군비 경쟁 이벤트 개선",
+      "summary": "검색으로는 탑 로드의 매출 순위 상승을 다룬 최신 한국어 기사를 찾지 못했습니다. 제공된 스토어 업데이트 내역에 따르면 신규 국왕 관직 시스템이 추가되었고(자세한 내용은 게임 내 우편 확인), [군비 경쟁] 이벤트 화면이 최적화되었습니다. 다만 이는 순위 상승과의 인과관계를 직접 입증하지 않으므로 추정에 해당합니다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/F9Nk01jBia2OZFGndBuTP-rJ-ThbicTHpxJj3iZIk-M1-V8qFhVuVQWYAG_zCuggkiRXHrfqyU5XwZPhAJyAfA=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/9gMGhoEi3ajgP-Z6CCVJCSDOivZmjJ5klBHoCZzC7wUDkoyaDhZ5GI9mgTd7skFnzVFKsN5xaCtskC1hIAneJ4o=w400",
+        "https://play-lh.googleusercontent.com/BC1BtkfaulcAti5Xi2MtvAjQOVFhS1PowUaXqkrTIT15F7c7gvEIPbXCuycaeNgWNVQQjCzm-fSm5lnkkzbnOA=w400",
+        "https://play-lh.googleusercontent.com/eywnXBkJAqdDTNdzbGiqnGueRWOeuU6F4yPUW4bEs9WJ9KBcN5nioDgeeGv_ykCiCTJ0tdSPHweSfzhnlF3f8Q=w400",
+        "https://play-lh.googleusercontent.com/HGZwaPZlCBj6ZIaxv3rkxD8QzyVyCEPrg75JRK1y8DOF2NVsxAZwFaV7blxkpHM8x6NfxsaS7LsYOdnfzHAf5A=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.gamespark.topking.gp&hl=ko&gl=kr",
+      "recentChanges": " 신규 국왕 관직 시스템. (자세한 사항은 게임 내 우편 확인)<br>[군비 경쟁] 이벤트 화면 최적화."
+    }
+  },
+  "6739554056": {
+    "researchedAt": "2026-10-26T20:12:04.071Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "낚시 선수권 최적화·임무 추가 업데이트 (기사 미확인)",
+      "summary": "검색으로는 킹샷의 App Store 매출 순위 상승을 다룬 최신 한국어 기사를 찾지 못했습니다. 따라서 스토어 최근 업데이트 내역을 근거로 추정합니다. 해당 업데이트는 낚시 선수권 대회 최적화(해초 도감, 10배 배수 낚시 옵션, 낚시 도구 자동 최고 레벨, 섬 장식품 보상 임무)와 보상 일괄 수령 기능을 포함합니다. 영주 프로필 고화질 확인 기능도 추가되어, 이벤트 참여 편의성 개선이 순위 상승의 유력한 원인으로 보입니다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/jsLQX17UmadjCZC7RhmOqC3jkMleDYQS2N2tAD_O9oFJ_eYbqr-DByVz0Fu3QDvvJpd2x3AXqQl-r7opybblKqo=w400",
+        "https://play-lh.googleusercontent.com/GxG9bAVKW5jfQyEp8LnsqOo1M9sDGfSQ5ZFhcLh1EZpgvKQYboGH9u3TPaQA5z_fJQDCoHS0ht-mSR2vl5Ck=w400",
+        "https://play-lh.googleusercontent.com/FOaEE-Ke8y2ItmQMRJq-joWi1CFXD3X2dZ40JIu7uwBU0GFKVrVr1QfEAzQCckHupNdEZrNue1U2FduUwWshuA=w400",
+        "https://play-lh.googleusercontent.com/6iQATxeUe1cffqdhIt28WKt2ZuhUfGjTM6qRxLKOkZzlmS9nP8TYAtmChyn5CUq_NABs9nIIrdwEzY3ZMjWwrA=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=kr",
+      "recentChanges": "[최적화 및 조정]<br>1.낚시 선수권 대회 최적화: 해초 도감이 추가됩니다. 지정 조건 달성 시 해초 도감이 자동으로 해제되며, 수집 진행도를 높이면 한정 채팅 스킨 보상도 획득할 수 있습니다. 또한 왕국이 지정 진행도에 도달하면 배수 낚시에 10배 옵션이 추가되며, 기본 낚시 도구 레벨도 자동으로 최고 레벨까지 상승하여 영주님들이 이벤트에 더욱 효율적으로 참여할 수 있게 됩니다. 이번 임무 기능이 추가되어, 이벤트 기간에 낚시 포인트를 획득하면 귀중한 섬 장식품 보상을 받을 수 있습니다. 이 밖에도 보상 일괄 수령 기능이 추가되고, 물고기 사료 설명이 최적화되어 더욱 편리하게 이용할 수 있습니다.<br>2.영주 프로필 최적화: 업데이트 후 다른 영주의 영주 정보에서 프로필을 누르면 상대방의 고화질 프로필을 확인할 수 있습니다."
+    }
+  },
+  "com.readygo.barrel.gp": {
+    "researchedAt": "2026-10-27T03:00:45.228Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "기타",
+      "short": "관련 기사 미확인, 순위 상승 원인 불명확(추가 확인 필요)",
+      "summary": "한국어 기사 검색에서는 Last Z: Survival Shooter의 Google 매출 순위 상승 원인을 직접 다룬 기사를 찾지 못했다. 검색된 자료는 게임 소개, 앱 스토어 정보, 공략 가이드, 커뮤니티 페이지 등이며 최근 매출 상승의 원인을 설명하지 않는다. 제공된 스토어 업데이트 내역(recentChanges)도 입력에 없어 근거로 삼을 수 없으므로, 신규 오픈·업데이트·이벤트 등 어떤 원인인지 확정할 수 없다. 원인 판단을 위해서는 구글 플레이 업데이트 노트와 해당 기간의 이벤트·프로모션 정보를 추가로 확인해야 한다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/4BvVvnnENEYqq8DvtqZ_Y-xn5tXIpb_vUGg-bDwTu7njktOV-7DwM6U60sWVYD_eAUzp0v9i_m6-5ZiN9nvGJg=w400",
+        "https://play-lh.googleusercontent.com/Zzw5ns8Dd_blLwyUbsn2p_vTkqPbz8flnPelRnH4K29H6xYMEvbrwluj_OW0gj6YCbb5eJJaImJGLIxJ0d5rQzI=w400",
+        "https://play-lh.googleusercontent.com/mM3ReRDZf_h6XRDnCkmSzThMfo9dSQVaVxyEIhbh1Nsms3UruGc8oe-0tlPSl8PCZjgKa5ZeV2Q-CgF_NLcOaq0=w400",
+        "https://play-lh.googleusercontent.com/UFbb-UoTO25dV_Z3_1lhJY9_HS6T3UmXu0Zx0Wd6HpPUkWXwyuBJCxhip19JMggOet_EaOo4WWtXCohZcF-xTw=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.readygo.barrel.gp&hl=ko&gl=kr",
+      "recentChanges": ""
+    }
+  },
+  "com.netmarble.sol": {
+    "researchedAt": "2026-10-27T03:00:52.823Z",
+    "verified": true,
+    "data": {
+      "verified": true,
+      "category": "신규 오픈",
+      "short": "6/18 출시 후 양대마켓 매출 1위 달성, 신작 효과",
+      "summary": "넷마블 신작 MMORPG 솔: 인챈트는 2026년 6월 18일 출시 후 약 8시간 만에 애플 앱스토어 매출 1위에 올랐고, 약 22시간 만에 구글플레이에서도 1위를 기록했습니다. 이용자가 서버 운영에 참여하는 '신권' 시스템, 리니지M 개발진 출신이 주축인 알트나인의 개발, 출시 직후 신규 월드 추가와 보스 드롭률 상향 같은 이벤트가 초반 흥행 요인으로 꼽혔습니다. 여기에 통신 3사와 연계한 결제 할인 프로모션도 매출 순위를 끌어올린 변수로 언급됐습니다. 다만 기사에서 6계단 상승 자체를 직접 다룬 내용은 확인되지 않아, 순위 상승은 출시 효과와 신규 진입 흐름으로 해석했습니다.",
+      "articles": [
+        {
+          "title": "넷마블 'SOL: enchant', 출시 첫날 양대 앱마켓 매출 1위",
+          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=872839"
+        },
+        {
+          "title": "이유 있는 양대마켓 1위…넷마블 SOL:Enchant '신권'이 통했다",
+          "url": "https://www.coxnews.co.kr/news/articleView.html?idxno=5231"
+        },
+        {
+          "title": "넷마블 '솔: 인챈트', 하루 만에 양대마켓 1위…MMORPG 흥행 공식 다시 통했나",
+          "url": "https://m.news.nate.com/view/20260619n24660"
+        },
+        {
+          "title": "출시 하루도 안돼 양대마켓 매출 1위…'SOL: enchant', 시장 기대감 입증",
+          "url": "https://www.inven.co.kr/webzine/news/?news=317598"
+        },
+        {
+          "title": "'솔:인챈트' 양대마켓 상위권… 넷마블 하반기 기대",
+          "url": "https://www.ilovepc.co.kr/news/articleView.html?idxno=59836"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/eRGPrWXzheZvTiTRBDBuaysX8ptDH5xasKV8rzWmuEKA9WsXfftcybnz9zQB89Iiqx7WKa_naS_WK5DdT1KB=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/Q_WPB5n_YJhndJMeM80PZZXETsZ1H65stEb-0tqb0qjTDJihG0dC_7vInNiYWpj2aFRoFG-YANyn5vmyDNANDw=w400",
+        "https://play-lh.googleusercontent.com/h2w3yYrc6rdi-8Gu9wG60xRsQbUSa4HtNAexRXe2BBKpWfsvDrJjdyGi0SjcxQ4lkgGuS4pWEE5IcSMltxwG=w400",
+        "https://play-lh.googleusercontent.com/pS2s9W_yEa8WPaW2XL9xiRBgmInHL3En5KFTCHsWMQWvj9tkh8x6xX0TZrP3PWW_qY96t4BGKuZet_WllDrVHSk=w400",
+        "https://play-lh.googleusercontent.com/NuBRcM5QULJd2G_beY3nzFerZcZ5uh4y7NV0FvWZv7liAsOxiTpwpTS235r7UwUKPa2J3o9gPsKSNTLiyFDBcw=w400"
+      ],
+      "video": "https://www.youtube.com/embed/jRykO-HJfYM?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/6ofQa9bEo32HwiWemq43_oEC2Ql4ia54mhu_I5OX4tMUUWLGpmd4RiwJ_5bzoIS_3vKmJoMZ6XD5EqjJxunD=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.netmarble.sol&hl=ko&gl=kr",
+      "recentChanges": "- 신규 이벤트<br>- 편의성 개선<br>- 버그 수정"
+    }
+  },
+  "com.project.idle.cd": {
+    "researchedAt": "2026-10-27T03:00:57.283Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "일요일 이벤트·서버 간 이벤트 추가와 자동 스테이지 도전 기능",
+      "summary": "검색으로 최신 한국어 기사를 찾지 못해, 스토어 업데이트 내역을 근거로 판단한 추정입니다. 요일 이벤트와 대규모 서버 간 이벤트 등 신규 이벤트가 추가되어 매출 참여를 자극했을 가능성이 있습니다. 또한 연맹 관련 템플릿과 오프라인 알림 추가로 유저 복귀와 과금 동기가 높아졌을 것으로 보입니다. 메인 스테이지 550 이후 자동 도전 기능은 진행 편의성을 높여 체류 시간을 늘렸을 수 있습니다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/dIGYOhW1mwhxLLCti6-O-VQAL_5oz7yzyLkP5WJH80i6j3HWcaIOfTnJ-FaQC1tQ7DC2pR5BphwkZJ9tFQe_ag=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/5Jo5XmNHTS9x9R0U9mfEoUc1miy_cMPccXOMph-vu4Aypcgn2joXBL0Nenq5iyt-8adhCjUZV4eGcn10fP-E8Q=w400",
+        "https://play-lh.googleusercontent.com/THKO90CIC5QAB0qKBsxe8BtNo_DvHrZL5UGCE1rgx1WJtrK52LxIDyHHzv1-R6HALKkS-VKSncmPYD5qbcaS=w400",
+        "https://play-lh.googleusercontent.com/KpchkQHC1ZlK0W_A2yE7VccKhz1AYWgo2FDCPWgQDo37H2ukKIjMteW-Q8tfureNcG2GAVSeJPnm-foWFBJ-=w400",
+        "https://play-lh.googleusercontent.com/N40COevAks6AcIdMsRlbJAq9RRNCDyYRIBAC9MIMh5kTxErdYiQudDiMXncxevmRt0ahPmd3WJE040jEjPkE=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.project.idle.cd&hl=ko&gl=kr",
+      "recentChanges": "1. 일요일 이벤트 「전장 기습」이 추가됩니다.<br>2. 대규모 서버 간 이벤트 「핵폭탄 습격」이 추가됩니다.<br>3. 「연맹 공지 템플릿」이 추가됩니다.<br>4. 일부 이벤트에 오프라인 알림이 추가됩니다.<br>5. 「연맹 열차」 오프라인 알림이 추가됩니다.<br>6. 메인 스테이지 550을 클리어하면 다음 스테이지에 자동 도전하는 기능이 추가됩니다."
+    }
+  },
+  "com.percent.aos.luckydefense": {
+    "researchedAt": "2026-10-27T03:01:10.084Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "할로윈 축제·릴레이 디펜스 등 신규 콘텐츠 업데이트(추정)",
+      "summary": "최근 스토어 업데이트에서 할로윈 특별 이벤트가 시작되었고, 플링코와 할로윈 한정 스킨이 추가되었습니다. 신규 모드 '릴레이 디펜스'가 등장했고 대전 모드 리뉴얼이 예고되었습니다. 최신 한국어 기사에서 순위 상승을 직접 설명하는 내용은 찾지 못해 스토어 업데이트 내역을 근거로 한 추정입니다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/GlBaTDhvSbHkdZR7T-ynCB6uj2pR6VeUAmBKECYo22Y2m3-HM4Py2Gl3BXrRfaP43BfFk-HTH0eTrmTZQBck3Q=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/_WCB0beJZi5wmlpVGWrtCUF1blUTmmWrelCzqsGftOJaHY1715bwPi1_6ULvLuyxLL3fYczJV3wbMt80vE4uhA=w400",
+        "https://play-lh.googleusercontent.com/JQ83IpBwqA4H_VjeWEghy_Y3LcaJNiETorte9fuUBwi-jUlY6WHERkL47ZlYmhI4ah_0hnZ8jLMykSFqubYtbeM=w400",
+        "https://play-lh.googleusercontent.com/rNbsh_ANaWD96hyOGTdOuNAG-XsKHjtKSFZS894uVz1ZXK3XAeYAfw__FPfbzEpnT-ORrkSSM8BLIm9DN6mITg=w400",
+        "https://play-lh.googleusercontent.com/OyZit_MxV69fTSEpgm1T3ZMOxlZ4vxGuOcltv1hbKpw_1RbgxJj6QhPcIO2Yzb3x8afqG_Uw5jw8PkPIkdKcHQ=w400"
+      ],
+      "video": "https://www.youtube.com/embed/HwgaDIsxnm8?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/HpHINXkyIXVqlF5X2o64Tg2qZcBvt0eG-B08SFjCkpG77nwXVCElVKOC98fVg00rh5O9VRXRDaBADugkI9mq=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.percent.aos.luckydefense&hl=ko&gl=kr",
+      "recentChanges": "■ 특별 이벤트 ‘할로윈 축제’ 시작!<br>• 어디로 떨어질지 모르는 행운! 플링코부터 할로윈 한정 스킨까지!<br>■ 차례로 막아라! ‘릴레이 디펜스’ 등장!<br>■ 대전 모드 리뉴얼 예고!<br>■ 편의성 개선 및 버그 수정"
+    }
+  },
+  "com.fun.lastwar.gp": {
+    "researchedAt": "2026-10-27T03:01:18.239Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "시즌·패스",
+      "short": "슈퍼 월간 패스 관련 최적화 업데이트, 원인 미검증",
+      "summary": "최신 한국어 기사에서 이 게임의 매출 순위 상승 원인을 확인하지 못했다. 스토어 최근 업데이트는 슈퍼 월간 패스 활성화 후 제4부대 방어 참가 상태를 최적화한 내용으로, 패스 이용자 편의 개선에 해당한다. 다만 이것이 매출 순위 상승의 직접 원인이라는 근거는 없으므로 추정으로만 본다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/qCOgHAZXkT9YdtvqDkX_453sWftwT1DodPsAXc2Vq2EQGjcZMQARfW-9taq9Eei5YKYTqddvyAGCtB7SCjCtAA=w400",
+        "https://play-lh.googleusercontent.com/jLqM7XUXlV_rg3XyHaHb6omH0UPqLgbgjiqVy1fu7K-iqTG6PjOBJ6PGuJGXywwr6nQEHUWkxdTgBRUVKVM6=w400",
+        "https://play-lh.googleusercontent.com/-4QLRC6J3YlXxFJ_58yALivhTpPw03vYHIsxIPPpRxIQvOADvP5jb9UY7L-S7kpbPa4tZ5qKwbgq94CtQbG1Vw=w400",
+        "https://play-lh.googleusercontent.com/3gcQQf5_1wbG8Uf29nbFKghOsYM6E1JaVI5hRekhqzwJcP4TMUhM_TrIUNuU5RGUtG45xub_xpo1TutKLbkQ7g=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.fun.lastwar.gp&hl=ko&gl=kr",
+      "recentChanges": "[최적화]<br>[슈퍼 월간 패스] 활성화 후 제4부대 [방어 참가] 상태 최적화."
+    }
+  },
+  "com.com2us.futurecpb.android.google.global.normal": {
+    "researchedAt": "2026-10-27T03:01:25.376Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "클럽 대전 백투백 히터 추가·선수 보관 시스템 개선 업데이트",
+      "summary": "이번 순위 상승은 스토어 최근 업데이트 내역을 근거로 판단했습니다. 클럽 대전에 백투백 히터 역할군이 추가되었고, 선수 보관 시스템 개선과 편의성·인게임·UI/UX 개선, 버그 수정이 함께 적용되었습니다. 다만 이번 5계단 상승을 직접 다룬 최신 한국어 기사는 찾지 못해 검증되지 않은 판단입니다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/BtV-E7fRGAyXDhJ9qfu4szex8HhXZit9dS8XjiYtckl5DrZSMUH0mbWHikFKvLrqq9ZKQg_KSRLBozg-Ohmn-g=w400",
+        "https://play-lh.googleusercontent.com/8SeSoQWqnhCHvrZ5NZJBtzI4V1BdZw9wbZ5Ar0ItAQcqYdi-0apBU7p9EmTm1YzrMtVW5nPh3m6qWeiCZYAG=w400",
+        "https://play-lh.googleusercontent.com/wNMbsdgOk13y1S_8RwNSH7vZBrha0JoSVqTqqmnb7afzHUiO_6An399CGynS86zt0ETcqoCatlEIH9_I4S5OeA=w400",
+        "https://play-lh.googleusercontent.com/6iPzebDlkLRSqrSBIn4mi3F1lJY99VJdhHNgfZE0YoLJgzfpqPJ2ew4NeuQiAp4Y4_D1Jix6ByZMTgzBzXdIK2A=w400"
+      ],
+      "video": "https://www.youtube.com/embed/kQU1ZHOfTow?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/l6oOsmoTYryCbbyrU7JleRHUkIMdW8lfVHTy_TLTgN_dzxDathfUU4Vyg5PISFcQ-HQpNxQ5KL4XEoB8V2_85Q=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.com2us.futurecpb.android.google.global.normal&hl=ko&gl=kr",
+      "recentChanges": "컴투스프로야구V26 업데이트!<br>현존 최고의 리얼리티 야구 게임을 경험해보세요!<br><br>- 클럽 대전 역할군 추가 : 백투백 히터<br>- 선수 보관 시스템 개선<br>- 편의성 및 인게임 개선<br>- UI/UX 개선<br>- 버그 수정<br><br>여러분의 소중한 의견을 리뷰로 남겨주세요.<br>컴프야V26은 모든 리뷰를 확인합니다."
     }
   }
 }
