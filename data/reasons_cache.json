@@ -101,17 +101,17 @@
     }
   },
   "1117270703": {
-    "researchedAt": "2026-10-27T03:00:33.441Z",
+    "researchedAt": "2026-10-27T03:03:02.849Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "매출 이벤트",
-      "short": "월드컵 이벤트 추정 매출 상승(일본 기사 참고, 한국 차트 미확인)",
-      "summary": "찾은 기사는 일본 시장 기준으로, 2026년 1~7월 인앱구매 순위에서 eFootball이 6계단 오른 1위를 기록했다고 전합니다. 월드컵 관련 이벤트로 이용자 참여와 지출이 늘어 7월에 월간 최고 수익을 냈다는 내용입니다. 다만 사용자가 지정한 App Store 매출 27위(13계단 상승)와 직접 대응하는 한국 차트 기사는 찾지 못했고, 스토어 업데이트 내역은 버그 수정뿐이라 이 원인은 추정에 그칩니다.",
+      "short": "월드컵 관련 이벤트 지출 증가 추정(직접 근거 미확인)",
+      "summary": "센서타워 분석을 다룬 최근 기사에 따르면 eFootball은 올해 1~7월 개별 게임 인앱구매 수익 1위였고, 월드컵 관련 이벤트로 이용자 참여와 지출이 늘어 7월에 자체 최고 월간 수익을 기록했다. 다만 이 기사는 상반기부터 7월까지의 흐름을 다룬 것이라 10월 말 현재 13계단 상승의 직접 원인이라고 확인되지는 않는다. 스토어 최근 업데이트 내역은 '버그를 수정했습니다' 한 줄뿐이어서 이번 상승 원인을 특정할 근거가 부족하다. 따라서 월드컵 이벤트에 따른 매출 증가 가능성만 제시하고 검증되지 않은 것으로 둔다.",
       "articles": [
         {
-          "title": "일본 모바일 게임 수익 100억달러 돌파, 한국의 2배 이상… 해외 퍼블리셔 영향력 확대 속 PC·콘솔 게임 시장도 성장 - 뉴스와이어",
-          "url": "https://www.newswire.co.kr/newsRead.php?no=1045199"
+          "title": "韓 두 배 규모로 성장한 日 모바일게임 시장…해외 게임사도 점유율 넓혔다",
+          "url": "https://www.dailian.co.kr/news/view/1705526/%E9%9F%93-%EB%91%90-%EB%B0%B0-%EA%B7%9C%EB%AA%A8%EB%A1%9C-%EC%84%B1%EC%9E%A5%ED%95%9C-%E6%97%A5-%EB%AA%A8%EB%B0%94%EC%9D%BC%EA%B2%8C-2026"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/jn-jaGEFUPiu0dBP9O6PjiRk-BCwFFLm0RdeOjLH-qLYjhHJlzNBMgl3Sah24htajj67_fdve-DzGsqmMUx1tqQ=w128",
@@ -128,25 +128,21 @@
     }
   },
   "1128255542": {
-    "researchedAt": "2026-10-27T03:00:24.926Z",
-    "verified": false,
+    "researchedAt": "2026-10-27T03:02:52.653Z",
+    "verified": true,
     "data": {
-      "verified": false,
-      "category": "기타",
-      "short": "앱스토어 17계단 상승 원인 기사 미확인, 추정 보류",
-      "summary": "검색된 기사는 주로 구글 플레이 매출 순위 회복(6월 전후)과 9주년 업데이트를 다루며, 현재 앱스토어에서 41위로 17계단 오른 시점의 원인을 직접 설명하지 않는다. 6월 9주년 대규모 업데이트와 '요정' 클래스 리부트 기대감이 순위 변동에 영향을 준 것으로 보인다는 개발사 관계자 언급이 있으나, 이는 이번 변동과 시점이 일치한다는 확인이 없다. 따라서 이번 상승 원인은 스토어 업데이트 내역(recentChanges)으로 추가 검증이 필요하다.",
+      "verified": true,
+      "category": "컨텐츠 업데이트",
+      "short": "10/14 풍요의 계절 업데이트·릴레이 보상 영향 추정",
+      "summary": "10월 14일 업데이트로 '풍요의 계절' 이벤트가 10월 14일부터 11월 3일까지 3주간 열렸고, 21일 동안 매일 오후 3시에 릴레이 보상이 지급되었습니다. 시련의 탑과 황금 슬라임 이벤트도 함께 재개되었고 레거시 월드에 진돗개 변신 카드가 추가되었습니다. 다만 해당 기사는 차트 순위 변동을 직접 다루지 않아, 순위 상승과의 연관은 시기상 추정입니다.",
       "articles": [
         {
-          "title": "[기획] 리니지, 다시 증명하다 ② - 되찾은 모바일 왕좌",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318361"
+          "title": "풍요의 계절이 온다...리니지M, 3주간의 릴레이 보상 시작",
+          "url": "https://www.playforum.net/news/articleView.html?idxno=635581"
         },
         {
-          "title": "PC 빼도 이긴다...'리니지M' 매출 1위 싹쓸이",
-          "url": "https://www.gameple.co.kr/news/articleView.html?idxno=215762"
-        },
-        {
-          "title": "8년 차 국산 MMORPG ‘리니지M’, 상반기 매출 1위 사수",
-          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=413313"
+          "title": "[정보] 리니지M, 10월 3주차 '한정 · 주말 특별 제작' 정보",
+          "url": "https://www.inven.co.kr/webzine/news/?news=322413"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/MzMjZDpV2qLj34eMjWXBNSyOaSINWvqjWuzF7W0LiazKbWbqae230F0BwkATJl4eQd1a6S1Lp1SLeRn6tRUt=w128",
@@ -276,13 +272,13 @@
     }
   },
   "1507872328": {
-    "researchedAt": "2026-10-27T03:01:31.531Z",
+    "researchedAt": "2026-10-27T03:03:52.790Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "2.36.1 컴패니언 시스템 개선으로 인한 상승 추정(기사 미확인)",
-      "summary": "순위 상승을 직접 다룬 한국어 기사는 찾지 못했다. 스토어 기록상 2.36.1 업데이트는 컴패니언을 체험과 무관하게 바로 구매할 수 있게 했고, 여러 상황에서 더 자주 등장하도록 바꿨다. 다만 이것이 순위 상승의 원인이라는 근거는 없어 추정에 그친다. 앱스토어 노출 외 이벤트·광고 요인은 확인되지 않았다.",
+      "short": "컴패니언 즉시 구매·등장 빈도 개선으로 순위 상승 추정",
+      "summary": "검색에서 WPL의 순위 상승 원인을 다룬 한국어 기사는 찾지 못했다. 스토어 업데이트 내역에는 컴패니언을 체험하기와 상관없이 즉시 구매할 수 있게 한 변경과, 더 다양한 상황에서 자주 등장하도록 한 개선이 있으며, 기타 버그 수정과 UI/UX 최적화도 포함되어 있다. 따라서 컴패니언 관련 개선을 상승 원인으로 추정할 수 있으나, 실제 원인은 확인되지 않았다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/QQVS3cmt_fMF91ecz8fHExUP_VJUty-9dCmA7sOZQR3086-4nD-2ANOA2cOkFeiHt5eFW55CZJGpiaO_BahNZA=w128",
       "screenshots": [
@@ -415,13 +411,13 @@
     }
   },
   "1643509748": {
-    "researchedAt": "2026-10-27T03:01:37.657Z",
+    "researchedAt": "2026-10-27T03:03:59.896Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "신버전 출시·최적화 업데이트 뒤 순위 상승 추정(기사 미확인)",
-      "summary": "검색에서 이 게임의 순위 상승을 다룬 한국어 기사는 찾지 못했다. 제공된 스토어 업데이트 내역은 새 버전 출시와 성능 최적화, 콘텐츠 추가를 언급하지만 구체적인 이벤트나 매출 요인은 적혀 있지 않다. 따라서 컨텐츠 업데이트가 상승 원인일 가능성은 있으나 확정할 수 없다.",
+      "short": "새 버전 출시·콘텐츠 업데이트로 추정(기사 미확인)",
+      "summary": "한국어 뉴스 기사는 찾지 못했고, 확인된 자료는 앱스토어 업데이트 문구와 앱 마켓 페이지뿐이다. 제공된 recentChanges는 새 버전 출시, 성능 최적화, 신규 콘텐츠 제공이라는 일반적인 내용만 담고 있어 순위 상승의 구체적 원인은 특정할 수 없다. 따라서 콘텐츠 업데이트가 상승 요인일 가능성이 있다는 추정만 가능하다. 일부 APK 미러 사이트에는 스폰지밥 콜라보 이벤트가 적혀 있으나 공식 확인이 되지 않아 근거로 채택하지 않았다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/FjEQ_owl-a4h7Sn6hIcJjhzcsdns6XdQiuuVzppzXZnlKSIYzPXAvm3lExtqKBZCSnF5remmvV_JePcVN6DMTg=w128",
       "screenshots": [
@@ -1227,13 +1223,13 @@
     }
   },
   "6761893238": {
-    "researchedAt": "2026-10-27T03:00:15.634Z",
+    "researchedAt": "2026-10-27T03:02:42.080Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "신규 이벤트·알림·자동도전 추가로 콘텐츠 보강, 기사 미확인",
-      "summary": "최신 한국어 기사는 찾지 못했다. 스토어 업데이트 내역 기준으로 일요일 이벤트 「전장 기습」과 대규모 서버 간 이벤트 「핵폭탄 습격」이 추가됐고, 연맹 공지 템플릿과 연맹 열차 등 오프라인 알림이 더해졌다. 또한 메인 스테이지 550 클리어 후 다음 스테이지에 자동 도전하는 편의 기능도 들어갔다. 이 신규 이벤트와 편의 기능이 신규 유입과 이탈 방지에 기여해 매출 순위 49계단 상승으로 이어졌을 가능성이 있으나, 이는 업데이트 내용에 근거한 추정이며 매출 증가의 직접 원인은 확인되지 않았다.",
+      "short": "이벤트·편의기능 추가 업데이트로 49계단 상승(추정)",
+      "summary": "검색으로는 Top Force(탑 포스) 순위 상승을 다룬 최신 한국어 기사를 찾지 못했습니다. 스토어 업데이트 내역에 따르면 일요일 이벤트 「전장 기습」과 대규모 서버 간 이벤트 「핵폭탄 습격」이 추가됐고, 연맹 공지 템플릿과 연맹 열차 등 연맹 관련 기능이 더해졌습니다. 또한 일부 이벤트와 연맹 열차에 오프라인 알림이 생기고, 메인 스테이지 550 클리어 후 다음 스테이지에 자동 도전하는 기능이 추가됐습니다. 이 변경들이 매출 순위 상승의 원인이라는 직접적 근거는 없으므로 추정으로만 봐야 합니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/dIGYOhW1mwhxLLCti6-O-VQAL_5oz7yzyLkP5WJH80i6j3HWcaIOfTnJ-FaQC1tQ7DC2pR5BphwkZJ9tFQe_ag=w128",
       "screenshots": [
@@ -1318,13 +1314,13 @@
     }
   },
   "6618142292": {
-    "researchedAt": "2026-10-27T03:00:40.060Z",
+    "researchedAt": "2026-10-27T03:03:09.239Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "새 버전 출시 및 콘텐츠·최적화 업데이트로 순위 8계단 상승 추정",
-      "summary": "순위 상승 원인을 다룬 최신 한국어 기사는 찾지 못했다. 제공된 스토어 업데이트 내역은 새 버전 출시, 게임 성능 최적화, 콘텐츠 제공을 언급하는 일반적인 문구다. 따라서 신규 콘텐츠 업데이트가 상승 요인일 가능성이 있다고 보지만, 구체적 근거는 확인되지 않았다.",
+      "short": "신규 버전 출시 추정, 순위 상승 원인 기사 미확인",
+      "summary": "순위 상승 원인을 직접 다룬 최신 한국어 기사는 찾지 못했다. 스토어 업데이트 내역에는 새 버전 출시와 성능 최적화, 콘텐츠 추가가 적혀 있어 컨텐츠 업데이트가 상승 배경일 가능성이 있다. 앱스토어 버전 기록에는 새 요리와 새 지역 추가가 언급되어 있으나, 이는 순위 상승과의 인과관계를 입증하지 않는 추정이다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/FjEQ_owl-a4h7Sn6hIcJjhzcsdns6XdQiuuVzppzXZnlKSIYzPXAvm3lExtqKBZCSnF5remmvV_JePcVN6DMTg=w128",
       "screenshots": [
@@ -1340,13 +1336,13 @@
     }
   },
   "6448786147": {
-    "researchedAt": "2026-10-27T03:01:04.205Z",
+    "researchedAt": "2026-10-27T03:03:29.595Z",
     "verified": false,
     "data": {
       "verified": false,
-      "category": "시즌·패스",
-      "short": "슈퍼 월간 패스 연계 방어 참가 최적화 업데이트",
-      "summary": "상승 원인을 직접 설명하는 최신 한국어 기사를 찾지 못했습니다. 검색된 기사들은 4월 등 과거 시점의 전체 매출 순위와 게임의 누적 흥행을 다루며, 이번 6계단 상승을 특정하지 않습니다. 따라서 제공된 스토어 업데이트 내역을 근거로 보면, 슈퍼 월간 패스 활성화 후 제4부대 방어 참가 상태를 최적화한 패치가 패스 이용자의 경험을 개선했을 가능성이 있습니다. 다만 이는 추정이므로 검증되지 않았습니다.",
+      "category": "기타",
+      "short": "패스 관련 최적화 업데이트만 확인, 상승 원인 미확인",
+      "summary": "검색으로는 이 게임의 6계단 상승 원인을 직접 설명하는 최신 한국어 기사를 찾지 못했습니다. 제공된 스토어 업데이트 내역에는 슈퍼 월간 패스 활성화 후 제4부대 방어 참가 상태를 최적화했다는 항목만 있어 매출 상승과의 연결은 확인되지 않습니다. 따라서 신규 오픈, 이벤트, 콜라보 등 구체적 원인은 단정할 수 없으며, 앱스토어 매출 데이터나 공식 공지를 추가로 확인하는 것이 필요합니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc=w128",
       "screenshots": [
@@ -1403,13 +1399,13 @@
     }
   },
   "com.readygo.barrel.gp": {
-    "researchedAt": "2026-10-27T03:00:45.228Z",
+    "researchedAt": "2026-10-27T03:03:16.019Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "기타",
-      "short": "관련 기사 미확인, 순위 상승 원인 불명확(추가 확인 필요)",
-      "summary": "한국어 기사 검색에서는 Last Z: Survival Shooter의 Google 매출 순위 상승 원인을 직접 다룬 기사를 찾지 못했다. 검색된 자료는 게임 소개, 앱 스토어 정보, 공략 가이드, 커뮤니티 페이지 등이며 최근 매출 상승의 원인을 설명하지 않는다. 제공된 스토어 업데이트 내역(recentChanges)도 입력에 없어 근거로 삼을 수 없으므로, 신규 오픈·업데이트·이벤트 등 어떤 원인인지 확정할 수 없다. 원인 판단을 위해서는 구글 플레이 업데이트 노트와 해당 기간의 이벤트·프로모션 정보를 추가로 확인해야 한다.",
+      "short": "검색 기사 없음, 상승 원인 미확인(스토어 업데이트 내역 미제공)",
+      "summary": "검색에서 라스트 Z: 서바이벌 슈터의 최근 매출 순위 상승 원인을 다룬 한국어 기사를 찾지 못했다. 제공된 recentChanges도 없어 신규 오픈, 업데이트, 이벤트 중 어떤 요인인지 근거로 판단할 수 없다. 확인된 자료는 게임 정보와 공략 페이지뿐이며, 순위 변동의 직접 원인은 미확인 상태다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA=w128",
       "screenshots": [
@@ -1467,13 +1463,13 @@
     }
   },
   "com.project.idle.cd": {
-    "researchedAt": "2026-10-27T03:00:57.283Z",
+    "researchedAt": "2026-10-27T03:03:21.779Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "일요일 이벤트·서버 간 이벤트 추가와 자동 스테이지 도전 기능",
-      "summary": "검색으로 최신 한국어 기사를 찾지 못해, 스토어 업데이트 내역을 근거로 판단한 추정입니다. 요일 이벤트와 대규모 서버 간 이벤트 등 신규 이벤트가 추가되어 매출 참여를 자극했을 가능성이 있습니다. 또한 연맹 관련 템플릿과 오프라인 알림 추가로 유저 복귀와 과금 동기가 높아졌을 것으로 보입니다. 메인 스테이지 550 이후 자동 도전 기능은 진행 편의성을 높여 체류 시간을 늘렸을 수 있습니다.",
+      "short": "신규 이벤트·서버 간 이벤트·자동 도전 기능 추가로 순위 상승",
+      "summary": "검색으로는 이 게임의 순위 상승을 다룬 최신 한국어 기사를 찾지 못했습니다. 따라서 스토어 업데이트 내역을 근거로 판단하면, 일요일 이벤트 「전장 기습」과 대규모 서버 간 이벤트 「핵폭탄 습격」이 추가되었고, 「연맹 공지 템플릿」과 오프라인 알림 기능도 더해졌습니다. 메인 스테이지 550 클리어 후 다음 스테이지에 자동 도전하는 기능도 추가되어 이용자 유입과 재방문을 늘렸을 가능성이 있으나, 이는 추정이며 매출 원인을 확정한 것은 아닙니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/dIGYOhW1mwhxLLCti6-O-VQAL_5oz7yzyLkP5WJH80i6j3HWcaIOfTnJ-FaQC1tQ7DC2pR5BphwkZJ9tFQe_ag=w128",
       "screenshots": [
@@ -1488,13 +1484,13 @@
     }
   },
   "com.percent.aos.luckydefense": {
-    "researchedAt": "2026-10-27T03:01:10.084Z",
+    "researchedAt": "2026-10-27T03:03:34.962Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "할로윈 축제·릴레이 디펜스 등 신규 콘텐츠 업데이트(추정)",
-      "summary": "최근 스토어 업데이트에서 할로윈 특별 이벤트가 시작되었고, 플링코와 할로윈 한정 스킨이 추가되었습니다. 신규 모드 '릴레이 디펜스'가 등장했고 대전 모드 리뉴얼이 예고되었습니다. 최신 한국어 기사에서 순위 상승을 직접 설명하는 내용은 찾지 못해 스토어 업데이트 내역을 근거로 한 추정입니다.",
+      "short": "할로윈 축제·릴레이 디펜스 등장으로 순위 5계단 상승 추정",
+      "summary": "관련 한국어 기사를 찾지 못해 스토어 업데이트 내역을 근거로 판단했습니다. 할로윈 특별 이벤트가 시작되며 플링코와 할로윈 한정 스킨이 함께 공개되었고, 신규 모드 '릴레이 디펜스'가 추가되었습니다. 대전 모드 리뉴얼 예고와 편의성 개선도 복귀·신규 유입 유도에 기여했을 가능성이 있으나, 매출 수치로 확인된 바는 없습니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/GlBaTDhvSbHkdZR7T-ynCB6uj2pR6VeUAmBKECYo22Y2m3-HM4Py2Gl3BXrRfaP43BfFk-HTH0eTrmTZQBck3Q=w128",
       "screenshots": [
@@ -1510,13 +1506,13 @@
     }
   },
   "com.fun.lastwar.gp": {
-    "researchedAt": "2026-10-27T03:01:18.239Z",
+    "researchedAt": "2026-10-27T03:03:40.917Z",
     "verified": false,
     "data": {
       "verified": false,
-      "category": "시즌·패스",
-      "short": "슈퍼 월간 패스 관련 최적화 업데이트, 원인 미검증",
-      "summary": "최신 한국어 기사에서 이 게임의 매출 순위 상승 원인을 확인하지 못했다. 스토어 최근 업데이트는 슈퍼 월간 패스 활성화 후 제4부대 방어 참가 상태를 최적화한 내용으로, 패스 이용자 편의 개선에 해당한다. 다만 이것이 매출 순위 상승의 직접 원인이라는 근거는 없으므로 추정으로만 본다.",
+      "category": "기타",
+      "short": "상승 원인 기사 미확인, 업데이트는 최적화 위주(추정 불가)",
+      "summary": "검색된 한국어 기사들은 라스트 워의 전반적인 매출 강세와 4X 전략 장르 성장을 다루지만, 이번 5계단 상승(현재 15위)의 직접 원인을 설명하는 기사는 찾지 못했다. 스토어 최근 업데이트는 슈퍼 월간 패스 활성화 후 제4부대 방어 참가 상태를 최적화한 내용으로, 매출 상승 요인으로 보기에는 근거가 부족하다. 따라서 상승 원인은 확정하지 않으며, 이벤트나 패스 판매 등은 추가 확인이 필요하다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc=w128",
       "screenshots": [
@@ -1531,13 +1527,13 @@
     }
   },
   "com.com2us.futurecpb.android.google.global.normal": {
-    "researchedAt": "2026-10-27T03:01:25.376Z",
+    "researchedAt": "2026-10-27T03:03:46.959Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "클럽 대전 백투백 히터 추가·선수 보관 시스템 개선 업데이트",
-      "summary": "이번 순위 상승은 스토어 최근 업데이트 내역을 근거로 판단했습니다. 클럽 대전에 백투백 히터 역할군이 추가되었고, 선수 보관 시스템 개선과 편의성·인게임·UI/UX 개선, 버그 수정이 함께 적용되었습니다. 다만 이번 5계단 상승을 직접 다룬 최신 한국어 기사는 찾지 못해 검증되지 않은 판단입니다.",
+      "short": "클럽 대전 신규 역할군 '백투백 히터'와 선수 보관 시스템 개선 업데이트",
+      "summary": "검색으로는 순위 상승을 직접 다룬 최신 한국어 기사를 찾지 못했다. 제공된 스토어 업데이트 내역 기준으로는 클럽 대전에 수동 타격 중심의 신규 역할군이 추가되었고, 선수 보관 창고 기능이 도입되었다. 여기에 편의성, UI/UX 개선과 버그 수정이 포함되어 있어, 이 업데이트가 신규 유입이나 순위 상승의 계기였을 가능성이 있으나 확인되지는 않았다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY=w128",
       "screenshots": [
