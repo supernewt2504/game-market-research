@@ -236,6 +236,13 @@
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/f0/3b/9bf03bac-78e6-694a-abd6-1e3248958d16/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
+  "1351168404": {
+    "released": "2018.07.25",
+    "developer": "InnerSloth LLC",
+    "country": "US",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/b8/06/06b80694-d4ff-a00e-1e22-9aafd5dd6e2e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
   "1366526331": {
     "released": "2018.05.15",
     "developer": "KRAFTON Inc",
@@ -339,6 +346,13 @@
     "developer": "NC Corp.",
     "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/e1/ac/dbe1ac0a-48a1-9fc4-61f3-a5a9df064750/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "1478227443": {
+    "released": "2019.11.24",
+    "developer": "NC Corp.",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/49/07/ea490791-16a9-4f1e-9564-6c2d17264ae1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
   "1478371252": {
@@ -520,6 +534,13 @@
     "developer": "Microfun Limited",
     "country": "CN",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/81/c7/f981c765-378f-b3c1-feea-767162c548c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "1634147206": {
+    "released": "2023.07.23",
+    "developer": "Kakao Games Corp.",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/3a/ee/933aee65-c070-b480-e674-e8b6610c5ec8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
   "1635712706": {
@@ -2622,7 +2643,7 @@
   "6757722046": {
     "released": "2026.01.16",
     "developer": "MULTICAST GAMES LIMITED",
-    "country": null,
+    "country": "HK",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/0b/a6/a60ba690-9d8b-451d-2804-6b3bde95acca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -2741,7 +2762,7 @@
   "6790707229": {
     "released": "2026.07.29",
     "developer": "Ta Ta Game Technology Limited",
-    "country": null,
+    "country": "HK",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/37/93/d7379303-79cf-c6e4-8681-4bf18c226b97/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -2755,7 +2776,7 @@
   "6795531178": {
     "released": "2026.08.17",
     "developer": "Nova Games Technology Limited",
-    "country": null,
+    "country": "HK",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/70/b9/7f70b938-8c74-95a2-f5e1-637ff9fbfc6b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -2867,7 +2888,7 @@
   "cube.clear.burst.spin.sweep.puzzle.rotate": {
     "released": "2026.07.18",
     "developer": "Nova Games Technology Limited",
-    "country": null,
+    "country": "HK",
     "icon": "https://play-lh.googleusercontent.com/jCvk-728T44O6o2BB8UHYCwzAyg2RY5BouKojuq73KxL-IcGCoTUhm4aJBY9yj51zs1dPzsQhKrfHwCe8CaZpVY=w48",
     "source": "google"
   },
@@ -2944,7 +2965,7 @@
   "6759822089": {
     "released": "2026.05.20",
     "developer": "Ujoy Games Limited",
-    "country": null,
+    "country": "HK",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/b4/5f/68b45fcd-6a8d-a26e-3ca5-e52cbff8e383/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -2958,8 +2979,99 @@
   "6752369665": {
     "released": "2025.12.04",
     "developer": "WhaleJoy Game Limited",
-    "country": null,
+    "country": "HK",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/be/60/1dbe602e-c88e-0456-9502-c14c83445f96/AppIcon-gl-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "com.blockblast.lite": {
+    "released": "2026.09.09",
+    "developer": "HungryStudio",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/PtTrZ-8NOtDd8UkPQ9Ka0s0z2uCHWTs7IB4LiiMLzea_TsMgDv6LXhhr4vRHGCp7Wj8N3xVnAnTLsSiScaRr_MI=w48",
+    "source": "google"
+  },
+  "com.more.lastshelter.gp": {
+    "released": "2026.08.12",
+    "developer": "LAST ORIGIN STUDIO LIMITED",
+    "country": "HK",
+    "icon": "https://play-lh.googleusercontent.com/bCUKlHtllYdlK5A9FT3nIo_LxoapkzO2jeyEwrRnZZNvD1stuB-6JATy86hORqWR6qqfS-5FtzXh4ERasBf_sQ=w48",
+    "source": "google"
+  },
+  "io.supercent.weaponrpg": {
+    "released": "2025.02.21",
+    "developer": "Supercent, Inc.",
+    "country": "KR",
+    "icon": "https://play-lh.googleusercontent.com/ar-oRoBtoJXIBCzL_QV4w5r7RJhCrRSHl1Hggi_hsy16yL55kCJyG96TqJF-kAQNwk7FfZG0BoBMK57Pe9t-Bg=w48",
+    "source": "google"
+  },
+  "com.joycity.im": {
+    "released": "2026.04.27",
+    "developer": "JOYCITY Corp.",
+    "country": "KR",
+    "icon": "https://play-lh.googleusercontent.com/lCe1gmPZFYWVAC9SART7Bm4AFDPNRmxteII5Qa417kZVxBgpKdbXbgDaGLLpRevIPyPcQj7W-dLvDdBMmm_ceA=w48",
+    "source": "google"
+  },
+  "easy.sudoku.puzzle.solver.free": {
+    "released": "2018.07.27",
+    "developer": "Oakever Games",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/5fwa6KT5cglDIrpPgr09W5IUz22dW8GIZ1fxHedRocpWFLMsWqXyCPTRPT3ezj8W2FIWdkzSiMvzGx3DHBTlkQ=w48",
+    "source": "google"
+  },
+  "6763262759": {
+    "released": "2026.10.28",
+    "developer": "Garena Online Private Ltd",
+    "country": "SG",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/97/68/059768c7-93fd-660e-b99a-a757bc0db5c0/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6823592745": {
+    "released": "2026.10.21",
+    "developer": "Kisun Kim",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/5d/d9/a45dd96e-2a9f-9642-6f36-71214c0dcedd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6749109526": {
+    "released": "2025.10.09",
+    "developer": "9z Games(HK)",
+    "country": "HK",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/91/32/1a913204-a86b-94ef-545e-83019d5dc69d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6751222389": {
+    "released": "2026.08.05",
+    "developer": "NETEASE INTERACTIVE ENTERTAINMENT PTE. LTD",
+    "country": "CN",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/a7/db/60a7db34-546d-805c-5147-dbfdd1e24dae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6757695187": {
+    "released": "2026.09.21",
+    "developer": "BILIBILI HK LIMITED",
+    "country": "HK",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/27/e3/c227e3e1-33af-5869-d4a5-75572585d5d1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6754214886": {
+    "released": "2026.03.25",
+    "developer": "GEAR2",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/78/14/9e781434-9302-e9fd-a35f-4fa3d82b062c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6754229264": {
+    "released": "2026.04.28",
+    "developer": "JOYCITY Corp",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/02/a7/3902a751-330f-0f60-9b4f-3e83b238a4ed/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6754593077": {
+    "released": "2026.04.26",
+    "developer": "N2E ENTERTAINMENT PTE. LTD.",
+    "country": "SG",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/c8/10/1ac810d0-d997-13f8-0f0e-adb3a9d961c8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   }
 }
