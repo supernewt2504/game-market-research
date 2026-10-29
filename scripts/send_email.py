@@ -19,6 +19,12 @@ from email.utils import formataddr, formatdate
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CFG = json.load(open(os.path.join(ROOT, "config.json"), encoding="utf-8"))["email"]
 
+# 발신 정보는 환경변수로 교체 가능(없으면 config 폴백).
+# 운영리포트 계정과 분리하려면 전용 발신 계정/ESP의 값을 Secrets/Variables로 주입.
+MAIL_FROM = os.environ.get("MAIL_FROM") or CFG["from"]
+SMTP_HOST = os.environ.get("SMTP_HOST") or CFG["smtp_host"]
+SMTP_PORT = int(os.environ.get("SMTP_PORT") or CFG["smtp_port"])
+
 
 def kst_today():
     return (datetime.now(timezone.utc) + timedelta(hours=9)).date()
@@ -38,8 +44,8 @@ def latest_date():
 
 
 def connect():
-    host, port = CFG["smtp_host"], int(CFG["smtp_port"])
-    user = os.environ.get("SMTP_USER") or CFG["from"]
+    host, port = SMTP_HOST, SMTP_PORT
+    user = os.environ.get("SMTP_USER") or MAIL_FROM
     password = os.environ.get("SMTP_PASS")
     if not password:
         print("SMTP_PASS(앱 비밀번호) 환경변수가 없습니다.", file=sys.stderr)
@@ -76,10 +82,10 @@ def main():
             subject = f'{CFG["subject_prefix"]} {date} {label} Top100 리포트' + (f' {tag}' if tag else '')
             msg = MIMEText(html, "html", "utf-8")
             msg["Subject"] = str(Header(subject, "utf-8"))
-            msg["From"] = formataddr((str(Header(f"게임시장조사 · {label}", "utf-8")), CFG["from"]))
+            msg["From"] = formataddr((str(Header(f"게임시장조사 · {label}", "utf-8")), MAIL_FROM))
             msg["To"] = ", ".join(recipients)
             msg["Date"] = formatdate(localtime=True)
-            s.sendmail(CFG["from"], recipients, msg.as_string())
+            s.sendmail(MAIL_FROM, recipients, msg.as_string())
             print(f"발송 완료 [{label}] → {', '.join(recipients)}")
             sent += 1
     finally:

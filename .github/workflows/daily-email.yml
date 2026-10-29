@@ -24,4 +24,8 @@ jobs:
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           MAIL_TO: ${{ vars.MAIL_TO }}
           SUBJECT_TAG: ${{ inputs.tag }}
+          # 발신 분리용(비우면 config.json 폴백 = 기존 Gmail). 전용 계정/ESP 사용 시 채움.
+          SMTP_HOST: ${{ vars.SMTP_HOST }}
+          SMTP_PORT: ${{ vars.SMTP_PORT }}
+          MAIL_FROM: ${{ vars.MAIL_FROM }}
         run: python3 scripts/send_email.py
