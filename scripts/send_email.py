@@ -32,6 +32,23 @@ def kst_today():
 
 PLATFORMS = [("google", "Google Play"), ("apple", "App Store")]
 
+# 멱등성 마커: 해당 날짜를 이미 보냈는지 기록(아침 catch-up 슬롯이 여러 번 떠도 중복 발송 방지)
+MARKER = os.path.join(ROOT, "data", "last_emailed.txt")
+
+
+def already_sent(date):
+    try:
+        with open(MARKER, encoding="utf-8") as f:
+            return f.read().strip() == date
+    except FileNotFoundError:
+        return False
+
+
+def mark_sent(date):
+    os.makedirs(os.path.dirname(MARKER), exist_ok=True)
+    with open(MARKER, "w", encoding="utf-8") as f:
+        f.write(date + "\n")
+
 
 def latest_date():
     import glob
@@ -66,6 +83,10 @@ def main():
     if not date:
         print("발송할 리포트가 없습니다.", file=sys.stderr)
         sys.exit(1)
+    force = os.environ.get("FORCE_SEND", "").strip().lower() in ("1", "true", "yes")
+    if already_sent(date) and not force:
+        print(f"이미 발송됨({date}) → 건너뜀. (재발송하려면 FORCE_SEND=1)")
+        return
     to_env = os.environ.get("MAIL_TO")
     recipients = [a.strip() for a in to_env.split(",")] if to_env else CFG["to"]
 
@@ -93,6 +114,7 @@ def main():
     if sent == 0:
         print("보낼 파일이 없습니다:", date, file=sys.stderr)
         sys.exit(1)
+    mark_sent(date)  # 발송 성공 → 마커 기록(이후 슬롯은 건너뜀)
 
 
 if __name__ == "__main__":

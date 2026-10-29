@@ -1,14 +1,29 @@
 name: daily-email
-# 다음날 아침(한국시간 08:00) 전날 리포트를 메일로 발송
+# 아침(한국시간 08:00~) 최신 리포트를 메일로 발송.
+# GitHub 예약(cron)은 누락/지연이 잦아 catch-up 슬롯을 여러 개 둔다.
+# send_email.py 의 멱등성(last_emailed.txt)으로 하루 1회만 실제 발송되고 나머지는 건너뛴다.
 on:
   schedule:
-    - cron: "0 23 * * *"    # 23:00 UTC = 08:00 KST (다음날)
+    - cron: "0,30 23 * * *"    # 23:00, 23:30 UTC = 08:00, 08:30 KST (기본)
+    - cron: "0,30 0-2 * * *"   # 00:00~02:30 UTC = 09:00~11:30 KST (누락 대비 catch-up)
   workflow_dispatch:
     inputs:
       tag:
         description: "제목 뒤에 붙일 태그(스레드 분리/테스트용)"
         required: false
         default: ""
+      force:
+        description: "이미 발송됐어도 강제 재발송(1/true)"
+        required: false
+        default: ""
+
+# 여러 슬롯이 겹쳐 떠도 순차 실행 → 앞 실행이 마커를 커밋한 뒤 다음 실행이 그걸 보고 건너뜀
+concurrency:
+  group: daily-email
+  cancel-in-progress: false
+
+permissions:
+  contents: write
 
 jobs:
   send:
@@ -24,8 +39,22 @@ jobs:
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           MAIL_TO: ${{ vars.MAIL_TO }}
           SUBJECT_TAG: ${{ inputs.tag }}
+          FORCE_SEND: ${{ inputs.force }}
           # 발신 분리용(비우면 config.json 폴백 = 기존 Gmail). 전용 계정/ESP 사용 시 채움.
           SMTP_HOST: ${{ vars.SMTP_HOST }}
           SMTP_PORT: ${{ vars.SMTP_PORT }}
           MAIL_FROM: ${{ vars.MAIL_FROM }}
         run: python3 scripts/send_email.py
+      - name: Persist send marker
+        if: ${{ always() }}
+        run: |
+          if [ -n "$(git status --porcelain data/last_emailed.txt)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/last_emailed.txt
+            git commit -m "chore: 발송 완료 마커 갱신 [skip ci]"
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push origin HEAD:main && break
+              echo "push 재시도 $i..." && sleep 5
+            done
+          fi
