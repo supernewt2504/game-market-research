@@ -1,9 +1,19 @@
 name: daily-collect
-# 매일 밤(한국시간 23:50) 순위 수집 → 변동 비교 → 상승이유 조사 → 리포트 생성 → 커밋
+# 밤(한국시간 23:50) 순위 수집 → 변동 비교 → 상승이유 조사 → 리포트 생성 → 커밋.
+# 날짜는 "실행 시각"이 아니라 "논리적 수집일"로 계산(지연 실행으로 날짜 밀림 방지).
+# 예약 누락 대비 새벽 backup 슬롯을 두되, 이미 수집된 날이면 백업은 전체를 생략(재조사=토큰 낭비 방지).
 on:
   schedule:
-    - cron: "50 14 * * *"   # 14:50 UTC = 23:50 KST
-  workflow_dispatch: {}       # 수동 실행 버튼
+    - cron: "50 14 * * *"   # 14:50 UTC = 23:50 KST (기본)
+    - cron: "50 16 * * *"   # 01:50 KST (backup) — 정오 이전이라 전날로 귀속
+    - cron: "50 18 * * *"   # 03:50 KST (backup)
+    - cron: "50 20 * * *"   # 05:50 KST (backup)
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "백업 중복방지를 무시하고 강제 재수집(1/true)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -31,10 +41,31 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           PAGES_BASE_URL: ${{ vars.PAGES_BASE_URL }}
+          TRIGGER_CRON: ${{ github.event.schedule }}
+          FORCE_COLLECT: ${{ inputs.force }}
         run: |
-          DATE=$(TZ=Asia/Seoul date +%F)
-          echo "기준일(KST): $DATE"
-          node scripts/collect.mjs
+          set -e
+          # 논리적 수집일: 정오(KST) 이전 실행이면 전날로 귀속(지연 실행 날짜 밀림 방지)
+          KST_H=$(TZ=Asia/Seoul date +%H)
+          if [ "$((10#$KST_H))" -lt 12 ]; then
+            DATE=$(TZ=Asia/Seoul date -d 'yesterday' +%F)
+          else
+            DATE=$(TZ=Asia/Seoul date +%F)
+          fi
+          echo "논리적 수집일: $DATE (실행 KST시각: $(TZ=Asia/Seoul date '+%F %H:%M'))"
+
+          # 백업 슬롯 여부(기본 '50 14 * * *' 외의 cron). 수동 실행은 백업 아님.
+          IS_BACKUP=false
+          if [ -n "$TRIGGER_CRON" ] && [ "$TRIGGER_CRON" != "50 14 * * *" ]; then IS_BACKUP=true; fi
+
+          # 백업 슬롯인데 이미 수집됐으면 전체 생략(재조사 토큰 낭비 방지)
+          if [ "$IS_BACKUP" = "true" ] && [ "$FORCE_COLLECT" != "1" ] && [ "$FORCE_COLLECT" != "true" ] && [ -f "data/snapshots/$DATE.json" ]; then
+            echo "백업 슬롯: $DATE 스냅샷 존재 → 전체 생략"
+            exit 0
+          fi
+
+          export IS_BACKUP FORCE_COLLECT
+          node scripts/collect.mjs "$DATE"
           node scripts/enrich.mjs "$DATE"
           node scripts/research.mjs "$DATE"
           python3 scripts/generate_report.py "$DATE"
@@ -42,7 +73,10 @@ jobs:
       - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data docs out
-          git commit -m "daily: $(TZ=Asia/Seoul date +%F)" || { echo "변경 없음"; exit 0; }
-          git push
+          git commit -m "daily: collect" || { echo "변경 없음"; exit 0; }
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && break
+            echo "push 재시도 $i..." && sleep 5
+          done

@@ -2,7 +2,7 @@
 // Apple App Store(공식 RSS) + Google Play(google-play-scraper), 대한민국 / 게임 카테고리
 // 4개 차트 각 Top 100 -> data/snapshots/<YYYY-MM-DD>.json
 import gplay from 'google-play-scraper';
-import { writeFileSync, mkdirSync } from 'node:fs';
+import { writeFileSync, mkdirSync, existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
@@ -47,12 +47,26 @@ async function googleChart(collection) {
   }));
 }
 
-async function main() {
-  const now = new Date();
-  // KST 기준 날짜
+// 실행 시각이 아니라 "논리적 수집일"을 반환(지연 실행으로 날짜가 밀리는 것 방지).
+// 정오(KST) 이전 실행 = 예약이 자정을 넘겨 지연된 경우로 보고 전날로 귀속.
+function logicalKstDate(now = new Date()) {
   const kst = new Date(now.getTime() + 9 * 3600 * 1000);
-  const date = kst.toISOString().slice(0, 10);
+  if (kst.getUTCHours() < 12) kst.setUTCDate(kst.getUTCDate() - 1);
+  return kst.toISOString().slice(0, 10);
+}
 
+async function main() {
+  // 날짜 우선순위: 인자 > 논리적 KST 날짜(실행 시각 무관)
+  const date = process.argv[2] || logicalKstDate();
+
+  // 백업 슬롯(IS_BACKUP)에서 해당 날짜 스냅샷이 이미 있으면 재수집 생략(덮어쓰기/재조사 방지)
+  const snapPath = join(ROOT, 'data', 'snapshots', `${date}.json`);
+  if (process.env.IS_BACKUP === 'true' && existsSync(snapPath) && process.env.FORCE_COLLECT !== 'true') {
+    console.log(`백업 슬롯: ${date} 스냅샷이 이미 있음 → 수집 생략`);
+    return;
+  }
+
+  const now = new Date();
   const [apple_popular, apple_grossing, google_popular, google_grossing] = await Promise.all([
     appleChart('topfreeapplications'),
     appleChart('topgrossingapplications'),
@@ -73,9 +87,8 @@ async function main() {
   console.log('수집 완료:', JSON.stringify(counts));
 
   mkdirSync(join(ROOT, 'data', 'snapshots'), { recursive: true });
-  const out = join(ROOT, 'data', 'snapshots', `${date}.json`);
-  writeFileSync(out, JSON.stringify(snapshot, null, 2), 'utf-8');
-  console.log('저장:', out);
+  writeFileSync(snapPath, JSON.stringify(snapshot, null, 2), 'utf-8');
+  console.log('저장:', snapPath);
 }
 
 main().catch((e) => {
