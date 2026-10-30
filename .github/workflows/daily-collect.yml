@@ -10,6 +10,10 @@ on:
     - cron: "50 20 * * *"   # 05:50 KST (backup)
   workflow_dispatch:
     inputs:
+      date:
+        description: "수집일 지정(YYYY-MM-DD). 비우면 논리적 수집일 자동계산"
+        required: false
+        default: ""
       force:
         description: "백업 중복방지를 무시하고 강제 재수집(1/true)"
         required: false
@@ -43,28 +47,37 @@ jobs:
           PAGES_BASE_URL: ${{ vars.PAGES_BASE_URL }}
           TRIGGER_CRON: ${{ github.event.schedule }}
           FORCE_COLLECT: ${{ inputs.force }}
+          IN_DATE: ${{ inputs.date }}
         run: |
           set -e
-          # 논리적 수집일: 정오(KST) 이전 실행이면 전날로 귀속(지연 실행 날짜 밀림 방지)
-          KST_H=$(TZ=Asia/Seoul date +%H)
-          if [ "$((10#$KST_H))" -lt 12 ]; then
+          # 수집일: 수동 지정 > 논리적 수집일(정오 KST 이전 실행이면 전날로 귀속 → 지연 날짜 밀림 방지)
+          if [ -n "$IN_DATE" ]; then
+            DATE="$IN_DATE"
+          elif [ "$((10#$(TZ=Asia/Seoul date +%H)))" -lt 12 ]; then
             DATE=$(TZ=Asia/Seoul date -d 'yesterday' +%F)
           else
             DATE=$(TZ=Asia/Seoul date +%F)
           fi
-          echo "논리적 수집일: $DATE (실행 KST시각: $(TZ=Asia/Seoul date '+%F %H:%M'))"
+          echo "수집일: $DATE (실행 KST시각: $(TZ=Asia/Seoul date '+%F %H:%M'))"
 
           # 백업 슬롯 여부(기본 '50 14 * * *' 외의 cron). 수동 실행은 백업 아님.
           IS_BACKUP=false
           if [ -n "$TRIGGER_CRON" ] && [ "$TRIGGER_CRON" != "50 14 * * *" ]; then IS_BACKUP=true; fi
 
-          # 백업 슬롯인데 이미 수집됐으면 전체 생략(재조사 토큰 낭비 방지)
-          if [ "$IS_BACKUP" = "true" ] && [ "$FORCE_COLLECT" != "1" ] && [ "$FORCE_COLLECT" != "true" ] && [ -f "data/snapshots/$DATE.json" ]; then
-            echo "백업 슬롯: $DATE 스냅샷 존재 → 전체 생략"
+          # 기존 스냅샷이 "이 수집일(또는 이후)"에 모은 신선한 데이터인지 판정
+          # (과거 잘못 라벨된 낡은 파일이면 신선하지 않음 → 백업이라도 재수집)
+          FRESH=false
+          if [ -f "data/snapshots/$DATE.json" ]; then
+            CA=$(python3 -c "import json,datetime as D; d=json.load(open('data/snapshots/$DATE.json')); print((D.datetime.fromisoformat(d['collectedAt'].replace('Z','+00:00'))+D.timedelta(hours=9)).date())" 2>/dev/null || echo "")
+            if [ -n "$CA" ] && [[ ! "$CA" < "$DATE" ]]; then FRESH=true; fi
+          fi
+
+          # 백업 슬롯인데 이미 신선한 스냅샷이 있으면 전체 생략(재조사 토큰 낭비 방지)
+          if [ "$IS_BACKUP" = "true" ] && [ "$FORCE_COLLECT" != "1" ] && [ "$FORCE_COLLECT" != "true" ] && [ "$FRESH" = "true" ]; then
+            echo "백업 슬롯: $DATE 신선한 스냅샷 존재 → 전체 생략"
             exit 0
           fi
 
-          export IS_BACKUP FORCE_COLLECT
           node scripts/collect.mjs "$DATE"
           node scripts/enrich.mjs "$DATE"
           node scripts/research.mjs "$DATE"

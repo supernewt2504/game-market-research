@@ -2,7 +2,7 @@
 // Apple App Store(공식 RSS) + Google Play(google-play-scraper), 대한민국 / 게임 카테고리
 // 4개 차트 각 Top 100 -> data/snapshots/<YYYY-MM-DD>.json
 import gplay from 'google-play-scraper';
-import { writeFileSync, mkdirSync, existsSync } from 'node:fs';
+import { writeFileSync, mkdirSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
@@ -57,14 +57,9 @@ function logicalKstDate(now = new Date()) {
 
 async function main() {
   // 날짜 우선순위: 인자 > 논리적 KST 날짜(실행 시각 무관)
+  // (백업 중복/신선도 판정은 워크플로 게이트가 담당 — 여기서는 받은 날짜로 수집만 수행)
   const date = process.argv[2] || logicalKstDate();
-
-  // 백업 슬롯(IS_BACKUP)에서 해당 날짜 스냅샷이 이미 있으면 재수집 생략(덮어쓰기/재조사 방지)
   const snapPath = join(ROOT, 'data', 'snapshots', `${date}.json`);
-  if (process.env.IS_BACKUP === 'true' && existsSync(snapPath) && process.env.FORCE_COLLECT !== 'true') {
-    console.log(`백업 슬롯: ${date} 스냅샷이 이미 있음 → 수집 생략`);
-    return;
-  }
 
   const now = new Date();
   const [apple_popular, apple_grossing, google_popular, google_grossing] = await Promise.all([
