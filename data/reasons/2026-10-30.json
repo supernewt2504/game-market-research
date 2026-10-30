@@ -2,8 +2,8 @@
   "848091833": {
     "verified": false,
     "category": "컨텐츠 업데이트",
-    "short": "보물 게이지·진화/본능 추가 등 대형 업데이트로 신규 진입",
-    "summary": "이번 업데이트는 축적된 게이지를 소모해 최고급 보물을 확정으로 얻는 시스템을 도입했다. 일부 캐릭터에 제3·제4형태 진화와 본능·초본능을 더했고, 레전드 스토리에 새 맵을 열고 고난도 스테이지를 풀었다. 유저 랭크 보상과 냥콤보도 추가되어 복귀 및 신규 유저의 진입 동기를 높였을 것으로 보이나, 관련 한국어 기사는 찾지 못해 스토어 업데이트 내역을 근거로 한 추정이다.",
+    "short": "보물 게이지·진화 3·4형태·본능 추가 업데이트 영향(추정)",
+    "summary": "검색으로는 이번 순위 변동을 직접 다룬 최신 한국어 기사를 찾지 못했다. 스토어 업데이트 내역에 따르면 보물 게이지 기능이 추가되어 가득 찬 상태로 보물 스테이지에 도전하면 최고급 보물을 확정으로 얻을 수 있게 되었다. 여기에 일부 캐릭터의 제3·제4형태 진화와 본능·초본능, 레전드 스토리 신규 맵과 고난도 스테이지 해방, 유저 랭크 보상, 냥콤보 추가가 함께 들어가 신규 진입 원인으로 보인다. 다만 이는 업데이트 내역에 근거한 추정이며 매출 순위 상승의 직접 원인으로 확인된 것은 아니다.",
     "articles": [],
     "icon": "https://play-lh.googleusercontent.com/rGpOjeQ_xeWTj-PZCZ1URVchLJf0SujnvO-UV7H4qqY5bfpusJoDYYPlYa2kC7VPm74P-JgzjihhnI469HGnjGE=w128",
     "screenshots": [
@@ -18,9 +18,9 @@
   },
   "898986747": {
     "verified": false,
-    "category": "기타",
-    "short": "기사 미확인, 업데이트 내역 기준 추정(원인 불확실)",
-    "summary": "최신 한국어 기사에서 App Store 매출 61계단 상승의 직접 원인은 확인하지 못했습니다. 검색된 기사는 2018년 구글플레이 매출 역주행과 2024년 WAU 순위 상승 보도로, 이번 변동과 직접 관련이 없습니다. 스토어 최근 업데이트 내역에는 '차원탐정 아람 : 사라진 무대의 별' 한 건만 있어 상승과의 연관성은 확정할 수 없으므로 원인은 추정 단계입니다.",
+    "category": "컨텐츠 업데이트",
+    "short": "10/29 업데이트 '차원탐정 아람' 할로윈 이벤트 추정, 기사 미확인",
+    "summary": "검색으로는 이번 순위 상승을 직접 다룬 최신 한국어 기사를 찾지 못했다. 스토어 업데이트 내역에 있는 '차원탐정 아람 : 사라진 무대의 별' 업데이트가 10월 29일 진행된 것으로 보이는 커뮤니티 공지가 있어, 이 할로윈 시즌 콘텐츠 업데이트가 매출 상승의 원인일 가능성이 크다. 다만 이는 커뮤니티 게시물 기반의 추정이며, 매출 순위 변동을 확인한 기사나 공식 발표는 없어 verified는 false로 둔다.",
     "articles": [],
     "icon": "https://play-lh.googleusercontent.com/DRZYokpMvqU5ntA1uAICcG9yzEir0d4tzYs4CblLisDL_46htqBs6B0c6JnD-BaTZJFfzPyLD9amihsTHPbH=w128",
     "screenshots": [
@@ -36,10 +36,23 @@
   },
   "1117270703": {
     "verified": false,
-    "category": "기타",
-    "short": "스토어 공지는 버그 수정뿐, 상승 원인 기사 미확인",
-    "summary": "한국어 기사에서 이번 55계단 상승(현재 3위)의 원인을 확인하지 못했습니다. 찾은 기사는 6~8월 등 다른 기간의 일본 기사뿐이라 이번 상승과 직접 연결할 수 없습니다. 스토어 최근 업데이트 내역은 버그 수정 공지뿐이어서 신규 오픈이나 이벤트의 근거로 보기 어렵습니다. 원인은 기타로 두고, 추가 확인이 필요합니다.",
-    "articles": [],
+    "category": "매출 이벤트",
+    "short": "월드컵·31주년 캠페인 이벤트 영향 추정(직접 확인 안 됨)",
+    "summary": "검색된 기사는 2026년 6월 월드컵에 맞춘 'The Football Festival Campaign' 등 대규모 이벤트가 eFootball의 매출 강세를 이끌었다고 보도합니다(일본 App Store 기준, Sensor Tower 집계). 이후 '31주년' 캠페인이 8월까지 이어졌다는 내용도 있으나, 55계단 상승 후 3위 진입 시점을 직접 다룬 기사는 찾지 못했습니다. 스토어 최근 업데이트 내역은 버그 수정뿐이라 현재 순위 상승의 직접 원인은 확정할 수 없어 verified=false로 둡니다.",
+    "articles": [
+      {
+        "title": "W杯連動で盛り上がった『eFootball』が7月アプリストア売上ランキング首位 3カ月連続で",
+        "url": "https://gamebiz.jp/news/430932"
+      },
+      {
+        "title": "W杯を意識した施策が奏功した『eFootball』が5日首位と強さ発揮 AppStore(6/20～6/26)売上ランキング振り返り",
+        "url": "https://gamebiz.jp/news/428521"
+      },
+      {
+        "title": "【App Store(8/12)】『eFootball』5日連続首位 『生きろ！マンボウ！』コラボ『にゃんこ大戦争』3位浮上",
+        "url": "https://gamebiz.jp/news/430917"
+      }
+    ],
     "icon": "https://play-lh.googleusercontent.com/jn-jaGEFUPiu0dBP9O6PjiRk-BCwFFLm0RdeOjLH-qLYjhHJlzNBMgl3Sah24htajj67_fdve-DzGsqmMUx1tqQ=w128",
     "screenshots": [
       "https://play-lh.googleusercontent.com/CfFU4pqBrg8fQRMF6uXwiHY_xSFkT3O-BKkiOITrEQ6XxOe0RDg3O9o3H4d9RT7z4ZEU2C3mv3GUU6wTMGNVB_0=w400",
@@ -55,8 +68,8 @@
   "1273957743": {
     "verified": false,
     "category": "기타",
-    "short": "최신 원인 기사 미확인, 업데이트 근거 대조 불가(13위, +21)",
-    "summary": "2026년 10월 말 기준 App Store 매출 21계단 상승의 직접 원인을 다룬 최신 기사는 찾지 못했습니다. 검색된 기사는 PC방 사용시간 순위나 2025년 시점의 모바일 매출 순위 기사로, 이번 변동과 시점이 맞지 않아 근거로 쓸 수 없습니다. 입력에 recentChanges(스토어 업데이트 내역)가 없어 업데이트 기반 판단도 하지 못했으므로 원인은 미확정입니다.",
+    "short": "최근 기사 미확인, 10월 이벤트 병행 중이나 인과 단정 불가",
+    "summary": "현재 20위로 14계단 상승한 원인을 직접 다룬 최신 한국어 기사는 찾지 못했다. 검색된 기사들은 2025년 밸런타인데이 프로모션이나 과거 로스터 업데이트에 관한 것이라 이번 상승과 연결할 수 없다. 2026년 10월에는 '가을엔 역시 전어구이' 에이전트 이벤트, 8강 확정팩, 10월 15~18일 30% 페이백 등 이벤트가 진행된 것으로 확인되지만, 이것이 순위 상승의 원인이라는 기사는 없으므로 추측으로 판단하지 않았다. 스토어 업데이트 내역(recentChanges)이 제공되지 않아 검증 근거가 부족하다.",
     "articles": [],
     "icon": "https://play-lh.googleusercontent.com/7Qd9rIuWR2S_X6sUQ9MXMUahaxcI0q0J_EyxBpodBgYLedWqyXZnDihA_J5HV928vo-DaQtNJHD2MmyYdPEd=w128",
     "screenshots": [
@@ -73,8 +86,8 @@
   "1441742921": {
     "verified": false,
     "category": "컨텐츠 업데이트",
-    "short": "할로윈 이벤트·룬다 지옥4·펫 원정대 등 콘텐츠 추가로 매출 순위 상승 추정",
-    "summary": "검색으로 찾은 최신 한국어 기사들은 주로 2025년 출시 초기와 시즌 업데이트 시기의 매출 순위를 다뤄, 이번 40계단 상승을 직접 설명하지 못했습니다. 따라서 스토어 업데이트 내역을 근거로 판단하면, 할로윈 기념 이벤트와 어비스 '룬다' 지옥4 난이도 추가, 경쟁 미션, 펫 원정대 등 콘텐츠 업데이트가 신규 유입과 재접속을 늘려 상승으로 이어졌을 가능성이 있습니다. 다만 이는 추정이며 매출 원인을 확정할 기사나 지표는 확인되지 않았습니다.",
+    "short": "10/15 정기 업데이트(펫 원정대·경쟁 미션) 이후 매출 순위 상승 추정",
+    "summary": "검색된 기사 중 이번 39위(33계단 상승) 변동을 직접 다룬 기사는 찾지 못했다. 10월 15일 정기 업데이트에서 펫 원정대와 경쟁 미션이 추가된 사실은 공식 업데이트 노트와 게임 뷰 기사로 확인되지만, 이것이 순위 상승과 연결된다는 근거는 없다. 할로윈 이벤트 역시 순위 변동과의 인과를 확인할 자료가 없어, 시기상 업데이트 직후 상승으로 보는 추정에 그친다. 따라서 원인은 스토어 업데이트 내역을 근거로 한 잠정 판단이다.",
     "articles": [],
     "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4=w128",
     "screenshots": [
@@ -91,8 +104,8 @@
   "1478371252": {
     "verified": false,
     "category": "컨텐츠 업데이트",
-    "short": "게임 플랜·베르나베우 등 대형 업데이트로 매출 순위 상승 추정(미검증)",
-    "summary": "검색으로는 FC 모바일의 App Store 매출 17계단 상승을 직접 다룬 한국어 기사를 찾지 못했다. 따라서 스토어 업데이트 내역을 근거로 판단했다. 주요 변화는 경기 중 전술 변경이 가능한 게임 플랜 정식 출시, 게임플레이 밸런스 조정, 신규 플레이 스타일 추가, 산티아고 베르나베우 스타디움 오픈, 자유 계약 오픈, 발롱도르26 클래스와 신규 ICON/HERO 추가, 신규·복귀 감독 보상 개편이다. 이런 신규 콘텐츠와 보상 강화가 신규 및 복귀 유저 유입을 늘려 매출 순위 상승으로 이어졌을 가능성이 있으나, 매출 기사로 확인된 인과관계는 아니다.",
+    "short": "게임 플랜·베르나베우 등 대규모 업데이트 효과 추정",
+    "summary": "최근 한국어 기사에서 이번 App Store 매출 17계단 상승을 직접 다룬 내용을 찾지 못했다. 검색된 FC 모바일 기사는 2026년 2월 구글 플레이 기준이거나 글로벌 집계라서 이번 순위 변동의 근거로 쓰지 않았다. 스토어 업데이트 내역을 보면 게임 플랜 정식 출시, 산티아고 베르나베우 스타디움 오픈, 자유 계약 신규 오픈, 발롱도르26 및 신규 ICON/HERO 추가, 신규·복귀 감독 보상 개편이 함께 이뤄져 콘텐츠 업데이트가 상승의 주된 원인으로 추정된다. 다만 이는 업데이트 내역에 근거한 추정이며 실제 기사로 확인되지 않았다.",
     "articles": [],
     "icon": "https://play-lh.googleusercontent.com/KA53EHURuZ6mRxunhTk0HOpyk8Ez4krNTWc2IICfeurEVmsd3VL1tijLiFTlEG_oqWdXrv0--YCMrNBYZfchm18=w128",
     "screenshots": [
@@ -105,6 +118,23 @@
     "videoImage": "https://play-lh.googleusercontent.com/YrCSpgKcMCm5OQhB6kVxOPk17hACI6C7uqjz2BjjLHpTLISIhoekiaTnH66LjOtrGWpxLpNzoRzd2Tq91YRYQA=w480",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.nexon.fmk&hl=ko&gl=kr",
     "recentChanges": "[MAKE YOUR GAME : 내가 완성하는 축구]<br>- 흐름을 읽고, 판을 바꿔라! &gt; 게임 플랜 정식 출시<br>- 더 정교하게, 더 다채롭게! &gt; 게임플레이 밸런스 개선<br>- 같은 선수, 다른 역할! &gt; 신규 플레이 스타일 추가<br>- 꿈의 무대에 서다! &gt; 산티아고 베르나베우 스타디움 오픈<br>- 정리는 빠르게, 보상은 확실하게! &gt; 자유 계약 신규 오픈<br>- 새로운 전설의 합류! &gt; 발롱도르26 &amp; 신규 ICON / HERO 출격<br>- 처음이어도, 오랜만이어도! &gt; 신규 &amp; 복귀 감독님 보상 개편"
+  },
+  "1507872328": {
+    "verified": false,
+    "category": "기타",
+    "short": "기사 미확인, 제9회 홀덤 마스터스 진행 중(추정)",
+    "summary": "검색에서 이 게임의 순위 상승을 다룬 최신 한국어 기사는 찾지 못했다. 스토어 최근 업데이트 내역은 버그 수정 및 UI/UX 최적화뿐이라 직접적인 상승 원인으로 보기 어렵다. 다만 공식 사이트에 2026년 10월 2일부터 12월 13일까지 총상금 24억 원 규모의 제9회 홀덤 마스터스가 진행 중이라고 안내되어 있어, 대회 기간의 이벤트 효과가 상승에 기여했을 가능성이 있으나 이는 추측이며 검증되지 않았다.",
+    "articles": [],
+    "icon": "https://play-lh.googleusercontent.com/QQVS3cmt_fMF91ecz8fHExUP_VJUty-9dCmA7sOZQR3086-4nD-2ANOA2cOkFeiHt5eFW55CZJGpiaO_BahNZA=w128",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/W3dlwnwBRc3RXDKpAeMCp8KdWmaMFbaVVwl4e7L510Vx_tcNjM0LpLO7AuZ72sg9oni-MOs8AOuYfqAR2SOn_zI=w400",
+      "https://play-lh.googleusercontent.com/RlULZq3mvBiiI_2DJnjnhGS_4pkJQCnK2k3r56nUpodbuJPpaTby5tQo2z4MCKQb8lESaAsLQhqMFtiUbjYq=w400",
+      "https://play-lh.googleusercontent.com/koibziE9iUY9OP0cX-zuoECDndCmC88ewCInLH5sZqXmm75PDWdFAQekl53b4Yq5vd59aR6P85khYiMVwRFIhHs=w400",
+      "https://play-lh.googleusercontent.com/GtiCgBr-MaItDpkNW6wwClIVmaM2PTcO3vLA7yyE4D7RHjQ3ef21xTHcAWxrb8c73t7A97x8X8j2dh-RRr32Vw=w400"
+    ],
+    "video": null,
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.zempot.wplpoker&hl=ko&gl=kr",
+    "recentChanges": "■ 업데이트 내용<br><br>버그 수정 및 최적화<br>- 버그 수정 및 UI/UX 최적화가 적용되었습니다."
   },
   "1585915174": {
     "verified": true,
@@ -179,8 +209,8 @@
   "6479970832": {
     "verified": false,
     "category": "기타",
-    "short": "신규 진입 28위, 확인된 상승 기사 없음. 일부 오류 수정만 기록됨",
-    "summary": "이번 조사에서 28위 신규 진입의 직접 원인을 설명하는 최신 한국어 기사는 찾지 못했다. 검색된 기사는 2024년 10월 말 출시 당시의 다운로드·매출 성과를 다룬 것이라 현재 순위 변동과 연결되지 않는다. 스토어 최근 업데이트 내역은 '일부 오류 수정'뿐이어서 매출 순위를 끌어올린 근거로 보기 어렵다. 따라서 상승 원인은 확인되지 않은 상태로 두고, 신규 진입은 차트 집계 변화나 외부 요인일 가능성을 열어 두고 추가 확인이 필요하다.",
+    "short": "최신 원인 미확인; 스토어 업데이트는 오류 수정뿐",
+    "summary": "검색된 한국어 기사는 모두 2024년 출시 직후의 다운로드·매출 성과를 다뤘고, 현재 App Store 매출 29위 신규 진입의 원인을 설명하는 최신 기사는 찾지 못했습니다. 스토어 최근 업데이트 내역도 '일부 오류 수정'뿐이라 신규 진입을 뒷받침할 콘텐츠나 이벤트 정보가 확인되지 않습니다. 따라서 원인은 확정할 수 없으며, 이벤트 공지나 확장팩 출시 여부를 추가로 확인해야 합니다.",
     "articles": [],
     "icon": "https://play-lh.googleusercontent.com/p_05nasYCOpKzbj4n-j6qFrWRu5mb4oBFiulf9kc-SdLssRKbIqIt8u-XkI2R07vfHh0KE_Vr4L8R0l7c3JTWw=w128",
     "screenshots": [
@@ -196,15 +226,10 @@
   },
   "6444112366": {
     "verified": false,
-    "category": "컨텐츠 업데이트",
-    "short": "10장 완결 및 10.29 신규 인격 업데이트 영향으로 추정(미확인)",
-    "summary": "검색으로 찾은 기사 중 현재 38위 신규 진입 시점을 직접 다룬 기사는 없어 verified를 false로 둔다. 2026년 9월 17일부터 10월 1일까지 10장 스토리가 순차 공개됐고, 그 뒤 10월 29일 정기 업데이트에 신규 인격 정보가 예고됐다는 공식 공지 기록이 확인된다. 따라서 신규 진입은 스토리 완결과 신규 인격 업데이트에 따른 과금 수요 증가가 원인일 가능성이 있으나, 매출 순위 변동과의 인과관계는 기사로 입증되지 않았다. 기존 기사들은 2023년 이후 과거 매출 흐름을 다루므로 참고용으로만 본다.",
-    "articles": [
-      {
-        "title": "하루 세 번 뒤집힌 '림버스 컴퍼니' 10장 일정, 9월 17일 풀보이스 목표",
-        "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216079"
-      }
-    ],
+    "category": "기타",
+    "short": "최신 기사 미확인으로 원인 특정 불가(추정 보류)",
+    "summary": "41위 신규 진입의 직접 원인을 다룬 최신 한국어 기사는 찾지 못했습니다. 검색된 기사는 2025년 7월 '발푸르기스의 밤' 업데이트나 3주년 매출 역주행 등 과거 흥행 사례여서 현재 앱스토어 순위와의 연관을 확인할 수 없습니다. 제공된 recentChanges도 없어 스토어 업데이트 내역으로도 원인을 판단하지 못했습니다. 2026년 10월 공지에서는 1.116.2 버전의 메모리 최적화와 주요 이야기 10장 보스 난이도 설문이 확인되지만, 이것이 순위 상승과 관련 있다는 근거는 없습니다.",
+    "articles": [],
     "icon": "https://play-lh.googleusercontent.com/mnqUeIK2w48bqiVf9w3h-6w0SuHrwx1Xh5DFhHHjgcu9x29qGIzs4EO9QeWtmZ42YzPOC29uU2Q73h25Nz9PCQ=w128",
     "screenshots": [
       "https://play-lh.googleusercontent.com/7US0iX0uT7h-z4tmls1CBDRhkHAnU22dXpp_k4u828bQW-pIG5vTArhVkKgTcpVKWPnPqIsqZoQbCMdOvlh6Das=w400",
@@ -220,8 +245,8 @@
   "com.ProjectMoon.LimbusCompany": {
     "verified": false,
     "category": "컨텐츠 업데이트",
-    "short": "10~10월 정기 업데이트·신규 인격 추출 일정 연속 진행(추정)",
-    "summary": "최신 한국어 기사에서는 이번 Google 매출 37계단 상승을 직접 설명하는 내용을 찾지 못했다. 공식 스토어 공지 기준으로 10월 15일, 22일, 29일 정기 업데이트와 신규 인격 프리뷰·추출 일정이 이어지고 있어, 이 콘텐츠 업데이트가 상승 요인일 가능성이 있으나 이는 추정이다. 매출 변동의 정확한 원인은 추가 확인이 필요하다.",
+    "short": "10장(하) 출시·신규 인격·시지프의 거울 추가로 매출 순위 상승 추정",
+    "summary": "확인된 기사에서는 42위 상승 원인을 직접 다루지 않았습니다. 스팀 공지에 따르면 10월 1일 업데이트로 주요 이야기 10장(하)이 공개됐고, 이후 10월 5일·8일 정기 업데이트와 10월 15일 신규 인격 특정 추출, 신규 콘텐츠 '시지프의 거울' 안내가 이어졌습니다. 이 신규 콘텐츠와 추출 이벤트가 신규·복귀 유저 결제를 늘렸을 것으로 추정되지만 검증되지 않았습니다.",
     "articles": [],
     "icon": "https://play-lh.googleusercontent.com/mnqUeIK2w48bqiVf9w3h-6w0SuHrwx1Xh5DFhHHjgcu9x29qGIzs4EO9QeWtmZ42YzPOC29uU2Q73h25Nz9PCQ=w128",
     "screenshots": [
@@ -274,6 +299,28 @@
     "storeUrl": "https://play.google.com/store/apps/details?id=com.proximabeta.nikke&hl=ko&gl=kr",
     "recentChanges": "《승리의 여신: 니케》 COIN RUSH SHOWDOWN 버전을 지금 플레이하실 수 있습니다!<br><br>[신규 니케]<br>SSR - 길티 : 마이티 바니<br>SSR - 신 : 스위프트 바니<br><br>[신규 이벤트]<br>신규 풀 보이스 스토리 이벤트: COIN RUSH SHOWDOWN<br>미니 게임：THREE COMPANY RUMBLE<br>14일 출석 이벤트<br><br>[신규 코스튬]<br>슈가 - 킬러 래빗<br>마나 - 드렁큰 래빗<br>크러스트 - 트릿 셰프<br><br>[기타]<br>잠겨 있는 솔로레이드 스테이지도 모의전이 가능하도록 개선<br>장비 개조 시스템 개선<br>로비 바로가기 메뉴에 &#39;스토리 라인&#39; 추가<br>신규 프로필 카드 오브젝트<br>신규 칭호<br><br>[개선 사항]<br>* 버그 수정 및 개선 사항과 관련된 자세한 내용은 게임 내 공지를 확인하여 주시기 바랍니다."
   },
+  "6740838442": {
+    "verified": true,
+    "category": "기타",
+    "short": "극장판 흥행에 따른 IP 역주행, 앱스토어 무료 1위 보도",
+    "summary": "국내 극장판 애니메이션 흥행으로 치이카와 IP에 대한 관심이 커지면서 기존 게임이 다시 선택받는 역주행 현상이 나타났다. 보도에 따르면 게임은 영화 개봉 직후 순위가 급상승했고 국내 앱스토어 무료 게임 부문 1위를 유지하고 있다. 다만 해당 기사는 무료 순위 기준이며, 이번 변동은 매출 차트 기준이므로 매출 상승의 직접 원인으로 단정하기는 어렵다. 스토어 업데이트(아이콘 변경, 브라질·베트남 유료 아이템 제한, 경미한 오류 수정)는 순위 상승의 주된 원인으로 보기 어렵다.",
+    "articles": [
+      {
+        "title": "영화 유행이 만들어낸 게임 역주행, '먼작귀 포켓' 게임 부상 - 현대경제신문",
+        "url": "http://www.finomy.com/news/articleView.html?idxno=263459"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/vLT3_S0-l3KMEKBdwToKLl9hDHoZH2l45FmIPtBVHihofbwWNDs_V6liqTlXJ-3teJBVP0BZeOvCIaIHRsemD0U=w128",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/KtYAeGZ8cCQpuf7G7rKBNygOb8ZCG1vK9e5I4mcIyDRk8M6O0VGW8CLH6kMi63o9Z5xlcGTJHaVWwtiNFXLqlA=w400",
+      "https://play-lh.googleusercontent.com/KwKQ0MqHJaFA_GZnAkiGEUTGO9NbTyoLUAHqrTTW2Jsc4pUoYhyTaZEXQB6LkgoJlrzupCtuti3E9uRk90wf=w400",
+      "https://play-lh.googleusercontent.com/g1bBB7bK86fHoV9bqgYu4OFg7EQKxAui5UWxPvTcYOHCWW0bjksbkHUsMtK-wzZ3gm9GR1R-zcO_7Skkv_u6=w400",
+      "https://play-lh.googleusercontent.com/wdc8HbjkEBclQTwqyrThGUdfIuVeqtE0oil8co5LO16GKH8Wcq3cBJNScE2kO8K9OSgJgngYiUtlkRi8fNlauw=w400"
+    ],
+    "video": null,
+    "storeUrl": "https://play.google.com/store/apps/details?id=jp.co.applibot.chiikawapocketgl&hl=ko&gl=kr",
+    "recentChanges": "- 앱 아이콘을 변경하였습니다.<br><br>- 브라질, 베트남에서의 서비스 내용 변경<br>각 국가의 관련 법에 따라, 브라질 및 베트남에 거주하는 고객님을 대상으로 다음과 같이 서비스 내용이 변경되었습니다.<br>이번 버전부터 브라질, 베트남의 고객님께서는 [보석(유료)] 및 그 외 유료 아이템을 구입할 수 없게 됩니다.<br>위 변경이 적용된 후에도 브라질, 베트남의 고객님은 계속해서 [먼작귀 포켓]을 플레이하실 수 있습니다.<br>그리고 이미 소지한 [보석(유료)] 및 아이템도 이제까지와 다름없이 이용하실 수 있습니다.<br>상기 국가를 제외한 다른 나라 및 지역의 고객님께는 영향이 없습니다.<br><br>- 그 외 경미한 오류를 수정하였습니다"
+  },
   "6764201639": {
     "verified": true,
     "category": "컨텐츠 업데이트",
@@ -325,28 +372,6 @@
     "storeUrl": "https://play.google.com/store/apps/details?id=com.Chodun.CatGunner&hl=ko&gl=kr",
     "recentChanges": "새로운 스킨 출시!"
   },
-  "6740838442": {
-    "verified": true,
-    "category": "기타",
-    "short": "극장판 흥행에 따른 IP 역주행, 앱스토어 무료 1위 보도",
-    "summary": "국내 극장판 애니메이션 흥행으로 치이카와 IP에 대한 관심이 커지면서 기존 게임이 다시 선택받는 역주행 현상이 나타났다. 보도에 따르면 게임은 영화 개봉 직후 순위가 급상승했고 국내 앱스토어 무료 게임 부문 1위를 유지하고 있다. 다만 해당 기사는 무료 순위 기준이며, 이번 변동은 매출 차트 기준이므로 매출 상승의 직접 원인으로 단정하기는 어렵다. 스토어 업데이트(아이콘 변경, 브라질·베트남 유료 아이템 제한, 경미한 오류 수정)는 순위 상승의 주된 원인으로 보기 어렵다.",
-    "articles": [
-      {
-        "title": "영화 유행이 만들어낸 게임 역주행, '먼작귀 포켓' 게임 부상 - 현대경제신문",
-        "url": "http://www.finomy.com/news/articleView.html?idxno=263459"
-      }
-    ],
-    "icon": "https://play-lh.googleusercontent.com/vLT3_S0-l3KMEKBdwToKLl9hDHoZH2l45FmIPtBVHihofbwWNDs_V6liqTlXJ-3teJBVP0BZeOvCIaIHRsemD0U=w128",
-    "screenshots": [
-      "https://play-lh.googleusercontent.com/KtYAeGZ8cCQpuf7G7rKBNygOb8ZCG1vK9e5I4mcIyDRk8M6O0VGW8CLH6kMi63o9Z5xlcGTJHaVWwtiNFXLqlA=w400",
-      "https://play-lh.googleusercontent.com/KwKQ0MqHJaFA_GZnAkiGEUTGO9NbTyoLUAHqrTTW2Jsc4pUoYhyTaZEXQB6LkgoJlrzupCtuti3E9uRk90wf=w400",
-      "https://play-lh.googleusercontent.com/g1bBB7bK86fHoV9bqgYu4OFg7EQKxAui5UWxPvTcYOHCWW0bjksbkHUsMtK-wzZ3gm9GR1R-zcO_7Skkv_u6=w400",
-      "https://play-lh.googleusercontent.com/wdc8HbjkEBclQTwqyrThGUdfIuVeqtE0oil8co5LO16GKH8Wcq3cBJNScE2kO8K9OSgJgngYiUtlkRi8fNlauw=w400"
-    ],
-    "video": null,
-    "storeUrl": "https://play.google.com/store/apps/details?id=jp.co.applibot.chiikawapocketgl&hl=ko&gl=kr",
-    "recentChanges": "- 앱 아이콘을 변경하였습니다.<br><br>- 브라질, 베트남에서의 서비스 내용 변경<br>각 국가의 관련 법에 따라, 브라질 및 베트남에 거주하는 고객님을 대상으로 다음과 같이 서비스 내용이 변경되었습니다.<br>이번 버전부터 브라질, 베트남의 고객님께서는 [보석(유료)] 및 그 외 유료 아이템을 구입할 수 없게 됩니다.<br>위 변경이 적용된 후에도 브라질, 베트남의 고객님은 계속해서 [먼작귀 포켓]을 플레이하실 수 있습니다.<br>그리고 이미 소지한 [보석(유료)] 및 아이템도 이제까지와 다름없이 이용하실 수 있습니다.<br>상기 국가를 제외한 다른 나라 및 지역의 고객님께는 영향이 없습니다.<br><br>- 그 외 경미한 오류를 수정하였습니다"
-  },
   "com.netmarble.tskgb": {
     "verified": true,
     "category": "컨텐츠 업데이트",
@@ -385,8 +410,8 @@
   "com.webzen.mumonarch2.google": {
     "verified": false,
     "category": "기타",
-    "short": "최근 업데이트는 마이너 버그 픽스뿐, 상승 원인 기사 미확인",
-    "summary": "현재 13계단 상승의 직접적 원인을 설명하는 최신 한국어 기사를 찾지 못했다. 스토어 최근 업데이트 내역은 마이너 버그 픽스뿐이어서 이벤트나 신규 콘텐츠가 확인되지 않는다. 검색된 기사는 2024년 출시 당시 인기 순위 1위 기록과 매출 성과를 다룬 것이라 현재 순위 변동과 직접 연결되지 않아 근거에서 제외했다. 상승 원인은 매출 이벤트나 시즌 패스 등 미확인 요인일 수 있으므로 추가 확인이 필요하다.",
+    "short": "2주년 이벤트 시기와 맞물린 순위 상승으로 추정, 미확인",
+    "summary": "뮤 모나크2 공식 커뮤니티에는 2026년 8월 26일 2주년 업데이트에 맞춘 감사제, 기념 이벤트 3종, 토스페이 결제 프로모션 공지가 올라와 있습니다. 다만 이번 16계단 상승의 직접적인 원인이라는 기사는 찾지 못했고, 스토어 최근 업데이트 내역은 마이너 버그 픽스뿐이라 매출 상승 원인은 확인되지 않았습니다. 따라서 위 이벤트 시기와의 시간적 연관성만 참고할 수 있으며 인과관계는 추정입니다.",
     "articles": [],
     "icon": "https://play-lh.googleusercontent.com/qnZL-Cen0ZiuBaJFSRkJsW1shxOLzMjGnZUDFRvnPit9WizZ3TiHrq2BFJwtDcnFO-Qk1M4wdxf4gVVZ0fta3g=w128",
     "screenshots": [
@@ -399,55 +424,6 @@
     "videoImage": "https://play-lh.googleusercontent.com/l9gU6QJktQ7SoC5jw_fuTaD2a77U1mFMTc31uaCck4E84jUcuRKk-m4anQbN4WjsIEFgtX1O3CGisy5T6oQSPg=w480",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.webzen.mumonarch2.google&hl=ko&gl=kr",
     "recentChanges": "마이너 버그 픽스"
-  },
-  "com.kakaogames.odin": {
-    "verified": false,
-    "category": "컨텐츠 업데이트",
-    "short": "10/28 업데이트(길드 쟁탈전 개편·펫 장비) 영향 추정, 기사 미확인",
-    "summary": "카카오게임즈는 10월 28일 업데이트로 길드 쟁탈전의 참여 인원 제한을 없애고 매칭 점수를 전체 참가 길드원 전투력 기준으로 바꿨으며, 펫 전용 장비를 만드는 펫 공방 시스템을 추가했다. 핼러윈 이벤트와 펫 공방 지원 미션도 함께 진행된다. 다만 검색된 기사는 이 업데이트 내용을 보도할 뿐 16위로의 8계단 상승과 직접 연결하지 않으므로, 순위 상승은 업데이트와 이벤트 효과로 추정되며 확정된 원인은 아니다.",
-    "articles": [
-      {
-        "title": "카카오게임즈 '오딘: 발할라 라이징', 대규모 길드 콘텐츠 개선 업데이트 - 디지털데일리",
-        "url": "https://www.ddaily.co.kr/page/view/2026102816023741751"
-      },
-      {
-        "title": "'오딘: 발할라 라이징', 길드 쟁탈전 개편·펫 장비 추가 - 경향게임스",
-        "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309769"
-      },
-      {
-        "title": "오딘: 발할라 라이징, 길드전 개선·펫 공방 담은 업데이트 진행 - 인벤",
-        "url": "https://www.inven.co.kr/webzine/news/?news=322662"
-      }
-    ],
-    "icon": "https://play-lh.googleusercontent.com/65JquVIM391Il8M5oXrUzwTOFvFn72Yef4EJGWLBp190MflgritBJqiMuSjoK_ZeA2jF53OV9rRNgAXRm8_scQ=w128",
-    "screenshots": [
-      "https://play-lh.googleusercontent.com/407nGpW-m-cP-DrLhfADkFveWiVitELylkVFbjKzUjQYy7dhaMAB5o7_iNd_biomnGkujj5ktBNNlgNyjm6Mqw=w400",
-      "https://play-lh.googleusercontent.com/za7D-AXxneD1pjLB_8_gQ8bx5TfjSMQilcK7ootEb9F4ixCDj65CKcpDdUmsvLyXBUxiXR_U2xYuNwfZjymzfg=w400",
-      "https://play-lh.googleusercontent.com/7rKrjWCI3jaL8kwpQgRiB1lnKkgOE_yNUrCZJ9SerM8caM-nCwN3dwyyg_7PceptOp9OR8EiwYeGKjBa_EyrXQ=w400",
-      "https://play-lh.googleusercontent.com/5VFf5rmfCYUV2kbLf0QXhX2fPR6Yg6kO1nf334gGwgd7nI6TAiHvNj-xikIFbs0dJrz5RHg3p3Ny4uXWMnN6dFc=w400"
-    ],
-    "video": "https://www.youtube.com/embed/MRghUoLn8X0?vq=large&rel=0&autohide=1&showinfo=0",
-    "videoImage": "https://play-lh.googleusercontent.com/8kVZOwAUe4a6vFgzEo0yLtLrbQKQlD_G_Ph6NVKToE2UI3qd7zCKLII3DLtcgoUvZfle2GqoHEorJL_fUzDXRw=w480",
-    "storeUrl": "https://play.google.com/store/apps/details?id=com.kakaogames.odin&hl=ko&gl=kr",
-    "recentChanges": "- 길드 쟁탈전 리뉴얼<br>- 펫 장비 시스템 업데이트<br>- 편의성 기능 추가<br>- 오류사항 수정 및 시스템 개선"
-  },
-  "6499562253": {
-    "verified": false,
-    "category": "기타",
-    "short": "버그 수정·안정성 개선 업데이트, 상승 원인은 미확인",
-    "summary": "검색으로는 현재 8계단 상승의 직접 원인을 설명하는 최신 한국어 기사를 찾지 못했습니다. 확인된 기사는 2026년 5월 정식 출시 직후 앱 마켓 인기 1위와 매출 상위권 진입을 다룬 초반 흥행 기사뿐이며, 이번 상승과 시점이 맞지 않습니다. 스토어 최근 업데이트(1.0.23)는 버그 수정과 게임 안정성 개선 내용이라 매출 급등의 직접 요인으로 보기 어렵습니다. 따라서 원인은 확정하지 않고, 기사 확인이 가능할 때까지 '기타'로 둡니다.",
-    "articles": [],
-    "icon": "https://play-lh.googleusercontent.com/Ub7Hbq1LusnGf9lR0Spth7mxCzByqE22z9MEBwK--PP1fuh96JazHOboiMADc7Yl1drd8axAa0kOoUyTDy0v=w128",
-    "screenshots": [
-      "https://play-lh.googleusercontent.com/xcwnNjakzRwUaGCXhAY8869MokDSLOF_GUdhYWBbqgXDPnpbnlCyCNe7wQ2D8F60-knY5mGwhUn6v2ZpTWKXJQ=w400",
-      "https://play-lh.googleusercontent.com/IxOQN1LUBThsz9oMpFLDbvpcJr3gIqzkCQLxc7djGUVyS4CktyCQYpreX9ypKhPzB4VIFD85balLpnFGRuHmZw=w400",
-      "https://play-lh.googleusercontent.com/jzqTUTIMYGbxYXB4e5uwEVhfOgA9wSS_0iEbOZPpxNy48kkv86Cz9PzjctSTjlAmKEB2BBSmja_CpEIrH8l7QA=w400",
-      "https://play-lh.googleusercontent.com/HcmJZtodRcf8nN05FsfEOewTmf9C95vo3QoEP1Xfi1gDXj2M6Cvuti5JtlfY9QmbgWhl_yCwYA0WtJaULG0UX9Q=w400"
-    ],
-    "video": "https://www.youtube.com/embed/C5jIQF1EJn0?vq=large&rel=0&autohide=1&showinfo=0",
-    "videoImage": "https://play-lh.googleusercontent.com/k2REek_wtJfgVhmSgMW2Pd4o7IkB311PMB3id3yd98LfGF7rf5S00lcshghmR5doC0YttNkfCX20gX8HzuYiBg=w480",
-    "storeUrl": "https://play.google.com/store/apps/details?id=com.highbrow.games.dvo&hl=ko&gl=kr",
-    "recentChanges": "[1.0.23]<br>드래곤과 함께하는 모험이 더 쾌적해지도록 버그를 수정하고 게임 안정성을 개선했습니다.<br>"
   },
   "com.survivor.ace": {
     "verified": true,
@@ -479,34 +455,169 @@
     "storeUrl": "https://play.google.com/store/apps/details?id=com.survivor.ace&hl=ko&gl=kr",
     "recentChanges": ""
   },
-  "6780387121": {
-    "verified": true,
-    "category": "신규 오픈",
-    "short": "9월 1일 정식 출시, 출시 기념 210회 무료 뽑기 제공",
-    "summary": "이월드게임이 9월 1일 해상 종말 생존 시뮬레이션 신작을 정식 출시했고, 출시와 함께 배우 박지환 광고 영상과 전용 쿠폰이 공개됐다. 로그인만 해도 210회 무료 뽑기를 받을 수 있는 출시 혜택과 창작 공모전이 함께 진행되어 신규 유입을 끌어올린 것으로 보인다. 다만 매출 순위 상승과의 직접적 인과관계는 기사에서 확인되지 않아 출시 시점과 이벤트를 근거로 한 추정이다.",
+  "com.kakaogames.odin": {
+    "verified": false,
+    "category": "컨텐츠 업데이트",
+    "short": "5주년 업데이트 여파, 현재 9계단 상승 원인은 미확인",
+    "summary": "찾은 기사들은 2026년 6월 24일 서비스 5주년 업데이트(알케미스트 클래스, 월드 거점 점령전, 신규 서버 스카디, 기념 출석 이벤트) 직후 애플 앱스토어 1위와 구글 플레이 2~3위권 진입, 이후 구글 1위 탈환을 다루고 있다. 다만 이 기사들은 현재 순위(15위)로 9계단 오른 시점의 원인을 직접 설명하지 않으며, 제공된 최근 업데이트(길드 쟁탈전 리뉴얼, 펫 장비 시스템)와도 일치하지 않는다. 따라서 현재 상승 원인은 확인되지 않았고, 스토어 업데이트 내역만으로는 길드 콘텐츠와 펫 장비 업데이트가 상승의 원인이라고 단정하기 어렵다. 기사 기준 과거 흥행 흐름을 참고용으로만 보고, 현 시점의 순위 변동은 추가 자료로 검증이 필요하다.",
     "articles": [
       {
-        "title": "'아쿠아랜드: 크레이지 서바이벌' 정식 서비스 시작…기념 이벤트 전개",
-        "url": "https://www.xportsnews.com/article/2190837"
+        "title": "5주년 맞은 '오딘', 양대 앱마켓 매출 최상위권 재진입 : 네이트 뉴스",
+        "url": "https://m.news.nate.com/view/20260626n28856"
       },
       {
-        "title": "'아쿠아랜드: 크레이지 서바이벌' 정식 출시",
-        "url": "https://www.inven.co.kr/webzine/news/?news=320270"
+        "title": "5년 된 게임인데 또 1위…카카오게임즈 '오딘' 정상 탈환 : 네이트 뉴스",
+        "url": "https://m.news.nate.com/view/20260713n20848"
       },
       {
-        "title": "해상 생존 시뮬 신작 '아쿠아랜드: 크레이지 서바이벌', 1일 정식 출시",
-        "url": "https://www.khgames.co.kr/news/articleView.html?idxno=307930"
+        "title": "'오딘' 출시 5주년 업데이트 효과로 구글플레이 매출 1위 탈환",
+        "url": "https://www.inven.co.kr/webzine/news/?news=318366"
       }
     ],
-    "icon": "https://play-lh.googleusercontent.com/eDxdGytER34b52oX4FB5m5AyCdQLjJEy9mzmI2lHfKs_a90-8TvK3TSKvafp1uetKZliECkGXPRTEOAeTGYDWg=w128",
+    "icon": "https://play-lh.googleusercontent.com/65JquVIM391Il8M5oXrUzwTOFvFn72Yef4EJGWLBp190MflgritBJqiMuSjoK_ZeA2jF53OV9rRNgAXRm8_scQ=w128",
     "screenshots": [
-      "https://play-lh.googleusercontent.com/3mFWfU5tX3KTOB9p4trHIQL-StxzRgiMxpzZ9F0p4I9jNkkTFiDNeaVutmgZkpnEDZAmRFKe5H15n9j0n1Zx_iI=w400",
-      "https://play-lh.googleusercontent.com/mtfRc9jIo3vSDuUtP7hf2hmTQhXA82LDNmK6X6IxEzbayIeMyYSpcGIPLFlSI0_oQ02A1da-Hf6RJ6VVB3B9=w400",
-      "https://play-lh.googleusercontent.com/GyygEMwFlHDyZA3xqQ0YzkjCYVKNOvcyX0P0z7YL4-HOr_926gGkr-iwKNEDrRDG2OYFPPjOZdpceciTNbUB_IA=w400",
-      "https://play-lh.googleusercontent.com/9C-aIAfB63nsG4rDEXlMF558tzE2Cq4UqFs348diwVlCXRks90PvRq55FkJ1ZnZA8Q9zVq25Zxk2CsdAJU9e=w400"
+      "https://play-lh.googleusercontent.com/407nGpW-m-cP-DrLhfADkFveWiVitELylkVFbjKzUjQYy7dhaMAB5o7_iNd_biomnGkujj5ktBNNlgNyjm6Mqw=w400",
+      "https://play-lh.googleusercontent.com/za7D-AXxneD1pjLB_8_gQ8bx5TfjSMQilcK7ootEb9F4ixCDj65CKcpDdUmsvLyXBUxiXR_U2xYuNwfZjymzfg=w400",
+      "https://play-lh.googleusercontent.com/7rKrjWCI3jaL8kwpQgRiB1lnKkgOE_yNUrCZJ9SerM8caM-nCwN3dwyyg_7PceptOp9OR8EiwYeGKjBa_EyrXQ=w400",
+      "https://play-lh.googleusercontent.com/5VFf5rmfCYUV2kbLf0QXhX2fPR6Yg6kO1nf334gGwgd7nI6TAiHvNj-xikIFbs0dJrz5RHg3p3Ny4uXWMnN6dFc=w400"
+    ],
+    "video": "https://www.youtube.com/embed/MRghUoLn8X0?vq=large&rel=0&autohide=1&showinfo=0",
+    "videoImage": "https://play-lh.googleusercontent.com/8kVZOwAUe4a6vFgzEo0yLtLrbQKQlD_G_Ph6NVKToE2UI3qd7zCKLII3DLtcgoUvZfle2GqoHEorJL_fUzDXRw=w480",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.kakaogames.odin&hl=ko&gl=kr",
+    "recentChanges": "- 길드 쟁탈전 리뉴얼<br>- 펫 장비 시스템 업데이트<br>- 편의성 기능 추가<br>- 오류사항 수정 및 시스템 개선"
+  },
+  "com.devsisters.gb": {
+    "verified": true,
+    "category": "콜라보",
+    "short": "산리오캐릭터즈 콜라보 진행, 10/26까지 신규 쿠키·펫 합류",
+    "summary": "데브시스터즈가 23일부터 산리오캐릭터즈와 컬래버레이션을 시작했고, 협업 기간은 10월 26일까지입니다. 마이멜로디, 쿠로미, 시나모롤, 폼폼푸린, 포차코, 한교동 6종이 쿠키 형태로 합류하고 각자의 짝꿍 펫 6종도 추가되었습니다. 캠핑 테마 이벤트 '산리오캐릭터즈와 가을 캠핑!', 6종 쿠키 릴레이 모드 '산리오캐릭터즈 떼탈출', 전용 재화 '도토리메달'로 교환하는 콜라보 상점, 신규 '프렌즈 레벨' 육성 완화 시스템이 함께 열려 신규 유입을 끌어온 것으로 보입니다.",
+    "articles": [
+      {
+        "title": "쿠키런 오븐브레이크에 등장한 산리오캐릭터즈 - 게임톡",
+        "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=111710"
+      },
+      {
+        "title": "쿠키런: 오븐브레이크, 산리오캐릭터즈 23일부터 함께 뛴다 - 포모스",
+        "url": "https://v.daum.net/v/38bg3CEoMU"
+      },
+      {
+        "title": "쿠로미·포차코가 쿠키로…'쿠키런' 산리오 만났다 - 파이낸셜뉴스",
+        "url": "https://v.daum.net/v/FcGVib0Ho8"
+      },
+      {
+        "title": "‘쿠키런: 오븐브레이크’, 23일 산리오캐릭터즈 콜라보 실시 - 경향게임스",
+        "url": "https://www.khgames.co.kr/news/articleView.html?idxno=308670"
+      },
+      {
+        "title": "쿠키런 오븐브레이크, 산리오캐릭터즈 컬래버 진행 - 인벤",
+        "url": "https://www.inven.co.kr/webzine/news/?news=321296"
+      },
+      {
+        "title": "데브시스터즈 '쿠키런: 오븐브레이크'에 산리오 뜬다! - 인사이트",
+        "url": "https://www.insight.co.kr/news/574758"
+      },
+      {
+        "title": "쿠키런: 오븐브레이크, 인기 IP '산리오캐릭터즈'와 컬래버 진행 - 마일드경제",
+        "url": "https://www.todaymild.com/news/articleView.html?idxno=39146"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/bRQHy1ll1npgb4iTAZSN3Vxq1cRyGq7dK6nytTx-BWRbs0TouobBCb2wOBaPQKWK82VXioQm_AOOja16sOGvQiA=w128",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Qd329g09OpiQmskDTi2FaU2E_464utVt-3W7szXRm_J8IkQT-XmQCP05tQzWP0yEcL-kFsWPbUfNy0crUuWYmQ=w400",
+      "https://play-lh.googleusercontent.com/2-AU9Wf1Y9kW0jxOD3XdKoBpa7QQHBCwig-H74jQCZhuKIj2bL03fvpuZii62N3nM_ax-ptGqFl_g-pS4xJQ6w=w400",
+      "https://play-lh.googleusercontent.com/kBvrzX5_bkHAGFrquPJep6ztT5SDyK1sYLn821_EyD4j0FmXtulHR6axfYBtXi6rrDSv7MxOEoP0S15MxRID7w=w400",
+      "https://play-lh.googleusercontent.com/kS4iHQ8HoeYwxl3RAmsgovjX6P4ry606eeXvS5cWsRrIfR0T2s1tevuNqk1IXZNL5jQde-niEQyqXoyVIsTlkXU=w400"
+    ],
+    "video": "https://www.youtube.com/embed/b69f2eFqmdU?vq=large&rel=0&autohide=1&showinfo=0",
+    "videoImage": "https://play-lh.googleusercontent.com/m0dPa4H0T5v6NcxE8H_wjAcOfWiZ6peApiuLt9FiKTDjgTO43pRUiwhyb9wKHe4AgmgkrRU0tp884_Xz1Qir9A=w480",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.devsisters.gb&hl=ko&gl=kr",
+    "recentChanges": "**신규유저 특별 보상 이벤트 (~10/25)<br>쉽고 재밌는 국민 런게임!<br>수백 종의 귀여운 쿠키와 함께 즐겨요.<br><br>1.산리오캐릭터즈 등장!<br>마이멜로디,쿠로미,시나모롤,폼폼푸린,포차코,한교동까지!<br>지금 바로 쿠키런에 찾아온 산리오캐릭터즈를 만나보세요!<br><br>2.산리오캐릭터즈와 가을 캠핑 OPEN!<br>산리오캐릭터즈와 함께 가을 캠핑을 준비해요!<br>스테이지를 달리고 재료를 모아 텐트를 완성해보세요!<br><br>3. 산리오캐릭터즈 떼탈출 OPEN!<br>산리오캐릭터즈와 함께 달리면 파워업!<br>매주 특별한 파워업이 기다리고 있어요!<br><br>4. 콜라보 상점 OPEN!<br>도토리메달을 모아 산리오캐릭터즈와 콜라보 스킨들까지 획득해 보세요!<br><br>5. 산리오캐릭터즈! 낙엽을 모아모아<br>재미있는 미니게임을 즐기고 풍성한 보상을 받아보세요!<br><br>6. 산리오캐릭터즈 스킨 출시!<br>산리오캐릭터즈의 슈퍼에픽 스킨 6종과 기존 쿠키들의 레어 스킨 6종을 만나보세요!"
+  },
+  "com.project.idle.cd": {
+    "verified": false,
+    "category": "컨텐츠 업데이트",
+    "short": "서버간 이벤트·자동 도전 등 콘텐츠 추가로 매출 순위 6계단 상승 추정",
+    "summary": "한국어 기사 검색에서는 Top Force(탑 포스) 순위 상승을 직접 다룬 기사를 찾지 못했습니다(검색 결과는 토스 POS, 탑 파이낸셜 등 무관한 내용). 따라서 스토어 업데이트 내역을 근거로 판단하며, 일요일 한정 이벤트「전장 기습」과 대규모 서버 간 이벤트「핵폭탄 습격」 추가가 결제 유인을 키웠을 가능성이 있습니다. 메인 스테이지 550 이후 자동 도전 기능과 연맹 관련 기능(연맹 공지 템플릿, 연맹 열차 오프라인 알림)도 참여 빈도를 높였을 것으로 보이나, 매출 상승과의 인과관계는 확인되지 않았습니다.",
+    "articles": [],
+    "icon": "https://play-lh.googleusercontent.com/dIGYOhW1mwhxLLCti6-O-VQAL_5oz7yzyLkP5WJH80i6j3HWcaIOfTnJ-FaQC1tQ7DC2pR5BphwkZJ9tFQe_ag=w128",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/5Jo5XmNHTS9x9R0U9mfEoUc1miy_cMPccXOMph-vu4Aypcgn2joXBL0Nenq5iyt-8adhCjUZV4eGcn10fP-E8Q=w400",
+      "https://play-lh.googleusercontent.com/THKO90CIC5QAB0qKBsxe8BtNo_DvHrZL5UGCE1rgx1WJtrK52LxIDyHHzv1-R6HALKkS-VKSncmPYD5qbcaS=w400",
+      "https://play-lh.googleusercontent.com/KpchkQHC1ZlK0W_A2yE7VccKhz1AYWgo2FDCPWgQDo37H2ukKIjMteW-Q8tfureNcG2GAVSeJPnm-foWFBJ-=w400",
+      "https://play-lh.googleusercontent.com/N40COevAks6AcIdMsRlbJAq9RRNCDyYRIBAC9MIMh5kTxErdYiQudDiMXncxevmRt0ahPmd3WJE040jEjPkE=w400"
     ],
     "video": null,
-    "storeUrl": "https://play.google.com/store/apps/details?id=com.iyagames.flotshelter&hl=ko&gl=kr",
-    "recentChanges": ""
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.project.idle.cd&hl=ko&gl=kr",
+    "recentChanges": "1. 일요일 이벤트 「전장 기습」이 추가됩니다.<br>2. 대규모 서버 간 이벤트 「핵폭탄 습격」이 추가됩니다.<br>3. 「연맹 공지 템플릿」이 추가됩니다.<br>4. 일부 이벤트에 오프라인 알림이 추가됩니다.<br>5. 「연맹 열차」 오프라인 알림이 추가됩니다.<br>6. 메인 스테이지 550을 클리어하면 다음 스테이지에 자동 도전하는 기능이 추가됩니다."
+  },
+  "com.cola.game": {
+    "verified": false,
+    "category": "컨텐츠 업데이트",
+    "short": "신규 요리·지역 추가 업데이트로 순위 상승 추정(미검증)",
+    "summary": "검색에서 이 게임의 순위 상승 원인을 직접 다룬 한국어 기사는 찾지 못했다. 스토어 업데이트 내역(recentChanges)에 따르면 신규 요리, 신규 지역 추가와 버그 수정이 포함된 최신 업데이트가 출시되었고, 이것이 순위 상승의 유력한 배경으로 추정된다. 다만 매출 순위 변동의 직접적 원인은 확인되지 않았으므로 verified=false로 둔다.",
+    "articles": [],
+    "icon": "https://play-lh.googleusercontent.com/QQB5NHNqLCsCc9Ho15h2gcrha0QoeqoaY39X8LeXgWJWs6zMUOsJMrLa1vhA8jc70pBbr6KR6YECr6a4X1ULaWY=w128",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Hre6jQuJQP_MWviZUP3CR8A5vrYjEjO3quBgJI2QARLMgRhcXrhrUAHTPD0FO_Ma7sAhwdgvgT_sjNbRiHt9vA=w400",
+      "https://play-lh.googleusercontent.com/54TLYBbWevQAdO14Baj6mF_K9BwIwxc3lZdec4-ENE0e7LsaY7mpNWKXA49nxSv-ZWfEDt26opGVIQEMKfLRfw=w400",
+      "https://play-lh.googleusercontent.com/LK3_Slg2_VSF3Do5M9kHQ6GDqjJuP61Eb84oI4XDa1UgH3bgvmhjIKy4FVizAEujKxkj8182fe5LeUcoQOfp=w400",
+      "https://play-lh.googleusercontent.com/CRCXkpbHgRRrdjzZiCFHgSqBCnNNzFi9T6_nmtzQ3suN4v2_hR6gX84MY1yUXsx-iTfJPniBUjzZJfGXMb65aw=w400"
+    ],
+    "video": "https://www.youtube.com/embed/J_sky_sDYNE?vq=large&rel=0&autohide=1&showinfo=0",
+    "videoImage": "https://play-lh.googleusercontent.com/wck34bRsgqkmwNTDk2FVzkLuqlMDk1WJnUTwzMu2mxeRGnqOy5O8bMcPh5dBVHTIdR01fLdVwvlM7ZKiSMhx=w480",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.cola.game&hl=ko&gl=kr",
+    "recentChanges": "신규 콘텐츠<br>레스토랑을 운영할 준비 되셨나요? 과거 그 어느 때보다 멋진 최신 업데이트가 출시되었습니다!<br>신규 요리: 각종 신선한 식재료와 음식을 마음껏 즐겨보세요!<br>신규 지역: 탐색하고 리모델링할 수 있는 새로운 지역이 추가되었습니다!<br>문제 수정: 여러 골치 아픈 문제를 수정했습니다!"
+  },
+  "com.ncsoft.lineagew": {
+    "verified": true,
+    "category": "컨텐츠 업데이트",
+    "short": "5주년 업데이트 사전예약·신규 월드 '아슈르' 공개(11/4 출시)",
+    "summary": "엔씨는 10월 28일 리니지W 출시 5주년 기념 업데이트를 11월 4일 진행한다고 발표하고 사전예약을 시작했다. 업데이트에는 신규 월드 '아슈르'와 시그니처 클래스 '무희'가 추가되며, 아슈르는 2주 안에 80레벨 달성이 가능한 부스팅 서버다. 사전예약 참여 쿠폰, 5주년 전야제 출석 이벤트, 경험치 증가 이벤트 등이 함께 진행된다. 다만 기사들은 매출 순위 상승과의 직접적인 인과를 명시하지 않아, 5계단 상승은 이 이벤트 시기와의 시점상 연관으로 해석해야 한다.",
+    "articles": [
+      {
+        "title": "[패치] 리니지W 5주년 이벤트 시작! 신규 클래스 '무희' 예고",
+        "url": "https://www.inven.co.kr/webzine/news/?news=322667"
+      },
+      {
+        "title": "엔씨 ‘리니지W’, 출시 5주년 업데이트 사전예약…신규 월드 ‘아슈르’ 오픈",
+        "url": "https://www.ziksir.com/news/articleView.html?idxno=151082"
+      },
+      {
+        "title": "엔씨, '리니지W' 출시 5주년 기념 업데이트",
+        "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7191035"
+      },
+      {
+        "title": "엔씨 리니지W, 5주년 사전예약 진행 [오늘의 게임 업데이트]",
+        "url": "https://www.sedaily.com/article/20107078"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W=w128",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/U1O8QsSue-vDrfjwn-vNLJSJYN-2tNRKYMBQlyyrhEMokuBTDVO3oDqSvodRnygj5s98K3-lDIuVcBVHUEXs=w400",
+      "https://play-lh.googleusercontent.com/LJw6tll-VL6twR7imV_6tUg06z4eivE1l0R-4-Yy3qpwvgNxUNJ65hsAnqeavzLsznkuvXoV5pX5fW-deY0rFF0=w400",
+      "https://play-lh.googleusercontent.com/8pxmv4vaimDN5hnhoHXqYSLUQcydEV-rzIlcT4O-gvd8Kk3_86hXC1Y3ROqWHVtwBskuFD9pRcZ71RVIA9ydNBY=w400",
+      "https://play-lh.googleusercontent.com/l2ECmt9Af9fRYcMKGSQ6zXAOnxHX28j_dkBJWkxWuGBYtsnmdvR0pp87fNdoWl0k-QEf_4v96KFB6bWsKd4caQ=w400"
+    ],
+    "video": "https://www.youtube.com/embed/1uVcM7fsHoM?vq=large&rel=0&autohide=1&showinfo=0",
+    "videoImage": "https://play-lh.googleusercontent.com/GC6njWFCidCRqBoqrxZTM1o38SOTL5Y_g8oo5scmPrEAJMFhh8MFGgZrywGCdorDZDBMjAGk0hU7gws-FM1fYS0=w480",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.ncsoft.lineagew&hl=ko&gl=kr",
+    "recentChanges": "- 각종 편의 기능 추가 및 개선<br>- 안정적인 서비스 제공을 위한 게임 내 버그 수정"
+  },
+  "6448786147": {
+    "verified": false,
+    "category": "기타",
+    "short": "11/1 골드블록 특혜 패키지 제거 예고, 구매 수요 추정(미확인)",
+    "summary": "순위 상승 원인을 확인할 한국어 기사를 찾지 못해 검증되지 않았습니다. 스토어 업데이트 내역상 2026/11/1부터 골드블록 상점의 골드블록 패키지(특혜)와 타 플랫폼 동일 패키지가 비공개될 예정이어서, 제거 전 구매가 몰렸을 가능성이 있으나 이는 추정입니다. 다른 최근 업데이트(2026년 10월 20일 Google Play 패치의 슈퍼 월간 패스 관련 개선)는 순위 변동과의 직접 연관이 확인되지 않았습니다.",
+    "articles": [],
+    "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc=w128",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/qCOgHAZXkT9YdtvqDkX_453sWftwT1DodPsAXc2Vq2EQGjcZMQARfW-9taq9Eei5YKYTqddvyAGCtB7SCjCtAA=w400",
+      "https://play-lh.googleusercontent.com/jLqM7XUXlV_rg3XyHaHb6omH0UPqLgbgjiqVy1fu7K-iqTG6PjOBJ6PGuJGXywwr6nQEHUWkxdTgBRUVKVM6=w400",
+      "https://play-lh.googleusercontent.com/-4QLRC6J3YlXxFJ_58yALivhTpPw03vYHIsxIPPpRxIQvOADvP5jb9UY7L-S7kpbPa4tZ5qKwbgq94CtQbG1Vw=w400",
+      "https://play-lh.googleusercontent.com/3gcQQf5_1wbG8Uf29nbFKghOsYM6E1JaVI5hRekhqzwJcP4TMUhM_TrIUNuU5RGUtG45xub_xpo1TutKLbkQ7g=w400"
+    ],
+    "video": null,
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.fun.lastwar.gp&hl=ko&gl=kr",
+    "recentChanges": "서버 시간 [2026/11/1]부터 [골드블록 상점] 페이지 내 [골드블록 패키지 (특혜)] 제거, 기타 플랫폼 동일 패키지도 동시 비공개 예정."
   }
 }

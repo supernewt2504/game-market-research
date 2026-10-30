@@ -390,6 +390,13 @@
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/de/aa/24deaa83-7e15-c811-cc29-5f8dca26bbf9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
+  "1484442152": {
+    "released": "2020.09.16",
+    "developer": "Metacore Games Oy",
+    "country": "FI",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/c7/19/c0c71938-1180-c800-73c2-1a596168368f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
   "1507872328": {
     "released": "2020.12.11",
     "developer": "Zempot Inc.",
@@ -560,7 +567,7 @@
   "1635712706": {
     "released": "2023.01.05",
     "developer": "GEAR2",
-    "country": null,
+    "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/b3/3f/59b33f6d-d5f8-5f70-a820-85b79cf334bb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -2601,7 +2608,7 @@
   "com.gear2.growslayer": {
     "released": "2021.05.16",
     "developer": "GEAR2",
-    "country": null,
+    "country": "KR",
     "icon": "https://play-lh.googleusercontent.com/W7AjO_X2h6nvrCznxQQflkcWLP3r5CecxPPd_3Bgs_RaJxVLUK9F1-1AAfGhBWC2Ujoq-AYmcfnbelBZ37j9iBw=w48",
     "source": "google"
   },
@@ -3084,7 +3091,7 @@
   "6754214886": {
     "released": "2026.03.25",
     "developer": "GEAR2",
-    "country": null,
+    "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/78/14/9e781434-9302-e9fd-a35f-4fa3d82b062c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -3317,6 +3324,41 @@
     "developer": "LAST ORIGIN STUDIO LIMITED",
     "country": "HK",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/20/2f/6b202f0a-d69c-8725-813f-3c6615ffc8a6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "com.end9games.worldtreeggl": {
+    "released": "2026.10.14",
+    "developer": "End9 Games Corp.",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/u2wVXIiWdAWM19gyu7EHEj2bxJmQdQ6oxub1iGL-IZK367hZCUfIby44twNIJnX9rttUaOcDLHJDTbKOwKZj=w48",
+    "source": "google"
+  },
+  "com.ecffri.arrows": {
+    "released": "2025.08.30",
+    "developer": "Lessmore GmbH",
+    "country": "DE",
+    "icon": "https://play-lh.googleusercontent.com/lMmSA4L1MNUvZ3w4c_T10tJvrptwAdObx8WxAzn5SuboyQtrwMPy1Grqqlgg6qBpgf4PQWvk7QPsiPy6R5ZIQQ=w48",
+    "source": "google"
+  },
+  "com.gear2.letsgolegends": {
+    "released": "2025.12.18",
+    "developer": "GEAR2",
+    "country": "KR",
+    "icon": "https://play-lh.googleusercontent.com/pa1DDl87qw7l-dEg_KLA9p12Uza9unNwq2bN8wD62_O_ERWJH9iuHxyLPVVsAORFJBo2_FM5DgRtQ4hZ7RltDO8=w48",
+    "source": "google"
+  },
+  "com.superbox.aos.suikagame": {
+    "released": "2023.11.03",
+    "developer": "SUPERBOX Inc",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/ioaIgr0CsJlFWar8UJ9uHLOiBbFWmrC1woAwPDPBioLZH6oXH1xECZlu1P7TG5wECRQlZiSZaAPNT_-6yDEL=w48",
+    "source": "google"
+  },
+  "6782862607": {
+    "released": "2026.10.28",
+    "developer": "LoadComplete",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/46/60/1b4660bf-ad00-f506-6b7a-5c586ec57e22/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   }
 }
