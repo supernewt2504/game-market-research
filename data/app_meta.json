@@ -171,6 +171,7 @@
     "released": "2016.09.09",
     "developer": "AppteenPlanet Co.,Ltd.",
     "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/c4/6a/9ec46a04-285d-90a7-afb8-6ac63cdbd6b0/AppIcon-arcade-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
   "1160056295": {
@@ -178,6 +179,13 @@
     "developer": "MOONTON",
     "country": "SG",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/88/76/d9887647-00fd-09c8-8a61-c6c31a1bfe2a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "1166415380": {
+    "released": "2019.09.03",
+    "developer": "ME2ON Co., Ltd.",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/0b/ce/210bce9f-0991-882f-d25d-813153d0119a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
   "1176027022": {
@@ -499,6 +507,13 @@
     "developer": "Level Infinite",
     "country": "US",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/6f/89/f26f8907-8ad5-6a22-8ebc-4061737734c7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "1598881852": {
+    "released": "2022.05.20",
+    "developer": "Nuverse",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/f7/69/9bf76957-60f4-525d-8c4c-45c5fd59b338/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
   "1599719154": {
@@ -2783,7 +2798,7 @@
   "6792678112": {
     "released": "2026.09.28",
     "developer": "SONEW",
-    "country": null,
+    "country": "JP",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/dc/53/c2dc5347-6f26-e115-eb1a-4fa7cd688219/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -2972,7 +2987,7 @@
   "6772975295": {
     "released": "2026.06.25",
     "developer": "HappyTapLand Technology Co., Ltd.",
-    "country": null,
+    "country": "CN",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/ac/4c/3aac4c3e-3afb-acab-552f-e462830ce3b3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -3210,7 +3225,7 @@
   "6776891493": {
     "released": "2026.10.28",
     "developer": "Ryong Game Co., Ltd",
-    "country": null,
+    "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/d8/f5/eed8f585-9db3-5acd-24c7-488c4a824622/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -3350,7 +3365,7 @@
   "com.superbox.aos.suikagame": {
     "released": "2023.11.03",
     "developer": "SUPERBOX Inc",
-    "country": null,
+    "country": "KR",
     "icon": "https://play-lh.googleusercontent.com/ioaIgr0CsJlFWar8UJ9uHLOiBbFWmrC1woAwPDPBioLZH6oXH1xECZlu1P7TG5wECRQlZiSZaAPNT_-6yDEL=w48",
     "source": "google"
   },
@@ -3359,6 +3374,34 @@
     "developer": "LoadComplete",
     "country": null,
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/46/60/1b4660bf-ad00-f506-6b7a-5c586ec57e22/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "com.sword.master": {
+    "released": "2019.09.27",
+    "developer": "CODECAT Inc.",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/opdvcPNRRfvooJm3NeDdOqQHJf9Nxn4-jtuehakrloFiAOeURlKaToz6GJo3-tHAF5ng1T0TnPw0Wi7I3_h3JfM=w48",
+    "source": "google"
+  },
+  "jp.pokemon.pokemontcgp": {
+    "released": "2024.10.22",
+    "developer": "The Pokémon Company",
+    "country": "JP",
+    "icon": "https://play-lh.googleusercontent.com/p_05nasYCOpKzbj4n-j6qFrWRu5mb4oBFiulf9kc-SdLssRKbIqIt8u-XkI2R07vfHh0KE_Vr4L8R0l7c3JTWw=w48",
+    "source": "google"
+  },
+  "com.farlightgames.warline.gp.global": {
+    "released": "2026.10.20",
+    "developer": "Powerfantasy HK Limited",
+    "country": "HK",
+    "icon": "https://play-lh.googleusercontent.com/XJM2uz8yxBb6BLJ-1qk2KNzPjWfNQdLPyWPSJDycuSwSyFiIangg7skGDM_sIrEmQVueqmWJQb63NFIwUEmAhA=w48",
+    "source": "google"
+  },
+  "6805327940": {
+    "released": "2026.09.03",
+    "developer": "Anyone Company Co., Ltd.",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/57/74/805774fd-0443-7176-8fbb-2dd052d37c3f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "source": "apple"
   }
 }
