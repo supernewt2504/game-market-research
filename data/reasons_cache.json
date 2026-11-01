@@ -26,6 +26,28 @@
       "recentChanges": "Roblox에서는 보다 수준 높은 플레이 환경을 조성하기 위해 정기적으로 업데이트를 수행합니다. 여기에는 버그 수정 및 속도와 안정성 개선이 포함됩니다."
     }
   },
+  "529479190": {
+    "researchedAt": "2026-11-01T19:13:54.973Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "장인 추천·메뉴 개편 등 최신 업데이트 영향 추정(미검증)",
+      "summary": "검색으로는 이 게임의 App Store 매출 신규 진입(35위)을 직접 다룬 최신 한국어 기사를 찾지 못했다. 따라서 제공된 스토어 업데이트 내역을 근거로 판단하면, 장인 추천 기능 리뉴얼과 전투 메뉴·플레이어 프로필·클랜 채팅 개편, 편의 기능 개선이 주요 변화다. 다만 이것이 순위 상승의 원인이라는 직접 근거는 없으므로 추정으로만 본다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/sFmWfYbYp_2ea7VRMTnwd3gjIBrPGXHj_d_ab1_k1q1p2OMk4riGMF1vqxdhONOtTYOt_BVpk7a4AYcKU68LNGQ=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/-WF-9TvHCv8qP4Hc-NTDlQTy0gISEv1zBhkFCqB3VKV9hx-QBImahslgen7fcbXaJipHHVi7c5AeMX8MUFmaDA=w400",
+        "https://play-lh.googleusercontent.com/MSomKsbjhubpUy-1hR5fIp6zjOZ4haEMCtErBVQ0azKbYf754OwMbkg4qmeSr1Ay3nEBacWF_GBd979dtXRr=w400",
+        "https://play-lh.googleusercontent.com/AgjVnyW0OzIV8lUwibPC-2OGvz68reiMLJhfdXuDD3L6xt-SLCXHGPmrdQbnDI9FsOrOnsaxXmvnbxaptPbpww=w400",
+        "https://play-lh.googleusercontent.com/c-w8NNlAFGny3aHXgtEZ9We1Lb1A_dNLLe7do5aq3yI3AsBpnYgpdNvt8lNiOHAo24tF0Aw2Yhm9BZ5Emp9iXe0=w400"
+      ],
+      "video": "https://www.youtube.com/embed/GGaujJ9bu0I?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/5-VS5wLKQ5D4OIZ8kHJs1ss8bu0xdrRvIkZFdfyUX-mLqZb7a6Qo3RSbMF88lYP5xCTlNYCsxpBvO2lQtJOpuw=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans&hl=ko&gl=kr",
+      "recentChanges": "그동안 장인이 바빴습니다.<br><br>·  장인 추천 기능 리뉴얼: 필터를 사용하고, 카테고리를 탐색하며, 새로워진 장인 메뉴를 통해 마을 업그레이드를 손쉽게 해내세요! <br><br>·  메뉴 변경 사항: 전투 메뉴, 플레이어 프로필, 클랜 채팅에 신기능이 추가되어 마을 운영이 그 어느 때보다 편리하고 즐거워집니다.<br><br>·  편의 사항 개선: 최신 업데이트로 다양한 편의 사항 개선이 이루어졌습니다."
+    }
+  },
   "553834731": {
     "researchedAt": "2026-10-31T18:48:05.837Z",
     "verified": false,
@@ -333,13 +355,13 @@
     }
   },
   "1273957743": {
-    "researchedAt": "2026-10-30T19:45:50.313Z",
+    "researchedAt": "2026-11-01T19:15:09.965Z",
     "verified": false,
     "data": {
       "verified": false,
-      "category": "기타",
-      "short": "최근 기사 미확인, 10월 이벤트 병행 중이나 인과 단정 불가",
-      "summary": "현재 20위로 14계단 상승한 원인을 직접 다룬 최신 한국어 기사는 찾지 못했다. 검색된 기사들은 2025년 밸런타인데이 프로모션이나 과거 로스터 업데이트에 관한 것이라 이번 상승과 연결할 수 없다. 2026년 10월에는 '가을엔 역시 전어구이' 에이전트 이벤트, 8강 확정팩, 10월 15~18일 30% 페이백 등 이벤트가 진행된 것으로 확인되지만, 이것이 순위 상승의 원인이라는 기사는 없으므로 추측으로 판단하지 않았다. 스토어 업데이트 내역(recentChanges)이 제공되지 않아 검증 근거가 부족하다.",
+      "category": "컨텐츠 업데이트",
+      "short": "10/29 EVO 클래스 출시·접속/강화 부스트 이벤트 (추정)",
+      "summary": "이번 23계단 상승의 원인을 직접 다룬 최신 한국어 기사는 찾지 못했다. 공식 공지에는 10월 29일 정기점검 후 EVO 클래스가 새로 출시되며 7일간 접속 이벤트와 강화 부스트 이벤트가 진행된다는 내용이 있고, 가을 통합 이벤트와 플레이 레거시 포인트 부스트도 10월 말~11월 중순에 걸쳐 진행된다. 다만 이것들이 App Store 매출 순위 상승과 인과적으로 연결된다는 보도나 데이터는 확인되지 않아 추정에 가깝다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/7Qd9rIuWR2S_X6sUQ9MXMUahaxcI0q0J_EyxBpodBgYLedWqyXZnDihA_J5HV928vo-DaQtNJHD2MmyYdPEd=w128",
       "screenshots": [
@@ -377,14 +399,31 @@
     }
   },
   "1441742921": {
-    "researchedAt": "2026-10-30T19:45:24.357Z",
-    "verified": false,
+    "researchedAt": "2026-11-01T19:15:45.185Z",
+    "verified": true,
     "data": {
-      "verified": false,
+      "verified": true,
       "category": "컨텐츠 업데이트",
-      "short": "10/15 정기 업데이트(펫 원정대·경쟁 미션) 이후 매출 순위 상승 추정",
-      "summary": "검색된 기사 중 이번 39위(33계단 상승) 변동을 직접 다룬 기사는 찾지 못했다. 10월 15일 정기 업데이트에서 펫 원정대와 경쟁 미션이 추가된 사실은 공식 업데이트 노트와 게임 뷰 기사로 확인되지만, 이것이 순위 상승과 연결된다는 근거는 없다. 할로윈 이벤트 역시 순위 변동과의 인과를 확인할 자료가 없어, 시기상 업데이트 직후 상승으로 보는 추정에 그친다. 따라서 원인은 스토어 업데이트 내역을 근거로 한 잠정 판단이다.",
-      "articles": [],
+      "short": "10/15 펫 원정대·룬다 신규 난이도와 할로윈 이벤트 효과",
+      "summary": "10월 15일 정기 업데이트로 펫을 파견해 전리품을 얻는 신규 시스템 '펫 원정대'가 들어왔고, 룬다 어비스에는 매우 어려움2와 지옥4 난이도가 추가됐다. 같은 날 던바튼 광장에서 시작된 할로윈 협동 이벤트와 출석·케이크 이벤트도 함께 열려 이용자 참여 유도가 강화됐다. 다만 한 순위 분석 기사는 같은 시기 마비노기 모바일이 45위로 밀렸다고 보도해, 42위로의 상승 원인을 단정하기보다는 업데이트와 이벤트가 맞물린 시점으로 보는 것이 적절하다.",
+      "articles": [
+        {
+          "title": "넥슨 '마비노기 모바일', 전투 및 육성 콘텐츠 개편 나선다",
+          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=61459"
+        },
+        {
+          "title": "(수정) 10/15(목) 업데이트 예정 사항에 대해 안내해 드립니다. - 마비노기 모바일",
+          "url": "https://mabinogimobile.nexon.com/News/Devnote/3563156"
+        },
+        {
+          "title": "(추가) 10/15(목) 업데이트 노트 - 마비노기 모바일",
+          "url": "https://mabinogimobile.nexon.com/News/Update/3563175"
+        },
+        {
+          "title": "[순위분석] 마비노기 형제의 엇갈린 희비",
+          "url": "https://www.gamemeca.com/en/view.php?gid=1782495"
+        }
+      ],
       "icon": "https://play-lh.googleusercontent.com/ljE3Q4kOQj0UEjbJoANQpgQ4rxdDvI1h1wARGv6jFgel-5oDIFjfTx2S0nINT8agCEOB_V3C9y61RZFoyLZ4=w128",
       "screenshots": [
         "https://play-lh.googleusercontent.com/oIynGglP4oDOI8o7rb1LHqdCSfcVM-ZF7Q6goRdSRkBgDRj_HIk-myx9Kd_8T2nezHBTA-Q71jIsrtFCqPcD=w400",
@@ -396,6 +435,45 @@
       "videoImage": "https://play-lh.googleusercontent.com/sfKUkvanEhx91xP_kbDuRL80VIB_KH6s8Tw3YRFLOjFcJukIZRbxxYQlb2fDIr6pGeykGw6_3k_h_GAt0wcXXA=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.nexon.devcat.mm&hl=ko&gl=kr",
       "recentChanges": "- [이벤트] 할로윈 기념 이벤트<br>- [어비스] &#39;룬다&#39; 지옥4 난이도 업데이트<br>- [콘텐츠] 경쟁 미션<br>- [콘텐츠] 펫 원정대"
+    }
+  },
+  "1448979486": {
+    "researchedAt": "2026-11-01T19:15:02.295Z",
+    "verified": true,
+    "data": {
+      "verified": true,
+      "category": "콜라보",
+      "short": "이누야샤 콜라보·정벌 던전 추가로 10월 22일 업데이트 반영",
+      "summary": "넥슨은 10월 22일 던파모바일에 이누야샤 콜라보 업데이트를 적용해 14종 아바타와 셋쇼마루·금강 특별 아바타, 크리쳐·오라·칭호 등을 선보였고 이벤트는 12월 3일 오전 6시까지 진행된다. 함께 추가된 신규 정벌 던전 '삭룡 갈리아드'는 5단계 구성이며 85레벨 세트 익시드 장비를 보상으로 준다. 다만 기사들은 순위 상승과의 직접적 인과를 밝히지 않았으므로, 업데이트 시기와 앱스토어 매출 순위 상승이 겹친다는 점에서 원인을 추정한 것이다.",
+      "articles": [
+        {
+          "title": "넥슨 '던전앤파이터 모바일', 이누야샤 콜라보 업데이트 실시",
+          "url": "https://www.newspim.com/news/view/20261022001200"
+        },
+        {
+          "title": "넥슨 던파모바일, 애니메이션 '이누야샤' 컬래버…셋쇼마루·금강 아바타 등장",
+          "url": "https://www.ittimes.com/news/articleView.html?idxno=87562"
+        },
+        {
+          "title": "넥슨 ‘던파모바일’ 이누야샤 컬래버 업데이트·정벌 던전 추가",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323292"
+        },
+        {
+          "title": "던전앤파이터 모바일, 이누야샤 컬래버레이션 업데이트",
+          "url": "https://www.betanews.net/article/view/beta202610220058"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/nithn0YhAhZ4z3zpKlGGPPFxK8NjHcSkV1q-S8L_CNA5LWwUVDaSQ5SHM-hBFgbjBYNkVq-GpiUyLweMdwMy=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/U9Rb9hU68bhd4Q0VX5A10y8pj3jBjRs81FLbJq10r5bFHD2KndXVBAosO1fMV0uR_KET0BftzJqGFd7mP83f=w400",
+        "https://play-lh.googleusercontent.com/EZdVg7FHwG-NNpuVy_ArFtOoc0PY82qrFpUlHajqvtGAYfC493VOUSjP07ESTT8rrDy-CdDLHerAUbImVjqENQ=w400",
+        "https://play-lh.googleusercontent.com/khRlXfUEtsXf1qTecG4UdMDcYxTt9IjdlVHGTr1mnqGcmPbeoNPK1pWF78MuuwLbY04vgkhZEi3dqPjoeyVvYg=w400",
+        "https://play-lh.googleusercontent.com/myg12zQhGodQaCK10GbwT7zvGR9JS5Xm_ujpi6TFx2VABp40eTv6oryv1vlBRIGdTBKZcyJBfk9zcbCPGfMw=w400"
+      ],
+      "video": "https://www.youtube.com/embed/JoRQWyP4JrI?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/hdRqNptpkBfaSvppZGT1tqtJjGCODl4wpRokLCcN0i65uzDBpSx3XvRfcaUTGWfex2hd6UAE5eMMUV_VF5cF=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.nexon.mdnf&hl=ko&gl=kr",
+      "recentChanges": "▶던파모바일 X 이누야샤◀<br>[컨텐츠] 정벌 던전<br>[아바타] 이누야샤 콜라보 아바타<br>[이벤트] 이누야샤 콜라보 기념 미니 출석체크<br>[이벤트] 시대를 초월한 요기<br>[이벤트] 넌 그냥 가만히 있어<br>[이벤트] 장비닷컴 럭키배송센터"
     }
   },
   "1458568643": {
@@ -455,6 +533,27 @@
       "recentChanges": "컴투스프로야구V26 업데이트!<br>현존 최고의 리얼리티 야구 게임을 경험해보세요!<br><br>- 클럽 대전 역할군 추가 : 백투백 히터<br>- 선수 보관 시스템 개선<br>- 편의성 및 인게임 개선<br>- UI/UX 개선<br>- 버그 수정<br><br>여러분의 소중한 의견을 리뷰로 남겨주세요.<br>컴프야V26은 모든 리뷰를 확인합니다."
     }
   },
+  "1471486284": {
+    "researchedAt": "2026-11-01T19:14:12.363Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "레이크 레이스 이벤트·슬롯 신규 출시로 참여·매출 증가 추정",
+      "summary": "스토어 업데이트 내역에는 저녁 골든타임 레이크 레이스 1등 상금 이벤트, Lucky Pearls Paradise 슬롯 신규 출시, 일일 업무 보너스 코인 등 참여와 과금을 유도하는 콘텐츠가 담겨 있다. 이번 40계단 상승을 직접 다룬 기사는 찾지 못해 검증되지 않았다. 다만 2026년 3월 웹보드 게임 결제 한도 완화 이후 한게임 포커가 구글 플레이 매출 상위권에 오른 사례가 있어 배경 요인일 가능성은 있다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/Imi0dOs8mMcOxNvc4MGXbfdG1QNKgE70v1DYU4GTIXPlbCy5RGoC-XjBRdEwvb-jDGXAXFj9j43c7flORYphv7I=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/BXYiyHwZCYaoVodqUc_KFNESgte_4HCtyWDVhDfLEdxw9bSdZz-RimpKbOd-c6pVJWNGQPuacf1gY1Razh8J=w400",
+        "https://play-lh.googleusercontent.com/9ukZOl05_KIG-JBYVxR0yZvhNgh4sO0Qgoq09Zwl-It0MDJOrlpx2pxJfu6M6a__-t7LmeRl3yL30WoJZj2nCA=w400",
+        "https://play-lh.googleusercontent.com/KWlasuN82ISa38IY2GNnJJWCTnOXPP3AAuVHOh2Yu6kMx0g6HIoD8V-sqtwS2d1F_kA3zPJt_1n_Jgl2j2I1=w400",
+        "https://play-lh.googleusercontent.com/Wo8AAe9Cub9DM6PAUg1A7wTgfxJlOAjq_hX5ZkUQMtKHcS4zai5NyT1JrVZMK3a9yfKwX4tJkZuYrv8_rgZCPw=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.nhnent.Qpoker&hl=ko&gl=kr",
+      "recentChanges": "[UPDATE]<br>■ 동화 속 하트 여왕님으로 변신한 메리가 여러분을 기다리고 있어요~<br>■ 저녁 8시~10시 골든타임 레이크 레이스에서 1등 상금을 차지하세요!<br>■ 다양한 잭팟의 환상적인 콜라보! Lucky Pearls Paradise 슬롯 신규 출시<br>■ 매일 코인 일일업무 달성하고 보너스 코인 받아가세요!<br>■ 슬롯 옵션 추가! 최대 10배속까지 빠르게 즐겨보세요~<br>■ 성능 및 서비스 개선"
+    }
+  },
   "1471942989": {
     "researchedAt": "2026-10-26T20:12:20.407Z",
     "verified": true,
@@ -490,6 +589,32 @@
       "recentChanges": "▶ 족보도 모르던 초짜가 타짜가 되기까지의 이야기! 타짜의 길 추가<br>▶ 보너스 피도 피잖여, 싹 다 내놔유! 큐라백작 한능청 등장!<br>▶ 할로윈 맞이! 유령 삥아리 한정 상품 출시!<br>▶ 초월 수호령 곡옥 교환 수량 밸런스 개선<br>▶ 일일목표 보상이 동호회 회장에서 나의 랭킹전 등급으로 변경<br>▶ 2장 섯다 20억 경기장 최소 입장 머니 조정<br>▶ 입장 머니 부족 시 자동 금고 출금 설정되는 금액 조정<br>▶ 로비 금고 출금 일 100회 초과 시 3% 수수료 적용<br>▶ 신규 캐릭터 나최고 상점 출시<br>▶ 기타 오류 수정 및 서비스 개선"
     }
   },
+  "1474589366": {
+    "researchedAt": "2026-11-01T19:15:23.893Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "9월 'THE GOLDEN AGE' 업데이트 기대감으로 상위권 재진입(추정)",
+      "summary": "검색된 기사 중 현재 11계단 상승(1위) 시점을 직접 다룬 기사는 찾지 못했다. 가장 가까운 기사는 2026년 9월 초 'THE GOLDEN AGE' 대규모 업데이트를 앞두고 리니지M이 구글플레이 매출 2위, 앱스토어 1위권에 오른 내용이며, 신규 서버 오픈과 클래스 리부트 등 콘텐츠 기대감이 순위 상승 요인으로 언급됐다. 다만 이는 현재 시점과 시기가 맞지 않아 확인되지 않은 추정이며, 정확한 원인은 스토어 업데이트 내역(recentChanges)으로 검증이 필요하다.",
+      "articles": [
+        {
+          "title": "[주간 모바일 순위] 상승세 이어간 리니지M-메이플 키우기",
+          "url": "https://www.betanews.net/article/view/beta202609070003"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/xy6xR7NsdX81HpwWu8CoVkseQECAug3pLvvpdBGtls12xwiQy3Qw5hvQ51fc3oTXPmI8xyOArPnm70t8395Mmdw=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/6V-FWm5KxPDUg0OaZoZuuIiuZxcpc2NcKFWrqPnzYEAOyJ3tjt8YPsAZ7lHSn4a7J1VpK8DNLVye3fmiSvRvUAk=w400",
+        "https://play-lh.googleusercontent.com/JNTFVWwNbbTZoYXwrIpDYU8NqBFtpihUX3G4IgCvEhGHiMkMz3ceALoxhqjhTUnlLbMmwCX8RE_qqMg-5zDF=w400",
+        "https://play-lh.googleusercontent.com/iRe1KiSWx7pH-YpDWOrxiIY81W5mEeDsasfrD0NBaT5nLf7WrsFTbsazd0YrBZLNh_73fuRwHlugDB1ETX1aCQ=w400",
+        "https://play-lh.googleusercontent.com/PQKWgZmu_lcb0nfRXk6zViMbjXm6CMhCXdowmHIgvYVS-PMb7cxl2eXL8gtqpCZqwLzbuw5ydMka7BerDaRd=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.ncsoft.lineagem19&hl=ko&gl=kr",
+      "recentChanges": ""
+    }
+  },
   "1478371252": {
     "researchedAt": "2026-10-30T19:45:32.191Z",
     "verified": false,
@@ -513,13 +638,13 @@
     }
   },
   "1507872328": {
-    "researchedAt": "2026-10-30T19:46:40.068Z",
+    "researchedAt": "2026-11-01T19:14:19.640Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "기타",
-      "short": "기사 미확인, 제9회 홀덤 마스터스 진행 중(추정)",
-      "summary": "검색에서 이 게임의 순위 상승을 다룬 최신 한국어 기사는 찾지 못했다. 스토어 최근 업데이트 내역은 버그 수정 및 UI/UX 최적화뿐이라 직접적인 상승 원인으로 보기 어렵다. 다만 공식 사이트에 2026년 10월 2일부터 12월 13일까지 총상금 24억 원 규모의 제9회 홀덤 마스터스가 진행 중이라고 안내되어 있어, 대회 기간의 이벤트 효과가 상승에 기여했을 가능성이 있으나 이는 추측이며 검증되지 않았다.",
+      "short": "스토어 내역상 버그 수정·UI 최적화 중심, 상승 원인 미확정",
+      "summary": "제공된 스토어 업데이트 내역에는 버그 수정 및 UI/UX 최적화만 적혀 있어, 38계단 상승을 이 업데이트로 설명하기에는 근거가 부족합니다. 한국어 기사 검색에서는 순위 상승을 다룬 뉴스를 찾지 못했고, 검색된 자료는 커뮤니티 글과 스토어 페이지뿐이었습니다. 따라서 상승 원인은 추정으로만 남기며, 대회 공지나 이벤트 등 매출 측면 요인이 있었을 가능성은 별도 확인이 필요합니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/QQVS3cmt_fMF91ecz8fHExUP_VJUty-9dCmA7sOZQR3086-4nD-2ANOA2cOkFeiHt5eFW55CZJGpiaO_BahNZA=w128",
       "screenshots": [
@@ -573,21 +698,21 @@
     }
   },
   "1520354659": {
-    "researchedAt": "2026-10-25T17:54:33.747Z",
+    "researchedAt": "2026-11-01T19:14:01.252Z",
     "verified": true,
     "data": {
       "verified": true,
       "category": "컨텐츠 업데이트",
-      "short": "5주년 업데이트 후 앱스토어 매출 1위 기록, 현재 92위 신규 진입",
-      "summary": "검색된 기사에 따르면 서비스 5주년 업데이트(신규 클래스 알케미스트, 월드 거점 점령전, 신규 서버 스카디 등)가 발표된 직후 앱스토어 매출 1위에 올랐고, 구글 플레이에서도 1위를 기록했습니다. 다만 이 기사들은 과거 상승 시점의 기록이며, 현재 앱스토어 92위 신규 진입의 직접 원인은 확인되지 않았습니다. 스토어 최근 업데이트 내역은 오류 수정과 서비스 안정화뿐이어서 이번 신규 진입은 기사로 설명되지 않는 부분이 남아 있습니다.",
+      "short": "5주년 업데이트 후 앱스토어 1위·구글 2위 재진입",
+      "summary": "서비스 5주년 대규모 업데이트 이후 신규 전직 '알케미스트', 월드 거점 점령전, 신규 서버 '스카디'가 이용자 호응을 얻어 매출 순위가 급등했다는 보도가 여러 매체에 나왔다. 기사에 따르면 업데이트 직후 애플 앱스토어 매출 1위에 오르고 구글플레이에서도 상위권에 올랐으며, 5주년 기념 출석 이벤트 등 후속 행사도 이어졌다. 다만 기사들이 꼽은 핵심 콘텐츠는 제공된 스토어 업데이트 내역(길드 쟁탈전 리뉴얼, 펫 장비 등)과 항목이 달라, 현재 30위 상승 시점과 업데이트 내역의 대응 관계는 추가 확인이 필요하다.",
       "articles": [
         {
           "title": "서비스 5주년 '오딘: 발할라 라이징', 앱스토어 매출 1위 올라",
           "url": "https://www.inven.co.kr/webzine/news/?news=317838"
         },
         {
-          "title": "5주년 맞은 '오딘: 발할라 라이징' 구글 매출 1위 탈환",
-          "url": "https://www.gamemeca.com/view.php?gid=1777758"
+          "title": "카카오게임즈 '오딘', 5주년 업데이트 효과로 앱스토어 매출 1위 기록",
+          "url": "https://zdnet.co.kr/view/?no=20260626083429"
         },
         {
           "title": "5년 된 게임인데 또 1위…카카오게임즈 '오딘' 정상 탈환",
@@ -604,7 +729,7 @@
       "video": "https://www.youtube.com/embed/MRghUoLn8X0?vq=large&rel=0&autohide=1&showinfo=0",
       "videoImage": "https://play-lh.googleusercontent.com/8kVZOwAUe4a6vFgzEo0yLtLrbQKQlD_G_Ph6NVKToE2UI3qd7zCKLII3DLtcgoUvZfle2GqoHEorJL_fUzDXRw=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.kakaogames.odin&hl=ko&gl=kr",
-      "recentChanges": "오류 수정 및 서비스 안정화"
+      "recentChanges": "- 길드 쟁탈전 리뉴얼<br>- 펫 장비 시스템 업데이트<br>- 편의성 기능 추가<br>- 오류사항 수정 및 시스템 개선"
     }
   },
   "1521236603": {
@@ -649,6 +774,28 @@
       "videoImage": "https://play-lh.googleusercontent.com/k3Mzcr0G38bhgsliRSk3TMH--PmiDjIMCPqzlh0y_Y6zcy26QXdyjFJdiJn5nQuvoR8V-s6xxkW8ije3VrAz=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.nexon.bluearchive&hl=ko&gl=kr",
       "recentChanges": "1. 니코, 쿠루미 픽업 추가 (8/18~8/31)<br>2. 특수작전: 로어추적 편 이벤트 진행 (8/18~8/31)<br>3. 총력전 – 카이텐저(시가전) 진행 및 신규 난이도 &#39;루나틱&#39; 추가(8/25~8/31)<br>4. 메인 스토리 2부 프롤로그 추가<br>5. 메인 스토리 2부 0. 총학생회 편 1장 &#39;살구꽃이 피는 어느 봄날에&#39; 추가<br>6. 메인 스토리 2부 Ex. 로어추적 편 1장 &#39;정오의 아지랑이&#39; 추가<br>7. 모의 총력전 추가"
+    }
+  },
+  "1582390510": {
+    "researchedAt": "2026-11-01T19:13:42.360Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "10월 업데이트(홀덤 리뉴얼·길드전 개편)와 세일로 신규 진입 추정",
+      "summary": "이번 조사에서 10월 순위 진입 원인을 다룬 최신 기사는 찾지 못했다. 검색된 기사는 2024년 길드전 추가, 2025년 월초 매출 순위, 2026년 3월 웹보드 규제 완화 관련 보도로, 현재 진입 시점과 직접 연결되지 않는다. 따라서 스토어 최근 업데이트 내역(홀덤 리뉴얼 및 이벤트, 길드·길드전 개편, 10월 스페셜 세일, 골든 랭킹전 부스터)을 근거로 한 추정이며, 기사로 확인된 사실이 아니다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/Hv-D0Heegr2EW_eyGcfNv-HzI_WRrjxMqnN575pY17XaRfXA4wjmAtTwWsO_ON6WqVtTP0ajH2bKKRDx6CNXhQ=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/-Be_gwVklgCjNRmdyZoF2MISbCDF4O2zMgITo225podF3Pz7cc9O8Bn0QLk3mPbEEFAoB3Tbc9Ev9i8JWXtJft4=w400",
+        "https://play-lh.googleusercontent.com/PpsnXFmY-JBOMK_jHU9QNfSki1-ZU6Zeyu0ineqre0GFEyvCxeMKYhKDnbHl0nV9Z5druA-kVkcaU0nBjYgG-A=w400",
+        "https://play-lh.googleusercontent.com/zHM-MYYv-Hgst0TKQpLM8QYWHdJWqSqTo389vF_c8O7vmb0noG4SdxQYrrkT_eYET-OoIXfiQwd03ivVcLeqtw=w400",
+        "https://play-lh.googleusercontent.com/QrScFD-jDZWnaXX9Xvjaex4YLpjkRYqWiFb5ahC1y94YLlpep9ma6r7XimKqBECBshJc_QP8Po_OK5NEQ7OfBw=w400"
+      ],
+      "video": "https://www.youtube.com/embed/4bFug63Vq_k?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/sZuAKKYOb15i4tvAZmC0MF461cOLFJJAq6yle_hOOW_bsPuDozrOp91Sq1O8P5gq-TP6hsZAQCjoICtcOGJDww=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.nhnent.pokerclassic&hl=ko&gl=kr",
+      "recentChanges": "■ 10월 정기 업데이트<br>- 홀덤 리뉴얼 및 리뉴얼 이벤트 오픈<br>- 길드·길드전 대격변 오픈<br>- 10월 스페셜 세일즈 오픈<br>- 골든 랭킹전 추격 부스터 등장<br>- 기타 버그 수정 및 마이너 개선"
     }
   },
   "1585915174": {
@@ -2317,21 +2464,21 @@
     }
   },
   "6793854765": {
-    "researchedAt": "2026-10-28T19:55:30.301Z",
-    "verified": false,
+    "researchedAt": "2026-11-01T19:15:30.104Z",
+    "verified": true,
     "data": {
-      "verified": false,
+      "verified": true,
       "category": "신규 오픈",
-      "short": "9/18 정식 출시 및 사전예약 보상 영향으로 추정, 기사 미확인",
-      "summary": "후더덕 서바이벌은 2026년 9월 18일 정식 출시된 신작으로, 감자슉슈슉의 후속작이며 타워 디펜스와 슈팅을 결합한 로그라이크 디펜스 RPG입니다. 출시 기념으로 사전예약자에게 한정 스킨, 777회 뽑기, 개틀링 건 등을 지급했고 김기방이 홍보모델로 발탁되었습니다. 다만 찾은 기사들은 출시 소식만 다루고 있어 이번 9계단 상승의 직접 원인을 확인하지는 못했으며, 신규 출시 효과와 사전예약 보상을 가능성 있는 원인으로 보는 추정입니다.",
+      "short": "2026.09.18 정식 출시로 신규 진입·상위권 유입",
+      "summary": "조이게임즈가 2026년 9월 18일 로그라이크 슈팅 디펜스 RPG '후더덕 서바이벌'을 정식 출시하면서 앱스토어 매출 순위 상승이 이루어진 것으로 보인다. 전작 '감자슉슈슉'의 후속작이라는 점과 배우 김기방의 홍보 모델 기용이 출시 화제성을 높였다. 사전예약자 대상 한정 스킨, 777회 뽑기, 게임 내 머니 등 출시 기념 보상과 네이버 라운지 이벤트도 신규 유입을 끌어올린 요인으로 판단된다.",
       "articles": [
         {
-          "title": "조이게임즈, 로그라이크 디펜스 RPG '후더덕 서바이벌' 출시",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321145"
+          "title": "조이게임즈, 모바일게임 ‘후더덕 서바이벌’ 정식 출시",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=308574"
         },
         {
-          "title": "조이게임즈, 모바일 로그라이크 슈팅 디펜스 RPG '후더덕 서바이벌' 정식 출시",
-          "url": "https://www.ggemguide.com/news_view.htm?uid=1584539&dpage=1&nkey=&search="
+          "title": "조이게임즈, 로그라이크 디펜스 RPG '후더덕 서바이벌' 출시",
+          "url": "https://m.inven.co.kr/webzine/wznews.php?iskin=bm&vtype=mobile&p=8&l=175062&idx=321145"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/rDbVN_XC0pxpQMgTMRD9n7et-PpV5PFfF-jS86jBpkKkiSx2kPrvN65t_XlY5V4sHQvbL1RxT05eMJIXksDXoA=w128",
@@ -2928,6 +3075,275 @@
       "videoImage": "https://play-lh.googleusercontent.com/YrCSpgKcMCm5OQhB6kVxOPk17hACI6C7uqjz2BjjLHpTLISIhoekiaTnH66LjOtrGWpxLpNzoRzd2Tq91YRYQA=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.nexon.fmk&hl=ko&gl=kr",
       "recentChanges": "[MAKE YOUR GAME : 내가 완성하는 축구]<br>- 흐름을 읽고, 판을 바꿔라! &gt; 게임 플랜 정식 출시<br>- 더 정교하게, 더 다채롭게! &gt; 게임플레이 밸런스 개선<br>- 같은 선수, 다른 역할! &gt; 신규 플레이 스타일 추가<br>- 꿈의 무대에 서다! &gt; 산티아고 베르나베우 스타디움 오픈<br>- 정리는 빠르게, 보상은 확실하게! &gt; 자유 계약 신규 오픈<br>- 새로운 전설의 합류! &gt; 발롱도르26 &amp; 신규 ICON / HERO 출격<br>- 처음이어도, 오랜만이어도! &gt; 신규 &amp; 복귀 감독님 보상 개편"
+    }
+  },
+  "6740026253": {
+    "researchedAt": "2026-11-01T19:13:48.644Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "대규모 콘텐츠 업데이트 후 매출 31위 신규 진입, 기사 미확인",
+      "summary": "검색으로는 이번 매출 순위 상승을 직접 다룬 최신 기사를 찾지 못했다. 확인된 기사는 출시(정식 서비스)와 과거 업데이트 소식에 그친다. 따라서 스토어 업데이트 내역을 근거로 판단하면, 신규 SP 비서·SP 탈것·SSR/SP 동료 추가, 신규 메인 스토리 챕터34, 이벤트 등 대규모 콘텐츠 추가가 신규 진입의 원인으로 보인다. 다만 이는 추정이며 매출 순위 상승의 직접 근거로는 확인되지 않았다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/aFm66z3PJo9SXRnSq-xXrJSyDXwBR3DSDY4gCvsoaTqRNWqxG7lDA5dJmOb6pHft-MrsLwTrU5aV9TcLuBFZSlE=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/Ut1ZM9G9VnvwfuUthIYfC3wX4Rg3qgh05l-KS6iZkqmnSL3AE0eorKXRj4OjyC3vQFRKeyY4d9QAkyclIH92=w400",
+        "https://play-lh.googleusercontent.com/0PLliya4HT9j43hZrYfjBtFuOFNFq4irEbEHS8iGL1Jrcg57FsVXC2X4BXmZSCfV53-cjU-y3vCXq-5M3K2PYw=w400",
+        "https://play-lh.googleusercontent.com/2ADr7nDy2-4yBx55Ao9sjrAGLqa7zBIwe1NPtdf5EujF8UTQlb_PUYn5jR-qNGTAoCX8ePvNKyuT0Th9qqt-7A=w400",
+        "https://play-lh.googleusercontent.com/x41Lr4nAktmysBsCCLAred037tH7yj3DliTE235MnuNxjmThfsSZAhvmAxaJaHAJfMEqDgeWO0KqyiSJBMzoyA=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.gf.wafh5krkr.hwyad.google&hl=ko&gl=kr",
+      "recentChanges": "1.신규 &#39;선녀 맞추기&#39; 추가<br>2.신규 영원한 여름 테마 이벤트 추가<br>3. 신규 고적 수사 콘텐츠 확장<br>4.신규 SP 비서: 홀리 엔젤 추가<br>5.신규 SP 동료 시무연<br>6.신규 SSR 동료 초율<br>7.신규 SP 탈것 [별빛 항로] 추가<br>8. 소원 풀 콘텐츠 확장<br>9.엄선 스토어 동류 스타일링 추가<br>10.신규 청아 월음 이벤트 추가<br>11.반짝 룰렛 이벤트 업데이트<br>12.신규 고급 코스튬 시리즈 추가<br>13. 신규 메인 스토리 챕터34 추가<br>14.직급 상한 전당 귀감 · 30단계(Lv.526)까지 확장<br>15.확인된 버그 수정"
+    }
+  },
+  "com.nexon.fo4m": {
+    "researchedAt": "2026-11-01T19:14:26.916Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "10/29 시즌 팀컬러 업데이트·접속 이벤트로 상승 추정",
+      "summary": "검색된 기사 중 FC 온라인 M의 이번 34계단 상승을 직접 설명하는 기사는 찾지 못했다. 다만 넥슨은 10월 29일 업데이트로 2026-2027 시즌 현역 선수 중심의 스쿼드 구성 환경을 강화하고, 신규 라이선스 선수 8명을 아이콘 TM 클래스로 출시했다. 같은 기간 접속 이벤트(수수료 쿠폰, 상자 지급)가 PC와 모바일에 함께 적용되어 신규·복귀 유입이 늘었을 가능성이 있으나, 이는 추정이므로 verified는 false로 둔다.",
+      "articles": [
+        {
+          "title": "넥슨 'FC 온라인', 26-27 시즌 현역 팀 컬러 개편",
+          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=61763"
+        },
+        {
+          "title": "[EA SPORTS FC ONLINE] 접속으로 EVO 에너지 채우기 (이벤트 안내)",
+          "url": "https://fconline.nexon.com/"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/7Qd9rIuWR2S_X6sUQ9MXMUahaxcI0q0J_EyxBpodBgYLedWqyXZnDihA_J5HV928vo-DaQtNJHD2MmyYdPEd=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/mjl-HQ7qGaAblqwU9X0-846ZLVZk2N6DAEzfMNy8zbrdZ8q2CBfWacFvFLmG0pi_Y9JfmUehPKvCDlfMnssGug=w400",
+        "https://play-lh.googleusercontent.com/iQga71XPAz_kMUqU8vfrWzWJ_1uFeHaOrI_CWWpjglIVGEI0bb_d146kw-pLaJSEfkmP_SwL3yM0KxLSuOEABw=w400",
+        "https://play-lh.googleusercontent.com/YShDqvZbDFrBieA6VN3E4qTbFTSp6I0Wr-9xE0KVYiEgk16C9i5Iv3l6QQeVST1e8Gg4n3U6r-68F6g1igXQtcA=w400",
+        "https://play-lh.googleusercontent.com/fugG7Zw8vd1MCeatHzNTRZdvUs-Po_9XPj3tKX0VUBHqCHQ5i_2Kf-29t9ULE49LKAmVASE3LRIjWGRnrFWTPA=w400"
+      ],
+      "video": "https://www.youtube.com/embed/j8rh4W3gPAI?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/P2Io6JTXtk3_V3EuGlSMrs4BBpoGDvqc4Z1T43asdOYRxCN7BpMo-IfNma_PZxeG2OqB9AtU7ZeNgPTQGFu-zQ=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.nexon.fo4m&hl=ko&gl=kr",
+      "recentChanges": ""
+    }
+  },
+  "com.NHNEnt.MSudda": {
+    "researchedAt": "2026-11-01T19:14:34.221Z",
+    "verified": true,
+    "data": {
+      "verified": true,
+      "category": "컨텐츠 업데이트",
+      "short": "10/26 스토리 퀘스트 '타짜의 길' 추가·100억 쩐 보상 이벤트",
+      "summary": "NHN은 2026년 10월 26일 '한게임 섯다&맞고'에 스토리 기반 퀘스트 '타짜의 길'을 추가했다. 초보·일반·최상위 3개 챕터로 나뉘고 실력에 따라 시작 지점이 달라지며, 모든 퀘스트를 합친 보상은 100억 쩐 이상이다. 11월 19일까지 퀘스트 1개 이상 완료 시 참여하는 이벤트도 진행 중이다. 기사들은 업데이트 사실과 보상 구조를 확인해 주지만, 순위 32계단 상승과의 인과관계는 직접 명시하지 않아 신규 콘텐츠 출시 시점과 순위 변동이 겹친다는 점에서 추정한 해석이다.",
+      "articles": [
+        {
+          "title": "NHN ‘한게임 섯다&맞고’ 퀘스트 ‘타짜의 길’ 업데이트 - 포인트데일리",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323596"
+        },
+        {
+          "title": "NHN ‘한게임 섯다&맞고’, 성장형 퀘스트 ‘타짜의 길’ 추가 - 경향게임스",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309656"
+        },
+        {
+          "title": "NHN '한게임 섯다&맞고', 스토리 기반 퀘스트 '타짜의 길' 업데이트 - 아이뉴스24",
+          "url": "https://m.inews24.com/v/2018724"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/CqdDCCaoUKuuANbhIfbCWehb2UTPN6YPbucx6KUzurF6WebH10KPaG46AG-fBCl9w1hAnOqbr2psIJtQFoUOaHw=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/i3kjXoGH98sN_1aiGkkONgyiPouI-e-8IIuFxMH_2XqzdrLwnepRR0W6xQ78h3cnHM9NFS7WzBx3zu0DCYNc=w400",
+        "https://play-lh.googleusercontent.com/ca0Af_wZZp4q7NYfUOSnmeL8MmAtVxBZ8tnVlH8vkRiKVDGLgJB2M_mT9CjrRl8AHWJrQIpq94P04Sbg5WQSOw=w400",
+        "https://play-lh.googleusercontent.com/lIkvD099g5_ho6UcsnNrNHBi5325hIMdkG2bwB0cZkWv6To6uhX38Z7glUN_vTCvX2dlHKlpGw1s7CUokLH5kw=w400",
+        "https://play-lh.googleusercontent.com/7dGvTP9Oh_0Z3b2EvP8j2LA9vRfiymHAPYO5AJbGq1Ct9azeYfQOGR4wB-cbS0XiiEjJ4TydbQF1iJ8v6RJb0g=w400"
+      ],
+      "video": "https://www.youtube.com/embed/jvCh1Wh8jpk?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/IezSuMiicJVAWbnQs6s2GyBrQTH0YzIMIlkhsfrMU4-OlVng9iZsB3bwPFTHTGQfcTZ8YU6R6ZkNZFYac6YbNw=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.NHNEnt.MSudda&hl=ko&gl=kr",
+      "recentChanges": "▶ 족보도 모르던 초짜가 타짜가 되기까지의 이야기! 타짜의 길 추가<br>▶ 보너스 피도 피잖여, 싹 다 내놔유! 큐라백작 한능청 등장!<br>▶ 할로윈 맞이! 유령 삥아리 한정 상품 출시!<br>▶ 초월 수호령 곡옥 교환 수량 밸런스 개선<br>▶ 일일목표 보상이 동호회 회장에서 나의 랭킹전 등급으로 변경<br>▶ 2장 섯다 20억 경기장 최소 입장 머니 조정<br>▶ 입장 머니 부족 시 자동 금고 출금 설정되는 금액 조정<br>▶ 로비 금고 출금 일 100회 초과 시 3% 수수료 적용<br>▶ 신규 캐릭터 나최고 상점 출시<br>▶ 기타 오류 수정 및 서비스 개선"
+    }
+  },
+  "com.epidgames.trickcalrevive": {
+    "researchedAt": "2026-11-01T19:14:42.685Z",
+    "verified": true,
+    "data": {
+      "verified": true,
+      "category": "컨텐츠 업데이트",
+      "short": "3주년 업데이트·기념 이벤트로 구글 매출 상위권 진입",
+      "summary": "에피드게임즈는 3주년을 맞은 트릭컬 리바이브가 국내 구글플레이 매출 4위에 올라 서비스 이후 최고 순위를 기록했다고 밝혔고, 3주년 업데이트의 대규모 무료 보상이 이를 뒷받침했다. 경향게임스는 3주년 기념 사전 예약과 다양한 이벤트, 대규모 업데이트가 국내와 일본 매출 순위 급등의 배경이라고 분석했다. 다만 확인된 기사들은 3주년 기간의 순위 급등을 다루며, 현재 39위까지의 하락 구간이나 스토어에 적힌 시즌3 챕터 8-B와 버터 사복패스는 직접 언급하지 않는다.",
+      "articles": [
+        {
+          "title": "3주년 힘 받은 트릭컬 리바이브, 구글 매출 4위에 올라 (게임메카)",
+          "url": "https://www.gamemeca.com/en/view.php?gid=1781228"
+        },
+        {
+          "title": "'트릭컬' 韓日 매출 순위 급등, 서비스 3주년 효과 '뚜렷' (경향게임스)",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=308816"
+        },
+        {
+          "title": "‘트릭컬 리바이브’, 日 출시 1주년 맞아 매출 최상위권 등극 (게임뷰)",
+          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=61079"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/OCiuBv70Dnuw9wcGet3EtTUF2nEkS1vhYYkvOahe9-MmKg6EhxGkf-9ZVxnWIJXflQSmfOIjTcaSbwJSJyuzHA=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/S9mxKbknKR4sSXnkgkJPTMMnK5M4Nb1sDuw1mV5MlrlUb3-uoskoOUCuMuIwbcskDQ7LeKn_ap7lhcZtNEOurw=w400",
+        "https://play-lh.googleusercontent.com/e-QCBRqWeez02LQfFwm7wCLG_OtlTk6kU0W9nJcEuUI4x7x7T2hGyByr9xRGCdUceknDbBdyCsoNx-9ZI4dZGg=w400",
+        "https://play-lh.googleusercontent.com/I87MIE60zYgmWza1K-8RwWKb_Pzq4ehPraKOEax_ds8-rsW6YgDP6aDpALndJU18txKDHaGBzjjDW3UsDyaTYQ=w400",
+        "https://play-lh.googleusercontent.com/AFYsyW7SdB35pntgkx8JrPyKvFVliUqM45TRm8TPF1sx4LSliXRZuaCwjshQ1gLgW26d_3iQ14Kx_5bC9q8J98U=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.epidgames.trickcalrevive&hl=ko&gl=kr",
+      "recentChanges": "메인스토리 시즌3 챕터 8-B 오픈!<br>버터 사복패스 출시!"
+    }
+  },
+  "6475033368": {
+    "researchedAt": "2026-11-01T19:14:49.769Z",
+    "verified": true,
+    "data": {
+      "verified": true,
+      "category": "컨텐츠 업데이트",
+      "short": "3.7 버전 신규 5성 여우의 별자리·쇄명 픽업 공개 후 관심 증가",
+      "summary": "3.7 버전(9월 30일 업데이트)의 신규 5성 공명자 여우의 별자리와 쇄명이 출시되며 관심이 몰렸다. 기사들은 여우의 별자리를 몽주 시리즈 수호신급 메인 성능의 캐릭터로 평가했고, 쇄명은 합일 파티의 서브 딜러로 여우의 별자리와 함께 편성할 때 가치가 높다고 분석했다. 다만 기사들은 앱스토어 매출 순위 변동을 직접 다루지 않아, 순위 상승과의 연결은 업데이트 시기와 신규 캐릭터 화제성에 근거한 해석이다.",
+      "articles": [
+        {
+          "title": "[명조] 여우의 별자리 “어자... 이래도 안 뽑으실 건가요?”",
+          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=111875"
+        },
+        {
+          "title": "[명조] 쇄명 “여우의 별자리 있으면 그냥 뽑아”",
+          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112398"
+        },
+        {
+          "title": "명조 합일 파티 종결, ‘쇄명’ 육성 가이드",
+          "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216774"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/RBZFxqmKM9JPf2KtFGIsc9XNvQSta0uxdRPdRpNdjARhtnOkfkjzn9SspivmnyFp2Tq8IlDk2fr-9opD_WpmfNA=w400",
+        "https://play-lh.googleusercontent.com/hoLZ3fTVLKfPJ3Z1OGgwxYe9aAq4sG1_QHqBWzgGulqQ_1ko1gUcfp7M4IJcUor_7hzcth7MrExYeQPhK_1OeA=w400",
+        "https://play-lh.googleusercontent.com/EwKasvVFKHRjg29E7IDHVlHsdCOcw8Q887H4-vZblIjCJTPhj7V8iKaUn358VpdNMNFfc8WEBKs9kOMgyoC3Ha8=w400",
+        "https://play-lh.googleusercontent.com/LyV-2oE2XTDA7DXtlkJX8nlYXHLoNKkP5bB1_OzK6R-5rxuC4Sx7ebRUEEj6nz40BkugqBth3X3nmHwECJae=w400"
+      ],
+      "video": "https://www.youtube.com/embed/F7Gwrucj_TA?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/WLUgiQTtLWDbSABKByeW_OLVzIHfX1T1soG8XM0o2MTM-SPTRQvuxclR8ARELHULRWFu7N1bW4u-AHbncxB3=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global&hl=ko&gl=kr",
+      "recentChanges": "『명조:워더링 웨이브』 3.7 버전 「거울에 잠긴 허상, 마음이 비추는 인간 세상」 업데이트 내용<br><br>점검 완료되면 해당 다운로드 링크를 통해 최신 클라이언트 다운로드 및 설치 후 플레이하시기 바랍니다.<br><br>[신규 캐릭터]<br>5성 공명자 「여우의 별자리」(전도 | 증폭기)<br>※[부디 이 밤처럼 늘 영원하기를] 캐릭터 이벤트 튜닝에서 획득할 수 있습니다.<br><br>5성 공명자 「쇄명」(전도 | 직검)<br>※[내 마음 닿는 곳, 아홉 번 죽어도 후회 없으리] 캐릭터 이벤트 튜닝에서 획득할 수 있습니다."
+    }
+  },
+  "com.neowiz.games.poker": {
+    "researchedAt": "2026-11-01T19:14:54.154Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "매출 이벤트",
+      "short": "10월 세일즈·VIP 적립금 신설로 매출 상승 추정",
+      "summary": "검색으로는 이번 27계단 상승을 직접 다룬 최신 한국어 기사를 찾지 못했습니다. 스토어 업데이트 내역에 10월 세일즈 진행과 VIP 적립금 신설이 있어 결제 유인이 늘어난 것이 상승의 유력한 배경으로 보입니다. 아바타 이미지 리뉴얼과 서비스 안정화 업데이트는 보조 요인일 수 있으나, 실제 매출 기여도는 확인되지 않았습니다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/NCBpUsMnLkNlZqwXWomKkAq47Vr_YLUklKn7A8IGMWRTx3xidRCaHLLArug9TkZLW1GIrkGWeSZabCTjiUOZsQ=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/gU0Lr6xY1N8lM_egbO5uKALbo1ny4U57KQ_CYHTnG4qkMDmF2w0geca6-6tpGXxwnO8A1J6oCvgv0GLvW5j6=w400",
+        "https://play-lh.googleusercontent.com/dUrR7_pSCZJDyBDXJv82HZN6ZwDp839z07nDlVMGUp2o-dTCm6vgt66wK1fHmc3-PuT3zN0kWs82xSYPwk23kg=w400",
+        "https://play-lh.googleusercontent.com/bWRHp1ys00ZhiEiotlXthtfkS4S6cLc9Lg-mMUiBVNLdojLcUTUFpl67JtY1U55sZcH_uXwm4hQ_jo3cytBKFMc=w400",
+        "https://play-lh.googleusercontent.com/w6PHFSW1eBDCBIZslFJ82CxbQqjLW4sl3OX5-_WM_WuIYXCSF-6cqFAJyC19S2ZhcIvZXW2YJp74Rh8MlWWHt48=w400"
+      ],
+      "video": "https://www.youtube.com/embed/5KXX_T_TTJA?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/Q10iga6VCRCyRixN49DEQRhWR0wrprdlLfGFKSKGr9s9yVkyW5hIN8_4giWhB69wIg-4CkBT6OCg9bUwFgACGII=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.neowiz.games.poker&hl=ko&gl=kr",
+      "recentChanges": "- VIP 적립금 신설<br>- 아바타 이미지 리뉴얼 진행<br>- 10월 세일즈 진행<br>- 서비스 안정화 업데이트<br>- 마이너 버그 수정"
+    }
+  },
+  "com.nhnent.pokerclassic": {
+    "researchedAt": "2026-11-01T19:15:16.383Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "10월 홀덤 리뉴얼·길드전 개편·세일로 매출 상승 추정",
+      "summary": "이번 순위 상승을 직접 설명하는 최신 한국어 기사는 찾지 못했다. 스토어 업데이트 내역에 따르면 10월 정기 업데이트로 홀덤 리뉴얼과 길드·길드전 개편, 10월 스페셜 세일이 함께 열렸고, 이는 컨텐츠 업데이트와 매출 이벤트가 겹친 것으로 보인다. 모바일인덱스의 2026년 10월 인기 게임 순위 보고서에는 '한게임 포커'가 27계단 상승한 48위였다는 내용이 있으나, 이는 9월 데이터 기준의 다른 지표이며 본 게임(클래식, Google 매출 14위)에 대한 직접 근거는 아니므로 추측으로 남긴다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/Hv-D0Heegr2EW_eyGcfNv-HzI_WRrjxMqnN575pY17XaRfXA4wjmAtTwWsO_ON6WqVtTP0ajH2bKKRDx6CNXhQ=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/-Be_gwVklgCjNRmdyZoF2MISbCDF4O2zMgITo225podF3Pz7cc9O8Bn0QLk3mPbEEFAoB3Tbc9Ev9i8JWXtJft4=w400",
+        "https://play-lh.googleusercontent.com/PpsnXFmY-JBOMK_jHU9QNfSki1-ZU6Zeyu0ineqre0GFEyvCxeMKYhKDnbHl0nV9Z5druA-kVkcaU0nBjYgG-A=w400",
+        "https://play-lh.googleusercontent.com/zHM-MYYv-Hgst0TKQpLM8QYWHdJWqSqTo389vF_c8O7vmb0noG4SdxQYrrkT_eYET-OoIXfiQwd03ivVcLeqtw=w400",
+        "https://play-lh.googleusercontent.com/QrScFD-jDZWnaXX9Xvjaex4YLpjkRYqWiFb5ahC1y94YLlpep9ma6r7XimKqBECBshJc_QP8Po_OK5NEQ7OfBw=w400"
+      ],
+      "video": "https://www.youtube.com/embed/4bFug63Vq_k?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/sZuAKKYOb15i4tvAZmC0MF461cOLFJJAq6yle_hOOW_bsPuDozrOp91Sq1O8P5gq-TP6hsZAQCjoICtcOGJDww=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.nhnent.pokerclassic&hl=ko&gl=kr",
+      "recentChanges": "■ 10월 정기 업데이트<br>- 홀덤 리뉴얼 및 리뉴얼 이벤트 오픈<br>- 길드·길드전 대격변 오픈<br>- 10월 스페셜 세일즈 오픈<br>- 골든 랭킹전 추격 부스터 등장<br>- 기타 버그 수정 및 마이너 개선"
+    }
+  },
+  "com.kurogame.wutheringwaves.global": {
+    "researchedAt": "2026-11-01T19:15:36.997Z",
+    "verified": true,
+    "data": {
+      "verified": true,
+      "category": "컨텐츠 업데이트",
+      "short": "3.7 버전 업데이트 후 일본 1위·한국 4위 등 아시아 구글 매출 상위권",
+      "summary": "2026년 9월 30일 적용된 3.7 버전의 신규 5성 공명자 '여우의 별자리'와 '쇄명', 신규 지역, 메인 스토리, 에코 등 대규모 콘텐츠 확장이 매출 상승의 배경으로 보도됐다. 업데이트 약 일주일 만에 일본 구글 매출 1위, 한국 4위, 대만 3위를 기록해 주요 아시아 시장 세 곳 모두 톱5에 들었다. 다만 해당 기사 시점 이후 순위 변동은 확인되지 않아 현재 33위와의 차이는 추가 확인이 필요하다.",
+      "articles": [
+        {
+          "title": "[차트픽] '명조' 日 구글 매출 1위…韓 4위·대만 3위 (경향게임스 기사 전재, 디시인사이드 갤러리)",
+          "url": "https://gall.dcinside.com/board/view/?id=khgames&no=11209"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/RBZFxqmKM9JPf2KtFGIsc9XNvQSta0uxdRPdRpNdjARhtnOkfkjzn9SspivmnyFp2Tq8IlDk2fr-9opD_WpmfNA=w400",
+        "https://play-lh.googleusercontent.com/hoLZ3fTVLKfPJ3Z1OGgwxYe9aAq4sG1_QHqBWzgGulqQ_1ko1gUcfp7M4IJcUor_7hzcth7MrExYeQPhK_1OeA=w400",
+        "https://play-lh.googleusercontent.com/EwKasvVFKHRjg29E7IDHVlHsdCOcw8Q887H4-vZblIjCJTPhj7V8iKaUn358VpdNMNFfc8WEBKs9kOMgyoC3Ha8=w400",
+        "https://play-lh.googleusercontent.com/LyV-2oE2XTDA7DXtlkJX8nlYXHLoNKkP5bB1_OzK6R-5rxuC4Sx7ebRUEEj6nz40BkugqBth3X3nmHwECJae=w400"
+      ],
+      "video": "https://www.youtube.com/embed/F7Gwrucj_TA?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/WLUgiQTtLWDbSABKByeW_OLVzIHfX1T1soG8XM0o2MTM-SPTRQvuxclR8ARELHULRWFu7N1bW4u-AHbncxB3=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global&hl=ko&gl=kr",
+      "recentChanges": "『명조:워더링 웨이브』 3.7 버전 「거울에 잠긴 허상, 마음이 비추는 인간 세상」 업데이트 내용<br><br>점검 완료되면 해당 다운로드 링크를 통해 최신 클라이언트 다운로드 및 설치 후 플레이하시기 바랍니다.<br><br>[신규 캐릭터]<br>5성 공명자 「여우의 별자리」(전도 | 증폭기)<br>※[부디 이 밤처럼 늘 영원하기를] 캐릭터 이벤트 튜닝에서 획득할 수 있습니다.<br><br>5성 공명자 「쇄명」(전도 | 직검)<br>※[내 마음 닿는 곳, 아홉 번 죽어도 후회 없으리] 캐릭터 이벤트 튜닝에서 획득할 수 있습니다."
+    }
+  },
+  "com.ncsoft.lineage2m19": {
+    "researchedAt": "2026-11-01T19:15:52.158Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "리저브 월드 신화 아가시온 '발라카스'·신규 영지 추가로 매출 6계단 상승",
+      "summary": "스토어 업데이트 내역에 따르면 오리진 월드의 혈맹 균열 '여왕의 은신처' 심연 5구역 추가와 리저브 월드의 신화 아가시온 '발라카스', 인나드릴 영지 추가 오픈, 신화 스킬 '디그니티' 추가가 이뤄졌다. 여기에 핼러윈 페스티벌 시즌 위크와 일부 컨텐츠 보상 리뉴얼이 겹쳐 신규 콘텐츠 유입과 보상 매력이 순위 상승의 원인으로 추정된다. 다만 검색된 기사는 2025년 11월 6주년 업데이트를 다룬 것이라 이번 순위 변동과 시점이 맞지 않아 원인을 기사로 확인하지 못했다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/bh67_a9Z2UyAoJHcktORocXm_c25UcWz_diX4kuGbQ2W1tbWwzK1QqapGahZrlDmwWCAp-CFoy9NA2KMYojBAik=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/cvvfsSWA0ZHjplb8TIeVuXherPJwrgYVX_w_OUhIRltXDk4ZXBGq-5275GOpXVu-a1p89wt0watwsw_KTJKX4Q=w400",
+        "https://play-lh.googleusercontent.com/tpg5zb9brVWS80N3QGv1LfNqCmtNRbUOCvmYj2nO8THf4d-AzlaZKvvjOLDgZ2TvMcfVWlahp5NPg3oeOMMlUA=w400",
+        "https://play-lh.googleusercontent.com/edWDuxdb_tCWH3cTJJPo0CFiPPsMzAIUGIhnBuV2cbtW52-g1ME8M_ZFdTeWIdF6U5B0WmF6v5D_ZhG5Q2Du1Q=w400",
+        "https://play-lh.googleusercontent.com/fYD8jcwsDhy2-SU9cFBM_DYP3z09K9Qx4UA8iFuIWp3pSuz4vsAqXc60libQHjPKBRPdKzyOHqYvyvn3qmi_umA=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.ncsoft.lineage2m19&hl=ko&gl=kr",
+      "recentChanges": "■ 공통<br>· 핼러윈 페스티벌 시즌 위크 시작<br><br>■ 오리진 월드<br>· 혈맹 균열 &#39;여왕의 은신처&#39; 심연 5구역 추가 및 리밸런싱<br><br>■ 리저브 월드<br>· 신화 아가시온 &#39;발라카스&#39; 및 신규 아가시온 추가<br>· 인나드릴 영지 지역 추가 오픈<br>· 신화 스킬 &#39;디그니티&#39; 추가<br>· 일부 컨텐츠 보상 리뉴얼"
+    }
+  },
+  "com.nhnent.Qpoker": {
+    "researchedAt": "2026-11-01T19:16:00.257Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "신규 슬롯·골든타임 이벤트·일일업무 보상 등 업데이트로 15위 상승(추정)",
+      "summary": "이번 순위 상승의 직접적인 원인을 다룬 최신 기사는 찾지 못했다. 검색된 기사들은 2026년 3월 웹보드 결제 한도 상향 이후의 매출 순위 상승이나 과거 명절 이벤트를 다루며, 현재 15위 상승 시점과 무관하다. 따라서 스토어 업데이트 내역을 근거로 추정하면, 신규 슬롯 'Lucky Pearls Paradise' 출시와 잭팟 콜라보, 저녁 시간대 레이크 레이스 1등 상금 이벤트, 일일업무 보너스 코인, 슬롯 10배속 옵션 등 콘텐츠 업데이트가 복합적으로 작용한 것으로 보인다. 다만 월초 웹보드 결제 한도 리셋으로 매출이 몰리는 패턴도 있어, 업데이트 효과와 분리해 판단하기는 어렵다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/Imi0dOs8mMcOxNvc4MGXbfdG1QNKgE70v1DYU4GTIXPlbCy5RGoC-XjBRdEwvb-jDGXAXFj9j43c7flORYphv7I=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/BXYiyHwZCYaoVodqUc_KFNESgte_4HCtyWDVhDfLEdxw9bSdZz-RimpKbOd-c6pVJWNGQPuacf1gY1Razh8J=w400",
+        "https://play-lh.googleusercontent.com/9ukZOl05_KIG-JBYVxR0yZvhNgh4sO0Qgoq09Zwl-It0MDJOrlpx2pxJfu6M6a__-t7LmeRl3yL30WoJZj2nCA=w400",
+        "https://play-lh.googleusercontent.com/KWlasuN82ISa38IY2GNnJJWCTnOXPP3AAuVHOh2Yu6kMx0g6HIoD8V-sqtwS2d1F_kA3zPJt_1n_Jgl2j2I1=w400",
+        "https://play-lh.googleusercontent.com/Wo8AAe9Cub9DM6PAUg1A7wTgfxJlOAjq_hX5ZkUQMtKHcS4zai5NyT1JrVZMK3a9yfKwX4tJkZuYrv8_rgZCPw=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.nhnent.Qpoker&hl=ko&gl=kr",
+      "recentChanges": "[UPDATE]<br>■ 동화 속 하트 여왕님으로 변신한 메리가 여러분을 기다리고 있어요~<br>■ 저녁 8시~10시 골든타임 레이크 레이스에서 1등 상금을 차지하세요!<br>■ 다양한 잭팟의 환상적인 콜라보! Lucky Pearls Paradise 슬롯 신규 출시<br>■ 매일 코인 일일업무 달성하고 보너스 코인 받아가세요!<br>■ 슬롯 옵션 추가! 최대 10배속까지 빠르게 즐겨보세요~<br>■ 성능 및 서비스 개선"
     }
   }
 }
