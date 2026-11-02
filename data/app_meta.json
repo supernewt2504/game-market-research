@@ -307,6 +307,13 @@
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/0c/84/310c847b-36bc-5bab-5881-65934ba615b1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
+  "1452526406": {
+    "released": "2019.03.22",
+    "developer": "Crazy Labs",
+    "country": "IL",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/fc/7a/e6fc7ad0-5793-fd3f-69ff-fe50c97cb7d6/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+    "source": "apple"
+  },
   "1453989822": {
     "released": "2019.05.17",
     "developer": "Voodoo",
@@ -3450,7 +3457,7 @@
   "6822935249": {
     "released": "2026.10.22",
     "developer": "Giuseppe Lupo",
-    "country": null,
+    "country": "IT",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/b2/5a/42b25a30-77e9-36ff-7903-749d2bc2cc36/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -3466,6 +3473,41 @@
     "developer": "GRAVITY Co., Ltd.",
     "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/73/0c/60730c38-a26a-5586-ff2a-81d7d5b4b0ee/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "com.stove.epic7.google": {
+    "released": "2018.08.29",
+    "developer": "Smilegate, Inc.",
+    "country": "KR",
+    "icon": "https://play-lh.googleusercontent.com/wL6DsSkRWI0TxT2ikzBXGvpp1w1L1IXqV5LlUUhhuVS3angPMPksWTzlDmwrcuX3Pd7Ei63kvv55Q5JyvM9_GME=w48",
+    "source": "google"
+  },
+  "com.gamovation.tileclub": {
+    "released": "2023.05.15",
+    "developer": "GamoVation",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/1usfjsEcGLj5t00kTHmqUuLtrVtDVbuBIECR-1kbjhJyv_n_1omuFYnzH7EkdKJh6Pv4IvCQX4J1MWKYbXn0BlU=w48",
+    "source": "google"
+  },
+  "com.supercell.clashofclans": {
+    "released": "2013.09.30",
+    "developer": "Supercell",
+    "country": "FI",
+    "icon": "https://play-lh.googleusercontent.com/sFmWfYbYp_2ea7VRMTnwd3gjIBrPGXHj_d_ab1_k1q1p2OMk4riGMF1vqxdhONOtTYOt_BVpk7a4AYcKU68LNGQ=w48",
+    "source": "google"
+  },
+  "6446265751": {
+    "released": "2023.11.27",
+    "developer": "studiobreeze",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/f4/f6/42f4f61e-8d2a-47f7-6d63-34faf187c62b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6824876279": {
+    "released": "2026.10.22",
+    "developer": "Beomjin In",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/50/99/715099d7-4fca-ae1d-b675-ba24d74ceb2e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "source": "apple"
   }
 }
