@@ -41,7 +41,7 @@ make_plist() { # label hour minute workflow
   <key>StandardErrorPath</key><string>$LOGS/$label.err.log</string>
   <key>EnvironmentVariables</key>
   <dict>
-    <key>PATH</key><string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    <key>PATH</key><string>$HOME/bin:$HOME/.local/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
   </dict>
 </dict>
 </plist>

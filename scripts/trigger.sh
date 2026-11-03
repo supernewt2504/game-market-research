@@ -13,8 +13,10 @@ LOG="${HOME}/Library/Logs/game-market-trigger.log"
 
 # launchd는 최소 PATH로 실행 → gh 경로를 직접 탐색(Apple Silicon Homebrew 우선)
 GH="$(command -v gh || true)"
-[ -z "$GH" ] && [ -x /opt/homebrew/bin/gh ] && GH=/opt/homebrew/bin/gh
-[ -z "$GH" ] && [ -x /usr/local/bin/gh ]   && GH=/usr/local/bin/gh
+[ -z "$GH" ] && [ -x "$HOME/bin/gh" ]        && GH="$HOME/bin/gh"
+[ -z "$GH" ] && [ -x "$HOME/.local/bin/gh" ] && GH="$HOME/.local/bin/gh"
+[ -z "$GH" ] && [ -x /opt/homebrew/bin/gh ]  && GH=/opt/homebrew/bin/gh
+[ -z "$GH" ] && [ -x /usr/local/bin/gh ]     && GH=/usr/local/bin/gh
 
 mkdir -p "$(dirname "$LOG")"
 ts(){ date '+%F %T %Z'; }

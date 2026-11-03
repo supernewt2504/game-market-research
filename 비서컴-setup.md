@@ -20,10 +20,18 @@ GitHub Actions를 `workflow_dispatch`(즉시 실행)로 호출한다.
 
 ### 1. gh 설치 + 인증
 ```bash
-brew install gh
+brew install gh        # Homebrew 있을 때
 gh auth login          # GitHub 계정, HTTPS, 이 repo workflow 실행 권한
 gh auth status         # 로그인 확인
 ```
+Homebrew가 없으면(공식 바이너리를 ~/bin 에):
+```bash
+VER=$(curl -s https://api.github.com/repos/cli/cli/releases/latest | grep -m1 '"tag_name"' | sed -E 's/.*"v?([^"]+)".*/\1/')
+curl -fL -o /tmp/gh.zip "https://github.com/cli/cli/releases/download/v${VER}/gh_${VER}_macOS_arm64.zip"
+unzip -oq /tmp/gh.zip -d /tmp/ghext && mkdir -p ~/bin && cp /tmp/ghext/gh_${VER}_macOS_arm64/bin/gh ~/bin/gh && chmod +x ~/bin/gh
+~/bin/gh auth login
+```
+(trigger.sh·launchd PATH는 `~/bin`도 탐색하므로 ~/bin 설치로 충분하다.)
 - 인증 토큰은 비서컴 밖으로 나가지 않는다.
 - (대안) 무인 안정성을 위해 세분화 PAT를 쓰려면: repo `game-market-research` / 권한 **Actions: Read and write**로 발급 후
   `echo <PAT> | gh auth login --with-token`.
