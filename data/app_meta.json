@@ -566,6 +566,13 @@
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/11/43/4e11436e-6eea-e5f0-8503-b2e0213d8e22/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
+  "1606685106": {
+    "released": "2022.10.25",
+    "developer": "AISNOGames",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/fa/92/7bfa928f-7101-b5f3-812d-94c66bf4741c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
   "1615755735": {
     "released": "2026.10.28",
     "developer": "Hello Games",
@@ -3205,7 +3212,7 @@
   "com.haoplay.game.and.exilium": {
     "released": "2024.11.28",
     "developer": "HaoPlay Limited",
-    "country": null,
+    "country": "CN",
     "icon": "https://play-lh.googleusercontent.com/N0Cq4MZ9VszB5TH_Wq229R62IuSVn1LfWwB3uhdjb0J_fsRn2hfHWc8XOEH7kAUs7Hg4SB2HLl_LEOj17YkwNQ=w48",
     "source": "google"
   },
@@ -3338,7 +3345,7 @@
   "6499011827": {
     "released": "2024.12.02",
     "developer": "HaoPlay Limited",
-    "country": null,
+    "country": "CN",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/fc/9d/9bfc9d72-5fef-88fc-68c6-c52b48d1541c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -3508,6 +3515,62 @@
     "developer": "Beomjin In",
     "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/50/99/715099d7-4fca-ae1d-b675-ba24d74ceb2e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "com.pongvn.pm": {
+    "released": "2026.10.12",
+    "developer": "Pong Studio Co., Ltd.",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/-C0zcjTqjxflezlN9W3NbWMe7LYPFCgD1iQWDfq7enRqT6Yd7T33eQ--Xs9Y-tAUlfd_SKEqa4xdTIT25pxJK-8=w48",
+    "source": "google"
+  },
+  "com.wemade.nightcrows": {
+    "released": "2023.04.18",
+    "developer": "Wemade Co., Ltd",
+    "country": "KR",
+    "icon": "https://play-lh.googleusercontent.com/OmmrYyYORMkonxxUu7BR6sl7vdzLgT1mcoysiJUIrwb_6JmF8j7vjXQ7oC_HOTLsoUOIMPGmoHNHVBC8QbqTrQ=w48",
+    "source": "google"
+  },
+  "com.arrowiq.logic.puzzle.game": {
+    "released": "2026.10.21",
+    "developer": "Adaric Music",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/cGzq6r094-bXJgHtsURrRNOMuctYIecEOQ70bQCbSRk9LemCmgEjmd5w1yogu_xd3laJeTaJ0rkma99SFZp7=w48",
+    "source": "google"
+  },
+  "6762359394": {
+    "released": "2026.11.03",
+    "developer": "Boltray Games",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/de/74/4ade7404-81d6-7039-2764-a517bae2b28c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6762341163": {
+    "released": "2026.07.23",
+    "developer": "Dreamplay Games Inc.",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/f7/7f/ddf77fb4-29b0-cf70-c230-d493ea841764/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6798071755": {
+    "released": "2026.09.29",
+    "developer": "Neptune Company",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/ab/5f/cfab5fb4-1e25-9c71-597f-5173587d7a9a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6776522053": {
+    "released": "2026.07.02",
+    "developer": "Nebula Studio",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/48/b5/0c48b507-641b-d8c0-82c7-0720c691f121/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6746636289": {
+    "released": "2025.08.29",
+    "developer": "Lessmore GmbH",
+    "country": "DE",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/67/cd/dd67cd39-8ae6-af2f-34f7-130047d031f3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   }
 }
