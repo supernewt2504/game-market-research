@@ -300,6 +300,13 @@
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/ff/24/5aff2443-13ae-423c-caa8-10d4ec4b08a5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
+  "1444980563": {
+    "released": "2021.11.01",
+    "developer": "NC Corp.",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/ef/f7/64eff749-7907-a5bd-7e67-ed7ac44c22d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
   "1448979486": {
     "released": "2022.03.22",
     "developer": "NEXON Company",
@@ -452,6 +459,13 @@
     "developer": "SUNCYAN",
     "country": null,
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/74/c5/af74c5e5-1461-3f47-93cc-01de3649dc6f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "1517783697": {
+    "released": "2020.09.26",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "country": "SG",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/9e/b1/159eb1a7-fc58-2b43-b330-c5e619a77e2d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
   "1520354659": {
@@ -3571,6 +3585,69 @@
     "developer": "Lessmore GmbH",
     "country": "DE",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/67/cd/dd67cd39-8ae6-af2f-34f7-130047d031f3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "com.mobsmile.coinbounce": {
+    "released": "2026.08.06",
+    "developer": "Mobsmile Games AS",
+    "country": "NO",
+    "icon": "https://play-lh.googleusercontent.com/W0oUfjfBeLgNzeDn_dzFsXm4YSxYdcBuT5znEslgFMw_HIWl3ROrptL40ItmxLSngrp_CdK6HHLk4f4pB3ZW=w48",
+    "source": "google"
+  },
+  "com.triple.match.cat": {
+    "released": "2026.10.16",
+    "developer": "Adaric Music",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/WOlUrSRMXoodTsdoEC2KKMK8xaz6q1c9xrmFU-Rvp3sd4pFy_wYl-221zjaJe0my3sFq-Pf2rjvJTWXbw8pp1A=w48",
+    "source": "google"
+  },
+  "com.superpixel.scrap": {
+    "released": "2026.09.18",
+    "developer": "SUPERBOX Inc",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/wXJPDo60It-InBBp2izhCUFjzF5p3cOyo1wTlfPXAqXRj-tICuGWga6du4tekFBIFZ5hAU8XylkWkBfacR0D_g=w48",
+    "source": "google"
+  },
+  "com.zjcs.android.kr": {
+    "released": "2026.10.28",
+    "developer": "BOLTRAY GAMES",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/cFqrT7-MwB0n-tQjeR3SA33XPtRsONjnkbQyGkTn3Sni5qmXILKFOh03TkxAPcE_F9dlwbDOKfW8wFV1V45T=w48",
+    "source": "google"
+  },
+  "com.splendapps.sudoku": {
+    "released": "2026.09.07",
+    "developer": "Splend Apps",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/lmw1xBIXMOko5ojkor1vPKTLEIQD5M3pj0zIxH2H3jKYNN44iL5rF2QG0j5-bf0W7Ps5ekGVBF7pj2-mgd8ssg=w48",
+    "source": "google"
+  },
+  "6807325506": {
+    "released": "2026.10.27",
+    "developer": "Game2Gather Corporation",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/4a/33/f44a33b4-49df-8e57-ead5-39b58ea0533d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6444274471": {
+    "released": "2025.08.29",
+    "developer": "Aimed Incorporated",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/fc/e9/bafce98f-7bd3-f28b-ee58-cb5083fdb7b5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6745081346": {
+    "released": "2025.11.20",
+    "developer": "Nuverse Games",
+    "country": "SG",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/43/0b/14430b68-b88b-3e90-5cff-a6cbf1bea412/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6738163891": {
+    "released": "2025.08.24",
+    "developer": "Netmarble Corporation",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/68/b0/2b68b05a-1e09-34b0-ffbd-74827ea374aa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   }
 }
