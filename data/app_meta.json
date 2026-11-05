@@ -3649,5 +3649,12 @@
     "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/68/b0/2b68b05a-1e09-34b0-ffbd-74827ea374aa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
+  },
+  "6740618570": {
+    "released": "2025.02.24",
+    "developer": "Supercent, Inc.",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/45/d5/2245d546-6261-6cd7-1b58-29c116319ebc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
   }
 }
