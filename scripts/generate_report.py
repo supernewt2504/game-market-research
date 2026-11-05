@@ -478,6 +478,12 @@ def main():
     meta = load(os.path.join(DATA, "app_meta.json"), {})
     reasons_by_id = load(os.path.join(DATA, "reasons", f"{date}.json"), {})
 
+    # 원스토어·갤럭시 첫 등장일(전일 데이터 없음)에는 NEW/변동 숨김(순위만 표시) — 다음날부터 실제 전일비교
+    for k in present:
+        if (k.startswith("onestore_") or k.startswith("galaxy_")) and not prev_snap["charts"].get(k):
+            for row in diffed[k]:
+                row["change"] = {"type": "same"}
+
     # 원스토어·갤럭시 '급상승작' 비고: 구글/애플에서 이미 조사된 상승이유를 게임명 매칭으로 차용(추가 토큰 0)
     reason_by_name = {}
     for k in ("google_popular", "google_grossing", "apple_popular", "apple_grossing"):
