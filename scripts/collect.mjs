@@ -2,7 +2,7 @@
 // Apple App Store(공식 RSS) + Google Play(google-play-scraper), 대한민국 / 게임 카테고리
 // 4개 차트 각 Top 100 -> data/snapshots/<YYYY-MM-DD>.json
 import gplay from 'google-play-scraper';
-import { writeFileSync, mkdirSync } from 'node:fs';
+import { writeFileSync, mkdirSync, readFileSync, existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
@@ -69,11 +69,26 @@ async function main() {
     googleChart(g.collection.GROSSING),
   ]);
 
+  // 기본 차트(구글/애플) + 비서컴(원스토어·갤럭시) 병합
+  const charts = { google_popular, google_grossing, apple_popular, apple_grossing };
+  const krPath = join(ROOT, 'data', 'kr_stores', `${date}.json`);
+  if (existsSync(krPath)) {
+    try {
+      const kr = JSON.parse(readFileSync(krPath, 'utf-8'));
+      Object.assign(charts, kr.charts || {});
+      console.log('국내스토어 병합:', Object.keys(kr.charts || {}).join(', '));
+    } catch (e) {
+      console.error('kr_stores 병합 실패(무시):', e.message);
+    }
+  } else {
+    console.log('국내스토어 스냅샷 없음 → 구글/애플만 진행:', `data/kr_stores/${date}.json`);
+  }
+
   const snapshot = {
     date,
     collectedAt: now.toISOString(),
     country: COUNTRY,
-    charts: { google_popular, google_grossing, apple_popular, apple_grossing },
+    charts,
   };
 
   const counts = Object.fromEntries(

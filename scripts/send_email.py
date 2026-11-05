@@ -30,7 +30,7 @@ def kst_today():
     return (datetime.now(timezone.utc) + timedelta(hours=9)).date()
 
 
-PLATFORMS = [("google", "Google Play"), ("apple", "App Store")]
+PLATFORMS = [("google", "Google Play"), ("apple", "App Store"), ("kr_stores", "국내 스토어")]
 
 # 멱등성 마커: 해당 날짜를 이미 보냈는지 기록(아침 catch-up 슬롯이 여러 번 떠도 중복 발송 방지)
 MARKER = os.path.join(ROOT, "data", "last_emailed.txt")

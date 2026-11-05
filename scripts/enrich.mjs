@@ -126,6 +126,7 @@ async function main() {
   // 고유 앱 수집
   const googleIds = new Set(), appleIds = new Set();
   for (const key of Object.keys(snap.charts)) {
+    if (key.startsWith('onestore_') || key.startsWith('galaxy_')) continue;  // OCR 수집(앱ID 없음) → 메타 조회 대상 아님
     for (const it of snap.charts[key]) {
       const isApple = /^\d+$/.test(it.id);
       if (isApple) appleIds.add(it.id); else googleIds.add(it.id);

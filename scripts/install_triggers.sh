@@ -14,12 +14,14 @@ LA="$HOME/Library/LaunchAgents"
 LOGS="$HOME/Library/Logs"
 UID_NUM="$(id -u)"
 
-chmod +x "$TRIG" "$REPO_DIR/scripts/install_triggers.sh"
+chmod +x "$TRIG" "$REPO_DIR/scripts/install_triggers.sh" "$REPO_DIR/scripts/push_kr_stores.sh"
 mkdir -p "$LA" "$LOGS"
 
-make_plist() { # label hour minute workflow
-  local label="$1" hour="$2" min="$3" wf="$4"
+make_plist() { # label hour minute script [arg]
+  local label="$1" hour="$2" min="$3" script="$4" arg="${5:-}"
   local plist="$LA/$label.plist"
+  local argline=""
+  [ -n "$arg" ] && argline="    <string>$arg</string>"
   cat > "$plist" <<EOF
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
@@ -29,8 +31,8 @@ make_plist() { # label hour minute workflow
   <key>ProgramArguments</key>
   <array>
     <string>/bin/bash</string>
-    <string>$TRIG</string>
-    <string>$wf</string>
+    <string>$script</string>
+$argline
   </array>
   <key>StartCalendarInterval</key>
   <dict>
@@ -50,11 +52,13 @@ EOF
   launchctl bootout "gui/$UID_NUM" "$plist" 2>/dev/null || true
   launchctl unload "$plist" 2>/dev/null || true
   launchctl bootstrap "gui/$UID_NUM" "$plist" 2>/dev/null || launchctl load "$plist"
-  printf '✓ 설치: %-40s %02d:%02d KST → %s\n' "$label" "$hour" "$min" "$wf"
+  printf '✓ 설치: %-46s %02d:%02d KST → %s %s\n' "$label" "$hour" "$min" "$(basename "$script")" "$arg"
 }
 
-make_plist "co.supernewt.gamemarket.collect" 23 45 "daily-collect.yml"
-make_plist "co.supernewt.gamemarket.email"    8  0 "daily-email.yml"
+# 23:30 원스토어·갤럭시 랭킹 → repo 커밋/푸시(다음 collect 가 병합) | 23:45 수집 | 08:00 발송
+make_plist "co.supernewt.gamemarket.krstores" 23 30 "$REPO_DIR/scripts/push_kr_stores.sh"
+make_plist "co.supernewt.gamemarket.collect"  23 45 "$TRIG" "daily-collect.yml"
+make_plist "co.supernewt.gamemarket.email"     8  0 "$TRIG" "daily-email.yml"
 
 echo ""
 echo "설치 완료. 등록 확인:"

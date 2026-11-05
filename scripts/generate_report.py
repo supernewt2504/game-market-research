@@ -35,6 +35,10 @@ CHART_META = [
     ("google_grossing", "Google Play · 매출순위", "🟢"),
     ("apple_popular", "App Store · 인기(무료)순위", "🍎"),
     ("apple_grossing", "App Store · 매출순위", "🍎"),
+    ("onestore_popular", "원스토어 · 인기순위", "🟥"),
+    ("onestore_grossing", "원스토어 · 매출순위", "🟥"),
+    ("galaxy_popular", "갤럭시 스토어 · 인기순위", "🔵"),
+    ("galaxy_grossing", "갤럭시 스토어 · 매출순위", "🔵"),
 ]
 CAT_COLORS = {"신규 오픈": "#188038", "컨텐츠 업데이트": "#1a73e8", "매출 이벤트": "#e8710a",
               "콜라보": "#6c3fd1", "시즌·패스": "#009688"}
@@ -126,6 +130,15 @@ def display_name(name):
         name = re.sub(r"(?<=[가-힣])[ :\-–]+[A-Za-z0-9][\x00-\x7F]*$", "", name)  # 한글 뒤 영문 꼬리
         name = name.strip()
     return name
+
+
+def norm_name(name):
+    """게임명 정규화(스토어 간 동일 게임 매칭용). import_kr_stores.norm_title 과 동일 규칙."""
+    t = (name or "").lower()
+    t = re.sub(r"for\s*onestore|for\s*samsung", "", t)
+    t = t.replace("•••", "").replace("...", "").replace("…", "")
+    t = re.sub(r"[^0-9a-z가-힣]", "", t)
+    return t
 
 
 def flag(country):
@@ -252,7 +265,9 @@ def render_table(title, icon, rows, meta, reasons_by_id, demo_keys, demo_details
     trs = []
     for row in rows:
         bg = "#fff" if row["rank"] % 2 else "#fafafa"
-        link = f'<a href="{esc(row["url"])}" target="_blank" style="color:#202124;text-decoration:none;word-break:keep-all;">{esc(display_name(row["name"]))}</a>'
+        nm = esc(display_name(row["name"]))
+        link = (f'<a href="{esc(row["url"])}" target="_blank" style="color:#202124;text-decoration:none;word-break:keep-all;">{nm}</a>'
+                if row.get("url") else f'<span style="color:#202124;word-break:keep-all;">{nm}</span>')  # 원스토어·갤럭시는 URL 없음 → 링크 미표시
         m = meta.get(row["id"], {})
         fl = flag(m.get("country"))
         fl_sp = (fl + " ") if fl else ""
@@ -317,7 +332,8 @@ def render_chart_email(title, icon, rows, meta, reasons_by_id, demo_keys, demo_d
         m = meta.get(row["id"], {})
         fl = flag(m.get("country"))
         released = m.get("released") or "—"
-        link = f'<a href="{esc(row["url"])}">{esc(display_name(row["name"]))}</a>'
+        nm = esc(display_name(row["name"]))
+        link = f'<a href="{esc(row["url"])}">{nm}</a>' if row.get("url") else nm  # 원스토어·갤럭시는 URL 없음
         # 이메일은 용량(Gmail 102KB) 때문에 아이콘 미포함 — 아이콘은 웹 리포트에만 표시
         name_badges, reason_text = bigo_parts(row, reasons_by_id, demo_keys, demo_details, date) if show_bigo else ("", "")
         reason_block = f'<div class="rs">{reason_text}</div>' if reason_text else ""
@@ -391,7 +407,7 @@ def page_html(date, ct_kst, demo, diffed, meta, reasons_by_id, demo_keys, demo_d
               '<span style="color:#c5221f;font-weight:700;">미확인</span> 조사중</div>')
     demo_banner = ('<div style="background:#fef7e0;border:1px solid #feefc3;color:#7a5900;padding:9px 13px;border-radius:8px;margin:14px 0;font-size:12px;">'
                    '⚠️ 샘플: 전일 데이터가 없어 변동(▲▼·NEW)은 시연용입니다. 내일부터 실제 전일 비교가 적용됩니다.</div>' if demo else "")
-    keys = [(k, t, i) for k, t, i in CHART_META if chart_keys is None or k in chart_keys]
+    keys = [(k, t, i) for k, t, i in CHART_META if (chart_keys is None or k in chart_keys) and k in diffed]
     if mode == "email":
         tables = "".join(render_chart_email(t, i, diffed[k], meta, reasons_by_id, demo_keys, demo_details, date, k) for k, t, i in keys)
     else:
@@ -456,9 +472,25 @@ def main():
     if demo:
         prev_snap = make_demo_prev(today_snap)
 
-    diffed = {k: diff_chart(today_snap["charts"][k], prev_snap["charts"][k]) for k, _, _ in CHART_META}
+    # 당일 스냅샷에 존재하는 차트만 렌더(원스토어·갤럭시는 비서컴 수집 실패일엔 없을 수 있음)
+    present = [k for k, _, _ in CHART_META if k in today_snap["charts"]]
+    diffed = {k: diff_chart(today_snap["charts"][k], prev_snap["charts"].get(k, [])) for k in present}
     meta = load(os.path.join(DATA, "app_meta.json"), {})
     reasons_by_id = load(os.path.join(DATA, "reasons", f"{date}.json"), {})
+
+    # 원스토어·갤럭시 '급상승작' 비고: 구글/애플에서 이미 조사된 상승이유를 게임명 매칭으로 차용(추가 토큰 0)
+    reason_by_name = {}
+    for k in ("google_popular", "google_grossing", "apple_popular", "apple_grossing"):
+        for it in today_snap["charts"].get(k, []):
+            r = reasons_by_id.get(it["id"])
+            if r:
+                reason_by_name.setdefault(norm_name(it["name"]), r)
+    for k in ("onestore_grossing", "galaxy_grossing"):
+        for row in diffed.get(k, []):
+            if is_mover(row):
+                r = reason_by_name.get(norm_name(row["name"]))
+                if r and row["id"] not in reasons_by_id:
+                    reasons_by_id[row["id"]] = r
     demo_media = load(os.path.join(REPORT_DIR, "media.json"), {})
 
     # 데모 상세 구성(이름->key), research 결과가 비었을 때 '확인' UX 시연용
@@ -496,14 +528,18 @@ def main():
     with open(os.path.join(DOCS_DIR, "dates.json"), "w", encoding="utf-8") as f:
         json.dump(all_dates, f, ensure_ascii=False)
 
-    # 이메일: 구글/애플 분리 발송
+    # 이메일: 구글/애플/국내스토어(원스토어·갤럭시) 분리 발송. 당일 없는 차트는 제외, 전부 없으면 해당 메일 생략.
     platforms = {
         "google": (["google_popular", "google_grossing"], "Google Play"),
         "apple": (["apple_popular", "apple_grossing"], "App Store"),
+        "kr_stores": (["onestore_popular", "onestore_grossing", "galaxy_popular", "galaxy_grossing"], "국내 스토어(원스토어·갤럭시)"),
     }
     for pkey, (keys, label) in platforms.items():
+        present_keys = [k for k in keys if k in diffed]
+        if not present_keys:
+            continue
         em = page_html(date, ct_kst, demo, diffed, meta, reasons_by_id, demo_keys, demo_details, "email",
-                       chart_keys=keys, platform=label)
+                       chart_keys=present_keys, platform=label)
         with open(os.path.join(OUT_DIR, f"email_{pkey}_{date}.html"), "w", encoding="utf-8") as f:
             f.write(em)
 

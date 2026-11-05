@@ -1,0 +1,2815 @@
+{
+  "date": "2026-11-05",
+  "collected_at": "2026-11-05 09:00",
+  "source": "secretary-ocr",
+  "charts": {
+    "onestore_grossing": [
+      {
+        "rank": 1,
+        "name": "컴투스프로야구V26",
+        "id": "one:컴투스프로야구v26",
+        "developer": "(주)컴투스",
+        "url": ""
+      },
+      {
+        "rank": 2,
+        "name": "컴투스프로야구2026",
+        "id": "one:컴투스프로야구2026",
+        "developer": "(주)컴투스",
+        "url": ""
+      },
+      {
+        "rank": 3,
+        "name": "창세기전 모바일 - 서풍의 광시곡",
+        "id": "one:창세기전모바일서풍의광시곡",
+        "developer": "LINE Games",
+        "url": ""
+      },
+      {
+        "rank": 4,
+        "name": "나이트 크로우",
+        "id": "one:나이트크로우",
+        "developer": "wemade",
+        "url": ""
+      },
+      {
+        "rank": 5,
+        "name": "후더덕 서바이벌",
+        "id": "one:후더덕서바이벌",
+        "developer": "JOY MOBILE NETWORK PTE. LTD",
+        "url": ""
+      },
+      {
+        "rank": 6,
+        "name": "라스트 어사일럼: 페스트",
+        "id": "one:라스트어사일럼페스트",
+        "developer": "",
+        "url": ""
+      },
+      {
+        "rank": 7,
+        "name": "FC 온라인 M",
+        "id": "one:fc온라인m",
+        "developer": "(주) 넥슨",
+        "url": ""
+      },
+      {
+        "rank": 8,
+        "name": "갓깨비 키우기-999뽑기 증정",
+        "id": "one:갓깨비키우기999뽑기증정",
+        "developer": "Joynetgames",
+        "url": ""
+      },
+      {
+        "rank": 9,
+        "name": "열혈강호: 넥스트",
+        "id": "one:열혈강호넥스트",
+        "developer": "Kingnet Technology HK Limited",
+        "url": ""
+      },
+      {
+        "rank": 10,
+        "name": "MLB 9이닝스 26",
+        "id": "one:mlb9이닝스26",
+        "developer": "(주)컴투스",
+        "url": ""
+      },
+      {
+        "rank": 11,
+        "name": "디아블로 이모탈",
+        "id": "one:디아블로이모탈",
+        "developer": "Blizzard Entertainment Inc",
+        "url": ""
+      },
+      {
+        "rank": 12,
+        "name": "캣 히어로 : 방치형 RPG",
+        "id": "one:캣히어로방치형rpg",
+        "developer": "",
+        "url": ""
+      },
+      {
+        "rank": 13,
+        "name": "미르4",
+        "id": "one:미르4",
+        "developer": "WEMADE",
+        "url": ""
+      },
+      {
+        "rank": 14,
+        "name": "삼국지: 천하결전",
+        "id": "one:삼국지천하결전",
+        "developer": "BILIBILI HK LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 15,
+        "name": "탑 플레이어 포커- 바카라 블랙잭 슬롯 •••",
+        "id": "one:탑플레이어포커바카라블랙잭슬롯",
+        "developer": "404connect",
+        "url": ""
+      },
+      {
+        "rank": 16,
+        "name": "퍼즐 오브 Z",
+        "id": "one:퍼즐오브z",
+        "developer": "Frontier Games Co., Limited",
+        "url": ""
+      },
+      {
+        "rank": 17,
+        "name": "아레스: 라이즈 오브 가디언즈",
+        "id": "one:아레스라이즈오브가디언즈",
+        "developer": "kakaogames",
+        "url": ""
+      },
+      {
+        "rank": 18,
+        "name": "버섯커 키우기-3000뽑기 증정",
+        "id": "one:버섯커키우기3000뽑기증정",
+        "developer": "iovnetsames",
+        "url": ""
+      },
+      {
+        "rank": 19,
+        "name": "오늘의 꽃",
+        "id": "one:오늘의꽃",
+        "developer": "Ujoy Games Limited",
+        "url": ""
+      },
+      {
+        "rank": 20,
+        "name": "한게임포커 for OneStore - 7포커, 바둑•••",
+        "id": "one:한게임포커7포커바둑",
+        "developer": "NHN Corp",
+        "url": ""
+      },
+      {
+        "rank": 21,
+        "name": "그놈은 드래곤",
+        "id": "one:그놈은드래곤",
+        "developer": "HongKong GameTree Limited",
+        "url": ""
+      },
+      {
+        "rank": 22,
+        "name": "오피스 퀸 키우기",
+        "id": "one:오피스퀸키우기",
+        "developer": "위시인터랙티브",
+        "url": ""
+      },
+      {
+        "rank": 23,
+        "name": "Age of Origins",
+        "id": "one:ageoforigins",
+        "developer": "camelgames-kr",
+        "url": ""
+      },
+      {
+        "rank": 24,
+        "name": "로그W: 리메인즈 오브 갓",
+        "id": "one:로그w리메인즈오브갓",
+        "developer": "이펀 컴퍼니",
+        "url": ""
+      },
+      {
+        "rank": 25,
+        "name": "마피아42",
+        "id": "one:마피아42",
+        "developer": "팀42 주식회사",
+        "url": ""
+      },
+      {
+        "rank": 26,
+        "name": "에브리타운 : 잔망루피 콜라보레이션",
+        "id": "one:에브리타운잔망루피콜라보레이션",
+        "developer": "위메이드커넥트",
+        "url": ""
+      },
+      {
+        "rank": 27,
+        "name": "뮤 모나크2",
+        "id": "one:뮤모나크2",
+        "developer": "(주)웹젠",
+        "url": ""
+      },
+      {
+        "rank": 28,
+        "name": "블루 아카이브",
+        "id": "one:블루아카이브",
+        "developer": "(주) 넥슨",
+        "url": ""
+      },
+      {
+        "rank": 29,
+        "name": "킹덤2: 타오르는 전장",
+        "id": "one:킹덤2타오르는전장",
+        "developer": "FOWGAMES Co Ltd",
+        "url": ""
+      },
+      {
+        "rank": 30,
+        "name": "I 5 17 for onestore",
+        "id": "one:i517",
+        "developer": "NEOWIZ",
+        "url": ""
+      },
+      {
+        "rank": 31,
+        "name": "에버나이트: 리버스",
+        "id": "one:에버나이트리버스",
+        "developer": "LONGSIN",
+        "url": ""
+      },
+      {
+        "rank": 32,
+        "name": "아키텍트: 랜드 오브 엑자일",
+        "id": "one:아키텍트랜드오브엑자일",
+        "developer": "DRIMAGE Co Ltd",
+        "url": ""
+      },
+      {
+        "rank": 33,
+        "name": "귀판오분전-444뽑기 증정",
+        "id": "one:귀판오분전444뽑기증정",
+        "developer": "joynetgames",
+        "url": ""
+      },
+      {
+        "rank": 34,
+        "name": "2026 프로야구GO",
+        "id": "one:2026프로야구go",
+        "developer": "HAEGIN",
+        "url": ""
+      },
+      {
+        "rank": 35,
+        "name": "좀비 웨이브스",
+        "id": "one:좀비웨이브스",
+        "developer": "Fun Formula",
+        "url": ""
+      },
+      {
+        "rank": 36,
+        "name": "레전드 오브 이미르",
+        "id": "one:레전드오브이미르",
+        "developer": "(주)위메이드",
+        "url": ""
+      },
+      {
+        "rank": 37,
+        "name": "인생존망겜",
+        "id": "one:인생존망겜",
+        "developer": "FRONTIER GAMES CO LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 38,
+        "name": "삼국지 전략판",
+        "id": "one:삼국지전략판",
+        "developer": "Qookka Games",
+        "url": ""
+      },
+      {
+        "rank": 39,
+        "name": "프리스톤테일M",
+        "id": "one:프리스톤테일m",
+        "developer": "FOW Games",
+        "url": ""
+      },
+      {
+        "rank": 40,
+        "name": "컴투스프로야구 for 매니저 LIVE 2026",
+        "id": "one:컴투스프로야구for매니저live2026",
+        "developer": "(주)컴투스",
+        "url": ""
+      },
+      {
+        "rank": 41,
+        "name": "삼국지 러쉬 Origins : 타워 디펜스",
+        "id": "one:삼국지러쉬origins타워디펜스",
+        "developer": "AmazingCatGames",
+        "url": ""
+      },
+      {
+        "rank": 42,
+        "name": "쿠키런 키우기 - 쿠키런: 크럼블",
+        "id": "one:쿠키런키우기쿠키런크럼블",
+        "developer": "Devsisters Corp",
+        "url": ""
+      },
+      {
+        "rank": 43,
+        "name": "레알팜",
+        "id": "one:레알팜",
+        "developer": "(주)네오게임즈",
+        "url": ""
+      },
+      {
+        "rank": 44,
+        "name": "히어로즈 테일즈2",
+        "id": "one:히어로즈테일즈2",
+        "developer": "SUNFLOWER NETWORK TECHNOLOGY C••",
+        "url": ""
+      },
+      {
+        "rank": 45,
+        "name": "갑부: 장사의 시대",
+        "id": "one:갑부장사의시대",
+        "developer": "BLANCOZONE NETWORK CO., LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 46,
+        "name": "더 코지 플로리스트",
+        "id": "one:더코지플로리스트",
+        "developer": "RiftSky Games Co Limited",
+        "url": ""
+      },
+      {
+        "rank": 47,
+        "name": "한게임포커 클래식 for OneStore : 7포••",
+        "id": "one:한게임포커클래식7포",
+        "developer": "NHN Corp",
+        "url": ""
+      },
+      {
+        "rank": 48,
+        "name": "천년 어게인",
+        "id": "one:천년어게인",
+        "developer": "VFive Games co.,Ltd",
+        "url": ""
+      },
+      {
+        "rank": 49,
+        "name": "OfOIE: The World of Magic",
+        "id": "one:ofoietheworldofmagic",
+        "developer": "(주)컴투스",
+        "url": ""
+      },
+      {
+        "rank": 50,
+        "name": "궁3D",
+        "id": "one:궁3d",
+        "developer": "위시인터랙티브",
+        "url": ""
+      },
+      {
+        "rank": 51,
+        "name": "FCEHE for Onestore",
+        "id": "one:fcehe",
+        "developer": "(주) 넥슨코리아",
+        "url": ""
+      },
+      {
+        "rank": 52,
+        "name": "한게임 섯다n맞고 for OneStore",
+        "id": "one:한게임섯다n맞고",
+        "developer": "NHN Corp",
+        "url": ""
+      },
+      {
+        "rank": 53,
+        "name": "대항해의길",
+        "id": "one:대항해의길",
+        "developer": "Linekong Korea Co. Ltd",
+        "url": ""
+      },
+      {
+        "rank": 54,
+        "name": "드래곤빌리지",
+        "id": "one:드래곤빌리지",
+        "developer": "highbrow",
+        "url": ""
+      },
+      {
+        "rank": 55,
+        "name": "드래곤빌리지3",
+        "id": "one:드래곤빌리지3",
+        "developer": "highbrow",
+        "url": ""
+      },
+      {
+        "rank": 56,
+        "name": "무림소녀 키우기: 리바이브",
+        "id": "one:무림소녀키우기리바이브",
+        "developer": "Game2Gather",
+        "url": ""
+      },
+      {
+        "rank": 57,
+        "name": "호라이즌 워커",
+        "id": "one:호라이즌워커",
+        "developer": "젠틀매니악",
+        "url": ""
+      },
+      {
+        "rank": 58,
+        "name": "에이지 오브 엠파이어 모바일",
+        "id": "one:에이지오브엠파이어모바일",
+        "developer": "Proxima Beta Pte. Limited",
+        "url": ""
+      },
+      {
+        "rank": 59,
+        "name": "기적의 검",
+        "id": "one:기적의검",
+        "developer": "4399 KOREA",
+        "url": ""
+      },
+      {
+        "rank": 60,
+        "name": "19: 인페르노 나인",
+        "id": "one:19인페르노나인",
+        "developer": "Leniu Games",
+        "url": ""
+      },
+      {
+        "rank": 61,
+        "name": "황제의 꿈",
+        "id": "one:황제의꿈",
+        "developer": "37GAMES ENTERTAINMENT LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 62,
+        "name": "요괴의 전설M",
+        "id": "one:요괴의전설m",
+        "developer": "Guangzhou Mengzhong Entertainment T",
+        "url": ""
+      },
+      {
+        "rank": 63,
+        "name": "가십하버: 합성 & 스토리 게임",
+        "id": "one:가십하버합성스토리게임",
+        "developer": "Microfun Limited",
+        "url": ""
+      },
+      {
+        "rank": 64,
+        "name": "추억의 잡화점",
+        "id": "one:추억의잡화점",
+        "developer": "Pogo Hopper Limited",
+        "url": ""
+      },
+      {
+        "rank": 65,
+        "name": "토이 삼국",
+        "id": "one:토이삼국",
+        "developer": "XINIU NET LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 66,
+        "name": "모아용: SSS급 영웅 지급중",
+        "id": "one:모아용sss급영웅지급중",
+        "developer": "캡클라우드(주)",
+        "url": ""
+      },
+      {
+        "rank": 67,
+        "name": "FAEOFITI",
+        "id": "one:faeofiti",
+        "developer": "",
+        "url": ""
+      },
+      {
+        "rank": 68,
+        "name": "세계수의 노래",
+        "id": "one:세계수의노래",
+        "developer": "END9 GAMES Corp",
+        "url": ""
+      },
+      {
+        "rank": 69,
+        "name": "월드 워: 머신 컨퀘스트",
+        "id": "one:월드워머신컨퀘스트",
+        "developer": "NDREAM Corp",
+        "url": ""
+      },
+      {
+        "rank": 70,
+        "name": "삼국지: 제후의 전쟁",
+        "id": "one:삼국지제후의전쟁",
+        "developer": "REALITY SQUARED GAME CO., LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 71,
+        "name": "트리 오브 세이비어: 네버랜드",
+        "id": "one:트리오브세이비어네버랜드",
+        "developer": "Qookka Games",
+        "url": ""
+      },
+      {
+        "rank": 72,
+        "name": "건쉽배틀 토탈워페어",
+        "id": "one:건쉽배틀토탈워페어",
+        "developer": "조이시티",
+        "url": ""
+      },
+      {
+        "rank": 73,
+        "name": "킹덤스토리 - 3000뽑기 증정",
+        "id": "one:킹덤스토리3000뽑기증정",
+        "developer": "(주)소프트닉스",
+        "url": ""
+      },
+      {
+        "rank": 74,
+        "name": "희비전 리버스",
+        "id": "one:희비전리버스",
+        "developer": "WISH INTERACTIVE TECHNOLOGY LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 75,
+        "name": "아케론:종말의 서곡",
+        "id": "one:아케론종말의서곡",
+        "developer": "U.LU Games",
+        "url": ""
+      },
+      {
+        "rank": 76,
+        "name": "이것이 삼국지다",
+        "id": "one:이것이삼국지다",
+        "developer": "END9 GAMES Corp",
+        "url": ""
+      },
+      {
+        "rank": 77,
+        "name": "궁:영롱몽",
+        "id": "one:궁영롱몽",
+        "developer": "위시인터랙티브",
+        "url": ""
+      },
+      {
+        "rank": 78,
+        "name": "킹덤 가드:타워 디펜스 TD (Kingdom G•••",
+        "id": "one:킹덤가드타워디펜스tdkingdomg",
+        "developer": "tap4fun",
+        "url": ""
+      },
+      {
+        "rank": 79,
+        "name": "파이널삼국지2: 풍성한 신규서버 혜택 내…",
+        "id": "one:파이널삼국지2풍성한신규서버혜택내",
+        "developer": "",
+        "url": ""
+      },
+      {
+        "rank": 80,
+        "name": "호드 워:어벤저의 소환",
+        "id": "one:호드워어벤저의소환",
+        "developer": "JoyTogether Games",
+        "url": ""
+      },
+      {
+        "rank": 81,
+        "name": "Total Football: Mobile Soccer 2026",
+        "id": "one:totalfootballmobilesoccer2026",
+        "developer": "GALA SPORTS TECHNOLOGY LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 82,
+        "name": "로스트 소드",
+        "id": "one:로스트소드",
+        "developer": "위메이드커넥트",
+        "url": ""
+      },
+      {
+        "rank": 83,
+        "name": "갓오하 체인지 : 방치형 키우기 RPG",
+        "id": "one:갓오하체인지방치형키우기rpg",
+        "developer": "WONCOMZ INC",
+        "url": ""
+      },
+      {
+        "rank": 84,
+        "name": "불사용사 키우기 : 방치형 RPG",
+        "id": "one:불사용사키우기방치형rpg",
+        "developer": "SUPERBOX",
+        "url": ""
+      },
+      {
+        "rank": 85,
+        "name": "9UP 프로야구: KBO 모바일 야구 매L",
+        "id": "one:9up프로야구kbo모바일야구매l",
+        "developer": "Ace Project",
+        "url": ""
+      },
+      {
+        "rank": 86,
+        "name": "스타 여친",
+        "id": "one:스타여친",
+        "developer": "HONG KONG SING WIN LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 87,
+        "name": "열혈강호: 화룡전",
+        "id": "one:열혈강호화룡전",
+        "developer": "(주)세시소프트",
+        "url": ""
+      },
+      {
+        "rank": 88,
+        "name": "우파루 오딧세이",
+        "id": "one:우파루오딧세이",
+        "developer": "hangame",
+        "url": ""
+      },
+      {
+        "rank": 89,
+        "name": "더 킹 오브 파이터즈'98 UM온라인 - 콜•··",
+        "id": "one:더킹오브파이터즈98um온라인콜",
+        "developer": "핑커팁스 엔터테인먼트",
+        "url": ""
+      },
+      {
+        "rank": 90,
+        "name": "에보니: 왕의 귀환 (Evony: The King'S",
+        "id": "one:에보니왕의귀환evonythekings",
+        "developer": "TG Inc",
+        "url": ""
+      },
+      {
+        "rank": 91,
+        "name": "멀티 키우기 : 정령킹 키우기",
+        "id": "one:멀티키우기정령킹키우기",
+        "developer": "에이트 스튜디오",
+        "url": ""
+      },
+      {
+        "rank": 92,
+        "name": "메이크 드라마 : MAD",
+        "id": "one:메이크드라마mad",
+        "developer": "Wemade Connect",
+        "url": ""
+      },
+      {
+        "rank": 93,
+        "name": "숲의 소환단:방치형 판타지 수집 RPG",
+        "id": "one:숲의소환단방치형판타지수집rpg",
+        "developer": "Theplayplus",
+        "url": ""
+      },
+      {
+        "rank": 94,
+        "name": "귀멸의 칼날: 새벽의 서약",
+        "id": "one:귀멸의칼날새벽의서약",
+        "developer": "SheLK Gam",
+        "url": ""
+      },
+      {
+        "rank": 95,
+        "name": "Legends Reborn: D|| MF",
+        "id": "one:legendsreborndmf",
+        "developer": "ACE GAME",
+        "url": ""
+      },
+      {
+        "rank": 96,
+        "name": "소녀전쟁: 환상의 천하통일전",
+        "id": "one:소녀전쟁환상의천하통일전",
+        "developer": "BUFFALOGAMES PTE.LTD",
+        "url": ""
+      },
+      {
+        "rank": 97,
+        "name": "건틀렛 : 신규 서버 오픈",
+        "id": "one:건틀렛신규서버오픈",
+        "developer": "Metabone Entertainmnet Inc",
+        "url": ""
+      },
+      {
+        "rank": 98,
+        "name": "비지 세이비어",
+        "id": "one:비지세이비어",
+        "developer": "joynetgames",
+        "url": ""
+      },
+      {
+        "rank": 99,
+        "name": "2AE WEI (Last Shelter: Survival)",
+        "id": "one:2aeweilastsheltersurvival",
+        "developer": "im30.net",
+        "url": ""
+      },
+      {
+        "rank": 100,
+        "name": "하스스톤",
+        "id": "one:하스스톤",
+        "developer": "Blizzard Entertainment Inc",
+        "url": ""
+      }
+    ],
+    "onestore_popular": [
+      {
+        "rank": 1,
+        "name": "검신제로",
+        "id": "one:검신제로",
+        "developer": "Neptune Company",
+        "url": ""
+      },
+      {
+        "rank": 2,
+        "name": "루미나: 세라피아",
+        "id": "one:루미나세라피아",
+        "developer": "GM 게임",
+        "url": ""
+      },
+      {
+        "rank": 3,
+        "name": "호라이즌 워커",
+        "id": "one:호라이즌워커",
+        "developer": "젠틀매니악",
+        "url": ""
+      },
+      {
+        "rank": 4,
+        "name": "세계수의 노래",
+        "id": "one:세계수의노래",
+        "developer": "END9 GAMES Corp",
+        "url": ""
+      },
+      {
+        "rank": 5,
+        "name": "꼬마 기사 키우기 - 방치형 RPG",
+        "id": "one:꼬마기사키우기방치형rpg",
+        "developer": "Korea Indie Dev",
+        "url": ""
+      },
+      {
+        "rank": 6,
+        "name": "숲의 소환단:방치형 판타지 수집 RPG",
+        "id": "one:숲의소환단방치형판타지수집rpg",
+        "developer": "Theplayplus",
+        "url": ""
+      },
+      {
+        "rank": 7,
+        "name": "귀멸의 칼날: 새벽의 서약",
+        "id": "one:귀멸의칼날새벽의서약",
+        "developer": "SheLK Gam",
+        "url": ""
+      },
+      {
+        "rank": 8,
+        "name": "한게임 신맞고: 대한민국 원조 고스톱",
+        "id": "one:한게임신맞고대한민국원조고스톱",
+        "developer": "NHN Corporation",
+        "url": ""
+      },
+      {
+        "rank": 9,
+        "name": "프로스트 킹덤: 머지 생존전략 SLG",
+        "id": "one:프로스트킹덤머지생존전략slg",
+        "developer": "NEXUS Co., Ltd",
+        "url": ""
+      },
+      {
+        "rank": 10,
+        "name": "메이크 드라마: MAD",
+        "id": "one:메이크드라마mad",
+        "developer": "Wemade Connect",
+        "url": ""
+      },
+      {
+        "rank": 11,
+        "name": "피망 뉴맞고 : 대한민국 1등 고스톱",
+        "id": "one:피망뉴맞고대한민국1등고스톱",
+        "developer": "NEOWIZ",
+        "url": ""
+      },
+      {
+        "rank": 12,
+        "name": "루미나리버",
+        "id": "one:루미나리버",
+        "developer": "boostuniverse",
+        "url": ""
+      },
+      {
+        "rank": 13,
+        "name": "후더덕 서바이벌",
+        "id": "one:후더덕서바이벌",
+        "developer": "JOY MOBILE NETWORK PTE. LTD",
+        "url": ""
+      },
+      {
+        "rank": 14,
+        "name": "창세기전 모바일 - 서풍의 광시곡",
+        "id": "one:창세기전모바일서풍의광시곡",
+        "developer": "LINE Games",
+        "url": ""
+      },
+      {
+        "rank": 15,
+        "name": "Weplay - 파티게임",
+        "id": "one:weplay파티게임",
+        "developer": "WEJOY PTE. LTD",
+        "url": ""
+      },
+      {
+        "rank": 16,
+        "name": "라스트오리진",
+        "id": "one:라스트오리진",
+        "developer": "(주)밸로프",
+        "url": ""
+      },
+      {
+        "rank": 17,
+        "name": "아스텔리아2",
+        "id": "one:아스텔리아2",
+        "developer": "Lepor Games CoLtd",
+        "url": ""
+      },
+      {
+        "rank": 18,
+        "name": "식물 운빨 디펜스",
+        "id": "one:식물운빨디펜스",
+        "developer": "GoldFlowGames",
+        "url": ""
+      },
+      {
+        "rank": 19,
+        "name": "무림소녀 키우기:리바이브",
+        "id": "one:무림소녀키우기리바이브",
+        "developer": "Game2Gather",
+        "url": ""
+      },
+      {
+        "rank": 20,
+        "name": "브라운더스트2",
+        "id": "one:브라운더스트2",
+        "developer": "(주)네오위즈",
+        "url": ""
+      },
+      {
+        "rank": 21,
+        "name": "이사만루26",
+        "id": "one:이사만루26",
+        "developer": "GONGGAMES Corp",
+        "url": ""
+      },
+      {
+        "rank": 22,
+        "name": "소년가행: 턴제 수집형 RPG",
+        "id": "one:소년가행턴제수집형rpg",
+        "developer": "Dreamplay Games",
+        "url": ""
+      },
+      {
+        "rank": 23,
+        "name": "이것이 삼국지다",
+        "id": "one:이것이삼국지다",
+        "developer": "END9 GAMES Corp",
+        "url": ""
+      },
+      {
+        "rank": 24,
+        "name": "빙고 1to25",
+        "id": "one:빙고1to25",
+        "developer": "zensty",
+        "url": ""
+      },
+      {
+        "rank": 25,
+        "name": "모아용: SSS급 영웅 지급중",
+        "id": "one:모아용sss급영웅지급중",
+        "developer": "캡클라우드(주)",
+        "url": ""
+      },
+      {
+        "rank": 26,
+        "name": "로스트 소드",
+        "id": "one:로스트소드",
+        "developer": "위메이드커넥트",
+        "url": ""
+      },
+      {
+        "rank": 27,
+        "name": "버섯커 키우기-3000뽑기 증정",
+        "id": "one:버섯커키우기3000뽑기증정",
+        "developer": "Joynetgames",
+        "url": ""
+      },
+      {
+        "rank": 28,
+        "name": "컴투스프로야구V26",
+        "id": "one:컴투스프로야구v26",
+        "developer": "",
+        "url": ""
+      },
+      {
+        "rank": 29,
+        "name": "그놈은 드래곤",
+        "id": "one:그놈은드래곤",
+        "developer": "HongKong GameTree Limited",
+        "url": ""
+      },
+      {
+        "rank": 30,
+        "name": "갓깨비 키우기-999뽑기 증정",
+        "id": "one:갓깨비키우기999뽑기증정",
+        "developer": "joynetgames",
+        "url": ""
+      },
+      {
+        "rank": 31,
+        "name": "FC 온라인 M",
+        "id": "one:fc온라인m",
+        "developer": "(주) 넥슨",
+        "url": ""
+      },
+      {
+        "rank": 32,
+        "name": "성궁의 시대",
+        "id": "one:성궁의시대",
+        "developer": "Mantle Interactive Hong Kong Limited",
+        "url": ""
+      },
+      {
+        "rank": 33,
+        "name": "삼국지: 천하결전",
+        "id": "one:삼국지천하결전",
+        "developer": "BILIBILI HK LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 34,
+        "name": "쿠키런: 오븐브레이크",
+        "id": "one:쿠키런오븐브레이크",
+        "developer": "",
+        "url": ""
+      },
+      {
+        "rank": 35,
+        "name": "FCEHIE for Onestore",
+        "id": "one:fcehie",
+        "developer": "(주) 넥슨코리아",
+        "url": ""
+      },
+      {
+        "rank": 36,
+        "name": "열혈강호: 귀환",
+        "id": "one:열혈강호귀환",
+        "developer": "9RING GAME",
+        "url": ""
+      },
+      {
+        "rank": 37,
+        "name": "에버나이트: 리버스",
+        "id": "one:에버나이트리버스",
+        "developer": "LONGSIN",
+        "url": ""
+      },
+      {
+        "rank": 38,
+        "name": "열혈강호: 넥스트",
+        "id": "one:열혈강호넥스트",
+        "developer": "Kingnet Technology HK Limited",
+        "url": ""
+      },
+      {
+        "rank": 39,
+        "name": "월드 마스터: 약탈 없는 1인 전략",
+        "id": "one:월드마스터약탈없는1인전략",
+        "developer": "AlcoveFactory",
+        "url": ""
+      },
+      {
+        "rank": 40,
+        "name": "히어로즈 테일즈2",
+        "id": "one:히어로즈테일즈2",
+        "developer": "SUNFLOWER NETWORK TECHNOLOGY C*•",
+        "url": ""
+      },
+      {
+        "rank": 41,
+        "name": "로그W: 리메인즈 오브 갓",
+        "id": "one:로그w리메인즈오브갓",
+        "developer": "이펀 컴퍼니",
+        "url": ""
+      },
+      {
+        "rank": 42,
+        "name": "걸스타그램: 19 그녀들의 비밀 계정",
+        "id": "one:걸스타그램19그녀들의비밀계정",
+        "developer": "DT Games",
+        "url": ""
+      },
+      {
+        "rank": 43,
+        "name": "요괴의 전설M",
+        "id": "one:요괴의전설m",
+        "developer": "Guangzhou Mengzhong Entertainment T",
+        "url": ""
+      },
+      {
+        "rank": 44,
+        "name": "피망 섯다",
+        "id": "one:피망섯다",
+        "developer": "NEOWIZ",
+        "url": ""
+      },
+      {
+        "rank": 45,
+        "name": "마: 다크판타지 3D 방치형 RPG",
+        "id": "one:마다크판타지3d방치형rpg",
+        "developer": "NETTOPDATA",
+        "url": ""
+      },
+      {
+        "rank": 46,
+        "name": "블루 아카이브",
+        "id": "one:블루아카이브",
+        "developer": "(주) 넥슨",
+        "url": ""
+      },
+      {
+        "rank": 47,
+        "name": "라스트 어사일럼: 페스트",
+        "id": "one:라스트어사일럼페스트",
+        "developer": "FRONTIER GAMES CO LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 48,
+        "name": "컴투스프로야구2026",
+        "id": "one:컴투스프로야구2026",
+        "developer": "(주)컴투스",
+        "url": ""
+      },
+      {
+        "rank": 49,
+        "name": "죽어서 왔습니다: 방치형 타이쿤 RPG",
+        "id": "one:죽어서왔습니다방치형타이쿤rpg",
+        "developer": "NADDIC GAMES CO LTD",
+        "url": ""
+      },
+      {
+        "rank": 50,
+        "name": "마피아42",
+        "id": "one:마피아42",
+        "developer": "팀42 주식회사",
+        "url": ""
+      },
+      {
+        "rank": 51,
+        "name": "에브리타운 : 잔망루피 콜라보레이션",
+        "id": "one:에브리타운잔망루피콜라보레이션",
+        "developer": "위메이드커넥트",
+        "url": ""
+      },
+      {
+        "rank": 52,
+        "name": "귀판오분전-444뽑기 증정",
+        "id": "one:귀판오분전444뽑기증정",
+        "developer": "joynetgames",
+        "url": ""
+      },
+      {
+        "rank": 53,
+        "name": "쿠키런: 킹덤",
+        "id": "one:쿠키런킹덤",
+        "developer": "devsisters",
+        "url": ""
+      },
+      {
+        "rank": 54,
+        "name": "헤이즈 리버브",
+        "id": "one:헤이즈리버브",
+        "developer": "Kibi Play",
+        "url": ""
+      },
+      {
+        "rank": 55,
+        "name": "Untamable (베타테스트 기간)",
+        "id": "one:untamable베타테스트기간",
+        "developer": "백애진",
+        "url": ""
+      },
+      {
+        "rank": 56,
+        "name": "프렌즈팝",
+        "id": "one:프렌즈팝",
+        "developer": "카카오게임즈 / NHN픽셀큐브",
+        "url": ""
+      },
+      {
+        "rank": 57,
+        "name": "레알팜",
+        "id": "one:레알팜",
+        "developer": "(주)네오게임즈",
+        "url": ""
+      },
+      {
+        "rank": 58,
+        "name": "섹스타닷넷 더 무비 : 이제는 68",
+        "id": "one:섹스타닷넷더무비이제는68",
+        "developer": "adultfactory19",
+        "url": ""
+      },
+      {
+        "rank": 59,
+        "name": "2026 프로야구GO",
+        "id": "one:2026프로야구go",
+        "developer": "HAEGIN",
+        "url": ""
+      },
+      {
+        "rank": 60,
+        "name": "다크엔젤 : 천사 강림",
+        "id": "one:다크엔젤천사강림",
+        "developer": "U.LU Games",
+        "url": ""
+      },
+      {
+        "rank": 61,
+        "name": "대검키우기",
+        "id": "one:대검키우기",
+        "developer": "chopchopgames",
+        "url": ""
+      },
+      {
+        "rank": 62,
+        "name": "왓더뼈킹 : 20000뽑기 FLEX !",
+        "id": "one:왓더뼈킹20000뽑기flex",
+        "developer": "TeamQuest",
+        "url": ""
+      },
+      {
+        "rank": 63,
+        "name": "섹스타매치 : 지루할 틈 없는 리얼 야한 1•••",
+        "id": "one:섹스타매치지루할틈없는리얼야한1",
+        "developer": "adultfactory19",
+        "url": ""
+      },
+      {
+        "rank": 64,
+        "name": "포트리스M:대국민 슈팅 액션",
+        "id": "one:포트리스m대국민슈팅액션",
+        "developer": "주식회사 씨씨알컨텐츠트리",
+        "url": ""
+      },
+      {
+        "rank": 65,
+        "name": "폴가이즈",
+        "id": "one:폴가이즈",
+        "developer": "Epic Games",
+        "url": ""
+      },
+      {
+        "rank": 66,
+        "name": "삼국지: 제후의 전쟁",
+        "id": "one:삼국지제후의전쟁",
+        "developer": "REALITY SQUARED GAME CO., LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 67,
+        "name": "슬링샷 카: 멀리 날리기",
+        "id": "one:슬링샷카멀리날리기",
+        "developer": "happy studio",
+        "url": ""
+      },
+      {
+        "rank": 68,
+        "name": "삼국지: 킹덤",
+        "id": "one:삼국지킹덤",
+        "developer": "FLYFUN TECHNOLOGY CO LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 69,
+        "name": "쿠키런: 모험의 탑",
+        "id": "one:쿠키런모험의탑",
+        "developer": "devsisters",
+        "url": ""
+      },
+      {
+        "rank": 70,
+        "name": "나만 SSS급 퇴마사",
+        "id": "one:나만sss급퇴마사",
+        "developer": "STAR DOME TECHNOLOGY LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 71,
+        "name": "루미마스터",
+        "id": "one:루미마스터",
+        "developer": "BILIBILI HK LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 72,
+        "name": "명일방주",
+        "id": "one:명일방주",
+        "developer": "Yostar Limited",
+        "url": ""
+      },
+      {
+        "rank": 73,
+        "name": "19: 인페르노 나인",
+        "id": "one:19인페르노나인",
+        "developer": "Leniu Games",
+        "url": ""
+      },
+      {
+        "rank": 74,
+        "name": "에이펙스 걸스",
+        "id": "one:에이펙스걸스",
+        "developer": "네오리진",
+        "url": ""
+      },
+      {
+        "rank": 75,
+        "name": "디펜스말고공격(2026)",
+        "id": "one:디펜스말고공격2026",
+        "developer": "inssworksoft",
+        "url": ""
+      },
+      {
+        "rank": 76,
+        "name": "딸깍 삼국지 : 미축 키우기",
+        "id": "one:딸깍삼국지미축키우기",
+        "developer": "플라잉모몽가",
+        "url": ""
+      },
+      {
+        "rank": 77,
+        "name": "캣 히어로 : 방치형 RPG",
+        "id": "one:캣히어로방치형rpg",
+        "developer": "주식회사 게임듀오",
+        "url": ""
+      },
+      {
+        "rank": 78,
+        "name": "섹스타그램 실사 끝판왕 ~시즌14&15 폭··•",
+        "id": "one:섹스타그램실사끝판왕시즌1415폭",
+        "developer": "adulttactory19",
+        "url": ""
+      },
+      {
+        "rank": 79,
+        "name": "I E7 for onestore",
+        "id": "one:ie7",
+        "developer": "NEOWIZ",
+        "url": ""
+      },
+      {
+        "rank": 80,
+        "name": "한게임포커 클래식 for OneStore : 7포•••",
+        "id": "one:한게임포커클래식7포",
+        "developer": "NHN Corp",
+        "url": ""
+      },
+      {
+        "rank": 81,
+        "name": "디아블로 이모탈",
+        "id": "one:디아블로이모탈",
+        "developer": "Blizzard Entertainment Inc",
+        "url": ""
+      },
+      {
+        "rank": 82,
+        "name": "애니팡3",
+        "id": "one:애니팡3",
+        "developer": "Wemade Play Co., Ltd",
+        "url": ""
+      },
+      {
+        "rank": 83,
+        "name": "아마가는. 이 깨기지 개이",
+        "id": "one:아마가는이깨기지개이",
+        "developer": "",
+        "url": ""
+      },
+      {
+        "rank": 84,
+        "name": "섹스타그램 (Sextagram)- 시즌8 최고••·",
+        "id": "one:섹스타그램sextagram시즌8최고",
+        "developer": "adultfactory19",
+        "url": ""
+      },
+      {
+        "rank": 85,
+        "name": "위드M",
+        "id": "one:위드m",
+        "developer": "Joyimpact",
+        "url": ""
+      },
+      {
+        "rank": 86,
+        "name": "소울 오브 크라임",
+        "id": "one:소울오브크라임",
+        "developer": "GM 게임",
+        "url": ""
+      },
+      {
+        "rank": 87,
+        "name": "쿠키런: 오븐스매시",
+        "id": "one:쿠키런오븐스매시",
+        "developer": "Devsisters Corp",
+        "url": ""
+      },
+      {
+        "rank": 88,
+        "name": "야근한 그녀",
+        "id": "one:야근한그녀",
+        "developer": "톤 워커",
+        "url": ""
+      },
+      {
+        "rank": 89,
+        "name": "템빨용사: 픽셀 아이템 머지 RPG",
+        "id": "one:템빨용사픽셀아이템머지rpg",
+        "developer": "",
+        "url": ""
+      },
+      {
+        "rank": 90,
+        "name": "전장의 그녀 6- 19금 성인게임",
+        "id": "one:전장의그녀619금성인게임",
+        "developer": "zensty",
+        "url": ""
+      },
+      {
+        "rank": 91,
+        "name": "좀비고등학교",
+        "id": "one:좀비고등학교",
+        "developer": "AWESOMEPIECE",
+        "url": ""
+      },
+      {
+        "rank": 92,
+        "name": "프로젝트 세카이 컬러풀 스테이지 feat.",
+        "id": "one:프로젝트세카이컬러풀스테이지feat",
+        "developer": "Nuverse (Hong Kong) Limited",
+        "url": ""
+      },
+      {
+        "rank": 93,
+        "name": "방치형 전사 육성",
+        "id": "one:방치형전사육성",
+        "developer": "pkyappapk",
+        "url": ""
+      },
+      {
+        "rank": 94,
+        "name": "전사들과 모험",
+        "id": "one:전사들과모험",
+        "developer": "FIVE ELEMENTS ONLINE CO LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 95,
+        "name": "한게임 섯다n맞고 for OneStore",
+        "id": "one:한게임섯다n맞고",
+        "developer": "",
+        "url": ""
+      },
+      {
+        "rank": 96,
+        "name": "마이 리틀 가디스:키우기 RPG",
+        "id": "one:마이리틀가디스키우기rpg",
+        "developer": "PIGAMES",
+        "url": ""
+      },
+      {
+        "rank": 97,
+        "name": "블록 매치: 블라스트",
+        "id": "one:블록매치블라스트",
+        "developer": "BOOMCAT STUDIO",
+        "url": ""
+      },
+      {
+        "rank": 98,
+        "name": "Pines Peak: 로얄 머지 게임",
+        "id": "one:pinespeak로얄머지게임",
+        "developer": "VIZOR APPS LTD",
+        "url": ""
+      },
+      {
+        "rank": 99,
+        "name": "한게임포커 for OneStore - 7포커, 바둑•••",
+        "id": "one:한게임포커7포커바둑",
+        "developer": "NHN Corp",
+        "url": ""
+      },
+      {
+        "rank": 100,
+        "name": "오늘의 꽃",
+        "id": "one:오늘의꽃",
+        "developer": "Ujoy Games Limited",
+        "url": ""
+      }
+    ],
+    "galaxy_grossing": [
+      {
+        "rank": 1,
+        "name": "명조:워더링 웨이브",
+        "id": "gal:명조워더링웨이브",
+        "developer": "KURO GAMES",
+        "url": ""
+      },
+      {
+        "rank": 2,
+        "name": "라스트 어사일럼: 페스트",
+        "id": "gal:라스트어사일럼페스트",
+        "developer": "Frontier Games Co., Limited",
+        "url": ""
+      },
+      {
+        "rank": 3,
+        "name": "붕괴: 스타레일",
+        "id": "gal:붕괴스타레일",
+        "developer": "COGNOSPHERE PTE. LTD",
+        "url": ""
+      },
+      {
+        "rank": 4,
+        "name": "FC모바일 for Samsung",
+        "id": "gal:fc모바일",
+        "developer": "NEXON Korea Corporation",
+        "url": ""
+      },
+      {
+        "rank": 5,
+        "name": "후더덕 서바이벌",
+        "id": "gal:후더덕서바이벌",
+        "developer": "JOY MOBILE NETWORK PTE LTD",
+        "url": ""
+      },
+      {
+        "rank": 6,
+        "name": "마비노기 모바일",
+        "id": "gal:마비노기모바일",
+        "developer": "NEXON Korea Corp. & devCAT Corp",
+        "url": ""
+      },
+      {
+        "rank": 7,
+        "name": "리니지M",
+        "id": "gal:리니지m",
+        "developer": "NC Corporation",
+        "url": ""
+      },
+      {
+        "rank": 8,
+        "name": "이환",
+        "id": "gal:이환",
+        "developer": "Perfect World Games",
+        "url": ""
+      },
+      {
+        "rank": 9,
+        "name": "Roblox",
+        "id": "gal:roblox",
+        "developer": "Roblox Corporation",
+        "url": ""
+      },
+      {
+        "rank": 10,
+        "name": "Royal Match",
+        "id": "gal:royalmatch",
+        "developer": "Dream Games",
+        "url": ""
+      },
+      {
+        "rank": 11,
+        "name": "원신",
+        "id": "gal:원신",
+        "developer": "COGNOSPHERE PTE. LTD",
+        "url": ""
+      },
+      {
+        "rank": 12,
+        "name": "캣 히어로",
+        "id": "gal:캣히어로",
+        "developer": "추천",
+        "url": ""
+      },
+      {
+        "rank": 13,
+        "name": "갓깨비 키우기-999뽑기 증정",
+        "id": "gal:갓깨비키우기999뽑기증정",
+        "developer": "JOY MOBILE NETWORK PTE LTD",
+        "url": ""
+      },
+      {
+        "rank": 14,
+        "name": "FC 온라인 M",
+        "id": "gal:fc온라인m",
+        "developer": "NEXON Korea Corporation",
+        "url": ""
+      },
+      {
+        "rank": 15,
+        "name": "비지 세이비어",
+        "id": "gal:비지세이비어",
+        "developer": "JOY MOBILE NETWORK PTE LTD",
+        "url": ""
+      },
+      {
+        "rank": 16,
+        "name": "미르4",
+        "id": "gal:미르4",
+        "developer": "Wemade Co Ltd",
+        "url": ""
+      },
+      {
+        "rank": 17,
+        "name": "뮤 모나크2",
+        "id": "gal:뮤모나크2",
+        "developer": "Webzen Inc",
+        "url": ""
+      },
+      {
+        "rank": 18,
+        "name": "열혈강호: 넥스트",
+        "id": "gal:열혈강호넥스트",
+        "developer": "Kingnet Technology HK Limited",
+        "url": ""
+      },
+      {
+        "rank": 19,
+        "name": "명일방주: 엔드필드",
+        "id": "gal:명일방주엔드필드",
+        "developer": "GRYPH FRONTIER PTE. LTD",
+        "url": ""
+      },
+      {
+        "rank": 20,
+        "name": "좀비 웨이브스",
+        "id": "gal:좀비웨이브스",
+        "developer": "Fun Formula",
+        "url": ""
+      },
+      {
+        "rank": 21,
+        "name": "한게임포커 클래식 - 7포커 홀덤 바둑이 섯다 바카라 하이로우 훌라 슬롯 블랙잭까지 무료로 즐기세요!",
+        "id": "gal:한게임포커클래식7포커홀덤바둑이섯다바카라하이로우훌라슬롯블랙잭까지무료로즐기세요",
+        "developer": "NHN Corporation",
+        "url": ""
+      },
+      {
+        "rank": 22,
+        "name": "세븐나이츠 리버스",
+        "id": "gal:세븐나이츠리버스",
+        "developer": "ⓒ Netmarble Corp. & Netmarble Nexus Inc",
+        "url": ""
+      },
+      {
+        "rank": 23,
+        "name": "가십하버: 합성 & 스토리 게임",
+        "id": "gal:가십하버합성스토리게임",
+        "developer": "Microfun Limited",
+        "url": ""
+      },
+      {
+        "rank": 24,
+        "name": "블루 아카이브",
+        "id": "gal:블루아카이브",
+        "developer": "NEXON Korea Corporation",
+        "url": ""
+      },
+      {
+        "rank": 25,
+        "name": "검은사막 모바일 for samsung",
+        "id": "gal:검은사막모바일",
+        "developer": "PearlAbyss Corp",
+        "url": ""
+      },
+      {
+        "rank": 26,
+        "name": "한게임 로얄홀덤",
+        "id": "gal:한게임로얄홀덤",
+        "developer": "ⓒNHN.Corp",
+        "url": ""
+      },
+      {
+        "rank": 27,
+        "name": "우와 모험단",
+        "id": "gal:우와모험단",
+        "developer": "JOY MOBILE NETWORK PTE LTD",
+        "url": ""
+      },
+      {
+        "rank": 28,
+        "name": "퍼즐 오브 Z",
+        "id": "gal:퍼즐오브z",
+        "developer": "WISDOM ENTERTAINMENT ONLINE INTERNATIONAL LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 29,
+        "name": "한게임 포커 for Samsung",
+        "id": "gal:한게임포커",
+        "developer": "NHN Corporation",
+        "url": ""
+      },
+      {
+        "rank": 30,
+        "name": "명일방주",
+        "id": "gal:명일방주",
+        "developer": "YOSTAR (HONG KONG) LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 31,
+        "name": "모던 워쉽",
+        "id": "gal:모던워쉽",
+        "developer": "추천",
+        "url": ""
+      },
+      {
+        "rank": 32,
+        "name": "귀판오분전-444뽑기 증정",
+        "id": "gal:귀판오분전444뽑기증정",
+        "developer": "JOY MOBILE NETWORK PTE LTD",
+        "url": ""
+      },
+      {
+        "rank": 33,
+        "name": "천년 어게인",
+        "id": "gal:천년어게인",
+        "developer": "ACTOZ SOFT Co.,Ltd",
+        "url": ""
+      },
+      {
+        "rank": 34,
+        "name": "배틀그라운드",
+        "id": "gal:배틀그라운드",
+        "developer": "Krafton Inc",
+        "url": ""
+      },
+      {
+        "rank": 35,
+        "name": "삼국지 전략판",
+        "id": "gal:삼국지전략판",
+        "developer": "Qookka Entertainment Limited",
+        "url": ""
+      },
+      {
+        "rank": 36,
+        "name": "에보니 - 왕의 귀환",
+        "id": "gal:에보니왕의귀환",
+        "developer": "TG Inc",
+        "url": ""
+      },
+      {
+        "rank": 37,
+        "name": "히어로즈 테일즈2",
+        "id": "gal:히어로즈테일즈2",
+        "developer": "Sunflower Network Technology Co., Limited",
+        "url": ""
+      },
+      {
+        "rank": 38,
+        "name": "버섯커 키우기-3000뽑기 증정",
+        "id": "gal:버섯커키우기3000뽑기증정",
+        "developer": "JOY MOBILE NETWORK PTE LTD",
+        "url": ""
+      },
+      {
+        "rank": 39,
+        "name": "쿠키런: 오븐브레이크",
+        "id": "gal:쿠키런오븐브레이크",
+        "developer": "Devsisters Corp",
+        "url": ""
+      },
+      {
+        "rank": 40,
+        "name": "쿠키런 키우기 - 쿠키런: 크럼블",
+        "id": "gal:쿠키런키우기쿠키런크럼블",
+        "developer": "Devsisters Corp",
+        "url": ""
+      },
+      {
+        "rank": 41,
+        "name": "연운",
+        "id": "gal:연운",
+        "developer": "Netease Interactive Entertainment Pte Ltd",
+        "url": ""
+      },
+      {
+        "rank": 42,
+        "name": "갑부: 장사의 시대",
+        "id": "gal:갑부장사의시대",
+        "developer": "BLANCOZONE NETWORK KOREA",
+        "url": ""
+      },
+      {
+        "rank": 43,
+        "name": "꿈의 정원 (Gardenscapes)",
+        "id": "gal:꿈의정원gardenscapes",
+        "developer": "Playrix",
+        "url": ""
+      },
+      {
+        "rank": 44,
+        "name": "트리 오브 세이비어: 네버랜드",
+        "id": "gal:트리오브세이비어네버랜드",
+        "developer": "Qookka Entertainment Limited",
+        "url": ""
+      },
+      {
+        "rank": 45,
+        "name": "I9: 인페르노 나인",
+        "id": "gal:i9인페르노나인",
+        "developer": "Leniu Technology Co Limited",
+        "url": ""
+      },
+      {
+        "rank": 46,
+        "name": "Pokémon GO",
+        "id": "gal:pokmongo",
+        "developer": "Scopely Explore",
+        "url": ""
+      },
+      {
+        "rank": 47,
+        "name": "토이 삼국",
+        "id": "gal:토이삼국",
+        "developer": "XINIU NET LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 48,
+        "name": "한게임 신맞고 for Samsung",
+        "id": "gal:한게임신맞고",
+        "developer": "NHN Corporation",
+        "url": ""
+      },
+      {
+        "rank": 49,
+        "name": "한게임 섯다&맞고 for Samsung",
+        "id": "gal:한게임섯다맞고",
+        "developer": "NHN Corporation",
+        "url": ""
+      },
+      {
+        "rank": 50,
+        "name": "앙상블스타즈！！",
+        "id": "gal:앙상블스타즈",
+        "developer": "추천",
+        "url": ""
+      },
+      {
+        "rank": 51,
+        "name": "씨사이드 익스케이프: 합성 & 스토리 게임",
+        "id": "gal:씨사이드익스케이프합성스토리게임",
+        "developer": "Microfun Limited",
+        "url": ""
+      },
+      {
+        "rank": 52,
+        "name": "붕괴3rd",
+        "id": "gal:붕괴3rd",
+        "developer": "COGNOSPHERE PTE LTD",
+        "url": ""
+      },
+      {
+        "rank": 53,
+        "name": "신삼국지 모바일-코에이 테크모 인증",
+        "id": "gal:신삼국지모바일코에이테크모인증",
+        "developer": "Aligames",
+        "url": ""
+      },
+      {
+        "rank": 54,
+        "name": "파운데이션: 우주 전선",
+        "id": "gal:파운데이션우주전선",
+        "developer": "FunPlus International AG",
+        "url": ""
+      },
+      {
+        "rank": 55,
+        "name": "쿠키런: 킹덤",
+        "id": "gal:쿠키런킹덤",
+        "developer": "Devsisters Corp",
+        "url": ""
+      },
+      {
+        "rank": 56,
+        "name": "로그W: 리메인즈 오브 갓",
+        "id": "gal:로그w리메인즈오브갓",
+        "developer": "Efun Company Limited Korea Branch",
+        "url": ""
+      },
+      {
+        "rank": 57,
+        "name": "피망 포커 : 카지노 로얄 - 홀덤, 7포커, 바둑이 for Samsung",
+        "id": "gal:피망포커카지노로얄홀덤7포커바둑이",
+        "developer": "NEOWIZ",
+        "url": ""
+      },
+      {
+        "rank": 58,
+        "name": "퍼니싱:그레이 레이븐",
+        "id": "gal:퍼니싱그레이레이븐",
+        "developer": "KURO GAMES",
+        "url": ""
+      },
+      {
+        "rank": 59,
+        "name": "이것이 삼국지다",
+        "id": "gal:이것이삼국지다",
+        "developer": "Endninegames Corp",
+        "url": ""
+      },
+      {
+        "rank": 60,
+        "name": "기적의 검",
+        "id": "gal:기적의검",
+        "developer": "4399 KOREA",
+        "url": ""
+      },
+      {
+        "rank": 61,
+        "name": "템빨용사: 픽셀 아이템 머지 RPG",
+        "id": "gal:템빨용사픽셀아이템머지rpg",
+        "developer": "5minlab Corp",
+        "url": ""
+      },
+      {
+        "rank": 62,
+        "name": "황제라 칭하라",
+        "id": "gal:황제라칭하라",
+        "developer": "Clicktouch Technology International Company Limited",
+        "url": ""
+      },
+      {
+        "rank": 63,
+        "name": "에버나이트: 리버스",
+        "id": "gal:에버나이트리버스",
+        "developer": "HONG KONG LONGSIN CO., LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 64,
+        "name": "꿈의 마을 (Township)",
+        "id": "gal:꿈의마을township",
+        "developer": "Playrix",
+        "url": ""
+      },
+      {
+        "rank": 65,
+        "name": "피쉬돔 (Fishdom)",
+        "id": "gal:피쉬돔fishdom",
+        "developer": "Playrix",
+        "url": ""
+      },
+      {
+        "rank": 66,
+        "name": "삼국지: 천하결전",
+        "id": "gal:삼국지천하결전",
+        "developer": "BILIBILI HK LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 67,
+        "name": "레이싱 마스터",
+        "id": "gal:레이싱마스터",
+        "developer": "Netease Interactive Entertainment Pte Ltd",
+        "url": ""
+      },
+      {
+        "rank": 68,
+        "name": "해적 혁명:황금 시대",
+        "id": "gal:해적혁명황금시대",
+        "developer": "Pengtai Greater China Company Limited",
+        "url": ""
+      },
+      {
+        "rank": 69,
+        "name": "프로젝트 세카이 컬러풀 스테이지! feat. 하츠네 미쿠",
+        "id": "gal:프로젝트세카이컬러풀스테이지feat하츠네미쿠",
+        "developer": "SEGA /",
+        "url": ""
+      },
+      {
+        "rank": 70,
+        "name": "워처 오브 렐름",
+        "id": "gal:워처오브렐름",
+        "developer": "VIZTA PTE LTD",
+        "url": ""
+      },
+      {
+        "rank": 71,
+        "name": "세계수의 노래",
+        "id": "gal:세계수의노래",
+        "developer": "Endninegames Corp",
+        "url": ""
+      },
+      {
+        "rank": 72,
+        "name": "데블M",
+        "id": "gal:데블m",
+        "developer": "Sunflower Network Technology Co., Limited",
+        "url": ""
+      },
+      {
+        "rank": 73,
+        "name": "피망 뉴맞고 : 대한민국 1등 고스톱 for Samsung",
+        "id": "gal:피망뉴맞고대한민국1등고스톱",
+        "developer": "NEOWIZ",
+        "url": ""
+      },
+      {
+        "rank": 74,
+        "name": "열혈강호: 귀환",
+        "id": "gal:열혈강호귀환",
+        "developer": "Hong Kong 9 Ring Network Co Limited",
+        "url": ""
+      },
+      {
+        "rank": 75,
+        "name": "블루 아카이브 (15)",
+        "id": "gal:블루아카이브15",
+        "developer": "NEXON Korea Corporation",
+        "url": ""
+      },
+      {
+        "rank": 76,
+        "name": "정복자: 칸",
+        "id": "gal:정복자칸",
+        "developer": "Clicktouch Technology International Company Limited",
+        "url": ""
+      },
+      {
+        "rank": 77,
+        "name": "아레나 브레이크아웃: 현실 지향 FPS",
+        "id": "gal:아레나브레이크아웃현실지향fps",
+        "developer": "Proxima Beta Pte.All Right Reserved",
+        "url": ""
+      },
+      {
+        "rank": 78,
+        "name": "레이드: 그림자의 전설",
+        "id": "gal:레이드그림자의전설",
+        "developer": "Plarium Global Ltd",
+        "url": ""
+      },
+      {
+        "rank": 79,
+        "name": "땡땡 마법사",
+        "id": "gal:땡땡마법사",
+        "developer": "MOREFUN (HK) LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 80,
+        "name": "에오스 레드",
+        "id": "gal:에오스레드",
+        "developer": "BluePotion Games",
+        "url": ""
+      },
+      {
+        "rank": 81,
+        "name": "냥냥 시노비 : 미소녀 닌자 디펜스",
+        "id": "gal:냥냥시노비미소녀닌자디펜스",
+        "developer": "CookApps Inc",
+        "url": ""
+      },
+      {
+        "rank": 82,
+        "name": "타일 서바이벌",
+        "id": "gal:타일서바이벌",
+        "developer": "추천",
+        "url": ""
+      },
+      {
+        "rank": 83,
+        "name": "궁신 : 방치형 RPG",
+        "id": "gal:궁신방치형rpg",
+        "developer": "NSN GAMES",
+        "url": ""
+      },
+      {
+        "rank": 84,
+        "name": "아케론:종말의 서곡",
+        "id": "gal:아케론종말의서곡",
+        "developer": "Shanghai Youlu Information and technology Co.,LTD",
+        "url": ""
+      },
+      {
+        "rank": 85,
+        "name": "Once Human",
+        "id": "gal:oncehuman",
+        "developer": "Netease Interactive Entertainment Pte Ltd",
+        "url": ""
+      },
+      {
+        "rank": 86,
+        "name": "플랜츠 온 파이어",
+        "id": "gal:플랜츠온파이어",
+        "developer": "NUVERSE PTE. LTD",
+        "url": ""
+      },
+      {
+        "rank": 87,
+        "name": "불사용사 키우기 : 방치형 RPG",
+        "id": "gal:불사용사키우기방치형rpg",
+        "developer": "SUPERBOX. INC",
+        "url": ""
+      },
+      {
+        "rank": 88,
+        "name": "지구의 마지막 날: 생존",
+        "id": "gal:지구의마지막날생존",
+        "developer": "NiceOne",
+        "url": ""
+      },
+      {
+        "rank": 89,
+        "name": "2026 프로야구GO!",
+        "id": "gal:2026프로야구go",
+        "developer": "Haegin",
+        "url": ""
+      },
+      {
+        "rank": 90,
+        "name": "데블2M",
+        "id": "gal:데블2m",
+        "developer": "SUNFLOWER NETWORK TECHNOLOGY CO., LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 91,
+        "name": "히어로즈 테일즈",
+        "id": "gal:히어로즈테일즈",
+        "developer": "37 Mobile Games",
+        "url": ""
+      },
+      {
+        "rank": 92,
+        "name": "궁:영롱몽",
+        "id": "gal:궁영롱몽",
+        "developer": "WISH INTERACTIVE TECHNOLOGY LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 93,
+        "name": "Warhammer 40,000: Tacticus",
+        "id": "gal:warhammer40000tacticus",
+        "developer": "Snowprint Studios AB",
+        "url": ""
+      },
+      {
+        "rank": 94,
+        "name": "꿈의 집 (Homescapes)",
+        "id": "gal:꿈의집homescapes",
+        "developer": "Playrix",
+        "url": ""
+      },
+      {
+        "rank": 95,
+        "name": "조선협객전M",
+        "id": "gal:조선협객전m",
+        "developer": "Smartnow",
+        "url": ""
+      },
+      {
+        "rank": 96,
+        "name": "나만 SSS급 퇴마사",
+        "id": "gal:나만sss급퇴마사",
+        "developer": "Star Dome Technology Limited",
+        "url": ""
+      },
+      {
+        "rank": 97,
+        "name": "조선협객전 클래식",
+        "id": "gal:조선협객전클래식",
+        "developer": "Smartnow",
+        "url": ""
+      },
+      {
+        "rank": 98,
+        "name": "MLB 클러치 히트 베이스볼 24",
+        "id": "gal:mlb클러치히트베이스볼24",
+        "developer": "WILD CALY PTE. LTD",
+        "url": ""
+      },
+      {
+        "rank": 99,
+        "name": "낭만강호: 추억의 패키지 게임",
+        "id": "gal:낭만강호추억의패키지게임",
+        "developer": "Iclockwork Inc",
+        "url": ""
+      },
+      {
+        "rank": 100,
+        "name": "ASURA: 블러드 앤 소울",
+        "id": "gal:asura블러드앤소울",
+        "developer": "SPGame",
+        "url": ""
+      }
+    ],
+    "galaxy_popular": [
+      {
+        "rank": 1,
+        "name": "Roblox",
+        "id": "gal:roblox",
+        "developer": "Roblox Corporation",
+        "url": ""
+      },
+      {
+        "rank": 2,
+        "name": "로얄 킹덤 (Royal Kingdom)",
+        "id": "gal:로얄킹덤royalkingdom",
+        "developer": "Dream Games",
+        "url": ""
+      },
+      {
+        "rank": 3,
+        "name": "세계수의 노래",
+        "id": "gal:세계수의노래",
+        "developer": "Endninegames Corp",
+        "url": ""
+      },
+      {
+        "rank": 4,
+        "name": "Pokémon GO",
+        "id": "gal:pokmongo",
+        "developer": "Scopely Explore",
+        "url": ""
+      },
+      {
+        "rank": 5,
+        "name": "쿠키런: 킹덤",
+        "id": "gal:쿠키런킹덤",
+        "developer": "Devsisters Corp",
+        "url": ""
+      },
+      {
+        "rank": 6,
+        "name": "배틀그라운드",
+        "id": "gal:배틀그라운드",
+        "developer": "Krafton Inc",
+        "url": ""
+      },
+      {
+        "rank": 7,
+        "name": "쿠키런: 오븐브레이크",
+        "id": "gal:쿠키런오븐브레이크",
+        "developer": "Devsisters Corp",
+        "url": ""
+      },
+      {
+        "rank": 8,
+        "name": "Royal Match",
+        "id": "gal:royalmatch",
+        "developer": "Dream Games",
+        "url": ""
+      },
+      {
+        "rank": 9,
+        "name": "수박 게임 : 과일 퍼즐",
+        "id": "gal:수박게임과일퍼즐",
+        "developer": "SUPERBOX Inc",
+        "url": ""
+      },
+      {
+        "rank": 10,
+        "name": "원신",
+        "id": "gal:원신",
+        "developer": "COGNOSPHERE PTE. LTD",
+        "url": ""
+      },
+      {
+        "rank": 11,
+        "name": "세븐나이츠 리버스",
+        "id": "gal:세븐나이츠리버스",
+        "developer": "ⓒ Netmarble Corp. & Netmarble Nexus Inc",
+        "url": ""
+      },
+      {
+        "rank": 12,
+        "name": "Meowdoku: 두뇌 퍼즐 게임",
+        "id": "gal:meowdoku두뇌퍼즐게임",
+        "developer": "추천",
+        "url": ""
+      },
+      {
+        "rank": 13,
+        "name": "한게임 포커 for Samsung",
+        "id": "gal:한게임포커",
+        "developer": "NHN Corporation",
+        "url": ""
+      },
+      {
+        "rank": 14,
+        "name": "라스트 어사일럼: 페스트",
+        "id": "gal:라스트어사일럼페스트",
+        "developer": "Frontier Games Co., Limited",
+        "url": ""
+      },
+      {
+        "rank": 15,
+        "name": "Vita Mahjong",
+        "id": "gal:vitamahjong",
+        "developer": "OAKEVER GAMES PTE. LTD",
+        "url": ""
+      },
+      {
+        "rank": 16,
+        "name": "명조:워더링 웨이브",
+        "id": "gal:명조워더링웨이브",
+        "developer": "KURO GAMES",
+        "url": ""
+      },
+      {
+        "rank": 17,
+        "name": "Amaze GO! - 화살표 퍼즐",
+        "id": "gal:amazego화살표퍼즐",
+        "developer": "OAKEVER GAMES PTE. LTD",
+        "url": ""
+      },
+      {
+        "rank": 18,
+        "name": "Tile Explorer - 트리플 매치",
+        "id": "gal:tileexplorer트리플매치",
+        "developer": "OAKEVER GAMES PTE. LTD",
+        "url": ""
+      },
+      {
+        "rank": 19,
+        "name": "붕괴: 스타레일",
+        "id": "gal:붕괴스타레일",
+        "developer": "COGNOSPHERE PTE. LTD",
+        "url": ""
+      },
+      {
+        "rank": 20,
+        "name": "한게임 섯다&맞고 for Samsung",
+        "id": "gal:한게임섯다맞고",
+        "developer": "NHN Corporation",
+        "url": ""
+      },
+      {
+        "rank": 21,
+        "name": "한게임 신맞고 for Samsung",
+        "id": "gal:한게임신맞고",
+        "developer": "NHN Corporation",
+        "url": ""
+      },
+      {
+        "rank": 22,
+        "name": "오목 챔피언 (O-mok Champion)",
+        "id": "gal:오목챔피언omokchampion",
+        "developer": "金城賢吾",
+        "url": ""
+      },
+      {
+        "rank": 23,
+        "name": "리니지M",
+        "id": "gal:리니지m",
+        "developer": "NC Corporation",
+        "url": ""
+      },
+      {
+        "rank": 24,
+        "name": "Sudoku - Classic Sudoku Puzzle",
+        "id": "gal:sudokuclassicsudokupuzzle",
+        "developer": "OAKEVER GAMES PTE. LTD",
+        "url": ""
+      },
+      {
+        "rank": 25,
+        "name": "FC모바일 for Samsung",
+        "id": "gal:fc모바일",
+        "developer": "NEXON Korea Corporation",
+        "url": ""
+      },
+      {
+        "rank": 26,
+        "name": "Brain Test 4: Tricky Friends",
+        "id": "gal:braintest4trickyfriends",
+        "developer": "Unico Studio LLC",
+        "url": ""
+      },
+      {
+        "rank": 27,
+        "name": "피망 뉴맞고 : 대한민국 1등 고스톱 for Samsung",
+        "id": "gal:피망뉴맞고대한민국1등고스톱",
+        "developer": "NEOWIZ",
+        "url": ""
+      },
+      {
+        "rank": 28,
+        "name": "삼국지: 천하결전",
+        "id": "gal:삼국지천하결전",
+        "developer": "BILIBILI HK LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 29,
+        "name": "이환",
+        "id": "gal:이환",
+        "developer": "Perfect World Games",
+        "url": ""
+      },
+      {
+        "rank": 30,
+        "name": "명일방주",
+        "id": "gal:명일방주",
+        "developer": "YOSTAR (HONG KONG) LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 31,
+        "name": "FC 온라인 M",
+        "id": "gal:fc온라인m",
+        "developer": "추천",
+        "url": ""
+      },
+      {
+        "rank": 32,
+        "name": "블루 아카이브",
+        "id": "gal:블루아카이브",
+        "developer": "NEXON Korea Corporation",
+        "url": ""
+      },
+      {
+        "rank": 33,
+        "name": "쿠키런 키우기 - 쿠키런: 크럼블",
+        "id": "gal:쿠키런키우기쿠키런크럼블",
+        "developer": "Devsisters Corp",
+        "url": ""
+      },
+      {
+        "rank": 34,
+        "name": "피망 포커 : 카지노 로얄 - 홀덤, 7포커, 바둑이 for Samsung",
+        "id": "gal:피망포커카지노로얄홀덤7포커바둑이",
+        "developer": "NEOWIZ",
+        "url": ""
+      },
+      {
+        "rank": 35,
+        "name": "헌터 파티 키우기: 방치형 RPG",
+        "id": "gal:헌터파티키우기방치형rpg",
+        "developer": "LUNOSOFT INC",
+        "url": ""
+      },
+      {
+        "rank": 36,
+        "name": "블록 크러쉬 퀘스트",
+        "id": "gal:블록크러쉬퀘스트",
+        "developer": "mobirix",
+        "url": ""
+      },
+      {
+        "rank": 37,
+        "name": "프로 장기",
+        "id": "gal:프로장기",
+        "developer": "mobirix",
+        "url": ""
+      },
+      {
+        "rank": 38,
+        "name": "2026 프로야구GO!",
+        "id": "gal:2026프로야구go",
+        "developer": "Haegin",
+        "url": ""
+      },
+      {
+        "rank": 39,
+        "name": "Piano Tiles 3",
+        "id": "gal:pianotiles3",
+        "developer": "Frank Veenstra",
+        "url": ""
+      },
+      {
+        "rank": 40,
+        "name": "DEEEER Simulator",
+        "id": "gal:deeeersimulator",
+        "developer": "Pujia8 Games INC",
+        "url": ""
+      },
+      {
+        "rank": 41,
+        "name": "Bakery Stack Race",
+        "id": "gal:bakerystackrace",
+        "developer": "PROBUDDY SOFTWARE SOLUTIONS PRIVATE LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 42,
+        "name": "한게임포커 클래식 - 7포커 홀덤 바둑이 섯다 바카라 하이로우 훌라 슬롯 블랙잭까지 무료로 즐기세요!",
+        "id": "gal:한게임포커클래식7포커홀덤바둑이섯다바카라하이로우훌라슬롯블랙잭까지무료로즐기세요",
+        "developer": "NHN Corporation",
+        "url": ""
+      },
+      {
+        "rank": 43,
+        "name": "가십하버: 합성 & 스토리 게임",
+        "id": "gal:가십하버합성스토리게임",
+        "developer": "Microfun Limited",
+        "url": ""
+      },
+      {
+        "rank": 44,
+        "name": "냥냥 시노비 : 미소녀 닌자 디펜스",
+        "id": "gal:냥냥시노비미소녀닌자디펜스",
+        "developer": "CookApps Inc",
+        "url": ""
+      },
+      {
+        "rank": 45,
+        "name": "VR Roller Coaster Theme Park Virtual Reality Game 360",
+        "id": "gal:vrrollercoasterthemeparkvirtualrealitygame360",
+        "developer": "Vipera Games Sp. z o.o",
+        "url": ""
+      },
+      {
+        "rank": 46,
+        "name": "오목",
+        "id": "gal:오목",
+        "developer": "Popoko VM Games",
+        "url": ""
+      },
+      {
+        "rank": 47,
+        "name": "Dobble Go!",
+        "id": "gal:dobblego",
+        "developer": "2023 Amuzo/Asmodee",
+        "url": ""
+      },
+      {
+        "rank": 48,
+        "name": "배고픈 바다: 사냥, 다른 물고기를 먹어 성장 게임. 물고기를 먹고 상어로부터 생존하고 임무를 완수하세요",
+        "id": "gal:배고픈바다사냥다른물고기를먹어성장게임물고기를먹고상어로부터생존하고임무를완수하세요",
+        "developer": "Dmitry Tarabuschenkov",
+        "url": ""
+      },
+      {
+        "rank": 49,
+        "name": "Magic Cube Puzzle 3D",
+        "id": "gal:magiccubepuzzle3d",
+        "developer": "Like Home Technology (Shenzhen)Co.,Ltd",
+        "url": ""
+      },
+      {
+        "rank": 50,
+        "name": "Stickman School Run",
+        "id": "gal:stickmanschoolrun",
+        "developer": "Playtouch",
+        "url": ""
+      },
+      {
+        "rank": 51,
+        "name": "애니메이션 드레스업: 인형 메이크업",
+        "id": "gal:애니메이션드레스업인형메이크업",
+        "developer": "PLAYNERA, TOO",
+        "url": ""
+      },
+      {
+        "rank": 52,
+        "name": "토킹톰 골드런",
+        "id": "gal:토킹톰골드런",
+        "developer": "Outfit7 Limited",
+        "url": ""
+      },
+      {
+        "rank": 53,
+        "name": "Stickman Thief Puzzle Game - Robbery Escape & Brain Teaser Adventures",
+        "id": "gal:stickmanthiefpuzzlegamerobberyescapebrainteaseradventures",
+        "developer": "TENDER STUDIO",
+        "url": ""
+      },
+      {
+        "rank": 54,
+        "name": "명일방주: 엔드필드",
+        "id": "gal:명일방주엔드필드",
+        "developer": "GRYPH FRONTIER PTE. LTD",
+        "url": ""
+      },
+      {
+        "rank": 55,
+        "name": "캔디크러쉬사가 (Candy Crush Saga)",
+        "id": "gal:캔디크러쉬사가candycrushsaga",
+        "developer": "King",
+        "url": ""
+      },
+      {
+        "rank": 56,
+        "name": "Boom Blocks: 퍼즐 게임",
+        "id": "gal:boomblocks퍼즐게임",
+        "developer": "EVRIKA GAMES L.LC-FZ",
+        "url": ""
+      },
+      {
+        "rank": 57,
+        "name": "꿈의 마을 (Township)",
+        "id": "gal:꿈의마을township",
+        "developer": "Playrix",
+        "url": ""
+      },
+      {
+        "rank": 58,
+        "name": "Battle Strategy: Tower Defense",
+        "id": "gal:battlestrategytowerdefense",
+        "developer": "Zygle Games LTD",
+        "url": ""
+      },
+      {
+        "rank": 59,
+        "name": "I9: 인페르노 나인",
+        "id": "gal:i9인페르노나인",
+        "developer": "Leniu Technology Co Limited",
+        "url": ""
+      },
+      {
+        "rank": 60,
+        "name": "열혈강호: 넥스트",
+        "id": "gal:열혈강호넥스트",
+        "developer": "Kingnet Technology HK Limited",
+        "url": ""
+      },
+      {
+        "rank": 61,
+        "name": "꿈의 정원 (Gardenscapes)",
+        "id": "gal:꿈의정원gardenscapes",
+        "developer": "Playrix",
+        "url": ""
+      },
+      {
+        "rank": 62,
+        "name": "프로젝트 세카이 컬러풀 스테이지! feat. 하츠네 미쿠",
+        "id": "gal:프로젝트세카이컬러풀스테이지feat하츠네미쿠",
+        "developer": "추천",
+        "url": ""
+      },
+      {
+        "rank": 63,
+        "name": "에그 메이커",
+        "id": "gal:에그메이커",
+        "developer": "mobirix",
+        "url": ""
+      },
+      {
+        "rank": 64,
+        "name": "검은사막 모바일 for samsung",
+        "id": "gal:검은사막모바일",
+        "developer": "PearlAbyss Corp",
+        "url": ""
+      },
+      {
+        "rank": 65,
+        "name": "Real Car Racing Game: Extreme Car Driving Simulator Master 3D: Grand Track Auto Drive & Drift Race Offline Games",
+        "id": "gal:realcarracinggameextremecardrivingsimulatormaster3dgrandtrackautodrivedriftraceofflinegames",
+        "developer": "VIKING STUDIO",
+        "url": ""
+      },
+      {
+        "rank": 66,
+        "name": "ES-DE Frontend",
+        "id": "gal:esdefrontend",
+        "developer": "Northwestern Software AB",
+        "url": ""
+      },
+      {
+        "rank": 67,
+        "name": "Sparrows Out",
+        "id": "gal:sparrowsout",
+        "developer": "Terafort Limited",
+        "url": ""
+      },
+      {
+        "rank": 68,
+        "name": "모던 워쉽",
+        "id": "gal:모던워쉽",
+        "developer": "ARTSTORM FZE",
+        "url": ""
+      },
+      {
+        "rank": 69,
+        "name": "쿠키런: 모험의 탑",
+        "id": "gal:쿠키런모험의탑",
+        "developer": "Devsisters Corp",
+        "url": ""
+      },
+      {
+        "rank": 70,
+        "name": "피망 섯다 for Samsung",
+        "id": "gal:피망섯다",
+        "developer": "NEOWIZ",
+        "url": ""
+      },
+      {
+        "rank": 71,
+        "name": "Stumble Guys 스텀블 가이즈",
+        "id": "gal:stumbleguys스텀블가이즈",
+        "developer": "Scopely Inc",
+        "url": ""
+      },
+      {
+        "rank": 72,
+        "name": "교통 주행 시뮬레이터",
+        "id": "gal:교통주행시뮬레이터",
+        "developer": "mobirix",
+        "url": ""
+      },
+      {
+        "rank": 73,
+        "name": "수박 만들기 2048",
+        "id": "gal:수박만들기2048",
+        "developer": "mobirix",
+        "url": ""
+      },
+      {
+        "rank": 74,
+        "name": "piano Magic Tiles",
+        "id": "gal:pianomagictiles",
+        "developer": "Scientific Games International GmbH",
+        "url": ""
+      },
+      {
+        "rank": 75,
+        "name": "Bus Simulator 3D Bus Games",
+        "id": "gal:bussimulator3dbusgames",
+        "developer": "BF Games Studio",
+        "url": ""
+      },
+      {
+        "rank": 76,
+        "name": "옥토패스 트래블러: 대륙의 패자",
+        "id": "gal:옥토패스트래블러대륙의패자",
+        "developer": "Netease Interactive Entertainment Pte Ltd",
+        "url": ""
+      },
+      {
+        "rank": 77,
+        "name": "롤링 볼 레이스 3D 물리 게임",
+        "id": "gal:롤링볼레이스3d물리게임",
+        "developer": "THE GAME KINGDOMS SMC PRIVATE LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 78,
+        "name": "Backrooms Darkness",
+        "id": "gal:backroomsdarkness",
+        "developer": "SaturnoSystems",
+        "url": ""
+      },
+      {
+        "rank": 79,
+        "name": "Antistress relaxing toy game",
+        "id": "gal:antistressrelaxingtoygame",
+        "developer": "XGAME STUDIO",
+        "url": ""
+      },
+      {
+        "rank": 80,
+        "name": "고물 히어로",
+        "id": "gal:고물히어로",
+        "developer": "SUPERBOX. Inc",
+        "url": ""
+      },
+      {
+        "rank": 81,
+        "name": "템빨용사: 픽셀 아이템 머지 RPG",
+        "id": "gal:템빨용사픽셀아이템머지rpg",
+        "developer": "추천",
+        "url": ""
+      },
+      {
+        "rank": 82,
+        "name": "베놈: 다크 벤전스",
+        "id": "gal:베놈다크벤전스",
+        "developer": "Guangzhou Luzhu  Information Technology Co., Ltd",
+        "url": ""
+      },
+      {
+        "rank": 83,
+        "name": "Brain Test All-Star: IQ Boost",
+        "id": "gal:braintestallstariqboost",
+        "developer": "UNICO STUDIO LLC",
+        "url": ""
+      },
+      {
+        "rank": 84,
+        "name": "Tiles Magic Piano 4",
+        "id": "gal:tilesmagicpiano4",
+        "developer": "Mark Peters",
+        "url": ""
+      },
+      {
+        "rank": 85,
+        "name": "피쉬돔 (Fishdom)",
+        "id": "gal:피쉬돔fishdom",
+        "developer": "Playrix",
+        "url": ""
+      },
+      {
+        "rank": 86,
+        "name": "아스팔트 레전드 - 초강력 아케이드 자동차 레이싱 게임",
+        "id": "gal:아스팔트레전드초강력아케이드자동차레이싱게임",
+        "developer": "Gameloft SE",
+        "url": ""
+      },
+      {
+        "rank": 87,
+        "name": "Country Balls: World War",
+        "id": "gal:countryballsworldwar",
+        "developer": "MAD PIXEL GAMES LTD",
+        "url": ""
+      },
+      {
+        "rank": 88,
+        "name": "타일 서바이벌",
+        "id": "gal:타일서바이벌",
+        "developer": "FunPlus International AG",
+        "url": ""
+      },
+      {
+        "rank": 89,
+        "name": "Build Queen Fashion Run, Dress Up & Makeover Challenge",
+        "id": "gal:buildqueenfashionrundressupmakeoverchallenge",
+        "developer": "TENDER STUDIO",
+        "url": ""
+      },
+      {
+        "rank": 90,
+        "name": "바둑",
+        "id": "gal:바둑",
+        "developer": "Popoko VM Limited",
+        "url": ""
+      },
+      {
+        "rank": 91,
+        "name": "하스스톤",
+        "id": "gal:하스스톤",
+        "developer": "Blizzard Entertainment, Inc",
+        "url": ""
+      },
+      {
+        "rank": 92,
+        "name": "퍼즐 오브 Z",
+        "id": "gal:퍼즐오브z",
+        "developer": "WISDOM ENTERTAINMENT ONLINE INTERNATIONAL LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 93,
+        "name": "환생 마검사 키우기: 검과 마법의 전략 전투",
+        "id": "gal:환생마검사키우기검과마법의전략전투",
+        "developer": "LUNOSOFT INC",
+        "url": ""
+      },
+      {
+        "rank": 94,
+        "name": "몬스터 공룡 도시 난동 : 화난 공룡 시뮬레이터 게임",
+        "id": "gal:몬스터공룡도시난동화난공룡시뮬레이터게임",
+        "developer": "Aurelian Solutions",
+        "url": ""
+      },
+      {
+        "rank": 95,
+        "name": "Modern Car Parking: 3D Car Game - City Car Parking",
+        "id": "gal:moderncarparking3dcargamecitycarparking",
+        "developer": "Mobify",
+        "url": ""
+      },
+      {
+        "rank": 96,
+        "name": "지구의 마지막 날: 생존",
+        "id": "gal:지구의마지막날생존",
+        "developer": "NiceOne",
+        "url": ""
+      },
+      {
+        "rank": 97,
+        "name": "로그W: 리메인즈 오브 갓",
+        "id": "gal:로그w리메인즈오브갓",
+        "developer": "Efun Company Limited Korea Branch",
+        "url": ""
+      },
+      {
+        "rank": 98,
+        "name": "씨사이드 익스케이프: 합성 & 스토리 게임",
+        "id": "gal:씨사이드익스케이프합성스토리게임",
+        "developer": "Microfun Limited",
+        "url": ""
+      },
+      {
+        "rank": 99,
+        "name": "페르소나5: 더 팬텀 X",
+        "id": "gal:페르소나5더팬텀x",
+        "developer": "FEDEEN GAMES LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 100,
+        "name": "모두의장기 혼자즐기기",
+        "id": "gal:모두의장기혼자즐기기",
+        "developer": "주식회사 프리온",
+        "url": ""
+      }
+    ]
+  }
+}

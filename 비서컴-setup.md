@@ -9,10 +9,13 @@ GitHub Actions를 `workflow_dispatch`(즉시 실행)로 호출한다.
   발송은 마커(`last_emailed.txt`), 수집은 신선도 멱등성으로 **하루 1회만** 실행 → 중복 없음.
 
 타이머(KST):
-| 작업 | 시각 | 호출 대상 |
+| 작업 | 시각 | 동작 |
 |---|---|---|
-| 수집 | 23:45 | `daily-collect.yml` |
-| 발송 | 08:00 | `daily-email.yml` |
+| 원스토어·갤럭시 | 23:30 | `push_kr_stores.sh`: `~/secretary/out/rank/<date>.json` → `data/kr_stores/<date>.json` 커밋·푸시 |
+| 수집 | 23:45 | `daily-collect.yml` dispatch (위 kr_stores 를 스냅샷에 병합) |
+| 발송 | 08:00 | `daily-email.yml` dispatch |
+
+> 원스토어·갤럭시 타이머는 비서컴의 랭킹 수집기(`~/secretary/rankcheck.py`, 산출물 `~/secretary/out/rank/`)가 돌고 있어야 데이터가 생긴다. 입력이 없는 날은 조용히 생략되고 구글/애플만 리포트에 나온다.
 
 ---
 
