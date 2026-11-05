@@ -568,6 +568,7 @@ def main():
         "apple": (["apple_popular", "apple_grossing"], "App Store"),
         "kr_stores": (["onestore_popular", "onestore_grossing", "galaxy_popular", "galaxy_grossing"], "국내 스토어(원스토어·갤럭시)"),
     }
+    made_emails = []
     for pkey, (keys, label) in platforms.items():
         present_keys = [k for k in keys if k in diffed]
         if not present_keys:
@@ -576,12 +577,14 @@ def main():
                        chart_keys=present_keys, platform=label)
         with open(os.path.join(OUT_DIR, f"email_{pkey}_{date}.html"), "w", encoding="utf-8") as f:
             f.write(em)
+        made_emails.append(pkey)
 
     # 미리보기 호환: 기존 샘플 경로도 갱신(통합 웹 버전)
     with open(os.path.join(REPORT_DIR, "sample_report.html"), "w", encoding="utf-8") as f:
         f.write(web)
 
-    print(f"생성: docs/daily/{date}.html, out/email_google_{date}.html, out/email_apple_{date}.html (demo={demo}, verified={any_verified})")
+    emails = ", ".join(f"email_{p}_{date}.html" for p in made_emails)
+    print(f"생성: docs/daily/{date}.html | 메일: {emails} (demo={demo}, verified={any_verified})")
 
 
 if __name__ == "__main__":
