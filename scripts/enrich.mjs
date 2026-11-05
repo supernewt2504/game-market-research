@@ -182,16 +182,19 @@ async function main() {
     for (const it of snap.charts[key]) {
       if (krSeen.has(it.id)) continue;
       krSeen.add(it.id);
-      const m = meta[it.id];
-      if (m && m.icon) continue;
-      // 비서컴(한국 IP)이 원스토어에서 심어 보낸 아이콘이 행에 있으면 네트워크 없이 사용
-      if (it.icon) {
-        meta[it.id] = { ...(m || {}), icon: it.icon,
-          developer: (m && m.developer) || it.developer,
-          country: (m && m.country) || seedCountry(it.developer),
-          source: (m && m.source) || 'kr-onestore', title: (m && m.title) || it.name };
-        continue;
+      // 비서컴(한국 IP)이 원스토어에서 심어 보낸 아이콘/출시일이 행에 있으면 네트워크 없이 사용.
+      // 이미 메타가 있어도 비어 있는 항목(출시일 등)은 행 값으로 백필한다.
+      if (it.icon || it.released) {
+        const m0 = meta[it.id] || {};
+        meta[it.id] = { ...m0,
+          icon: m0.icon || it.icon,
+          released: m0.released || normDate(it.released),
+          developer: m0.developer || it.developer,
+          country: m0.country || seedCountry(it.developer),
+          source: m0.source || 'kr-onestore', title: m0.title || it.name };
       }
+      const m = meta[it.id];
+      if (m && m.icon) continue;  // 아이콘 확보됨 → 검색 불필요
       // 아이콘 없는 항목만 검색(국적은 주소 미제공이라 Haiku 판별기(research)가 개발사명으로 채움)
       krItems.push({ id: it.id, name: it.name });
     }

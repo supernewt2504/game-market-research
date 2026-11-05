@@ -45,66 +45,104 @@ def onestore_search(name):
     except Exception:
         return []
     out = []
-    for m in _EL_RE.finditer(html):
-        out.append((m.group(2), urllib.parse.unquote(m.group(4))))
+    for m in _EL_RE.finditer(html):  # (prodId, title, iconUrl)
+        out.append((m.group(1), m.group(2), urllib.parse.unquote(m.group(4))))
         if len(out) >= 8:
             break
     return out
 
 
-def resolve_icon(name):
-    """게임명으로 원스토어 아이콘 1건 해석(제목 정규화 일치/접두 겹침). 실패 시 None."""
+_DATE_RE = re.compile(r'\\"releaseDate\\":\\"(\d{8})')
+
+
+def onestore_release(pid):
+    """원스토어 상세 페이지의 releaseDate(해당 스토어 최초 출시일) → YYYY.MM.DD."""
+    url = f"https://m.onestore.co.kr/v2/ko-kr/app/{pid}"
+    req = urllib.request.Request(url, headers={"User-Agent": UA_DESKTOP})
+    try:
+        with urllib.request.urlopen(req, timeout=20) as r:
+            html = r.read().decode("utf-8", "replace")
+    except Exception:
+        return None
+    ds = [m.group(1) for m in _DATE_RE.finditer(html)]
+    if not ds:
+        return None
+    d = min(ds)  # 여러 버전 중 가장 이른 날짜 = 최초 출시
+    return f"{d[0:4]}.{d[4:6]}.{d[6:8]}"
+
+
+def resolve_meta(name):
+    """게임명 → 원스토어 {icon, released}. 제목 정규화 일치/접두 겹침으로 매칭."""
     q = norm_title(name)
     if not q:
         return None
-    for _ in range(2):
-        items = onestore_search(name)
-        if not items:
-            continue
-        for t, ic in items:  # 완전일치 우선
-            if norm_title(t) == q:
-                return ic
-        for t, ic in items:  # 접두 6자 겹침
+    items = onestore_search(name) or onestore_search(name)  # 1회 재시도
+    if not items:
+        return None
+    hit = None
+    for pid, t, ic in items:  # 완전일치 우선
+        if norm_title(t) == q:
+            hit = (pid, ic); break
+    if not hit:
+        for pid, t, ic in items:  # 접두 6자 겹침
             nt = norm_title(t)
             if nt and (q[:6] in nt or nt[:6] in q):
-                return ic
+                hit = (pid, ic); break
+    if not hit:
         return None
-    return None
+    pid, ic = hit
+    return {"icon": ic, "released": onestore_release(pid)}
+
+
+def _norm_cache(v):
+    """구(아이콘 문자열) 캐시 호환 → dict."""
+    if isinstance(v, str):
+        return {"icon": v}
+    return v if isinstance(v, dict) else {}
 
 
 def add_icons(charts):
-    """모든 국내스토어 행에 아이콘을 심는다(영구 캐시로 신규만 조회)."""
+    """모든 국내스토어 행에 아이콘+출시일을 심는다(영구 캐시로 신규/미보완만 조회)."""
     try:
         cache = json.load(open(ICON_CACHE, encoding="utf-8")) if os.path.exists(ICON_CACHE) else {}
     except Exception:
         cache = {}
-    # 캐시에 없는 고유 게임명만 수집
+    cache = {k: _norm_cache(v) for k, v in cache.items()}
+    # 캐시에 없거나 출시일이 아직 없는 고유 게임명만 조회(출시일 백필 포함)
     todo = {}
     for rows in charts.values():
         for it in rows:
             k = norm_title(it["name"])
-            if k and k not in cache and k not in todo:
+            if not k or k in todo:
+                continue
+            c = cache.get(k)
+            if c is None or not c.get("released"):
                 todo[k] = it["name"]
     if todo:
         keys = list(todo)
         with ThreadPoolExecutor(max_workers=4) as ex:
-            res = list(ex.map(lambda k: resolve_icon(todo[k]), keys))
-        for k, ic in zip(keys, res):
-            if ic:
-                cache[k] = ic
+            res = list(ex.map(lambda k: resolve_meta(todo[k]), keys))
+        for k, r in zip(keys, res):
+            if r and (r.get("icon") or r.get("released")):
+                prev = cache.get(k, {})
+                cache[k] = {"icon": r.get("icon") or prev.get("icon"),
+                            "released": r.get("released") or prev.get("released")}
         try:
             with open(ICON_CACHE, "w", encoding="utf-8") as f:
                 json.dump(cache, f, ensure_ascii=False, indent=0, sort_keys=True)
         except Exception:
             pass
-    got = 0
+    nic = nrel = 0
     for rows in charts.values():
         for it in rows:
-            ic = cache.get(norm_title(it["name"]))
-            if ic:
-                it["icon"] = ic
-                got += 1
-    print(f"원스토어 아이콘: {got}건 심음(신규조회 {len(todo)})", file=sys.stderr)
+            c = cache.get(norm_title(it["name"]))
+            if not c:
+                continue
+            if c.get("icon"):
+                it["icon"] = c["icon"]; nic += 1
+            if c.get("released"):
+                it["released"] = c["released"]; nrel += 1
+    print(f"원스토어 보강: 아이콘 {nic}·출시일 {nrel} 심음(신규조회 {len(todo)})", file=sys.stderr)
 
 # M1 rank json 의 (스토어, 차트) → repo 차트키. 갤럭시 '최고 매출'(공백) 표기 변형 모두 수용.
 STORE_MAP = [
