@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "collected_at": "2026-11-05 09:00",
+  "collected_at": "PUSH-TEST-marker",
   "source": "secretary-ocr",
   "charts": {
     "onestore_grossing": [
