@@ -64,6 +64,25 @@ function addrCountry(addr) {
 function sizedIcon(url, w = 48) {
   return (url && url.includes('googleusercontent.com')) ? url.replace(/=.*$/, '') + `=w${w}` : url;
 }
+// 원스토어 검색: 게임명으로 공개 검색페이지(SSR) 조회 → prodId/제목/개발사/아이콘(122x122) 추출.
+// 구글 플레이에 없는 원스토어 독점작(성인게임 등) 아이콘을 원스토어에서 직접 가져온다.
+const UA_DESKTOP = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36';
+async function onestoreSearch(name) {
+  const term = (name || '').replace(/\s*for\s*onestore/ig, '').replace(/\s*[•…]+.*$/, '').trim();
+  if (!term) return [];
+  const url = `https://m.onestore.co.kr/v2/ko-kr/search?keyword=${encodeURIComponent(term)}`;
+  const res = await fetch(url, { headers: { 'User-Agent': UA_DESKTOP } });
+  if (!res.ok) return [];
+  const html = await res.text();
+  // Next.js RSC 이스케이프 JSON의 상품 element에서 필드 추출
+  const re = /\\"prodId\\":\\"(\d+)\\"[\s\S]{0,600}?\\"title\\":\\"([^"\\]+)\\",\\"creator\\":\\"([^"\\]*)\\"[\s\S]{0,400}?\\"mainImageUrl\\":\\"(https:[^"\\]+?)\\"/g;
+  const items = [];
+  let m;
+  while ((m = re.exec(html)) && items.length < 8) {
+    items.push({ prodId: m[1], title: m[2], creator: m[3], icon: decodeURIComponent(m[4]) });
+  }
+  return items;
+}
 // 원스토어·갤럭시 게임명↔구글 플레이 매칭용 정규화
 const normName = (n) => (n || '').toLowerCase()
   .replace(/for\s*onestore|for\s*samsung/g, '').replace(/•••|\.\.\.|…/g, '')
@@ -164,8 +183,17 @@ async function main() {
       if (krSeen.has(it.id)) continue;
       krSeen.add(it.id);
       const m = meta[it.id];
+      if (m && m.icon) continue;
+      // 비서컴(한국 IP)이 원스토어에서 심어 보낸 아이콘이 행에 있으면 네트워크 없이 사용
+      if (it.icon) {
+        meta[it.id] = { ...(m || {}), icon: it.icon,
+          developer: (m && m.developer) || it.developer,
+          country: (m && m.country) || seedCountry(it.developer),
+          source: (m && m.source) || 'kr-onestore', title: (m && m.title) || it.name };
+        continue;
+      }
       // 아이콘 없는 항목만 검색(국적은 주소 미제공이라 Haiku 판별기(research)가 개발사명으로 채움)
-      if (!m || !m.icon) krItems.push({ id: it.id, name: it.name });
+      krItems.push({ id: it.id, name: it.name });
     }
   }
   if (krItems.length) {
@@ -198,6 +226,47 @@ async function main() {
       if (meta[id].country) gotCty++;
     });
     console.log(`국내스토어 매칭: 아이콘 ${gotIcon}, 국적 ${gotCty} / 대상 ${krItems.length}`);
+  }
+
+  // 원스토어 검색 폴백: 구글 매칭 후에도 아이콘 없는 국내스토어(원스토어·갤럭시) 행을 원스토어 검색으로 직접 보강.
+  // 아이콘은 스토어 무관 동일 앱 → 구글 플레이 미등록 독점작(성인게임 등)은 여기서만 채워진다.
+  {
+    const osItems = [], osSeen = new Set();
+    for (const key of Object.keys(snap.charts)) {
+      if (!(key.startsWith('onestore_') || key.startsWith('galaxy_'))) continue;
+      for (const it of snap.charts[key]) {
+        if (osSeen.has(it.id)) continue;
+        osSeen.add(it.id);
+        const m = meta[it.id];
+        if (!m || !m.icon) osItems.push({ id: it.id, name: it.name });
+      }
+    }
+    if (osItems.length) {
+      console.log(`원스토어 검색보강 대상 ${osItems.length}`);
+      const sleep = (ms) => new Promise((res) => setTimeout(res, ms));
+      const retry = async (fn, n = 3) => {
+        for (let i = 0; i < n; i++) { try { const v = await fn(); if (v) return v; } catch { /* throttle */ } await sleep(800 * (i + 1)); }
+        return null;
+      };
+      let got = 0;
+      await pool(osItems, 3, async ({ id, name }) => {
+        const q = normName(name);
+        if (!q) return;
+        const list = await retry(async () => { const x = await onestoreSearch(name); return x && x.length ? x : null; }) || [];
+        // 제목 정규화 일치(완전일치 우선, 없으면 앞 6자 접두 겹침)로 오매칭 방지
+        const hit = list.find((a) => normName(a.title) === q)
+          || list.find((a) => { const t = normName(a.title); return t && (t.includes(q.slice(0, 6)) || q.includes(t.slice(0, 6))); });
+        if (!hit || !hit.icon) return;
+        const prev = meta[id] || {};
+        meta[id] = { ...prev,
+          icon: prev.icon || hit.icon,
+          developer: prev.developer || hit.creator,
+          country: prev.country || seedCountry(hit.creator),
+          source: prev.source || 'kr-onestore', title: prev.title || hit.title };
+        if (meta[id].icon) got++;
+      });
+      console.log(`원스토어 검색보강: 아이콘 +${got} / 대상 ${osItems.length}`);
+    }
   }
 
   mkdirSync(DATA, { recursive: true });

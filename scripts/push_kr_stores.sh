@@ -37,13 +37,13 @@ if ! "$PY" scripts/import_kr_stores.py "$DATE" >> "$LOG" 2>&1; then
   exit 0
 fi
 
-if [ -z "$(git status --porcelain "data/kr_stores/$DATE.json")" ]; then
+if [ -z "$(git status --porcelain data/kr_stores/)" ]; then
   echo "[$(ts)] 변경 없음 $DATE" >> "$LOG"
   exit 0
 fi
 
-git add "data/kr_stores/$DATE.json"
-git commit -q -m "kr-stores: 원스토어·갤럭시 $DATE [skip ci]" >> "$LOG" 2>&1
+git add "data/kr_stores/$DATE.json" "data/kr_stores/_icons.json"
+git commit -q -m "kr-stores: 원스토어·갤럭시 $DATE (아이콘 포함) [skip ci]" >> "$LOG" 2>&1
 for i in 1 2 3; do
   git pull --rebase --autostash -q origin main >> "$LOG" 2>&1 \
     && git_push >> "$LOG" 2>&1 \

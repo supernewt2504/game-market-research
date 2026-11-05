@@ -14,9 +14,97 @@ import json
 import os
 import re
 import sys
+import urllib.parse
+import urllib.request
+from concurrent.futures import ThreadPoolExecutor
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT_DIR = os.path.join(ROOT, "data", "kr_stores")
+ICON_CACHE = os.path.join(OUT_DIR, "_icons.json")  # norm_title → 아이콘 URL (영구 캐시)
+
+# 원스토어 아이콘 해석: 비서컴(한국 IP)에서만 가능(원스토어가 비한국 IP 지역차단).
+# GitHub 러너는 여기서 행에 심은 icon 을 그대로 사용한다(네트워크 불필요).
+UA_DESKTOP = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+              "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36")
+_EL_RE = re.compile(
+    r'\\"prodId\\":\\"(\d+)\\"[\s\S]{0,600}?\\"title\\":\\"([^"\\]+)\\",'
+    r'\\"creator\\":\\"([^"\\]*)\\"[\s\S]{0,400}?\\"mainImageUrl\\":\\"(https:[^"\\]+?)\\"')
+
+
+def onestore_search(name):
+    """원스토어 공개 검색(SSR) → [(title, icon_url), ...] 상위 몇 건."""
+    term = re.sub(r"(?i)\s*for\s*onestore", "", name or "")
+    term = re.sub(r"\s*[•…]+.*$", "", term).strip()
+    if not term:
+        return []
+    url = "https://m.onestore.co.kr/v2/ko-kr/search?keyword=" + urllib.parse.quote(term)
+    req = urllib.request.Request(url, headers={"User-Agent": UA_DESKTOP})
+    try:
+        with urllib.request.urlopen(req, timeout=20) as r:
+            html = r.read().decode("utf-8", "replace")
+    except Exception:
+        return []
+    out = []
+    for m in _EL_RE.finditer(html):
+        out.append((m.group(2), urllib.parse.unquote(m.group(4))))
+        if len(out) >= 8:
+            break
+    return out
+
+
+def resolve_icon(name):
+    """게임명으로 원스토어 아이콘 1건 해석(제목 정규화 일치/접두 겹침). 실패 시 None."""
+    q = norm_title(name)
+    if not q:
+        return None
+    for _ in range(2):
+        items = onestore_search(name)
+        if not items:
+            continue
+        for t, ic in items:  # 완전일치 우선
+            if norm_title(t) == q:
+                return ic
+        for t, ic in items:  # 접두 6자 겹침
+            nt = norm_title(t)
+            if nt and (q[:6] in nt or nt[:6] in q):
+                return ic
+        return None
+    return None
+
+
+def add_icons(charts):
+    """모든 국내스토어 행에 아이콘을 심는다(영구 캐시로 신규만 조회)."""
+    try:
+        cache = json.load(open(ICON_CACHE, encoding="utf-8")) if os.path.exists(ICON_CACHE) else {}
+    except Exception:
+        cache = {}
+    # 캐시에 없는 고유 게임명만 수집
+    todo = {}
+    for rows in charts.values():
+        for it in rows:
+            k = norm_title(it["name"])
+            if k and k not in cache and k not in todo:
+                todo[k] = it["name"]
+    if todo:
+        keys = list(todo)
+        with ThreadPoolExecutor(max_workers=4) as ex:
+            res = list(ex.map(lambda k: resolve_icon(todo[k]), keys))
+        for k, ic in zip(keys, res):
+            if ic:
+                cache[k] = ic
+        try:
+            with open(ICON_CACHE, "w", encoding="utf-8") as f:
+                json.dump(cache, f, ensure_ascii=False, indent=0, sort_keys=True)
+        except Exception:
+            pass
+    got = 0
+    for rows in charts.values():
+        for it in rows:
+            ic = cache.get(norm_title(it["name"]))
+            if ic:
+                it["icon"] = ic
+                got += 1
+    print(f"원스토어 아이콘: {got}건 심음(신규조회 {len(todo)})", file=sys.stderr)
 
 # M1 rank json 의 (스토어, 차트) → repo 차트키. 갤럭시 '최고 매출'(공백) 표기 변형 모두 수용.
 STORE_MAP = [
@@ -107,6 +195,7 @@ def main():
         sys.exit(1)
 
     os.makedirs(OUT_DIR, exist_ok=True)
+    add_icons(charts)  # 원스토어 아이콘 심기(비서컴 한국 IP)
     out = {
         "date": date,
         "collected_at": src.get("collected_at", ""),
