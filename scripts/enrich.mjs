@@ -163,35 +163,41 @@ async function main() {
     for (const it of snap.charts[key]) {
       if (krSeen.has(it.id)) continue;
       krSeen.add(it.id);
-      if (!meta[it.id] || !meta[it.id].icon) krItems.push({ id: it.id, name: it.name });
+      const m = meta[it.id];
+      // 아이콘 없는 항목만 검색(국적은 주소 미제공이라 Haiku 판별기(research)가 개발사명으로 채움)
+      if (!m || !m.icon) krItems.push({ id: it.id, name: it.name });
     }
   }
   if (krItems.length) {
-    console.log(`국내스토어 아이콘 보강대상 ${krItems.length}`);
-    let got = 0;
+    console.log(`국내스토어 보강대상(아이콘/국적) ${krItems.length}`);
+    let gotIcon = 0, gotCty = 0;
     const sleep = (ms) => new Promise((res) => setTimeout(res, ms));
+    const retry = async (fn, n = 3) => {
+      for (let i = 0; i < n; i++) { try { const v = await fn(); if (v) return v; } catch { /* throttle */ } await sleep(1000 * (i + 1)); }
+      return null;
+    };
     await pool(krItems, 4, async ({ id, name }) => {
       const q = normName(name);
       if (!q) return;
-      // 과다호출 throttle 대응: 빈 결과/오류면 백오프 후 재시도
-      let r = [];
-      for (let attempt = 0; attempt < 3; attempt++) {
-        try { r = await g.search({ term: name, num: 3, country: 'kr', lang: 'ko' }); } catch { r = []; }
-        if (r && r.length) break;
-        await sleep(1200 * (attempt + 1));
-      }
+      const list = await retry(async () => { const x = await g.search({ term: name, num: 3, country: 'kr', lang: 'ko' }); return x && x.length ? x : null; }) || [];
       // 제목 정규화 일치(완전일치 우선, 없으면 앞 6자 접두 겹침)로 오매칭 방지
-      const hit = r.find((a) => normName(a.title) === q)
-        || r.find((a) => { const t = normName(a.title); return t && (t.includes(q.slice(0, 6)) || q.includes(t.slice(0, 6))); });
-      if (hit && hit.icon) {
-        meta[id] = { ...(meta[id] || {}), icon: sizedIcon(hit.icon, 48),
-          developer: (meta[id] && meta[id].developer) || hit.developer, url: hit.url,
-          country: (meta[id] && meta[id].country) || seedCountry(hit.developer),
-          source: 'kr-google-match', title: hit.title };
-        got++;
-      }
+      const hit = list.find((a) => normName(a.title) === q)
+        || list.find((a) => { const t = normName(a.title); return t && (t.includes(q.slice(0, 6)) || q.includes(t.slice(0, 6))); });
+      if (!hit || !hit.appId) return;
+      // 앱 상세로 개발사 주소(→국가)·런칭일·아이콘 확보
+      const a = await retry(async () => g.app({ appId: hit.appId, country: 'kr', lang: 'ko' }));
+      const prev = meta[id] || {};
+      meta[id] = { ...prev,
+        icon: prev.icon || sizedIcon((a && a.icon) || hit.icon, 48),
+        developer: prev.developer || (a && a.developer) || hit.developer,
+        country: prev.country || seedCountry((a && a.developer) || hit.developer) || addrCountry(a && a.developerAddress),
+        released: prev.released || (a ? normDate(a.released) : prev.released),
+        url: (a && a.url) || hit.url || prev.url,
+        appId: hit.appId, source: 'kr-google-match', title: (a && a.title) || hit.title };
+      if (meta[id].icon) gotIcon++;
+      if (meta[id].country) gotCty++;
     });
-    console.log(`국내스토어 아이콘 매칭: +${got}/${krItems.length}`);
+    console.log(`국내스토어 매칭: 아이콘 ${gotIcon}, 국적 ${gotCty} / 대상 ${krItems.length}`);
   }
 
   mkdirSync(DATA, { recursive: true });
