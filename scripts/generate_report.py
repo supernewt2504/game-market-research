@@ -40,6 +40,11 @@ CHART_META = [
     ("galaxy_popular", "갤럭시 스토어 · 인기순위", "🔵"),
     ("galaxy_grossing", "갤럭시 스토어 · 매출순위", "🔵"),
 ]
+# 차트키 접두 → 스토어 선택 탭 라벨
+STORE_LABELS = {"google": "구글 플레이", "apple": "App Store", "onestore": "원스토어", "galaxy": "갤럭시"}
+# 모든 스토어 표의 열 너비를 통일(table-layout:fixed 와 함께). 순위/변동/게임명/개발사/런칭일/비고
+COLGROUP = ('<colgroup><col style="width:46px"><col style="width:62px"><col style="width:250px">'
+            '<col style="width:150px"><col style="width:90px"><col style="width:200px"></colgroup>')
 CAT_COLORS = {"신규 오픈": "#188038", "컨텐츠 업데이트": "#1a73e8", "매출 이벤트": "#e8710a",
               "콜라보": "#6c3fd1", "시즌·패스": "#009688"}
 SHORT_COLORS = {"신규": "#188038", "업데이트": "#1a73e8", "이벤트": "#e8710a", "콜라보": "#6c3fd1", "시즌": "#009688"}
@@ -284,10 +289,11 @@ def render_table(title, icon, rows, meta, reasons_by_id, demo_keys, demo_details
             f'<td style="padding:7px 10px;font-size:12px;">{bigo_cell(row, reasons_by_id, demo_keys, demo_details, date, mode) if chart_key.endswith("grossing") else ""}</td>'
             f'</tr>')
     dtype = "grossing" if chart_key.endswith("grossing") else "popular"
-    return (f'<div class="chart-sec" data-type="{dtype}">'
+    store = chart_key.split("_")[0]  # google/apple/onestore/galaxy
+    return (f'<div class="chart-sec" data-type="{dtype}" data-store="{store}">'
             f'<h2 style="font-size:17px;color:#202124;margin:30px 0 10px;">{icon} {esc(title)}</h2>'
             f'<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;border:1px solid #e8eaed;border-radius:8px;">'
-            f'<table style="width:100%;min-width:680px;border-collapse:collapse;">{head}{"".join(trs)}</table></div>'
+            f'<table style="width:100%;min-width:798px;border-collapse:collapse;table-layout:fixed;">{COLGROUP}{head}{"".join(trs)}</table></div>'
             f'</div>')
 
 
@@ -416,22 +422,44 @@ def page_html(date, ct_kst, demo, diffed, meta, reasons_by_id, demo_keys, demo_d
 
     tabs, tabs_js = "", ""
     if mode != "email":
-        def _btn(tid, label, active):
+        def _btn(prefix, tid, label, fn, active=False):
             bg = "#202124" if active else "#fff"
             fg = "#fff" if active else "#5f6368"
-            return (f'<button id="tab-{tid}" onclick="showType(\'{tid}\')" '
+            return (f'<button id="{prefix}-{tid}" onclick="{fn}(\'{tid}\')" '
                     f'style="border:1px solid #dadce0;border-radius:20px;padding:6px 16px;font-size:13px;'
-                    f'font-weight:700;cursor:pointer;background:{bg};color:{fg};">{label}</button>')
+                    f'font-weight:700;cursor:pointer;background:{bg};color:{fg};">{esc(label)}</button>')
         date_sel = (f'<select id="dateSel" style="border:1px solid #dadce0;border-radius:20px;padding:6px 14px;'
                     f'font-size:13px;font-weight:700;color:#5f6368;background:#fff;cursor:pointer;">'
                     f'<option value="{date}" selected>📅 {date}</option></select>')
-        tabs = ('<div style="display:flex;gap:8px;margin:16px 0 4px;flex-wrap:wrap;align-items:center;">'
-                + date_sel + _btn("all", "전체", True) + _btn("popular", "인기순위", False)
-                + _btn("grossing", "매출순위", False) + '</div>')
-        tabs_js = ("<script>function showType(t){"
-                   "document.querySelectorAll('.chart-sec').forEach(function(s){s.style.display=(t==='all'||s.dataset.type===t)?'':'none';});"
-                   "['all','popular','grossing'].forEach(function(x){var b=document.getElementById('tab-'+x);"
-                   "if(b){b.style.background=(x===t)?'#202124':'#fff';b.style.color=(x===t)?'#fff':'#5f6368';}});}"
+        # 1행: 날짜 + 종류(전체/인기/매출)
+        type_row = ('<div style="display:flex;gap:8px;margin:16px 0 4px;flex-wrap:wrap;align-items:center;">'
+                    + date_sel + _btn("tab", "all", "전체", "showType", True)
+                    + _btn("tab", "popular", "인기순위", "showType")
+                    + _btn("tab", "grossing", "매출순위", "showType") + '</div>')
+        # 2행: 스토어 선택(이 리포트에 존재하는 스토어만)
+        present_stores = []
+        for k, _, _ in keys:
+            st = k.split("_")[0]
+            if st not in present_stores:
+                present_stores.append(st)
+        store_row = ""
+        if len(present_stores) > 1:
+            sb = _btn("st", "all", "전체", "showStore", True)
+            for st in present_stores:
+                sb += _btn("st", st, STORE_LABELS.get(st, st), "showStore")
+            store_row = ('<div style="display:flex;gap:8px;margin:2px 0 4px;flex-wrap:wrap;align-items:center;">'
+                         '<span style="font-size:12px;color:#80868b;font-weight:700;margin-right:4px;">스토어</span>'
+                         + sb + '</div>')
+        tabs = type_row + store_row
+        store_ids = json.dumps(["all"] + present_stores)
+        tabs_js = ("<script>var curType='all',curStore='all';"
+                   "function applyF(){document.querySelectorAll('.chart-sec').forEach(function(s){"
+                   "var okT=(curType==='all'||s.dataset.type===curType),okS=(curStore==='all'||s.dataset.store===curStore);"
+                   "s.style.display=(okT&&okS)?'':'none';});}"
+                   "function setA(p,ids,c){ids.forEach(function(x){var b=document.getElementById(p+'-'+x);"
+                   "if(b){b.style.background=(x===c)?'#202124':'#fff';b.style.color=(x===c)?'#fff':'#5f6368';}});}"
+                   "function showType(t){curType=t;setA('tab',['all','popular','grossing'],t);applyF();}"
+                   f"function showStore(s){{curStore=s;setA('st',{store_ids},s);applyF();}}"
                    f"fetch('../dates.json').then(function(r){{return r.json();}}).then(function(ds){{"
                    "var sel=document.getElementById('dateSel');if(!sel)return;sel.innerHTML='';"
                    f"ds.forEach(function(d){{var o=document.createElement('option');o.value=d;o.textContent='📅 '+d;if(d==='{date}')o.selected=true;sel.appendChild(o);}});"
