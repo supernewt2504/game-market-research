@@ -32,9 +32,18 @@ Homebrew가 없으면(공식 바이너리를 ~/bin 에):
 VER=$(curl -s https://api.github.com/repos/cli/cli/releases/latest | grep -m1 '"tag_name"' | sed -E 's/.*"v?([^"]+)".*/\1/')
 curl -fL -o /tmp/gh.zip "https://github.com/cli/cli/releases/download/v${VER}/gh_${VER}_macOS_arm64.zip"
 unzip -oq /tmp/gh.zip -d /tmp/ghext && mkdir -p ~/bin && cp /tmp/ghext/gh_${VER}_macOS_arm64/bin/gh ~/bin/gh && chmod +x ~/bin/gh
-~/bin/gh auth login
 ```
 (trigger.sh·launchd PATH는 `~/bin`도 탐색하므로 ~/bin 설치로 충분하다.)
+
+**인증 — 둘 중 하나 (★토큰 파일 방식 권장: launchd에서 키체인 없이 확실히 동작)**
+
+(A) 토큰 파일(권장): repo `game-market-research`에 **Contents: Read/Write + Actions: Read/Write** 권한의 fine-grained PAT 발급 후, 비서컴에서 히스토리에 안 남게 저장:
+```bash
+mkdir -p ~/.config && printf %s 'PAT값' > ~/.config/gh-token && chmod 600 ~/.config/gh-token
+```
+trigger.sh·push_kr_stores.sh 가 이 파일을 GH_TOKEN 으로 읽어 디스패치·git push 모두 처리한다(키체인 불필요).
+
+(B) gh 로그인: **비서컴 자체 Terminal**(SSH/다른 기기 아님)에서 `~/bin/gh auth login` → GitHub.com → HTTPS → "Authenticate Git … Yes" → 브라우저/디바이스코드. `~/bin/gh auth status` 로 확인. (launchd GUI 세션 키체인 접근이 막히면 (A)로 전환.)
 - 인증 토큰은 비서컴 밖으로 나가지 않는다.
 - (대안) 무인 안정성을 위해 세분화 PAT를 쓰려면: repo `game-market-research` / 권한 **Actions: Read and write**로 발급 후
   `echo <PAT> | gh auth login --with-token`.

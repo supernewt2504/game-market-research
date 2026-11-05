@@ -11,6 +11,20 @@ PY="$(command -v python3 || echo /usr/bin/python3)"
 ts(){ date '+%F %T %Z'; }
 mkdir -p "$(dirname "$LOG")"
 
+# 토큰 파일이 있으면 GH_TOKEN 으로 사용(launchd에서 키체인 없이 git push 가능).
+[ -f "$HOME/.config/gh-token" ] && export GH_TOKEN="$(tr -d '[:space:]' < "$HOME/.config/gh-token")"
+
+# GH_TOKEN 있으면 그 토큰으로, 없으면 git 기본 자격증명으로 push.
+git_push() {
+  if [ -n "${GH_TOKEN:-}" ]; then
+    git -c credential.helper= \
+        -c credential.helper='!f(){ test "$1" = get && printf "username=x-access-token\npassword=%s\n" "$GH_TOKEN"; }; f' \
+        push -q origin HEAD:main
+  else
+    git push -q origin HEAD:main
+  fi
+}
+
 cd "$REPO" 2>/dev/null || { echo "[$(ts)] repo 없음: $REPO" >> "$LOG"; exit 1; }
 # 커밋 신원(로컬에 없으면 설정)
 git config user.email >/dev/null 2>&1 || git config user.email "dragonewt@supernewt.co.kr"
@@ -32,7 +46,7 @@ git add "data/kr_stores/$DATE.json"
 git commit -q -m "kr-stores: 원스토어·갤럭시 $DATE [skip ci]" >> "$LOG" 2>&1
 for i in 1 2 3; do
   git pull --rebase --autostash -q origin main >> "$LOG" 2>&1 \
-    && git push -q origin HEAD:main >> "$LOG" 2>&1 \
+    && git_push >> "$LOG" 2>&1 \
     && { echo "[$(ts)] push 성공 $DATE" >> "$LOG"; exit 0; }
   echo "[$(ts)] push 재시도 $i/3" >> "$LOG"; sleep 10
 done

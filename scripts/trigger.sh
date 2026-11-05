@@ -21,6 +21,9 @@ GH="$(command -v gh || true)"
 mkdir -p "$(dirname "$LOG")"
 ts(){ date '+%F %T %Z'; }
 
+# 토큰 파일이 있으면 GH_TOKEN 으로 사용(launchd에서 키체인 접근 없이 동작). 없으면 gh 자체 인증(keychain) 사용.
+[ -f "$HOME/.config/gh-token" ] && export GH_TOKEN="$(tr -d '[:space:]' < "$HOME/.config/gh-token")"
+
 if [ -z "$GH" ]; then
   echo "[$(ts)] ERROR: gh CLI 없음 — 'brew install gh' 후 'gh auth login' 필요 ($WF)" >> "$LOG"
   exit 127
