@@ -64,6 +64,10 @@ function addrCountry(addr) {
 function sizedIcon(url, w = 48) {
   return (url && url.includes('googleusercontent.com')) ? url.replace(/=.*$/, '') + `=w${w}` : url;
 }
+// 원스토어·갤럭시 게임명↔구글 플레이 매칭용 정규화
+const normName = (n) => (n || '').toLowerCase()
+  .replace(/for\s*onestore|for\s*samsung/g, '').replace(/•••|\.\.\.|…/g, '')
+  .replace(/[^0-9a-z가-힣]/g, '');
 function normDate(s) {
   if (!s) return null;
   // ISO (Apple)
@@ -151,6 +155,44 @@ async function main() {
   });
   // Apple: lookup 배치
   if (needApple.length) await appleLookup(needApple, meta);
+
+  // 원스토어·갤럭시: 앱ID가 없으므로 게임명으로 Google Play 검색해 아이콘 보강(캐시: 합성 id)
+  const krItems = [], krSeen = new Set();
+  for (const key of Object.keys(snap.charts)) {
+    if (!(key.startsWith('onestore_') || key.startsWith('galaxy_'))) continue;
+    for (const it of snap.charts[key]) {
+      if (krSeen.has(it.id)) continue;
+      krSeen.add(it.id);
+      if (!meta[it.id] || !meta[it.id].icon) krItems.push({ id: it.id, name: it.name });
+    }
+  }
+  if (krItems.length) {
+    console.log(`국내스토어 아이콘 보강대상 ${krItems.length}`);
+    let got = 0;
+    const sleep = (ms) => new Promise((res) => setTimeout(res, ms));
+    await pool(krItems, 4, async ({ id, name }) => {
+      const q = normName(name);
+      if (!q) return;
+      // 과다호출 throttle 대응: 빈 결과/오류면 백오프 후 재시도
+      let r = [];
+      for (let attempt = 0; attempt < 3; attempt++) {
+        try { r = await g.search({ term: name, num: 3, country: 'kr', lang: 'ko' }); } catch { r = []; }
+        if (r && r.length) break;
+        await sleep(1200 * (attempt + 1));
+      }
+      // 제목 정규화 일치(완전일치 우선, 없으면 앞 6자 접두 겹침)로 오매칭 방지
+      const hit = r.find((a) => normName(a.title) === q)
+        || r.find((a) => { const t = normName(a.title); return t && (t.includes(q.slice(0, 6)) || q.includes(t.slice(0, 6))); });
+      if (hit && hit.icon) {
+        meta[id] = { ...(meta[id] || {}), icon: sizedIcon(hit.icon, 48),
+          developer: (meta[id] && meta[id].developer) || hit.developer, url: hit.url,
+          country: (meta[id] && meta[id].country) || seedCountry(hit.developer),
+          source: 'kr-google-match', title: hit.title };
+        got++;
+      }
+    });
+    console.log(`국내스토어 아이콘 매칭: +${got}/${krItems.length}`);
+  }
 
   mkdirSync(DATA, { recursive: true });
   writeFileSync(metaPath, JSON.stringify(meta, null, 2), 'utf-8');

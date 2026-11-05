@@ -3656,5 +3656,2189 @@
     "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/45/d5/2245d546-6261-6cd7-1b58-29c116319ebc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
+  },
+  "one:창세기전모바일서풍의광시곡": {
+    "icon": "https://play-lh.googleusercontent.com/Az6KQx3w5yZzj2kvz073mTO0JomOTiDmarn_dmwyoLwnRsLSEJovK_rkTYy29WB5kaxZsOefwG6nv1i-iuZbtw=w48",
+    "developer": "LINE Games",
+    "url": "https://play.google.com/store/apps/details?id=com.linegames.gm",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "창세기전 모바일 - 서풍의 광시곡"
+  },
+  "one:컴투스프로야구v26": {
+    "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY=w48",
+    "developer": "Com2uS",
+    "url": "https://play.google.com/store/apps/details?id=com.com2us.futurecpb.android.google.global.normal",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "컴투스프로야구V26"
+  },
+  "one:컴투스프로야구2026": {
+    "icon": "https://play-lh.googleusercontent.com/USu399MNae-G38uLpGuxcquzIG4c7EM2WfNDa0g_fKIuiPHHMFyL_SIcUO4LhxeWhxJahTEIREeZ_iwnD7_qxA=w48",
+    "developer": "Com2uS",
+    "url": "https://play.google.com/store/apps/details?id=com.com2us.probaseball3d.normal.freefull.google.global.android.common",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "컴투스프로야구2026"
+  },
+  "one:나이트크로우": {
+    "icon": "https://play-lh.googleusercontent.com/OmmrYyYORMkonxxUu7BR6sl7vdzLgT1mcoysiJUIrwb_6JmF8j7vjXQ7oC_HOTLsoUOIMPGmoHNHVBC8QbqTrQ=w48",
+    "developer": "Wemade Co., Ltd",
+    "url": "https://play.google.com/store/apps/details?id=com.wemade.nightcrows",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "나이트 크로우"
+  },
+  "one:후더덕서바이벌": {
+    "icon": "https://play-lh.googleusercontent.com/rDbVN_XC0pxpQMgTMRD9n7et-PpV5PFfF-jS86jBpkKkiSx2kPrvN65t_XlY5V4sHQvbL1RxT05eMJIXksDXoA=w48",
+    "developer": "Joy Nice Games",
+    "url": "https://play.google.com/store/apps/details?id=com.mrtgd2kr.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "후더덕 서바이벌-777뽑기 증정"
+  },
+  "one:fc온라인m": {
+    "icon": "https://play-lh.googleusercontent.com/7Qd9rIuWR2S_X6sUQ9MXMUahaxcI0q0J_EyxBpodBgYLedWqyXZnDihA_J5HV928vo-DaQtNJHD2MmyYdPEd=w48",
+    "developer": "NEXON Company",
+    "url": "https://play.google.com/store/apps/details?id=com.nexon.fo4m",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "FC 온라인 M"
+  },
+  "one:열혈강호넥스트": {
+    "icon": "https://play-lh.googleusercontent.com/ct9hCP6C7NRwwTT3p-eIRLAJHMYuK2k2kO0tC6nc8YUCwgRos5tOuzfKmflfPOwQdfJiuNHkmifu0lhVcEmY=w48",
+    "developer": "Kingnet Technology Limited",
+    "url": "https://play.google.com/store/apps/details?id=com.rxjhglkr.gp",
+    "country": "US",
+    "source": "kr-google-match",
+    "title": "열혈강호: 넥스트"
+  },
+  "one:라스트어사일럼페스트": {
+    "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP=w48",
+    "developer": "37GAMES GLOBAL",
+    "url": "https://play.google.com/store/apps/details?id=com.phs.global",
+    "country": "CN",
+    "source": "kr-google-match",
+    "title": "라스트 어사일럼: 페스트"
+  },
+  "one:갓깨비키우기999뽑기증정": {
+    "icon": "https://play-lh.googleusercontent.com/vre365L9Y_XIpaTg56Mqa3Oraobas7RMsHl52ZJuyyShZNWdPg8fbkQjWCHu1hTJ0TE4DaY_vbuDUkUi9u8P=w48",
+    "developer": "Joy Nice Games",
+    "url": "https://play.google.com/store/apps/details?id=com.zzsjkr.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "갓깨비 키우기-999뽑기 증정"
+  },
+  "one:mlb9이닝스26": {
+    "icon": "https://play-lh.googleusercontent.com/ltiGaRjBglanp6J3YAj14PoM0kr3dYie8vpaQaLnJPR0lBHuJUGTodRMi6fbBeO2islilB5Eb_OtzRnmc4mo=w48",
+    "developer": "Com2uS",
+    "url": "https://play.google.com/store/apps/details?id=com.com2us.ninepb3d.normal.freefull.google.global.android.common",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "MLB 9이닝스 26"
+  },
+  "one:캣히어로방치형rpg": {
+    "icon": "https://play-lh.googleusercontent.com/QfQrxylW8hLlAlO7paLKuKYdZW4QYuCvQpVxT88Su-GjOzvwXNqUkbeEyAUfBvQqQgEa8JljK1nlucux_tLL=w48",
+    "developer": "Gameduo",
+    "url": "https://play.google.com/store/apps/details?id=net.gameduo.gv",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "캣 히어로 : 방치형 RPG"
+  },
+  "one:디아블로이모탈": {
+    "icon": "https://play-lh.googleusercontent.com/jC3xodZqgzg7tbfY7cTcv22a435MMKC6qMXJesy7nqJmWUe0XMJKC9h9hegwybBRQqHlxAV5_PVS9rNLyBTYC54=w48",
+    "developer": "Blizzard Entertainment, Inc.",
+    "url": "https://play.google.com/store/apps/details?id=com.blizzard.diablo.immortal",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "디아블로 이모탈"
+  },
+  "one:삼국지천하결전": {
+    "icon": "https://play-lh.googleusercontent.com/rG1RyXnhrSZk0-Huvu-x4lLJivzk5QgQ2w9-5LYFHGUsEJG2suk-SbLFT7Nkuz99Y56lXBkKfRudyoUWthbY=w48",
+    "developer": "BILIBILI",
+    "url": "https://play.google.com/store/apps/details?id=com.bhk.newslgkr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "삼국지: 천하결전"
+  },
+  "one:미르4": {
+    "icon": "https://play-lh.googleusercontent.com/YLeIFWtfgpPjohgF78GkZEX05vJJP3_YcypT_PkjtJNZsojfl-8r2bVt0epHG_FhvhBEVPBHNkgPG2zmtASd9w=w48",
+    "developer": "Wemade Co., Ltd",
+    "url": "https://play.google.com/store/apps/details?id=com.wemade.mir4",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "미르4"
+  },
+  "one:탑플레이어포커바카라블랙잭슬롯": {
+    "icon": "https://play-lh.googleusercontent.com/aLxWve4iUOmbsm0j5i2x1994SKjxYgqXvd3fQI92TON1xBSUD9DB8RQ6Pf8EJQj-Ng4GYq74MlvCx4Ab4rJigjM=w48",
+    "developer": "404CONNECT Inc.",
+    "url": "https://play.google.com/store/apps/details?id=com.xtreegames.TPP",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "탑 플레이어 포커- 바카라 블랙잭 슬롯 홀덤 로우바둑이"
+  },
+  "one:퍼즐오브z": {
+    "icon": "https://play-lh.googleusercontent.com/avcK8XZwrVNYHfRnPspGYRhO2WXQFLud9ksPRUEV3qguhCzgql-UoFOkAMrAyAu93dI3_eBtpiKSO_y36dxOZyo=w48",
+    "developer": "BLANCOZONE NETWORK CO., LIMITED",
+    "url": "https://play.google.com/store/apps/details?id=com.global.ztmslgkr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "퍼즐 오브 Z"
+  },
+  "one:아레스라이즈오브가디언즈": {
+    "icon": "https://play-lh.googleusercontent.com/05fpGpriOQpOiWfSNJ8aYYxmqJY-64gKhhQFYgIBx-2qNjoDkWZLuSfhpCXdLvWsczunqNj2W2jNyNqbVPd1=w48",
+    "developer": "Kakao Games Corp.",
+    "url": "https://play.google.com/store/apps/details?id=com.kakaogames.ares",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "아레스 : 라이즈 오브 가디언즈"
+  },
+  "one:오늘의꽃": {
+    "icon": "https://play-lh.googleusercontent.com/cg1-R8XG0O9Ok4XFvhzNked6xAl63XQn4N4BLx1X685DD9JsmmYzfNDSn9p2pm9gDNZXdBErMPq05Z5IKXJDgg=w48",
+    "developer": "Ujoy Games",
+    "url": "https://play.google.com/store/apps/details?id=com.ujoygp.flower",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "오늘의 꽃"
+  },
+  "one:버섯커키우기3000뽑기증정": {
+    "icon": "https://play-lh.googleusercontent.com/zVjbB_Xbvz5NKa62vgR-1v_Y60zaV9Y7F6V8u86IStGWSBNEcEpmtPpx0N8NbvObb0fUbDO0xEQXMekZJpWe3g=w48",
+    "developer": "Joy Nice Games",
+    "url": "https://play.google.com/store/apps/details?id=com.mxdzzkr.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "버섯커 키우기-3000뽑기 증정"
+  },
+  "one:한게임포커7포커바둑": {
+    "icon": "https://play-lh.googleusercontent.com/Imi0dOs8mMcOxNvc4MGXbfdG1QNKgE70v1DYU4GTIXPlbCy5RGoC-XjBRdEwvb-jDGXAXFj9j43c7flORYphv7I=w48",
+    "developer": "NHN Corp.",
+    "url": "https://play.google.com/store/apps/details?id=com.nhnent.Qpoker",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "한게임 포커"
+  },
+  "one:오피스퀸키우기": {
+    "icon": "https://play-lh.googleusercontent.com/aFm66z3PJo9SXRnSq-xXrJSyDXwBR3DSDY4gCvsoaTqRNWqxG7lDA5dJmOb6pHft-MrsLwTrU5aV9TcLuBFZSlE=w48",
+    "developer": "WISH INTERACTIVE TECHNOLOGY LIMITED",
+    "url": "https://play.google.com/store/apps/details?id=com.gf.wafh5krkr.hwyad.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "오피스 퀸 키우기"
+  },
+  "one:그놈은드래곤": {
+    "icon": "https://play-lh.googleusercontent.com/kxqm89jGpPR_rQgkItp-3z_iiTKqGyANOy_hX5FnMLdUGnrXCzIoUJQbjKooLliIVJSdifkA7k8l_7zJ18c5SA=w48",
+    "developer": "HongKong GameTree Limited",
+    "url": "https://play.google.com/store/apps/details?id=com.gametree.lhlr.gp",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "그놈은 드래곤"
+  },
+  "one:로그w리메인즈오브갓": {
+    "icon": "https://play-lh.googleusercontent.com/wPufQAobuu_bMHJyHAmyZLteiFXFFfGyr_II-agf6JMw518mjIbDzFdR3LXbuKvT12TQ2kPvjRvLN-nyJ8NAyA=w48",
+    "developer": "Efun Company",
+    "url": "https://play.google.com/store/apps/details?id=com.krd8.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "로그W : 리메인즈 오브 갓"
+  },
+  "one:마피아42": {
+    "icon": "https://play-lh.googleusercontent.com/WDmskcXWZg3KGLKdTd4DOAmMCfO3fuV7J3-074To22GFvVaFVE3Nyu-RJdVTrG4hqMD7AK5oKm3-0uzhj80cWzs=w48",
+    "developer": "TEAM42",
+    "url": "https://play.google.com/store/apps/details?id=com.sopt.mafia42.client",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "마피아42"
+  },
+  "one:에브리타운잔망루피콜라보레이션": {
+    "icon": "https://play-lh.googleusercontent.com/L2z5qt1PFaohOU1Y2U0-a1liI5Si17JZfzy8Ct9IBfzVdMd9giMxefCXju0A4BtZZLi7Ch4jzIn0tesgSGdn9A=w48",
+    "developer": "Wemade Connect",
+    "url": "https://play.google.com/store/apps/details?id=kr.co.feverstudio.apps.everytown",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "에브리타운 : 잔망루피 콜라보레이션"
+  },
+  "one:뮤모나크2": {
+    "icon": "https://play-lh.googleusercontent.com/qnZL-Cen0ZiuBaJFSRkJsW1shxOLzMjGnZUDFRvnPit9WizZ3TiHrq2BFJwtDcnFO-Qk1M4wdxf4gVVZ0fta3g=w48",
+    "developer": "Webzen Inc.",
+    "url": "https://play.google.com/store/apps/details?id=com.webzen.mumonarch2.google",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "뮤 모나크2"
+  },
+  "one:킹덤2타오르는전장": {
+    "icon": "https://play-lh.googleusercontent.com/e9fghg-B6E_QuhMmyW8PIyYCE8uVv78HaEEtPh7E1BMpEvoBRONp5IEvSiDGJ9GlX6VQkOKtIa8Jk8r9m5uZ3Pw=w48",
+    "developer": "FOW Games",
+    "url": "https://play.google.com/store/apps/details?id=com.fowgames.kingdom2",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "킹덤2: 타오르는 전장"
+  },
+  "one:블루아카이브": {
+    "icon": "https://play-lh.googleusercontent.com/vlVAv0UGD-knTIap84gJDkKZlnZjzhgYdAU3W6mRVkzIjc-rxtRcy5EHud3Om2haqzqW9-73AjYnYiuSluy39S4=w48",
+    "developer": "NEXON Company",
+    "url": "https://play.google.com/store/apps/details?id=com.nexon.bluearchive",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "블루 아카이브"
+  },
+  "one:아키텍트랜드오브엑자일": {
+    "icon": "https://play-lh.googleusercontent.com/14-XxuLjk7eu2EfkeJ41qz3dcSUgWdfE517sYAbmbQtK8czfG_FP7uiWAW6DGabyavmIRv9uG45xC-VQe3LuUw=w48",
+    "developer": "DRIMAGE Co., Ltd",
+    "url": "https://play.google.com/store/apps/details?id=com.hybeim.architect",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "아키텍트: 랜드 오브 엑자일"
+  },
+  "one:에버나이트리버스": {
+    "icon": "https://play-lh.googleusercontent.com/XJBbIgPZfySq7txP8LzUVESgiieGgnRElQYwp89y3YyVuji7AWOpoG-oGARUYIyhAZILmS98BrrhBp-Wxo_n=w48",
+    "developer": "Hong Kong Longsin Co., Ltd.",
+    "url": "https://play.google.com/store/apps/details?id=com.yyjlkr.az",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "에버나이트: 리버스"
+  },
+  "one:귀판오분전444뽑기증정": {
+    "icon": "https://play-lh.googleusercontent.com/iaRgmhQ12dAg5jpzWzyR312KtwlvHxHMiGCDcj0FauwnJTtoSZSVRSj-TKo6S0Kl3SQ6s7PZjueZDMC909tbJnk=w48",
+    "developer": "Joy Nice Games",
+    "url": "https://play.google.com/store/apps/details?id=com.ygjszkr.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "귀판오분전-444뽑기 증정"
+  },
+  "one:좀비웨이브스": {
+    "icon": "https://play-lh.googleusercontent.com/n_PJuIJizHA7kBRTmziDHlVOttvhMFjboIfuAdj1hd7wjggoc2VDLFt3cL_KlJ7NIADxa0jqnLZUOnNJPH5Q=w48",
+    "developer": "Fun Formula",
+    "url": "https://play.google.com/store/apps/details?id=com.ddup.zombiewaves.zw",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "좀비 웨이브스"
+  },
+  "one:2026프로야구go": {
+    "icon": "https://play-lh.googleusercontent.com/R2aEIXiVL_Zs07_XCpViKsze6-BA8AneOvl3vVNHkzSBJ0ts3uA-xxAC9jyZYgFQUeiOd2PEcFoTaZEOXBcSd3w=w48",
+    "developer": "HAEGIN Co., Ltd.",
+    "url": "https://play.google.com/store/apps/details?id=com.haegin.kbo",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "2026 프로야구GO!"
+  },
+  "one:레전드오브이미르": {
+    "icon": "https://play-lh.googleusercontent.com/KdDznjfLLxN7d5z8QHmgCIAKe5QN_h52f7PPC6tefI2tfd7dGDT1c2odZnyEBUlpq6KPWod9O92wqRjrh1H8Hw=w48",
+    "developer": "Wemade Co., Ltd",
+    "url": "https://play.google.com/store/apps/details?id=com.wemade.ymir",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "레전드 오브 이미르"
+  },
+  "one:인생존망겜": {
+    "icon": "https://play-lh.googleusercontent.com/HcK8j0gkwe07w9TM_cPUmD0H3FLzgq9YhJLFTEVovusqdapM0UFVEcE6TpE5PX6EbDQGUXdP-cxnFCUrrXSZHg=w48",
+    "developer": "37GAMES",
+    "url": "https://play.google.com/store/apps/details?id=com.global.sgdbzkr",
+    "country": "CN",
+    "source": "kr-google-match",
+    "title": "인생존망겜"
+  },
+  "one:삼국지전략판": {
+    "icon": "https://play-lh.googleusercontent.com/kimpPr9QPMtL8fa-vsn3baNKIjutXCprwCfAajBnkaIHU34p7xQYzYaXfN137DFu_43qkuWxjTYqDOMun_02=w48",
+    "developer": "QOOKKA GAMES",
+    "url": "https://play.google.com/store/apps/details?id=com.qookkagame.sgzzlb.gp.kr",
+    "country": "CN",
+    "source": "kr-google-match",
+    "title": "삼국지 전략판"
+  },
+  "one:프리스톤테일m": {
+    "icon": "https://play-lh.googleusercontent.com/-g3VVrk2AdaYVHml5Hnqoin7H1Fg0yUGy4DaHlo7qflCEWCza8bSpO6J28-Eol3TU2jhOZ1QWYV7R1b_x31VSw=w48",
+    "developer": "FOW Games",
+    "url": "https://play.google.com/store/apps/details?id=com.fowgames.pristontalem",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "프리스톤테일M"
+  },
+  "one:컴투스프로야구for매니저live2026": {
+    "icon": "https://play-lh.googleusercontent.com/OBfpREf8LqsMec7E4vySZd8trlhrrhVEguF4wGAU0HoPh2piisMkPerXyRDZ_NiXiUW0MVPwZ3LdOw8yxzg_=w48",
+    "developer": "Com2uS",
+    "url": "https://play.google.com/store/apps/details?id=com.com2us.kbomanager.normal2.freefull.google.global.android.common",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "컴투스프로야구매니저 LIVE 2026"
+  },
+  "one:삼국지러쉬origins타워디펜스": {
+    "icon": "https://play-lh.googleusercontent.com/h0D70a3sXi8oV8su_L6HFVx-lUDlWKpOQ3xxahIPqqzvaVMZuqCsSl3FmV2PhyD5aO3iMs79S0ZhVCmboAqjjw=w48",
+    "developer": "Amazing Cat Interactive Entertainment Technology",
+    "url": "https://play.google.com/store/apps/details?id=com.amazingcat.srotd.kr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "삼국지 러쉬 Origins : 타워 디펜스"
+  },
+  "one:쿠키런키우기쿠키런크럼블": {
+    "icon": "https://play-lh.googleusercontent.com/J2vWNQT3sCqTzkmkSMVcq8y-X3V4LXv7Z_mL95REkMSiLMkzteR3TRzF2j3CyV1fENiJ3CTy-AcAjN5lA1Tlpg=w48",
+    "developer": "Devsisters Corporation",
+    "url": "https://play.google.com/store/apps/details?id=com.devsisters.cc",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "쿠키런 키우기 - 쿠키런: 크럼블"
+  },
+  "one:레알팜": {
+    "icon": "https://play-lh.googleusercontent.com/Qg3wLp9LscJKzIVISOuhzRVS80w1dzmFsHO0GNq4rwxho_8kK8ypT2Ud3sKNebt_-9fx1Fr35idp5T1kDO7i=w48",
+    "developer": "NEOGAMES",
+    "url": "https://play.google.com/store/apps/details?id=kr.neogames.realfarm",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "레알팜 : 진짜 농부를 만나는 게임"
+  },
+  "one:히어로즈테일즈2": {
+    "icon": "https://play-lh.googleusercontent.com/2J2FHDZ4Uj7CklJMCv8sPjVi7AS0VHcGFNJ5zwp8DqZMut7Pe9tXX9nrmamhGgL5Nsn8AMi9uvp-NCupG1VJ4w=w48",
+    "developer": "37 Mobile Games",
+    "url": "https://play.google.com/store/apps/details?id=com.tg.ysczg.kr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "히어로즈 테일즈2"
+  },
+  "one:갑부장사의시대": {
+    "icon": "https://play-lh.googleusercontent.com/2SDMJ16666DlVIOvLeTPavhoJIp30HcBZKunFy27mt-pTY0nxl_oCw2m2mPXP8Khk1gkuGeAroQeDkJprnkdlg=w48",
+    "developer": "BLANCOZONE NETWORK KOREA",
+    "url": "https://play.google.com/store/apps/details?id=com.global.dzgkr.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "갑부: 장사의 시대"
+  },
+  "one:더코지플로리스트": {
+    "icon": "https://play-lh.googleusercontent.com/2w-_mDOdOXeohTF2upTwGmliD0hnzFTM9RmHOyyFNZaLD96zU8-9fFvoWH_tiSsGWMcwt14xcjOFNpk1rUp_=w48",
+    "developer": "Riftsky Games",
+    "url": "https://play.google.com/store/apps/details?id=com.riftsky.mhg.kr.gp",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "더 코지 플로리스트"
+  },
+  "one:천년어게인": {
+    "icon": "https://play-lh.googleusercontent.com/bUJXH1UCZ-0lmkkx58S39fVy4CLg6Kr7dYwQIxs4qDXDzA2IydID0Ar6PW9M9DU4cQY3naFdC_1vAz_a5r-OeJg=w48",
+    "developer": "VFive Games Co.,Ltd.",
+    "url": "https://play.google.com/store/apps/details?id=com.vfg.v1000y.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "천년 어게인"
+  },
+  "one:한게임포커클래식7포": {
+    "icon": "https://play-lh.googleusercontent.com/Hv-D0Heegr2EW_eyGcfNv-HzI_WRrjxMqnN575pY17XaRfXA4wjmAtTwWsO_ON6WqVtTP0ajH2bKKRDx6CNXhQ=w48",
+    "developer": "NHN Corp.",
+    "url": "https://play.google.com/store/apps/details?id=com.nhnent.pokerclassic",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯"
+  },
+  "one:궁3d": {
+    "icon": "https://play-lh.googleusercontent.com/FuSfji26M9qLCwRbr2yNshMOJhVrQZ3_-cODNzMWv875-xlFFch8FF9PinMOGlUmTty7qGLo87T-7E-08lbo9Q=w48",
+    "developer": "WISH INTERACTIVE TECHNOLOGY LIMITED",
+    "url": "https://play.google.com/store/apps/details?id=com.gf.p5krkr.hwyad.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "궁3D"
+  },
+  "one:대항해의길": {
+    "icon": "https://play-lh.googleusercontent.com/NS4Nxu_7bT3H-_VEjlNWJIH2CgDlevKoCa_tKoaSG5gyijiE0jfBYM_IaW3sxDADXuYyONJxcDipbRU9XQqYqg=w48",
+    "developer": "Linekong Korea Co. Ltd.",
+    "url": "https://play.google.com/store/apps/details?id=com.netease.dhhzlggkr",
+    "country": "US",
+    "source": "kr-google-match",
+    "title": "대항해의길"
+  },
+  "one:드래곤빌리지": {
+    "icon": "https://play-lh.googleusercontent.com/_Svjqp9NQbxG0Iukf_1YAqwhd_8cOa6srqnW6rjQPCDCiC7wICVCfAkPa2zs2q6x4-CcvY57WGSKNVG8m5JaZNU=w48",
+    "developer": "highbrow",
+    "url": "https://play.google.com/store/apps/details?id=com.highbrow.game",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "드래곤빌리지"
+  },
+  "one:드래곤빌리지3": {
+    "icon": "https://play-lh.googleusercontent.com/Ub7Hbq1LusnGf9lR0Spth7mxCzByqE22z9MEBwK--PP1fuh96JazHOboiMADc7Yl1drd8axAa0kOoUyTDy0v=w48",
+    "developer": "highbrow",
+    "url": "https://play.google.com/store/apps/details?id=com.highbrow.games.dvo",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "드래곤빌리지3"
+  },
+  "one:무림소녀키우기리바이브": {
+    "icon": "https://play-lh.googleusercontent.com/BwGh5WbtIwoOShFRc7w1gksajPrL96DhvlMzFerT0gkqShEZtNfZ_OhAXRxDg9EOsRAicZOBcIm_u_IR6jQxrA=w48",
+    "developer": "Game2gather",
+    "url": "https://play.google.com/store/apps/details?id=com.game2gather.mgr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "무림소녀 키우기: 리바이브"
+  },
+  "one:호라이즌워커": {
+    "icon": "https://play-lh.googleusercontent.com/nSFkYzj_46ZJE-keeV6ezjMdAm-m1CysaTBWEXs89RGxdSg3G0dD6QPu0PAwIF92oE54J28PXrZuCAxZXoJyWg=w48",
+    "developer": "젠틀매니악",
+    "url": "https://play.google.com/store/apps/details?id=com.GentleManiac.HorizonWalkerGoogle",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "호라이즌 워커"
+  },
+  "one:기적의검": {
+    "icon": "https://play-lh.googleusercontent.com/pIKDJoBa4gLJjYE7EvihiHAw3oh-FkRnJBp5VRdPMYHka0dmZEmH_xJnzAkcOKNiqksPS5oPQu_ghkJ4H1kX=w48",
+    "developer": "4399 KOREA",
+    "url": "https://play.google.com/store/apps/details?id=com.qjzj4399kr.google",
+    "country": "CN",
+    "source": "kr-google-match",
+    "title": "기적의 검"
+  },
+  "one:에이지오브엠파이어모바일": {
+    "icon": "https://play-lh.googleusercontent.com/FsrJ4G5spS_npOfZQK6Y-lggN4mxUVpSgqZt15v3Cb4MHukPsQes4e75ruMrIbldET-J4tHJqTmjdSmOl3ldQQ=w48",
+    "developer": "Level Infinite",
+    "url": "https://play.google.com/store/apps/details?id=com.proximabeta.aoemobile",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "에이지 오브 엠파이어 모바일"
+  },
+  "one:황제의꿈": {
+    "icon": "https://play-lh.googleusercontent.com/LFKIhbJdqJAD8jsJ_IJn7xnTshaP7HKnmUTyrVX-Mq_fBjajNv2Hn9vG8uJPBZlLl1ywCKxEYZCSSc80H6jOIns=w48",
+    "developer": "彩蛋遊戲",
+    "url": "https://play.google.com/store/apps/details?id=com.global.wfwd.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "황제의 꿈"
+  },
+  "one:요괴의전설m": {
+    "icon": "https://play-lh.googleusercontent.com/QCPAzHtGamTtSF_vrjVrKDIJelVez8j75KGMaDRmlk8crjwp7UycS73gMnKY8DLjl8fr_Bn4oMeDoF94Y_viNw=w48",
+    "developer": "feixin games",
+    "url": "https://play.google.com/store/apps/details?id=com.guanyang.monsterlegendmgp",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "요괴의 전설M"
+  },
+  "one:추억의잡화점": {
+    "icon": "https://play-lh.googleusercontent.com/_IMdVqo_U9f8d0jHd8fYrBvAal6DwUEdoJRJogBDJwuaIKHuGmUz-M_amdUtS7Z9FPT8Ip8fkHhxe7_vNUdK4sI=w48",
+    "developer": "Pogo Hopper Games",
+    "url": "https://play.google.com/store/apps/details?id=com.phzhd.kr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "추억의 잡화점"
+  },
+  "one:가십하버합성스토리게임": {
+    "icon": "https://play-lh.googleusercontent.com/VIv1J5fPLy-r9KrlA4WhLvzTboMphqs_jo_U9OqLyOmkr1AGAZ-nzIPo74_VISY7Ul28ZkObCkvlyyWPd_50=w48",
+    "developer": "Microfun Limited",
+    "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor",
+    "country": "CN",
+    "source": "kr-google-match",
+    "title": "가십하버: 합성 & 스토리 게임"
+  },
+  "one:토이삼국": {
+    "icon": "https://play-lh.googleusercontent.com/VUPm7IzftWuDNEmU7LuriZsQrg8QQT84PAPCU9LLDps3wgWGOoiAlRK217YTZNUHkCf8nuyLOJQcT-1LucpwTA=w48",
+    "developer": "Rhinos",
+    "url": "https://play.google.com/store/apps/details?id=com.jsjskr.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "토이 삼국"
+  },
+  "one:모아용sss급영웅지급중": {
+    "icon": "https://play-lh.googleusercontent.com/ajxJCVUQbRlUp6gKESaLm89emZa_RJhB7Bni_z5vwzhTzBmb-xPnbaJjKXeN1Cm5GGfFotBtFy-1sRUqWPyHYxg=w48",
+    "developer": "엔트릴게임즈",
+    "url": "https://play.google.com/store/apps/details?id=com.moayong.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "모아용: SSS급 영웅 지급 중!"
+  },
+  "one:월드워머신컨퀘스트": {
+    "icon": "https://play-lh.googleusercontent.com/Qo0aTfPtfACMzrBpP7cb2d0mxEzXMcym5vIx7OIznkEcb-IzO-Wk9rKXD--ti9XJ4Vi4AWLgm7uIcKV55YDR2jk=w48",
+    "developer": "NDREAM Corp.",
+    "url": "https://play.google.com/store/apps/details?id=com.bigbreakgames.wot",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "월드 워 머신 컨퀘스트"
+  },
+  "one:세계수의노래": {
+    "icon": "https://play-lh.googleusercontent.com/u2wVXIiWdAWM19gyu7EHEj2bxJmQdQ6oxub1iGL-IZK367hZCUfIby44twNIJnX9rttUaOcDLHJDTbKOwKZj=w48",
+    "developer": "End9 Games Corp.",
+    "url": "https://play.google.com/store/apps/details?id=com.end9games.worldtreeggl",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "세계수의 노래"
+  },
+  "one:삼국지제후의전쟁": {
+    "icon": "https://play-lh.googleusercontent.com/ZLBRjaQleIYc2d-tk-ITDGFlqhz2ogz5pO1OwXi1Ohtltfor_JDQQISd0EoZCgXKsfEHMoC8JGr5JMJTIqvi=w48",
+    "developer": "Reality Squared Games",
+    "url": "https://play.google.com/store/apps/details?id=com.r3.zhzz1.kr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "삼국지: 제후의 전쟁"
+  },
+  "one:건쉽배틀토탈워페어": {
+    "icon": "https://play-lh.googleusercontent.com/kz_6stPB0_VUxIsNzvkqQwNRSZRAXcZqUbON3T9ywIWOtvJL5vFJKedgq8QzCNJlno3acZMCgY7Vi_aRUjkK=w48",
+    "developer": "JOYCITY Corp.",
+    "url": "https://play.google.com/store/apps/details?id=com.joycity.gw",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "건쉽배틀 토탈워페어"
+  },
+  "one:트리오브세이비어네버랜드": {
+    "icon": "https://play-lh.googleusercontent.com/l-tvVR5e01Y_q1ae-ornO3oPA20IjvWKRhJO5Y04UA6sCDo6F29kfuKLaEaRExovcUZB2U2BkniW4fmwBBhA1g=w48",
+    "developer": "QOOKKA GAMES",
+    "url": "https://play.google.com/store/apps/details?id=com.qookkagames.szgd.gp.kr",
+    "country": "CN",
+    "source": "kr-google-match",
+    "title": "트리 오브 세이비어: 네버랜드"
+  },
+  "one:희비전리버스": {
+    "icon": "https://play-lh.googleusercontent.com/g45S54tSHYIpd84ny9ye2h6WmokiE4avam_sVuXtIGu6sN_MLrZIn5iqmqZPxbmmjQ3ZWj2QDjGMIp3Du4hmtA=w48",
+    "developer": "WISH INTERACTIVE TECHNOLOGY LIMITED",
+    "url": "https://play.google.com/store/apps/details?id=com.gf.p2h5krkr.hwyad.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "희비전 리버스"
+  },
+  "one:아케론종말의서곡": {
+    "icon": "https://play-lh.googleusercontent.com/4UpzG2uUn7umXN1SOj_gY4Lq2lU2rZjW4h4zcHyCufn3e5ezc6a8Y1oqyduq2caEHLnc4KsXN64Mx9L-kWQwcg=w48",
+    "developer": "게임랜드주식회사",
+    "url": "https://play.google.com/store/apps/details?id=com.ulugame.hdqykrob.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "아케론:종말의 서곡"
+  },
+  "gal:삼국지전략판": {
+    "icon": "https://play-lh.googleusercontent.com/kimpPr9QPMtL8fa-vsn3baNKIjutXCprwCfAajBnkaIHU34p7xQYzYaXfN137DFu_43qkuWxjTYqDOMun_02=w48",
+    "developer": "QOOKKA GAMES",
+    "url": "https://play.google.com/store/apps/details?id=com.qookkagame.sgzzlb.gp.kr",
+    "country": "CN",
+    "source": "kr-google-match",
+    "title": "삼국지 전략판"
+  },
+  "gal:배틀그라운드": {
+    "icon": "https://play-lh.googleusercontent.com/U2YTTx2h3VNUL5bjl5yAUG0WMsqdZxRAb2UMZ8vT2Waw67oASbDAnbBB_29H45BVCjO-Jn_MlAFedT8KEj7T=w48",
+    "developer": "KRAFTON, Inc.",
+    "url": "https://play.google.com/store/apps/details?id=com.pubg.krmobile",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "배틀그라운드"
+  },
+  "gal:에보니왕의귀환": {
+    "icon": "https://play-lh.googleusercontent.com/O_2KnfGM5WwoQrZVXoyHJEv-NyyZf3Nv6zYe3uQCtAFHzx8v4PT4Sb9oaSRoJDQ9Z8RDAYfHZh-_23TkBRSGRQ=w48",
+    "developer": "TG Inc.",
+    "url": "https://play.google.com/store/apps/details?id=com.topgamesinc.evony",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "에보니 - 왕의 귀환"
+  },
+  "gal:히어로즈테일즈2": {
+    "icon": "https://play-lh.googleusercontent.com/2J2FHDZ4Uj7CklJMCv8sPjVi7AS0VHcGFNJ5zwp8DqZMut7Pe9tXX9nrmamhGgL5Nsn8AMi9uvp-NCupG1VJ4w=w48",
+    "developer": "37 Mobile Games",
+    "url": "https://play.google.com/store/apps/details?id=com.tg.ysczg.kr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "히어로즈 테일즈2"
+  },
+  "gal:쿠키런오븐브레이크": {
+    "icon": "https://play-lh.googleusercontent.com/dlSJyyapJ336pDW4NKNS1hs9LFhjOj-KWW-HlZDowCgGpEb51kYFLiuJIr9BVDJH5NNMfjXNAamysOebRCMFfdc=w48",
+    "developer": "Devsisters Corporation",
+    "url": "https://play.google.com/store/apps/details?id=com.devsisters.gb",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "쿠키런: 오븐브레이크"
+  },
+  "gal:쿠키런키우기쿠키런크럼블": {
+    "icon": "https://play-lh.googleusercontent.com/J2vWNQT3sCqTzkmkSMVcq8y-X3V4LXv7Z_mL95REkMSiLMkzteR3TRzF2j3CyV1fENiJ3CTy-AcAjN5lA1Tlpg=w48",
+    "developer": "Devsisters Corporation",
+    "url": "https://play.google.com/store/apps/details?id=com.devsisters.cc",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "쿠키런 키우기 - 쿠키런: 크럼블"
+  },
+  "gal:버섯커키우기3000뽑기증정": {
+    "icon": "https://play-lh.googleusercontent.com/zVjbB_Xbvz5NKa62vgR-1v_Y60zaV9Y7F6V8u86IStGWSBNEcEpmtPpx0N8NbvObb0fUbDO0xEQXMekZJpWe3g=w48",
+    "developer": "Joy Nice Games",
+    "url": "https://play.google.com/store/apps/details?id=com.mxdzzkr.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "버섯커 키우기-3000뽑기 증정"
+  },
+  "gal:갑부장사의시대": {
+    "icon": "https://play-lh.googleusercontent.com/2SDMJ16666DlVIOvLeTPavhoJIp30HcBZKunFy27mt-pTY0nxl_oCw2m2mPXP8Khk1gkuGeAroQeDkJprnkdlg=w48",
+    "developer": "BLANCOZONE NETWORK KOREA",
+    "url": "https://play.google.com/store/apps/details?id=com.global.dzgkr.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "갑부: 장사의 시대"
+  },
+  "gal:연운": {
+    "icon": "https://play-lh.googleusercontent.com/C077FpQVnL7G5O6Mowj-sWKdTjUwEWAWxOVQUcBwhHY1yOZePOoIxtlOS5Tn9kIzLoI2eU8BWZ4Nh4ufS63zBg=w48",
+    "developer": "Exptional Global",
+    "url": "https://play.google.com/store/apps/details?id=com.netease.yysls",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "연운"
+  },
+  "gal:꿈의정원gardenscapes": {
+    "icon": "https://play-lh.googleusercontent.com/Vu_BoGFdNORUCsqu8yyDPg7Re53M06VMyeBRq9a0tuRNLJWFV3glfdoI08mJuVLvwA_tokJqK3elHiK0yBFNGjo=w48",
+    "developer": "Playrix",
+    "url": "https://play.google.com/store/apps/details?id=com.playrix.gardenscapes",
+    "country": "IE",
+    "source": "kr-google-match",
+    "title": "꿈의 정원 (Gardenscapes)"
+  },
+  "gal:트리오브세이비어네버랜드": {
+    "icon": "https://play-lh.googleusercontent.com/l-tvVR5e01Y_q1ae-ornO3oPA20IjvWKRhJO5Y04UA6sCDo6F29kfuKLaEaRExovcUZB2U2BkniW4fmwBBhA1g=w48",
+    "developer": "QOOKKA GAMES",
+    "url": "https://play.google.com/store/apps/details?id=com.qookkagames.szgd.gp.kr",
+    "country": "CN",
+    "source": "kr-google-match",
+    "title": "트리 오브 세이비어: 네버랜드"
+  },
+  "gal:토이삼국": {
+    "icon": "https://play-lh.googleusercontent.com/VUPm7IzftWuDNEmU7LuriZsQrg8QQT84PAPCU9LLDps3wgWGOoiAlRK217YTZNUHkCf8nuyLOJQcT-1LucpwTA=w48",
+    "developer": "Rhinos",
+    "url": "https://play.google.com/store/apps/details?id=com.jsjskr.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "토이 삼국"
+  },
+  "gal:i9인페르노나인": {
+    "icon": "https://play-lh.googleusercontent.com/jZ0P5ZxOE4VorYhs9QmbcxzXi7VYiNqh4I5YlO2JXUdh_5D80ymAagbYxjtP6pGnU_7f_W0gWUVWUm9mIkCI5A=w48",
+    "developer": "Leniu Technology Co., Limited",
+    "url": "https://play.google.com/store/apps/details?id=com.kr.firegp",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "I9: 인페르노 나인"
+  },
+  "gal:pokmongo": {
+    "icon": "https://play-lh.googleusercontent.com/DUA40mf0fd6lUkU_Pvfw78BOoY37nPNM5tKw0tf4sCqzJfNwR84wqj-J00WN99QaZ89SpruNsU1xX7sDw6uBZg=w48",
+    "developer": "Scopely Explore, Inc.",
+    "url": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo",
+    "country": "US",
+    "source": "kr-google-match",
+    "title": "Pokémon GO"
+  },
+  "gal:한게임신맞고": {
+    "icon": "https://play-lh.googleusercontent.com/BmlHi1FAGn5ZWCM13EAAS5K9AToZ1i9Ok10HWoQgaoZMFttJrbHTZUb0Z5zvbxH3xSYVaJ0s4HMUaP2Ko7HKouE=w48",
+    "developer": "NHN Corp.",
+    "url": "https://play.google.com/store/apps/details?id=com.NHNEnt.NDuelgo",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "한게임 신맞고 : 대한민국 원조 고스톱"
+  },
+  "gal:한게임섯다맞고": {
+    "icon": "https://play-lh.googleusercontent.com/CqdDCCaoUKuuANbhIfbCWehb2UTPN6YPbucx6KUzurF6WebH10KPaG46AG-fBCl9w1hAnOqbr2psIJtQFoUOaHw=w48",
+    "developer": "NHN Corp.",
+    "url": "https://play.google.com/store/apps/details?id=com.NHNEnt.MSudda",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "한게임 섯다&맞고"
+  },
+  "gal:앙상블스타즈": {
+    "icon": "https://play-lh.googleusercontent.com/aeygJDA6HRiIuM9a9blHuZu388dkHrgpvnSWp-NlMB2rKRUowK6GGqNOofM_tuejrZ40qlhbN4n66uw1MKOb=w48",
+    "developer": "Eureka Creation Limited",
+    "url": "https://play.google.com/store/apps/details?id=com.happyelements.es2.kr.gp",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "앙상블스타즈"
+  },
+  "gal:씨사이드익스케이프합성스토리게임": {
+    "icon": "https://play-lh.googleusercontent.com/8nrl-23VkfKxd9HoGpSBaxz0oK3c6hpsFGPwMIyOP94CIndFH8teUUi8ULDr0UHqtVRBJOpHDTdMHvEVE7XjbA=w48",
+    "developer": "Microfun Limited",
+    "url": "https://play.google.com/store/apps/details?id=com.gamedots.seasideescape",
+    "country": "CN",
+    "source": "kr-google-match",
+    "title": "씨사이드 익스케이프: 합성 & 스토리 게임"
+  },
+  "gal:붕괴3rd": {
+    "icon": "https://play-lh.googleusercontent.com/ditfMKOtRRnASNxKnW7N2bmmA_lLIqkJvk4gs6hxLU8-Gxcg9-53Gysspw0qZukKEL1Et6Pf2cghBVKdm9vR=w48",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "url": "https://play.google.com/store/apps/details?id=com.miHoYo.bh3korea",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "붕괴3rd"
+  },
+  "gal:파운데이션우주전선": {
+    "icon": "https://play-lh.googleusercontent.com/dmBqQ2vxCp2soM-8ez4DNs1JFKIcYvlkCLOdRPu4k8clLdJNcsUaVHnmsmDFMl5WMNsSiupUfb55oqo6YJzTnA=w48",
+    "developer": "FunPlus International AG",
+    "url": "https://play.google.com/store/apps/details?id=com.games.foundation",
+    "country": "CN",
+    "source": "kr-google-match",
+    "title": "파운데이션: 우주 전선"
+  },
+  "gal:신삼국지모바일코에이테크모인증": {
+    "icon": "https://play-lh.googleusercontent.com/FvEclG4pdR9RBc9uhiiN5QZ5yNJsA7t4FBs0wYncsaE_knkbm16G885Nf1ZRRtoxDLkuXbAQRAfqx_WiGQdY=w48",
+    "developer": "QOOKKA GAMES",
+    "url": "https://play.google.com/store/apps/details?id=com.aligames.sgzhg.google",
+    "country": "CN",
+    "source": "kr-google-match",
+    "title": "신삼국지 모바일-코에이 테크모 인증"
+  },
+  "gal:쿠키런킹덤": {
+    "icon": "https://play-lh.googleusercontent.com/J1zzZf_Clyg51sikuBbfTMD_sGVK64Ki5vyVtn3MmkUUzQ-AxKWq2-WuVDnpkrpai6Icun3wXspttadNAxy4djI=w48",
+    "developer": "Devsisters Corporation",
+    "url": "https://play.google.com/store/apps/details?id=com.devsisters.ck",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "쿠키런: 킹덤"
+  },
+  "gal:로그w리메인즈오브갓": {
+    "icon": "https://play-lh.googleusercontent.com/wPufQAobuu_bMHJyHAmyZLteiFXFFfGyr_II-agf6JMw518mjIbDzFdR3LXbuKvT12TQ2kPvjRvLN-nyJ8NAyA=w48",
+    "developer": "Efun Company",
+    "url": "https://play.google.com/store/apps/details?id=com.krd8.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "로그W : 리메인즈 오브 갓"
+  },
+  "gal:피망포커카지노로얄홀덤7포커바둑이": {
+    "icon": "https://play-lh.googleusercontent.com/NCBpUsMnLkNlZqwXWomKkAq47Vr_YLUklKn7A8IGMWRTx3xidRCaHLLArug9TkZLW1GIrkGWeSZabCTjiUOZsQ=w48",
+    "developer": "NEOWIZ corp",
+    "url": "https://play.google.com/store/apps/details?id=com.neowiz.games.poker",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "피망 포커 : 카지노 로얄 - 홀덤, 7포커, 바둑이"
+  },
+  "gal:이것이삼국지다": {
+    "icon": "https://play-lh.googleusercontent.com/wXPuQu1nXkZxd2JqNO2E0YE7Be97vwbyR1G29WpAy_nWHdYxvogGNtpKHWym1qvQYyEzpOnjiCIZJybfWNjdQEk=w48",
+    "developer": "End9 Games Corp.",
+    "url": "https://play.google.com/store/apps/details?id=com.end9games.aow37ggl",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "이것이 삼국지다"
+  },
+  "gal:퍼니싱그레이레이븐": {
+    "icon": "https://play-lh.googleusercontent.com/s0-m6w0VqNKxmBpAaHVB8bs5gmlY5YUJg9DjwP3TSAMNnDoRh2pOPg-R-xgw7nmfGmnq_3ViNse_4iloBs30=w48",
+    "developer": "KURO TECHNOLOGY (HONG KONG) CO., LIMITED",
+    "url": "https://play.google.com/store/apps/details?id=com.herogame.gplay.punishing.grayraven.kr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "퍼니싱:그레이 레이븐"
+  },
+  "gal:기적의검": {
+    "icon": "https://play-lh.googleusercontent.com/pIKDJoBa4gLJjYE7EvihiHAw3oh-FkRnJBp5VRdPMYHka0dmZEmH_xJnzAkcOKNiqksPS5oPQu_ghkJ4H1kX=w48",
+    "developer": "4399 KOREA",
+    "url": "https://play.google.com/store/apps/details?id=com.qjzj4399kr.google",
+    "country": "CN",
+    "source": "kr-google-match",
+    "title": "기적의 검"
+  },
+  "gal:템빨용사픽셀아이템머지rpg": {
+    "icon": "https://play-lh.googleusercontent.com/NFP1DhDRfMkHRTkX9qaY56Ym1HHxbd7zfvpHOiiYAMG1glI348waM3h5tHpCARtTA3q_ZevjcNw36NQd4ieJ6A=w48",
+    "developer": "5minlab Corp.",
+    "url": "https://play.google.com/store/apps/details?id=com.fiveminlab.overgeared.hero.backpack.merge",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "템빨용사: 픽셀 아이템 머지 RPG"
+  },
+  "gal:에버나이트리버스": {
+    "icon": "https://play-lh.googleusercontent.com/XJBbIgPZfySq7txP8LzUVESgiieGgnRElQYwp89y3YyVuji7AWOpoG-oGARUYIyhAZILmS98BrrhBp-Wxo_n=w48",
+    "developer": "Hong Kong Longsin Co., Ltd.",
+    "url": "https://play.google.com/store/apps/details?id=com.yyjlkr.az",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "에버나이트: 리버스"
+  },
+  "gal:황제라칭하라": {
+    "icon": "https://play-lh.googleusercontent.com/VX7eOJGkE3mv1fFa_XIOyOkOqclOCQ81nrfpUZjxlg0surJXL1y5kBUkUi_OGoaamyr2YsOW47irCChGp72XYw=w48",
+    "developer": "Clicktouch Co., Ltd.",
+    "url": "https://play.google.com/store/apps/details?id=com.wsy.google.wansuiye.kr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "황제라 칭하라"
+  },
+  "gal:꿈의마을township": {
+    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU=w48",
+    "developer": "Playrix",
+    "url": "https://play.google.com/store/apps/details?id=com.playrix.township",
+    "country": "IE",
+    "source": "kr-google-match",
+    "title": "꿈의 마을 (Township)"
+  },
+  "gal:피쉬돔fishdom": {
+    "icon": "https://play-lh.googleusercontent.com/JrsX1K8iBig6HRQxouWSRM-DlxPyJGBGK33TE1WEqBajbLtEu13mPPeXoWQIrQrfSFR3he8tbtx-D2xCEXMJMQ=w48",
+    "developer": "Playrix",
+    "url": "https://play.google.com/store/apps/details?id=com.playrix.fishdomdd.gplay",
+    "country": "IE",
+    "source": "kr-google-match",
+    "title": "피쉬돔 (Fishdom)"
+  },
+  "gal:삼국지천하결전": {
+    "icon": "https://play-lh.googleusercontent.com/rG1RyXnhrSZk0-Huvu-x4lLJivzk5QgQ2w9-5LYFHGUsEJG2suk-SbLFT7Nkuz99Y56lXBkKfRudyoUWthbY=w48",
+    "developer": "BILIBILI",
+    "url": "https://play.google.com/store/apps/details?id=com.bhk.newslgkr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "삼국지: 천하결전"
+  },
+  "gal:레이싱마스터": {
+    "icon": "https://play-lh.googleusercontent.com/MQAD2FEItCaxGzAlr5kAI9sxhwCpy1hkV2Fh1_wm5xkU--Bhhf6glEShXmAWCxTDjLrAYUs_OycCF9DeFfqCVLI=w48",
+    "developer": "Exptional Global",
+    "url": "https://play.google.com/store/apps/details?id=com.netease.dfjskr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "레이싱 마스터(Racing Master)"
+  },
+  "gal:워처오브렐름": {
+    "icon": "https://play-lh.googleusercontent.com/z_Q4kdvMgR54AHu_i820JTm1tNe3wUKSWsWT2PnOTRPuseYAVk6KPg91IqHNc3j4ZCk3OHQD93DuQ3PJPDnlIA=w48",
+    "developer": "Vizta Games",
+    "url": "https://play.google.com/store/apps/details?id=com.ap.watcherofrealms",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "워처 오브 렐름"
+  },
+  "gal:프로젝트세카이컬러풀스테이지feat하츠네미쿠": {
+    "icon": "https://play-lh.googleusercontent.com/nM_bMwQmt0epELSrXmA57q5NHesrR_Nj_bt5-IV34cwNk3DFtWLQM7WCxZ6tyIrbXu_3gDyPxK1-h87s78aq=w48",
+    "developer": "Nuverse",
+    "url": "https://play.google.com/store/apps/details?id=com.pjsekai.kr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠"
+  },
+  "gal:세계수의노래": {
+    "icon": "https://play-lh.googleusercontent.com/u2wVXIiWdAWM19gyu7EHEj2bxJmQdQ6oxub1iGL-IZK367hZCUfIby44twNIJnX9rttUaOcDLHJDTbKOwKZj=w48",
+    "developer": "End9 Games Corp.",
+    "url": "https://play.google.com/store/apps/details?id=com.end9games.worldtreeggl",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "세계수의 노래"
+  },
+  "gal:열혈강호귀환": {
+    "icon": "https://play-lh.googleusercontent.com/8yQhhuaU9Y4EAPn3EKWVisnTq_jhv64cltkHAehbbF0usGOUSHCxEBiaycfiq392CMEJDxbR2pjxVCdgtsSP3A=w48",
+    "developer": "9RING",
+    "url": "https://play.google.com/store/apps/details?id=com.rxjhkr.an",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "열혈강호: 귀환"
+  },
+  "gal:블루아카이브15": {
+    "icon": "https://play-lh.googleusercontent.com/bxcxRYaSnY9da09oKpPQYFHKB-CZgb0L5tNfrtwue5LDp4y2ykQjZjVWK5u_cuyyz2rakpWS3B0cd5NskKO2ARI=w48",
+    "developer": "NEXON Company",
+    "url": "https://play.google.com/store/apps/details?id=com.nexon.bluearchiveteen",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "블루 아카이브 (15)"
+  },
+  "gal:정복자칸": {
+    "icon": "https://play-lh.googleusercontent.com/sIzCVwBzi1COchcHs38Vv-QBvQIKgXdwJ3GzdF1pk5pEbwL4Dr5_DSErFlEocw7ypP5DDHmFvYDGpl2iKKVC=w48",
+    "developer": "Clicktouch Co., Ltd.",
+    "url": "https://play.google.com/store/apps/details?id=com.dc.gok.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "정복자: 칸"
+  },
+  "gal:아레나브레이크아웃현실지향fps": {
+    "icon": "https://play-lh.googleusercontent.com/vL-xYJhmXTiaQewThy9DMHkk_zdtSHqKcRDp8iYip6C-OB764enYRA1CrmHSRoW1rsAEkyJT5a8By3ADMbd5=w48",
+    "developer": "Level Infinite",
+    "url": "https://play.google.com/store/apps/details?id=com.proximabeta.mf.uamo",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "아레나 브레이크아웃: 현실 지향 FPS"
+  },
+  "gal:레이드그림자의전설": {
+    "icon": "https://play-lh.googleusercontent.com/-2BzgaPGxh4jYl-j0dUylFRkTJmkiXFc1y6ejfm-pRck4qwNzjDEYiCX6w9wNlStZQ-CtS46mfRabeHkfccR_w=w48",
+    "developer": "Plarium Global Ltd",
+    "url": "https://play.google.com/store/apps/details?id=com.plarium.raidlegends",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "레이드: 그림자의 전설"
+  },
+  "gal:땡땡마법사": {
+    "icon": "https://play-lh.googleusercontent.com/LLyCIrzaDVjRfl_rHhKHbJ7YkFbAsgGKbz1ngdEI8PB4qO5Whcp3_LF7QXqSMCXbKFE6-i17UNbNC2nzYHfBU_A=w48",
+    "developer": "MOREFUN（H.K.) LIMITED",
+    "url": "https://play.google.com/store/apps/details?id=com.doodlemagic.android",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "땡땡 마법사"
+  },
+  "gal:에오스레드": {
+    "icon": "https://play-lh.googleusercontent.com/tGDHbZO_wtLD82SteNva26s4zMKnzshYGnJuJeM0QiwfB2kQuBkcL4Hqe9R7LhYP1tkjGmeot2-zInQhRkp9=w48",
+    "developer": "BluePotion Games",
+    "url": "https://play.google.com/store/apps/details?id=com.bluepotiongames.eosm",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "에오스 레드"
+  },
+  "gal:냥냥시노비미소녀닌자디펜스": {
+    "icon": "https://play-lh.googleusercontent.com/V-NQaPJC3tONq0zdPahUjcoqgBCW-UbwicZIudCJkvu5ohA_Sjxf2R8P7EluYaOx7PxjzhxzPrVNCN57gvNd=w48",
+    "developer": "CookApps",
+    "url": "https://play.google.com/store/apps/details?id=com.cookapps.catshinobi",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "냥냥 시노비 : 미소녀 닌자 로그라이크 디펜스 RPG"
+  },
+  "gal:타일서바이벌": {
+    "icon": "https://play-lh.googleusercontent.com/s0BYl3XzwvKGfma3ZftsmchXs7rCsyDKHJ7LTB6E3kY_WRorvEKg4cRawg0r2Ac0ZIbZ90VcEkI3UsUvdHlt4fg=w48",
+    "developer": "FunPlus International AG",
+    "url": "https://play.google.com/store/apps/details?id=com.funplus.ts.global",
+    "country": "CN",
+    "source": "kr-google-match",
+    "title": "타일 서바이벌"
+  },
+  "gal:궁신방치형rpg": {
+    "icon": "https://play-lh.googleusercontent.com/lqvTLM4LnU383wJ4U66xJLhTJsTgANZlUWvMGRXiJMoFltbLkehCJPWdLnisePatwwe_lPBcAu4yJs7oxu1x=w48",
+    "developer": "Hong Kong NanSanNan Technology Co., Limited",
+    "url": "https://play.google.com/store/apps/details?id=com.nsngames.archerk",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "궁신 : 방치형 RPG"
+  },
+  "gal:아케론종말의서곡": {
+    "icon": "https://play-lh.googleusercontent.com/4UpzG2uUn7umXN1SOj_gY4Lq2lU2rZjW4h4zcHyCufn3e5ezc6a8Y1oqyduq2caEHLnc4KsXN64Mx9L-kWQwcg=w48",
+    "developer": "게임랜드주식회사",
+    "url": "https://play.google.com/store/apps/details?id=com.ulugame.hdqykrob.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "아케론:종말의 서곡"
+  },
+  "gal:oncehuman": {
+    "icon": "https://play-lh.googleusercontent.com/0-94hjDsVyTjm0Jic6AP8wVbuSb4SCrrxcZnQDJ5YgNHukFjG-g6C1yMlGmuYDsJW3Pdva4Iqrp9ox5GPFpj-HU=w48",
+    "developer": "Exptional Global",
+    "url": "https://play.google.com/store/apps/details?id=com.h73.jhqyna",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "Once Human"
+  },
+  "gal:플랜츠온파이어": {
+    "icon": "https://play-lh.googleusercontent.com/gH5Gthsejk7l-7CvcqyU5jhAOSMuWANN-o49MFIwzvKDPKhxPKrxvtDdyHNHmTpJktcS80TqezPwHczv-bcSRQ=w48",
+    "developer": "Nuverse Games",
+    "url": "https://play.google.com/store/apps/details?id=com.nvsgames.pt",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "플랜츠 온 파이어"
+  },
+  "gal:불사용사키우기방치형rpg": {
+    "icon": "https://play-lh.googleusercontent.com/qMUhD7uPx5eNI1bVMRQHKtnrMejx9QiwhvIU-7GHIdmw02Xsm0kFoUzN7HmW5FeZS207km7HBp1c_4kL5x_4AQ=w48",
+    "developer": "SUPERBOX Inc",
+    "url": "https://play.google.com/store/apps/details?id=com.superpixel.undyinghero",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "불사용사 키우기 : 방치형 RPG"
+  },
+  "gal:지구의마지막날생존": {
+    "icon": "https://play-lh.googleusercontent.com/_dEeRX2npkXJsq4iZZer_WAHFSLCdybkMdYkDB3ltLBAtK6RxKovMPB238LP0u6k0CcM1whYeZsTbyWoY2W-=w48",
+    "developer": "KEFIR!",
+    "url": "https://play.google.com/store/apps/details?id=zombie.survival.craft.z",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "지구의 마지막 날: 생존"
+  },
+  "gal:2026프로야구go": {
+    "icon": "https://play-lh.googleusercontent.com/R2aEIXiVL_Zs07_XCpViKsze6-BA8AneOvl3vVNHkzSBJ0ts3uA-xxAC9jyZYgFQUeiOd2PEcFoTaZEOXBcSd3w=w48",
+    "developer": "HAEGIN Co., Ltd.",
+    "url": "https://play.google.com/store/apps/details?id=com.haegin.kbo",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "2026 프로야구GO!"
+  },
+  "gal:데블2m": {
+    "icon": "https://play-lh.googleusercontent.com/Cf2Y8DptuJm7oVDLpmbu1mpRyv15oMXUH_VoROWZxNtxJDYSUXBO28yPBssP9PckC98n-9ckXZnUWKBdxvRH=w48",
+    "developer": "37 Mobile Games",
+    "url": "https://play.google.com/store/apps/details?id=com.tg.jsxw.kr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "데블2M"
+  },
+  "gal:히어로즈테일즈": {
+    "icon": "https://play-lh.googleusercontent.com/2J2FHDZ4Uj7CklJMCv8sPjVi7AS0VHcGFNJ5zwp8DqZMut7Pe9tXX9nrmamhGgL5Nsn8AMi9uvp-NCupG1VJ4w=w48",
+    "developer": "37 Mobile Games",
+    "url": "https://play.google.com/store/apps/details?id=com.tg.ysczg.kr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "히어로즈 테일즈2"
+  },
+  "gal:궁영롱몽": {
+    "icon": "https://play-lh.googleusercontent.com/AtxoAjwyM8RaldY_NUGbiHd3tcRgj9eJPLMuFaerVVLqxVSuca0A8VUe36LLhPngEeEeyKCpD8eoJ7RFEPVTLQ=w48",
+    "developer": "WISH INTERACTIVE TECHNOLOGY LIMITED",
+    "url": "https://play.google.com/store/apps/details?id=com.gf.xmtwtw.hwyad.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "궁:영롱몽"
+  },
+  "gal:꿈의집homescapes": {
+    "icon": "https://play-lh.googleusercontent.com/98F-rCvO3NbMvijqi_bRDAt4x9y3sBbTffMFxK0iOn8W0SlFqs7BkmKE9UsqgPH07yDNj2B2IrKeoYGjvGGYcHU=w48",
+    "developer": "Playrix",
+    "url": "https://play.google.com/store/apps/details?id=com.playrix.homescapes",
+    "country": "IE",
+    "source": "kr-google-match",
+    "title": "꿈의 집 (Homescapes)"
+  },
+  "gal:warhammer40000tacticus": {
+    "icon": "https://play-lh.googleusercontent.com/3L8zmnKZqzuN5jyj-MJwEKunIG5gL92wSohiAX9asJdzmxeoqM3plWYAQhqlLDMdkPbB1auJUg7G-KNYpKCr4Q=w48",
+    "developer": "Snowprint Studios AB",
+    "url": "https://play.google.com/store/apps/details?id=com.snowprintstudios.tacticus",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "Warhammer 40,000: Tacticus ™"
+  },
+  "gal:조선협객전m": {
+    "icon": "https://play-lh.googleusercontent.com/WVBetaT3wvoRQozzfnHaX1z__mDHrw8tboKtdi4m7KT2WGxLmnwzGdPgZIlchEiRLf4PwZm7Y58owyXoeszyfnE=w48",
+    "developer": "Smartnow",
+    "url": "https://play.google.com/store/apps/details?id=com.monawa.chosun",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "조선협객전M"
+  },
+  "gal:나만sss급퇴마사": {
+    "icon": "https://play-lh.googleusercontent.com/ceUBjNJg-amLkxroSmXROYnMLidaq6fv7nvXuWxgxZ9_9tdRLC62yprljkycEM7YIpnBtnC-H1PJF8V47BO8Wg=w48",
+    "developer": "Stardome Game",
+    "url": "https://play.google.com/store/apps/details?id=com.fmkr.az",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "나만 SSS급 퇴마사"
+  },
+  "gal:조선협객전클래식": {
+    "icon": "https://play-lh.googleusercontent.com/ptQy7tJZf0CBAEo1-PfeZyF--9s8gY8BJCb-mvmGCUYPTpSRY_pNarHy99h67hYrGyPDyafUVumpHyKEirpXuw=w48",
+    "developer": "스마트나우",
+    "url": "https://play.google.com/store/apps/details?id=com.smartnow.chosunclassic",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "조선협객전 클래식"
+  },
+  "gal:mlb클러치히트베이스볼24": {
+    "icon": "https://play-lh.googleusercontent.com/CkzcIvUF1Fzn3xx55TUdT1QKk7ps1yYTY_ALbrrU5DpnIYl9njegV39N1GKLeOVo_dULzEzwBA-usumZQm6HJA=w48",
+    "developer": "Wild Caly PTE. LTD.",
+    "url": "https://play.google.com/store/apps/details?id=com.wildcaly.chbaseball.jkt",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "MLB 클러치 히트 베이스볼 26"
+  },
+  "gal:낭만강호추억의패키지게임": {
+    "icon": "https://play-lh.googleusercontent.com/gZCGqktUTtowWm14l1ASp_dk-VwOYHJkfZgP1jH1q3C_DV4uY7qTl7EWWEtPSKTPIoU4Hhj_WHSIJ9ggdZRkQn4=w48",
+    "developer": "Morefun Technology Limited",
+    "url": "https://play.google.com/store/apps/details?id=com.morefunkr.yyjh",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "낭만강호: 추억의 패키지 게임"
+  },
+  "gal:asura블러드앤소울": {
+    "icon": "https://play-lh.googleusercontent.com/MPGCvu3MVS0z48hpOpnp1lvB726L5gXsvrFhtojkkDilIu6VIU50ts0hhbWCh2S1UKHZSxTR7xAI44ZGgbd5GQ=w48",
+    "developer": "SPGAME",
+    "url": "https://play.google.com/store/apps/details?id=com.xone.gpkr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "ASURA: 블러드 앤 소울"
+  },
+  "gal:로얄킹덤royalkingdom": {
+    "icon": "https://play-lh.googleusercontent.com/0UmRCEO6t2-Aniw-04PKgk4s--BZwSez11_Je2ktqSKQxOy77KzLEZZ8omjl8ioqR7M5qaZbJZB0oNf0tmTz=w48",
+    "developer": "Dream Games, Ltd.",
+    "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom",
+    "country": "TR",
+    "source": "kr-google-match",
+    "title": "로얄 킹덤 (Royal Kingdom)"
+  },
+  "gal:수박게임과일퍼즐": {
+    "icon": "https://play-lh.googleusercontent.com/ffgIRwSyF7OhY3K2mPzzQtvwcJ_k_NQnU1JyHvq2fjNO5p0YLv9C4MBEeYM4xCVd5LNdq4cuHvIlnWf7JADf=w48",
+    "developer": "Aladdin X Inc.",
+    "url": "https://play.google.com/store/apps/details?id=com.aladdinx.suikagame",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "수박게임"
+  },
+  "gal:meowdoku두뇌퍼즐게임": {
+    "icon": "https://play-lh.googleusercontent.com/1vD3Jl37OTth18x__EkbpMZRAmDlGB5mlqKvveWumothf52-1HZXhAy5HGkGLzW_HYoz-rj2q0HBaxu5_8kyVQ=w48",
+    "developer": "Oakever Games",
+    "url": "https://play.google.com/store/apps/details?id=com.oakever.meowdoku",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "Meowdoku: 두뇌 퍼즐 게임"
+  },
+  "gal:vitamahjong": {
+    "icon": "https://play-lh.googleusercontent.com/BDC1lh81kCAMpQX_QeRTnmSH_QoVjUdDKs_igX91n-b1Kdw9WIl96Rgbi1MimXd4uE2jf40bAkaSrtg7ws2Beg=w48",
+    "developer": "Vita Studio.",
+    "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "비타 마작(Vita Mahjong)"
+  },
+  "gal:amazego화살표퍼즐": {
+    "icon": "https://play-lh.googleusercontent.com/if8FX9b5Xc2IfJLSwJs9Gd8CkietQVnCxpm8RKly4G87dJiBrdyBAgsCaVjZ_jW-4unzPv7ccVayfjz16cg72Q=w48",
+    "developer": "Oakever Games",
+    "url": "https://play.google.com/store/apps/details?id=com.oakever.arrows",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "Amaze GO!™ - 화살표 퍼즐"
+  },
+  "gal:tileexplorer트리플매치": {
+    "icon": "https://play-lh.googleusercontent.com/wKjQKwVmmmszLHE3YfgRqiSZcDKHcnpGBeLDVs2PERYUq0B9c_LxpM8jOXYcdE-oVhPmXcWnfqUaBKR656TSBA=w48",
+    "developer": "Oakever Games",
+    "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "Tile Explorer - 트리플 매치"
+  },
+  "one:프렌즈팝": {
+    "icon": "https://play-lh.googleusercontent.com/y2P0Fk1lZ1oAGcZHU44snUsjRr7-hZWuGXaWgZQSAIT3ukutOEaB0CD5RQsWBlTUinLqaL_bnz7T1jRL6Pjd=w48",
+    "developer": "Kakao Games Corp.",
+    "url": "https://play.google.com/store/apps/details?id=com.nhnpixelcube.friendspop",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "프렌즈팝"
+  },
+  "one:다크엔젤천사강림": {
+    "icon": "https://play-lh.googleusercontent.com/DVryEpSc8yilLqBZhJPA7IviVPoMC3m5x6xlU71tumKmKO9ga0xZsY10OkZXV-hZO3gLP4PWXhP-BhG40yVGyvk=w48",
+    "developer": "게임랜드주식회사",
+    "url": "https://play.google.com/store/apps/details?id=com.ulugame.ylnskr.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "다크엔젤: 천사 강림"
+  },
+  "one:대검키우기": {
+    "icon": "https://play-lh.googleusercontent.com/A16ZO6TJwy8LW79PJC5pg_ln2Tu9E_tSMiFa3N18z_snlvQBqzqlS6HgaI4kE0YUd3GTqIbe-OoZ0_gjgSz6t7I=w48",
+    "developer": "ChopChopGames",
+    "url": "https://play.google.com/store/apps/details?id=com.chopchop.greatSwordRPG",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "대검키우기"
+  },
+  "one:왓더뼈킹20000뽑기flex": {
+    "icon": "https://play-lh.googleusercontent.com/Fdc8QhsKjEVI2InFTu9nWE2tMQzd81xLKyorQe1X-e47AdYxGkjeDs2_7SU0VEJ8xSZZl9udSHzz3d-KgiJYMEE=w48",
+    "developer": "TeamQuest",
+    "url": "https://play.google.com/store/apps/details?id=com.teamquest.skull_GP",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "왓더뼈킹 : 20000뽑기 FLEX!"
+  },
+  "one:죽어서왔습니다방치형타이쿤rpg": {
+    "icon": "https://play-lh.googleusercontent.com/K-N0whxYSJIfuO09n6Mm2N3RLEmmYK3f-tLW2WOJ2STXB_ncju8WJOXk1srAaov6MKh7RqPyWq-D72ZqsgRv6A=w48",
+    "developer": "Mafgames",
+    "url": "https://play.google.com/store/apps/details?id=com.naddic.iamdead",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "죽어서 왔습니다: 방치형 타이쿤 RPG"
+  },
+  "one:쿠키런킹덤": {
+    "icon": "https://play-lh.googleusercontent.com/J1zzZf_Clyg51sikuBbfTMD_sGVK64Ki5vyVtn3MmkUUzQ-AxKWq2-WuVDnpkrpai6Icun3wXspttadNAxy4djI=w48",
+    "developer": "Devsisters Corporation",
+    "url": "https://play.google.com/store/apps/details?id=com.devsisters.ck",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "쿠키런: 킹덤"
+  },
+  "one:헤이즈리버브": {
+    "icon": "https://play-lh.googleusercontent.com/KOPTvF4KWfUORHy-Vh_UoyFQpAJ5UoyNWBncXIhcnRg65L10F5PyjEQ38CzRViq0Ma6JL1NUhO5ruR40Q_j-Iw=w48",
+    "developer": "Kibi Play",
+    "url": "https://play.google.com/store/apps/details?id=com.hazereverbkr.gp",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "헤이즈 리버브"
+  },
+  "one:삼국지킹덤": {
+    "icon": "https://play-lh.googleusercontent.com/CTXVWxxLUZLSktsTQQARMGxUTNW86pNa4FqWIgr2PTIjFMogo9j5TbjZyaOE3NG5KG5oXJsFSGNYOyvgSXTy=w48",
+    "developer": "Hot GameCenter",
+    "url": "https://play.google.com/store/apps/details?id=com.destiny3k.tmkr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "삼국지: 킹덤"
+  },
+  "one:쿠키런모험의탑": {
+    "icon": "https://play-lh.googleusercontent.com/X6-_V7WlA6mQA9wLww5KWGJqQYRgce_425soLEYa7uv2P9mJ4TLA3iR6deOXVLCEOyVxax0nZIvRP4ZEf4t59g=w48",
+    "developer": "Devsisters Corporation",
+    "url": "https://play.google.com/store/apps/details?id=com.devsisters.cba",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "쿠키런: 모험의 탑"
+  },
+  "one:나만sss급퇴마사": {
+    "icon": "https://play-lh.googleusercontent.com/ceUBjNJg-amLkxroSmXROYnMLidaq6fv7nvXuWxgxZ9_9tdRLC62yprljkycEM7YIpnBtnC-H1PJF8V47BO8Wg=w48",
+    "developer": "Stardome Game",
+    "url": "https://play.google.com/store/apps/details?id=com.fmkr.az",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "나만 SSS급 퇴마사"
+  },
+  "one:명일방주": {
+    "icon": "https://play-lh.googleusercontent.com/fhgbWvrtqYEYlJiRI2Bk-__-4p2dx4VPVI-LZZ0Dz7sUWnw5EIu3g8Pitr6qmLRzI8yog8PJvFnm97GA0jg=w48",
+    "developer": "Yostar Limited.",
+    "url": "https://play.google.com/store/apps/details?id=com.YoStarKR.Arknights",
+    "country": "JP",
+    "source": "kr-google-match",
+    "title": "명일방주"
+  },
+  "one:루미마스터": {
+    "icon": "https://play-lh.googleusercontent.com/okE9HWF9dG9QyAMk-XUvyd2ASggP0iV5pe_k5JYj8pdOVke-LnO4YdOShsIo96yEGZaWZHcvuVI6PPkitNodPA=w48",
+    "developer": "BILIBILI",
+    "url": "https://play.google.com/store/apps/details?id=com.bilibili.lumi.kr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "루미마스터"
+  },
+  "one:에이펙스걸스": {
+    "icon": "https://play-lh.googleusercontent.com/cT6AK-sENTYth_h72ubVbxp1MgLTFyGX-Tq30AVqUFqeALhy0JzAHdE35of4XNv1MN-9xUaa47nDwgyCGwJC6w=w48",
+    "developer": "Neorigin  Games",
+    "url": "https://play.google.com/store/apps/details?id=com.neorigin.apexgirls.krgp",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "에이펙스 걸스"
+  },
+  "one:애니팡3": {
+    "icon": "https://play-lh.googleusercontent.com/YqQF-SheqvgFD-erwIPvxfQ-PIICNMzVyWEerJI0p7vbEsPCSyzzMJEjQ7jeHs5XpMNxocD2RTK1SzmQMr8bVg=w48",
+    "developer": "Wemade Play Co.,Ltd.",
+    "url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang3.service",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "애니팡3 - 매치 3 퍼즐"
+  },
+  "one:소울오브크라임": {
+    "icon": "https://play-lh.googleusercontent.com/96lZCAzGm_dyUMMkcDTbENN-6wdL1HDxOgMjZcN4MKzTFgFbL39mKo0nooVa3gE52ZuWr9uRA350NI_Y7UF8lA=w48",
+    "developer": "BROCCOLI LIMITED",
+    "url": "https://play.google.com/store/apps/details?id=com.broccolihk.soulofcrime",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "소울 오브 크라임"
+  },
+  "one:위드m": {
+    "icon": "https://play-lh.googleusercontent.com/57fuP9mt2JWKsmX8MsFL8SPPSVKkeJg6Xk4Jmk3F_5F3Qzqf5Leyk9qezpR0W4IKm7doKXl2tQao_RV4ExeJ=w48",
+    "developer": "Joyimpact",
+    "url": "https://play.google.com/store/apps/details?id=kr.co.wydm.wydw",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "위드 M"
+  },
+  "one:쿠키런오븐스매시": {
+    "icon": "https://play-lh.googleusercontent.com/V60QqT72lJuGqonJKdbL-Z3h2WOXCXVGJz9RfWyKX-46xahleqxN9NiduPMor5Dt9VgXTNxArGKiyUOBT9KPodI=w48",
+    "developer": "Devsisters Corporation",
+    "url": "https://play.google.com/store/apps/details?id=com.devsisters.cos",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "쿠키런: 오븐스매시"
+  },
+  "one:좀비고등학교": {
+    "icon": "https://play-lh.googleusercontent.com/DRZYokpMvqU5ntA1uAICcG9yzEir0d4tzYs4CblLisDL_46htqBs6B0c6JnD-BaTZJFfzPyLD9amihsTHPbH=w48",
+    "developer": "AWESOMEPIECE",
+    "url": "https://play.google.com/store/apps/details?id=net.kernys.aooni",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "좀비고등학교"
+  },
+  "one:템빨용사픽셀아이템머지rpg": {
+    "icon": "https://play-lh.googleusercontent.com/NFP1DhDRfMkHRTkX9qaY56Ym1HHxbd7zfvpHOiiYAMG1glI348waM3h5tHpCARtTA3q_ZevjcNw36NQd4ieJ6A=w48",
+    "developer": "5minlab Corp.",
+    "url": "https://play.google.com/store/apps/details?id=com.fiveminlab.overgeared.hero.backpack.merge",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "템빨용사: 픽셀 아이템 머지 RPG"
+  },
+  "one:프로젝트세카이컬러풀스테이지feat": {
+    "icon": "https://play-lh.googleusercontent.com/nM_bMwQmt0epELSrXmA57q5NHesrR_Nj_bt5-IV34cwNk3DFtWLQM7WCxZ6tyIrbXu_3gDyPxK1-h87s78aq=w48",
+    "developer": "Nuverse",
+    "url": "https://play.google.com/store/apps/details?id=com.pjsekai.kr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠"
+  },
+  "one:마이리틀가디스키우기rpg": {
+    "icon": "https://play-lh.googleusercontent.com/tQoZqWruNePKRazOs1ultok4AbMyoPetlryltDaubmSx1mhWB7vvMi9bP4-ab0mCJlDk_Sn8YMlD3xrOfros=w48",
+    "developer": "Pigames",
+    "url": "https://play.google.com/store/apps/details?id=com.pigames.mylittlegoddess",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "마이 리틀 가디스: 방치형 미소녀 키우기 RPG"
+  },
+  "one:전사들과모험": {
+    "icon": "https://play-lh.googleusercontent.com/zbozBCTvSBBkXvD9I-01n0EHYEupacZ6_iDl5IvPn5tWgei9Ci9Lc8yzcERklNAk48YW3LkbMpOaEA81x6fSog=w48",
+    "developer": "Barnard Game",
+    "url": "https://play.google.com/store/apps/details?id=com.mz.fzcqkr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "전사들과 모험"
+  },
+  "gal:명조워더링웨이브": {
+    "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_=w48",
+    "developer": "HK KURO GAMES LIMITED",
+    "url": "https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global",
+    "country": "CN",
+    "source": "kr-google-match",
+    "title": "명조:워더링 웨이브"
+  },
+  "one:pinespeak로얄머지게임": {
+    "icon": "https://play-lh.googleusercontent.com/UoXdA72zj9COWscdqypevzJbBKnsrTaQ9qp3QA3OSO6j2BnKdH8L_8ufT5uoVo8MAbYL7YgrB0cfQzr4xwcD=w48",
+    "developer": "VIZOR APPS LTD.",
+    "url": "https://play.google.com/store/apps/details?id=com.vizorapps.merge",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "Pines Peak: 로얄 머지 게임"
+  },
+  "gal:라스트어사일럼페스트": {
+    "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP=w48",
+    "developer": "37GAMES GLOBAL",
+    "url": "https://play.google.com/store/apps/details?id=com.phs.global",
+    "country": "CN",
+    "source": "kr-google-match",
+    "title": "라스트 어사일럼: 페스트"
+  },
+  "gal:fc모바일": {
+    "icon": "https://play-lh.googleusercontent.com/KA53EHURuZ6mRxunhTk0HOpyk8Ez4krNTWc2IICfeurEVmsd3VL1tijLiFTlEG_oqWdXrv0--YCMrNBYZfchm18=w48",
+    "developer": "NEXON Company",
+    "url": "https://play.google.com/store/apps/details?id=com.nexon.fmk",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "FC 모바일"
+  },
+  "gal:붕괴스타레일": {
+    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q=w48",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "url": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "붕괴: 스타레일"
+  },
+  "gal:후더덕서바이벌": {
+    "icon": "https://play-lh.googleusercontent.com/rDbVN_XC0pxpQMgTMRD9n7et-PpV5PFfF-jS86jBpkKkiSx2kPrvN65t_XlY5V4sHQvbL1RxT05eMJIXksDXoA=w48",
+    "developer": "Joy Nice Games",
+    "url": "https://play.google.com/store/apps/details?id=com.mrtgd2kr.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "후더덕 서바이벌-777뽑기 증정"
+  },
+  "gal:마비노기모바일": {
+    "icon": "https://play-lh.googleusercontent.com/P3WHOnn8e7WAO3OMmG7IdEbVFSU2_fVHE4cBvXJX_XM2-6Aw46Pi3_OQIE2VCKo-9k8HVNiC7UzYngouKrKi=w48",
+    "developer": "NEXON Company",
+    "url": "https://play.google.com/store/apps/details?id=com.nexon.devcat.mm",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "마비노기 모바일"
+  },
+  "gal:리니지m": {
+    "icon": "https://play-lh.googleusercontent.com/xy6xR7NsdX81HpwWu8CoVkseQECAug3pLvvpdBGtls12xwiQy3Qw5hvQ51fc3oTXPmI8xyOArPnm70t8395Mmdw=w48",
+    "developer": "NC Corporation",
+    "url": "https://play.google.com/store/apps/details?id=com.ncsoft.lineagem19",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "리니지M"
+  },
+  "gal:이환": {
+    "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw=w48",
+    "developer": "N2E",
+    "url": "https://play.google.com/store/apps/details?id=com.hottagames.nte",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "이환"
+  },
+  "gal:roblox": {
+    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE=w48",
+    "developer": "Roblox Corporation",
+    "url": "https://play.google.com/store/apps/details?id=com.roblox.client",
+    "country": "US",
+    "source": "kr-google-match",
+    "title": "로블록스 (Roblox)"
+  },
+  "gal:royalmatch": {
+    "icon": "https://play-lh.googleusercontent.com/YH_Xv6Hr-jrex3V_HcLqbaUTO_Upfa6UHHB5nX7YGRis8MneU563WbdGQ--KiQ2sSYfZsqpkeDsY7umYXNDOEw=w48",
+    "developer": "Dream Games, Ltd.",
+    "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch",
+    "country": "TR",
+    "source": "kr-google-match",
+    "title": "로얄 매치 Royal Match"
+  },
+  "gal:원신": {
+    "icon": "https://play-lh.googleusercontent.com/YQqyKaXX-63krqsfIzUEJWUWLINxcb5tbS6QVySdxbS7eZV7YB2dUjUvX27xA0TIGtfxQ5v-tQjwlT5tTB-O=w48",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "url": "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "원신"
+  },
+  "gal:캣히어로": {
+    "icon": "https://play-lh.googleusercontent.com/QfQrxylW8hLlAlO7paLKuKYdZW4QYuCvQpVxT88Su-GjOzvwXNqUkbeEyAUfBvQqQgEa8JljK1nlucux_tLL=w48",
+    "developer": "Gameduo",
+    "url": "https://play.google.com/store/apps/details?id=net.gameduo.gv",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "캣 히어로 : 방치형 RPG"
+  },
+  "gal:갓깨비키우기999뽑기증정": {
+    "icon": "https://play-lh.googleusercontent.com/vre365L9Y_XIpaTg56Mqa3Oraobas7RMsHl52ZJuyyShZNWdPg8fbkQjWCHu1hTJ0TE4DaY_vbuDUkUi9u8P=w48",
+    "developer": "Joy Nice Games",
+    "url": "https://play.google.com/store/apps/details?id=com.zzsjkr.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "갓깨비 키우기-999뽑기 증정"
+  },
+  "gal:fc온라인m": {
+    "icon": "https://play-lh.googleusercontent.com/7Qd9rIuWR2S_X6sUQ9MXMUahaxcI0q0J_EyxBpodBgYLedWqyXZnDihA_J5HV928vo-DaQtNJHD2MmyYdPEd=w48",
+    "developer": "NEXON Company",
+    "url": "https://play.google.com/store/apps/details?id=com.nexon.fo4m",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "FC 온라인 M"
+  },
+  "gal:비지세이비어": {
+    "icon": "https://play-lh.googleusercontent.com/IwzINFRR_HLpo9AkBHgL9PjlKoFw5rMAxkKyxOGKI37-HCAHNIVg8n4JMfwUBr2-gN_80A4O-ug8s1DFo0PIeQ=w48",
+    "developer": "Joy Nice Games",
+    "url": "https://play.google.com/store/apps/details?id=com.zjwskr.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "비지 세이비어"
+  },
+  "gal:미르4": {
+    "icon": "https://play-lh.googleusercontent.com/YLeIFWtfgpPjohgF78GkZEX05vJJP3_YcypT_PkjtJNZsojfl-8r2bVt0epHG_FhvhBEVPBHNkgPG2zmtASd9w=w48",
+    "developer": "Wemade Co., Ltd",
+    "url": "https://play.google.com/store/apps/details?id=com.wemade.mir4",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "미르4"
+  },
+  "gal:뮤모나크2": {
+    "icon": "https://play-lh.googleusercontent.com/qnZL-Cen0ZiuBaJFSRkJsW1shxOLzMjGnZUDFRvnPit9WizZ3TiHrq2BFJwtDcnFO-Qk1M4wdxf4gVVZ0fta3g=w48",
+    "developer": "Webzen Inc.",
+    "url": "https://play.google.com/store/apps/details?id=com.webzen.mumonarch2.google",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "뮤 모나크2"
+  },
+  "gal:열혈강호넥스트": {
+    "icon": "https://play-lh.googleusercontent.com/ct9hCP6C7NRwwTT3p-eIRLAJHMYuK2k2kO0tC6nc8YUCwgRos5tOuzfKmflfPOwQdfJiuNHkmifu0lhVcEmY=w48",
+    "developer": "Kingnet Technology Limited",
+    "url": "https://play.google.com/store/apps/details?id=com.rxjhglkr.gp",
+    "country": "US",
+    "source": "kr-google-match",
+    "title": "열혈강호: 넥스트"
+  },
+  "gal:명일방주엔드필드": {
+    "icon": "https://play-lh.googleusercontent.com/l6FVNa293RykBWy88TqEhUakIcGSC8bRygSnKOBgztln48JX-WzMWnrBAETrKZsxDNC4HhwCsvfle_UI7rBE=w48",
+    "developer": "GRYPHLINE",
+    "url": "https://play.google.com/store/apps/details?id=com.gryphline.endfield.gp",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "명일방주: 엔드필드"
+  },
+  "gal:좀비웨이브스": {
+    "icon": "https://play-lh.googleusercontent.com/n_PJuIJizHA7kBRTmziDHlVOttvhMFjboIfuAdj1hd7wjggoc2VDLFt3cL_KlJ7NIADxa0jqnLZUOnNJPH5Q=w48",
+    "developer": "Fun Formula",
+    "url": "https://play.google.com/store/apps/details?id=com.ddup.zombiewaves.zw",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "좀비 웨이브스"
+  },
+  "gal:한게임포커클래식7포커홀덤바둑이섯다바카라하이로우훌라슬롯블랙잭까지무료로즐기세요": {
+    "icon": "https://play-lh.googleusercontent.com/Hv-D0Heegr2EW_eyGcfNv-HzI_WRrjxMqnN575pY17XaRfXA4wjmAtTwWsO_ON6WqVtTP0ajH2bKKRDx6CNXhQ=w48",
+    "developer": "NHN Corp.",
+    "url": "https://play.google.com/store/apps/details?id=com.nhnent.pokerclassic",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "한게임포커 클래식 : 7포커 홀덤 섯다 훌라 슬롯"
+  },
+  "gal:세븐나이츠리버스": {
+    "icon": "https://play-lh.googleusercontent.com/nzAuo9T5xaXc-gdAZR44nw6KPyQCz59pe1pvu2Iclxw_pk7Zc43gafLGkzc0UyveAJio5_4eEW92FEjNADt0=w48",
+    "developer": "Netmarble",
+    "url": "https://play.google.com/store/apps/details?id=com.netmarble.tskgb",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "세븐나이츠 리버스"
+  },
+  "gal:가십하버합성스토리게임": {
+    "icon": "https://play-lh.googleusercontent.com/VIv1J5fPLy-r9KrlA4WhLvzTboMphqs_jo_U9OqLyOmkr1AGAZ-nzIPo74_VISY7Ul28ZkObCkvlyyWPd_50=w48",
+    "developer": "Microfun Limited",
+    "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor",
+    "country": "CN",
+    "source": "kr-google-match",
+    "title": "가십하버: 합성 & 스토리 게임"
+  },
+  "gal:블루아카이브": {
+    "icon": "https://play-lh.googleusercontent.com/vlVAv0UGD-knTIap84gJDkKZlnZjzhgYdAU3W6mRVkzIjc-rxtRcy5EHud3Om2haqzqW9-73AjYnYiuSluy39S4=w48",
+    "developer": "NEXON Company",
+    "url": "https://play.google.com/store/apps/details?id=com.nexon.bluearchive",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "블루 아카이브"
+  },
+  "gal:검은사막모바일": {
+    "icon": "https://play-lh.googleusercontent.com/AwhfItIkcKl_5-hR0W3NdE-J-uH8l2hi6eKiJznN2M6u0Wn6URDmtUJfJrZScZiwnqoAPK9LawVWlz7xO2G6=w48",
+    "developer": "PEARL ABYSS",
+    "url": "https://play.google.com/store/apps/details?id=com.pearlabyss.blackdesertm",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "검은사막 모바일"
+  },
+  "gal:한게임로얄홀덤": {
+    "icon": "https://play-lh.googleusercontent.com/XHtjYtNFcuJriJ9NiA_X_U6mGQDeViNj-sz0zheNPE4YpByJxXSH5b7JblGVfN7aVyPhdOt1rfIuYetBwTyx=w48",
+    "developer": "NHN Corp.",
+    "url": "https://play.google.com/store/apps/details?id=com.nhn.AApoker",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "한게임 로얄홀덤"
+  },
+  "gal:우와모험단": {
+    "icon": "https://play-lh.googleusercontent.com/IaiM7NkG3ZpnM--wnPJce3i3QMumD4RAq0IcaahHerOH0qb04CjFWBzoOO9fFyIUBT5nRQ4DQOgG_JiuvDnyDw=w48",
+    "developer": "Joy Nice Games",
+    "url": "https://play.google.com/store/apps/details?id=com.yzlmkr.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "우와 모험단"
+  },
+  "gal:퍼즐오브z": {
+    "icon": "https://play-lh.googleusercontent.com/avcK8XZwrVNYHfRnPspGYRhO2WXQFLud9ksPRUEV3qguhCzgql-UoFOkAMrAyAu93dI3_eBtpiKSO_y36dxOZyo=w48",
+    "developer": "BLANCOZONE NETWORK CO., LIMITED",
+    "url": "https://play.google.com/store/apps/details?id=com.global.ztmslgkr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "퍼즐 오브 Z"
+  },
+  "gal:명일방주": {
+    "icon": "https://play-lh.googleusercontent.com/fhgbWvrtqYEYlJiRI2Bk-__-4p2dx4VPVI-LZZ0Dz7sUWnw5EIu3g8Pitr6qmLRzI8yog8PJvFnm97GA0jg=w48",
+    "developer": "Yostar Limited.",
+    "url": "https://play.google.com/store/apps/details?id=com.YoStarKR.Arknights",
+    "country": "JP",
+    "source": "kr-google-match",
+    "title": "명일방주"
+  },
+  "gal:한게임포커": {
+    "icon": "https://play-lh.googleusercontent.com/Imi0dOs8mMcOxNvc4MGXbfdG1QNKgE70v1DYU4GTIXPlbCy5RGoC-XjBRdEwvb-jDGXAXFj9j43c7flORYphv7I=w48",
+    "developer": "NHN Corp.",
+    "url": "https://play.google.com/store/apps/details?id=com.nhnent.Qpoker",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "한게임 포커"
+  },
+  "gal:모던워쉽": {
+    "icon": "https://play-lh.googleusercontent.com/CbJIZbma9S7zhK6PYYcYMwnoGWPY9WgOTYi1tEPl7APVmRuZGKVQRKXi4_TY_RuhWxa43JrM6gYAO29PuFHXuWQ=w48",
+    "developer": "Artstorm FZE",
+    "url": "https://play.google.com/store/apps/details?id=com.Shooter.ModernWarships",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "모던 워쉽 (Modern Warships)"
+  },
+  "gal:귀판오분전444뽑기증정": {
+    "icon": "https://play-lh.googleusercontent.com/iaRgmhQ12dAg5jpzWzyR312KtwlvHxHMiGCDcj0FauwnJTtoSZSVRSj-TKo6S0Kl3SQ6s7PZjueZDMC909tbJnk=w48",
+    "developer": "Joy Nice Games",
+    "url": "https://play.google.com/store/apps/details?id=com.ygjszkr.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "귀판오분전-444뽑기 증정"
+  },
+  "gal:천년어게인": {
+    "icon": "https://play-lh.googleusercontent.com/bUJXH1UCZ-0lmkkx58S39fVy4CLg6Kr7dYwQIxs4qDXDzA2IydID0Ar6PW9M9DU4cQY3naFdC_1vAz_a5r-OeJg=w48",
+    "developer": "VFive Games Co.,Ltd.",
+    "url": "https://play.google.com/store/apps/details?id=com.vfg.v1000y.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "천년 어게인"
+  },
+  "gal:braintest4trickyfriends": {
+    "icon": "https://play-lh.googleusercontent.com/cwwf6lZpkkIYMy-1Pu00QE1216fuR_1cwCVEsNCIVvHtIXQTX8RHkkPtcIk2xMex32M2CvrFgYyod7glDAmIecs=w48",
+    "developer": "Unico Studio",
+    "url": "https://play.google.com/store/apps/details?id=com.unicostudio.braintest4",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "브레인 테스트 (Brain Test) 4:교묘한 친구들"
+  },
+  "gal:헌터파티키우기방치형rpg": {
+    "icon": "https://play-lh.googleusercontent.com/osn-kUrt0UPiVi5_-UXlx8DCmRGj_CRqvvmDcQgf4wZGWNFhZDKdFGUwqQVydXrNoonBIoFjMafZXewBmFZERw=w48",
+    "developer": "LUNOSOFT INC",
+    "url": "https://play.google.com/store/apps/details?id=com.lunosoft.hunteridle",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "헌터 파티 키우기: 방치형 RPG"
+  },
+  "gal:블록크러쉬퀘스트": {
+    "icon": "https://play-lh.googleusercontent.com/oyNbOc1whDkC91EooMpKwY96RZ92RDeUWPkqv_iMmei3l8XpRT0YHuhpVewaYjlz7rwJ8rePMDWq29j-v1Sq1Q=w48",
+    "developer": "mobirix",
+    "url": "https://play.google.com/store/apps/details?id=com.mobirix.ld8block",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "블록 크러쉬 퀘스트"
+  },
+  "gal:프로장기": {
+    "icon": "https://play-lh.googleusercontent.com/ctBX5yBuHsdUsfiZwTMQdtoSQoHcIC3haCaqaSYfd_PShDb3ddvG1zn2vj1Bn881A2FY5lgxNyb0Jy4uEon5TK0=w48",
+    "developer": "mobirix",
+    "url": "https://play.google.com/store/apps/details?id=com.mobirix.jnggonlns",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "프로 장기"
+  },
+  "gal:deeeersimulator": {
+    "icon": "https://play-lh.googleusercontent.com/Wa3MlegCWeI1VY4GLj-ECiR2MEFEV5sTgUgaF8S9c8cN7T9ESnznpdHRESd_pf4ZqWgbU9kD1pIdMXe-nIWVww=w48",
+    "developer": "Pujia8 LTD",
+    "url": "https://play.google.com/store/apps/details?id=com.pujiagames.deeeersimulatorwild",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "DEEEER Simulator: Wild World"
+  },
+  "gal:bakerystackrace": {
+    "icon": "https://play-lh.googleusercontent.com/EytOnagAIGHm3invorv5MPpjwhwKVPr7Yj-pQf6zX2tL7xf6TKSQRurlhGkiZGNmZKG8sQ7t0udPoYtJhrtNlg=w48",
+    "developer": "Fried Chicken Games",
+    "url": "https://play.google.com/store/apps/details?id=com.fcg.bakery.stack.maker.game",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "Bakery Stack: Cooking Games"
+  },
+  "gal:오목": {
+    "icon": "https://play-lh.googleusercontent.com/65iKT7hiGV_FyOuNp5AF3mUwzIVMIcFCC_-UBRt9dff3XI1K_5Oq3fe0tdex5XB1coNL5ZsdV248VWtNNOy_vw=w48",
+    "developer": "게임 스튜디오 모노몹",
+    "url": "https://play.google.com/store/apps/details?id=com.monomob.omok",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "오목"
+  },
+  "gal:vrrollercoasterthemeparkvirtualrealitygame360": {
+    "icon": "https://play-lh.googleusercontent.com/MIDeDljftjBcFig4ShZmB6u_ZTAns4nEm5B3ugjCp25oYnZ65KDUHyHwTC7XwitDQ4Ke8okgwITJDNAaJtKNVw=w48",
+    "developer": "Reality Games VR 360 Simulator",
+    "url": "https://play.google.com/store/apps/details?id=com.coaster.roller.vr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "VR Roller Coaster 360"
+  },
+  "gal:dobblego": {
+    "icon": "https://play-lh.googleusercontent.com/tiG00iWpkaU5GzsdwXM4sRY3imRMcQCtlRTrTM8pFbSHphESh-SqPyyBfDN4T5ugfITawrRUbVI34UjTpyvbQA=w48",
+    "developer": "Amuzo",
+    "url": "https://play.google.com/store/apps/details?id=com.amuzo.dobble.spot.it.go",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "Dobble Go!"
+  },
+  "gal:stickmanschoolrun": {
+    "icon": "https://play-lh.googleusercontent.com/TmMw7j4I2B9LsPVA5SewdjR2ZgWb61RtEiq_7rVomgvcP_-52-wUJQMsSgh7m3XsRvATUHsPCik5OBaj9brXWA=w48",
+    "developer": "PLAYTOUCH",
+    "url": "https://play.google.com/store/apps/details?id=net.playtouch.stickmanschoolrun",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "StickMan School Run"
+  },
+  "gal:토킹톰골드런": {
+    "icon": "https://play-lh.googleusercontent.com/HympGTcpiPUnufrkfbRIdE6XoMvho7nAzvz-298nBWBzXD-ELedqBg0zoBanITrw7-yADZrQew1yOjAlYoBS=w48",
+    "developer": "Outfit7 Limited",
+    "url": "https://play.google.com/store/apps/details?id=com.outfit7.talkingtomgoldrun",
+    "country": "CY",
+    "source": "kr-google-match",
+    "title": "토킹톰 골드런"
+  },
+  "gal:boomblocks퍼즐게임": {
+    "icon": "https://play-lh.googleusercontent.com/LUa_ebWXSChe3TP5BCkXlQhZYtFfK5As12qvx4HrKBravW98ogRmbrbL0BShxyCEXTtK4KqyJEtNSr4t0lRC=w48",
+    "developer": "Evrika Games LLC",
+    "url": "https://play.google.com/store/apps/details?id=com.evrika.boom.blocks",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "Boom Blocks: 퍼즐 게임"
+  },
+  "gal:stickmanthiefpuzzlegamerobberyescapebrainteaseradventures": {
+    "icon": "https://play-lh.googleusercontent.com/vuV7LSBGbRPY08jmUkAskRclgpkHo9NZ9SLLpwy5mgOtdnndjMQVERix8xQYGOmTpwRTtCVNueio4D7plo8L2g=w48",
+    "developer": "TapNation",
+    "url": "https://play.google.com/store/apps/details?id=com.weegoon.thiefpuzzle",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "Thief Puzzle: to pass a level"
+  },
+  "gal:캔디크러쉬사가candycrushsaga": {
+    "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI=w48",
+    "developer": "King",
+    "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga",
+    "country": "US",
+    "source": "kr-google-match",
+    "title": "캔디크러쉬사가 (Candy Crush Saga)"
+  },
+  "gal:에그메이커": {
+    "icon": "https://play-lh.googleusercontent.com/c6WCJdjx-ggcjeTDMu_WV5akJjqmF_RKypw1uB0K6vHVDMMm_wEw8sOxx2dwGs7VWmVdWYUzQx2LciA21V9Lfw=w48",
+    "developer": "mobirix",
+    "url": "https://play.google.com/store/apps/details?id=com.mobirix.gbwm",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "에그 메이커"
+  },
+  "gal:sparrowsout": {
+    "icon": "https://play-lh.googleusercontent.com/MEdebGmIJJ8nlPkxz1akt8K-fIiI1Z7Hj-0Js0DONMRpNOeDjvYfUeTupP2u3GB_UvBzeBPZ_UrdI7y360jQgA=w48",
+    "developer": "Fusion Core Games",
+    "url": "https://play.google.com/store/apps/details?id=com.sparrows.tap.puzzle.games.fusion",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "Sparrows Out: 화살표 퍼즐"
+  },
+  "gal:쿠키런모험의탑": {
+    "icon": "https://play-lh.googleusercontent.com/X6-_V7WlA6mQA9wLww5KWGJqQYRgce_425soLEYa7uv2P9mJ4TLA3iR6deOXVLCEOyVxax0nZIvRP4ZEf4t59g=w48",
+    "developer": "Devsisters Corporation",
+    "url": "https://play.google.com/store/apps/details?id=com.devsisters.cba",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "쿠키런: 모험의 탑"
+  },
+  "gal:realcarracinggameextremecardrivingsimulatormaster3dgrandtrackautodrivedriftraceofflinegames": {
+    "icon": "https://play-lh.googleusercontent.com/RkyC4P8sAvbrOcOlaQhKw66mIa8A0KMrQn6AUBdef9vC2OlNYAQE7E01N-SCe7DRya93ZO84qIYqSgDMlOy1WA=w48",
+    "developer": "AxesInMotion Racing",
+    "url": "https://play.google.com/store/apps/details?id=com.aim.racing",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "Extreme Car Driving Simulator"
+  },
+  "gal:피망섯다": {
+    "icon": "https://play-lh.googleusercontent.com/DOxPLYkSR485vfTP1kmw0wQ88XICzWOdjPOZjpHr0Ta-2vRLgEvB1ED5U5YEAWAnIyvU6Ot1rTql0cpmV5Y2rQ=w48",
+    "developer": "NEOWIZ corp",
+    "url": "https://play.google.com/store/apps/details?id=com.neowiz.games.sudda",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "피망 섯다"
+  },
+  "gal:stumbleguys스텀블가이즈": {
+    "icon": "https://play-lh.googleusercontent.com/v7cn-JqS-IMwCjnTkmDA-6s68B5_MdDsid2ObABpIOBYOuwiqkx4_OjZJQt2i-TLJxEaVWctKay1P98ctZWL7Q=w48",
+    "developer": "Scopely",
+    "url": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies",
+    "country": "US",
+    "source": "kr-google-match",
+    "title": "Stumble Guys 스텀블 가이즈"
+  },
+  "gal:교통주행시뮬레이터": {
+    "icon": "https://play-lh.googleusercontent.com/ZgLd0UPEdlwa1YIFmBa0Qfq70wEKaU0_l0CJ2Mx8pIncKzZJKG61aT85xuERTbct63I5g5JSN4lPW8G0RfT-rg=w48",
+    "developer": "mobirix",
+    "url": "https://play.google.com/store/apps/details?id=com.mobirix.driveking",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "교통 주행 시뮬레이터"
+  },
+  "gal:수박만들기2048": {
+    "icon": "https://play-lh.googleusercontent.com/1FSnMj8QTJaFaL0s0qd6LwyEWoc4WELmr2ZXFKdO0hjn9dkUwdRYd7j4gHSmSplWKDi61FAnmL3L8ZexeVa6bw=w48",
+    "developer": "mobirix",
+    "url": "https://play.google.com/store/apps/details?id=com.mobirix.ldwm",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "수박 만들기 2048"
+  },
+  "gal:bussimulator3dbusgames": {
+    "icon": "https://play-lh.googleusercontent.com/PRpbD6mRRxaAv7TuMxEN4TpYcb6Jq2Uxr6tLm8vLMDZS3F5cwSolKq2gcmzLxbK7PkFxkroQ7WLAxt1ARy1Enw=w48",
+    "developer": "GamePark",
+    "url": "https://play.google.com/store/apps/details?id=com.gf.busdriving.publictransport.citypassenger.drivinggames",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "Bus Simulator : 3D Bus Games"
+  },
+  "gal:롤링볼레이스3d물리게임": {
+    "icon": "https://play-lh.googleusercontent.com/hdxa2lH5jrafheNE_14EC9RTAo4Mwkom083SpIcW4dIxvJV5VERprlwdHEO4ReYVBTB7af9f37GsaK55_rnhnw=w48",
+    "developer": "FALCON GAME STUDIO",
+    "url": "https://play.google.com/store/apps/details?id=com.sky.rolling.ball.jump.balance.escape.adventure",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "3D 슈퍼 롤링 볼 레이스"
+  },
+  "gal:옥토패스트래블러대륙의패자": {
+    "icon": "https://play-lh.googleusercontent.com/qfrq9fbIaWZcVz49ehNOHDT8nvEQeIPXljHmwtcIFQTYSh5HMvP6SSHzADlu43xhjmu6U4LXQVuYtnL0NUip=w48",
+    "developer": "Exptional Global",
+    "url": "https://play.google.com/store/apps/details?id=com.netease.octopath.kr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "옥토패스 트래블러: 대륙의 패자"
+  },
+  "gal:backroomsdarkness": {
+    "icon": "https://play-lh.googleusercontent.com/LKJQqsjknIcU1hEYPjaHWGcIobmSrQKwsTN9lH8EbfCyrIlevQxYLygUGilquubVI_yQGEqcBY1fxW0mBM-0lg0=w48",
+    "developer": "Esyverse",
+    "url": "https://play.google.com/store/apps/details?id=com.IEP.Backrooms",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "Backrooms"
+  },
+  "gal:고물히어로": {
+    "icon": "https://play-lh.googleusercontent.com/wXJPDo60It-InBBp2izhCUFjzF5p3cOyo1wTlfPXAqXRj-tICuGWga6du4tekFBIFZ5hAU8XylkWkBfacR0D_g=w48",
+    "developer": "SUPERBOX Inc",
+    "url": "https://play.google.com/store/apps/details?id=com.superpixel.scrap",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "고물 히어로"
+  },
+  "gal:antistressrelaxingtoygame": {
+    "icon": "https://play-lh.googleusercontent.com/lf9H9LovkvO71MIfXAfpmQOd2ZqlhoKLs59jRCI1w0Maz9qZ-ltx3l1IW1K3bzWJ61LdaZEzu6Yd_EnwTLVQ4e0=w48",
+    "developer": "stick hunter",
+    "url": "https://play.google.com/store/apps/details?id=com.sh.mini.antistress.relaxing.games",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "Mini Antistress Relaxing Games"
+  },
+  "gal:베놈다크벤전스": {
+    "icon": "https://play-lh.googleusercontent.com/pqtYxDfXzo6gu92YdWUGHVXQQj6o196l3THOST_Uc6DySRunjZ-el5XxAkNv7YZT7on8_CLQqeGhrY6Ubs7Hz2Q=w48",
+    "developer": "SPGAME",
+    "url": "https://play.google.com/store/apps/details?id=com.jiumengsykr.gp",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "베놈: 다크 벤전스"
+  },
+  "gal:braintestallstariqboost": {
+    "icon": "https://play-lh.googleusercontent.com/_5z40atEriyGXZxfg0slPg58M_6jF4DXhh7qS8fyOG7aggqRETgzWfcidjo3ts_5_dx7hxMRez3pb7Q4aVUO=w48",
+    "developer": "Unico Studio",
+    "url": "https://play.google.com/store/apps/details?id=com.unicostudio.braintestlegacy",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "브레인테스트 올스타 (Brain Test): IQ 게임"
+  },
+  "gal:tilesmagicpiano4": {
+    "icon": "https://play-lh.googleusercontent.com/ktWkZViUjZltC1k4LS4IYOZq1EXdMu9UjzfV8RW-fz1Knrc_PUnnHKPv7rCTPMLThtZmevysi0mVUJzhSk59sA=w48",
+    "developer": "SkyNova",
+    "url": "https://play.google.com/store/apps/details?id=com.magic.piano4.qdogg.free.game.gejnr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "Magic Piano 4"
+  },
+  "gal:아스팔트레전드초강력아케이드자동차레이싱게임": {
+    "icon": "https://play-lh.googleusercontent.com/53ngsanoIl6vcppIwZD2LGMcjT9j5beVN_GakLncwrIr7WjTXYs6lnaSef-zlKmWr2NaaoSmMs1qQjtyXgLnSiw=w48",
+    "developer": "Gameloft SE",
+    "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM",
+    "country": "FR",
+    "source": "kr-google-match",
+    "title": "아스팔트 레전드"
+  },
+  "gal:countryballsworldwar": {
+    "icon": "https://play-lh.googleusercontent.com/l8JcLs36n7c9IyG_21S5SjcvuuMKNW7AXn0Z5CPdPz0aLqDkSKYSFGI0IHJMlNHsbBQKHRhAYhbUrRSOBZ3M8g=w48",
+    "developer": "MAD PIXEL GAMES LTD",
+    "url": "https://play.google.com/store/apps/details?id=state.countryballs.dictators.io",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "Country Balls: World War"
+  },
+  "gal:바둑": {
+    "icon": "https://play-lh.googleusercontent.com/xJHMYqn_f3mDoN3rTgCrZOoKcj-jCiDyxKVbvaQvcqWIfaYXm0qHMx5mzeA7F7UALmHWfPpD9InAEzduvTrFdA=w48",
+    "developer": "NHN Corp.",
+    "url": "https://play.google.com/store/apps/details?id=com.nhnent.HanBaduk",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "한게임 바둑 (대국/예측)"
+  },
+  "gal:환생마검사키우기검과마법의전략전투": {
+    "icon": "https://play-lh.googleusercontent.com/7-Liv84vdtyOEB4JjCtYTVl0sFwXzfd0d_P9pU___JdHElo7rPH8_v5D2EMFfQ-ivqqLEKML-owDN-0guCg6=w48",
+    "developer": "LUNOSOFT INC",
+    "url": "https://play.google.com/store/apps/details?id=com.lunosoft.swordsman",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "환생 마검사 키우기: 검과 마법의 전략 전투"
+  },
+  "gal:하스스톤": {
+    "icon": "https://play-lh.googleusercontent.com/Ho2UMDCefu9_FD_j9NURUf9WZHB6q6iWorKKH1C53DGtMP5C0bLqsfww8XhCHr8K62_3wCGczYsINQ6noRP5GQ=w48",
+    "developer": "Blizzard Entertainment, Inc.",
+    "url": "https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "하스스톤"
+  },
+  "gal:몬스터공룡도시난동화난공룡시뮬레이터게임": {
+    "icon": "https://play-lh.googleusercontent.com/LGwquUR_XP-_147-eQQ5Iac0ToteZ-ekz-Knu6OX7Ggv8VPPHcYE1pXy0czRfKoODIbfpgm2-eONHJub_uPVdA=w48",
+    "developer": "Arsl Emporium Ltd.",
+    "url": "https://play.google.com/store/apps/details?id=com.ae.dinosaur.simulator.city.attack",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "공룡 시뮬레이터: 도시 공격"
+  },
+  "gal:moderncarparking3dcargamecitycarparking": {
+    "icon": "https://play-lh.googleusercontent.com/22JhhuoJRJ_-qTXuekAYvY5TpgL3BFHXtVHZsCyasPMLK4XQ32RpYnp4-9ITZoNUmmy-AQpK5H9qoRdts8bS6Q=w48",
+    "developer": "GAMEXIS",
+    "url": "https://play.google.com/store/apps/details?id=com.volcano.modrn.car.parking.d",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "Modern Car Parking: Car Game"
+  },
+  "gal:페르소나5더팬텀x": {
+    "icon": "https://play-lh.googleusercontent.com/EHc3U7K3MQ84PFEhikNXSS1xoFTcaksr3kvUGzlsBFDff7ETiiQSiTJ13QETSfQMJLiQS2_OvpjpQvkTbOobZg=w48",
+    "developer": "Perfect World Games",
+    "url": "https://play.google.com/store/apps/details?id=com.p5xkr.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "페르소나5: 더 팬텀 X"
+  },
+  "gal:모두의장기혼자즐기기": {
+    "icon": "https://play-lh.googleusercontent.com/k55ohWQBG7qZ4BntwQ6t06iVnVWjRPIWk4AzUn7Ad3uZD9jR5mt4WKKWD9JZhBIDCox7-xF6UEXhA2ucz_flJw=w48",
+    "developer": "주식회사프리온",
+    "url": "https://play.google.com/store/apps/details?id=com.freeon.janggiG",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "모두의장기 혼자하기"
+  },
+  "one:이것이삼국지다": {
+    "icon": "https://play-lh.googleusercontent.com/wXPuQu1nXkZxd2JqNO2E0YE7Be97vwbyR1G29WpAy_nWHdYxvogGNtpKHWym1qvQYyEzpOnjiCIZJybfWNjdQEk=w48",
+    "developer": "End9 Games Corp.",
+    "url": "https://play.google.com/store/apps/details?id=com.end9games.aow37ggl",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "이것이 삼국지다"
+  },
+  "one:궁영롱몽": {
+    "icon": "https://play-lh.googleusercontent.com/AtxoAjwyM8RaldY_NUGbiHd3tcRgj9eJPLMuFaerVVLqxVSuca0A8VUe36LLhPngEeEeyKCpD8eoJ7RFEPVTLQ=w48",
+    "developer": "WISH INTERACTIVE TECHNOLOGY LIMITED",
+    "url": "https://play.google.com/store/apps/details?id=com.gf.xmtwtw.hwyad.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "궁:영롱몽"
+  },
+  "one:킹덤가드타워디펜스tdkingdomg": {
+    "icon": "https://play-lh.googleusercontent.com/mTHdiHsbAEHrcjZEZtItwXjhXC4zwJnK76pA_VfNmiVogwehDuOYaPTLYgt-seCWiQ44QN7VDskRUkqIqss0DGg=w48",
+    "developer": "Tap4fun (Hong Kong) Limited",
+    "url": "https://play.google.com/store/apps/details?id=com.tap4fun.odin.kingdomguard",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "킹덤 가드: 타워 디펜스"
+  },
+  "one:파이널삼국지2풍성한신규서버혜택내": {
+    "icon": "https://play-lh.googleusercontent.com/OT22B8nBRRJTcAb7jySiRWE1XDPP1dwG-kwstqZUu8fSkXZuBFx0R4ivFgHvo2qJ6vfxQUDU360YsFc3Ku-E=w48",
+    "developer": "Gamepub",
+    "url": "https://play.google.com/store/apps/details?id=com.gamepub.bb.g",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "[턴제RPG]파이널삼국지"
+  },
+  "one:호드워어벤저의소환": {
+    "icon": "https://play-lh.googleusercontent.com/_A5deFnR8J8J3xKVIQSRg7F8Fs5KayGk-u50k5UPLagtXfHpRlgyIL3XaoiIGgwE7dnyv3fJkaMTZoOIykFeG0I=w48",
+    "developer": "JoyTogether Games",
+    "url": "https://play.google.com/store/apps/details?id=com.mymskr.gp",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "호드 워:어벤저의 소환"
+  },
+  "one:로스트소드": {
+    "icon": "https://play-lh.googleusercontent.com/_OS6EQ01n93vfCiMRVgOb6RSsYiyacTI-2z_ebCzHNlLHdQX4Ln12dC1qGLjb_nrLc2L7Yr62osZDvFdIIv0JA=w48",
+    "developer": "Wemade Connect",
+    "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.lostdgl",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "로스트 소드"
+  },
+  "one:totalfootballmobilesoccer2026": {
+    "icon": "https://play-lh.googleusercontent.com/7CjZABrExQae8Trj7CuRdUfuPGOSGdG937qr5mJD2cun_cy5l9B1-SCH3_MxJUiyXtXGJo6DPO4CFdNOOPXQY-U=w48",
+    "developer": "GALA Sports",
+    "url": "https://play.google.com/store/apps/details?id=com.galasports.totalfootball.kr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "Total Football - 2026 북중미 시즌"
+  },
+  "one:갓오하체인지방치형키우기rpg": {
+    "icon": "https://play-lh.googleusercontent.com/P5HWrCGJ5TtqGHR093xrYLPjqWWP9jlSSfhEts2-_EYdxQSkDlHBDTeOcSW8cqOfE2rmAC2-ng5fOdNVM_tweA=w48",
+    "developer": "WONCOMZ.INC",
+    "url": "https://play.google.com/store/apps/details?id=com.woncomz.igoh.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "갓오하 체인지 : 방치형 키우기 RPG"
+  },
+  "one:불사용사키우기방치형rpg": {
+    "icon": "https://play-lh.googleusercontent.com/qMUhD7uPx5eNI1bVMRQHKtnrMejx9QiwhvIU-7GHIdmw02Xsm0kFoUzN7HmW5FeZS207km7HBp1c_4kL5x_4AQ=w48",
+    "developer": "SUPERBOX Inc",
+    "url": "https://play.google.com/store/apps/details?id=com.superpixel.undyinghero",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "불사용사 키우기 : 방치형 RPG"
+  },
+  "one:9up프로야구kbo모바일야구매l": {
+    "icon": "https://play-lh.googleusercontent.com/zIBwwahUp8G7dK8vUijsF4grKVecu9PqFYAQuNkAoDPP8GMpw21USWytzuqpn-aLqNiAY0WJrI353yWP4PQ5ZeA=w48",
+    "developer": "Ace Project Inc.",
+    "url": "https://play.google.com/store/apps/details?id=com.aceproject.mpbr.aos.dist",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "9UP 프로야구: KBO 모바일 야구 매니저"
+  },
+  "one:스타여친": {
+    "icon": "https://play-lh.googleusercontent.com/pHcvlffrvRx4_pl_a6bqdZhHZXISk7mvdPn3vTNRVhDRanBpPqXX4qyRhRWfJvaRG7QglT8wAouDwgPIlnDTLfQ=w48",
+    "developer": "STAR WAY",
+    "url": "https://play.google.com/store/apps/details?id=com.ylqdhkr.gp",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "스타 여친"
+  },
+  "one:열혈강호화룡전": {
+    "icon": "https://play-lh.googleusercontent.com/ykbYx5jJdoEE60gZzsHtnQN_4NEbVR_0Aq3GhxNWzLgqFVmwQD35fTDKvyEQV2N0reDa-9vLFtQFT-DWaUUf=w48",
+    "developer": "Sesisoft",
+    "url": "https://play.google.com/store/apps/details?id=com.cle.yulgang",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "열혈강호: 화룡전"
+  },
+  "one:우파루오딧세이": {
+    "icon": "https://play-lh.googleusercontent.com/s6XCZuBrWU5X18ZTi1A4XqMUQjytYYBulyMhZ6iAE1Hv37FdVRpNmPt76quXGxY46XhARvsNFHi68MlI_lbgbQ=w48",
+    "developer": "NHN Corp.",
+    "url": "https://play.google.com/store/apps/details?id=com.nhn.wooparoo.kr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "우파루 오딧세이"
+  },
+  "one:더킹오브파이터즈98um온라인콜": {
+    "icon": "https://play-lh.googleusercontent.com/kP2XR5JTEfl3v2KjRVgjV9byD3_OjAYhobbe_HG4sRwv_Mi_NXVRZCJhjTKgTbd8YGeCCxnRkju66_A3-bpQmU4=w48",
+    "developer": "FingerFun Limited.",
+    "url": "https://play.google.com/store/apps/details?id=com.fingertips.kof98umol",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "더 킹 오브 파이터즈'98 UM온라인 - 콜라보"
+  },
+  "one:에보니왕의귀환evonythekings": {
+    "icon": "https://play-lh.googleusercontent.com/O_2KnfGM5WwoQrZVXoyHJEv-NyyZf3Nv6zYe3uQCtAFHzx8v4PT4Sb9oaSRoJDQ9Z8RDAYfHZh-_23TkBRSGRQ=w48",
+    "developer": "TG Inc.",
+    "url": "https://play.google.com/store/apps/details?id=com.topgamesinc.evony",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "에보니 - 왕의 귀환"
+  },
+  "one:멀티키우기정령킹키우기": {
+    "icon": "https://play-lh.googleusercontent.com/NSrujt5lGFWvyZUqJoElqvwfpm78gnnOUtv5x5qKUkKSuZnKlGm-d-cPcpMMNa22s5VPd5U28nR74YtDFnlNVA=w48",
+    "developer": "Eight Studio",
+    "url": "https://play.google.com/store/apps/details?id=com.EightStudio.SpiritKing",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "멀티 키우기 : 정령킹 키우기"
+  },
+  "one:메이크드라마mad": {
+    "icon": "https://play-lh.googleusercontent.com/u574SJ5fOmikWAC7rVtFRKNFdP6vp29dyl-OFKDBW0hnOvlj5r-gKTrEGD57yDjqhCf8exL0zjCEki-Wdjyq_g=w48",
+    "developer": "Wemade Connect",
+    "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.makedrama.google",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "메이크 드라마 : MAD"
+  },
+  "one:숲의소환단방치형판타지수집rpg": {
+    "icon": "https://play-lh.googleusercontent.com/XSyuXxTSTModOmPPibdXhb_dgXcg8HkjL0D9L900ZhP0nHnnb_auMnm5SN_vVz5CqBrr-d-JBFfqRtnt0z_3=w48",
+    "developer": "RunXuGame",
+    "url": "https://play.google.com/store/apps/details?id=com.rxgame.krqworld",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "숲의 소환단: 방치형 판타지 수집 RPG"
+  },
+  "one:legendsreborndmf": {
+    "icon": "https://play-lh.googleusercontent.com/LbUIZKnQUPt3MvFLoVLOLE4sx9THRwq9NwCRQE-BZdfHpFwEM5Rrj6Dj8YoXQuf57AKQ6iJ-7AtkQaQGsPMJAQ=w48",
+    "developer": "ACE GAME INTERNATIONAL LIMITED",
+    "url": "https://play.google.com/store/apps/details?id=com.Knight.GrandQuest",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "Legends Reborn: 마지막 전투"
+  },
+  "one:소녀전쟁환상의천하통일전": {
+    "icon": "https://play-lh.googleusercontent.com/fMmCDgKBBJKQyBxa_g0PeF4m6k7gtZPGOMst55eDCLaiFNXcg0rx6FysoBO9CLE6qsRpW373fTD3WNeV5z8MQw=w48",
+    "developer": "BUFFALO",
+    "url": "https://play.google.com/store/apps/details?id=com.girlwars.kr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "소녀전쟁: 환상의 천하통일전"
+  },
+  "one:건틀렛신규서버오픈": {
+    "icon": "https://play-lh.googleusercontent.com/uP82tnqzDADEpep6z6Jvcet5CB9btoMMakdwqq_nRDN2sY1DYZwwbiX3rghdopyVC2M4kXnxn751lFHBSWWZjNE=w48",
+    "developer": "Metabone Entertainment Inc",
+    "url": "https://play.google.com/store/apps/details?id=com.metaboneent.gauntletrpg",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "건틀렛: 신규 서버 오픈!"
+  },
+  "one:비지세이비어": {
+    "icon": "https://play-lh.googleusercontent.com/IwzINFRR_HLpo9AkBHgL9PjlKoFw5rMAxkKyxOGKI37-HCAHNIVg8n4JMfwUBr2-gN_80A4O-ug8s1DFo0PIeQ=w48",
+    "developer": "Joy Nice Games",
+    "url": "https://play.google.com/store/apps/details?id=com.zjwskr.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "비지 세이비어"
+  },
+  "one:2aeweilastsheltersurvival": {
+    "icon": "https://play-lh.googleusercontent.com/bCUKlHtllYdlK5A9FT3nIo_LxoapkzO2jeyEwrRnZZNvD1stuB-6JATy86hORqWR6qqfS-5FtzXh4ERasBf_sQ=w48",
+    "developer": "LAST ORIGIN STUDIO LIMITED",
+    "url": "https://play.google.com/store/apps/details?id=com.more.lastshelter.gp",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "Last Shelter: War Z"
+  },
+  "one:하스스톤": {
+    "icon": "https://play-lh.googleusercontent.com/Ho2UMDCefu9_FD_j9NURUf9WZHB6q6iWorKKH1C53DGtMP5C0bLqsfww8XhCHr8K62_3wCGczYsINQ6noRP5GQ=w48",
+    "developer": "Blizzard Entertainment, Inc.",
+    "url": "https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "하스스톤"
+  },
+  "one:검신제로": {
+    "icon": "https://play-lh.googleusercontent.com/1prRp8Gx9CSd1KQJbAtp3stuSHl1g4gjjtl2o09zfNe73DS7WftpQo9FEBKFXO6EZT3_X4E8wqeDIUDYEAssVA=w48",
+    "developer": "Neptune Corp.",
+    "url": "https://play.google.com/store/apps/details?id=com.neptune.dawnsedge",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "검신제로"
+  },
+  "one:루미나세라피아": {
+    "icon": "https://play-lh.googleusercontent.com/mMtjSC2asrsW5cIS8v1OtNQTtZc5BZ6njVcZDoAH2PE6hRrwxL4MVGSHJCK4YP1dBCidvUxLJy_bN12fbMEY=w48",
+    "developer": "BROCCOLI LIMITED",
+    "url": "https://play.google.com/store/apps/details?id=com.broccolihk.luminaseraphia",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "루미나: 세라피아"
+  },
+  "one:꼬마기사키우기방치형rpg": {
+    "icon": "https://play-lh.googleusercontent.com/tNFme2Hidx_nA4F9hEBvCPlkSFqHQe_IwQXUKQdATFy7KQPoV-ECWbE6wYTqwVWFCkESZawIS6QkMuxsyMMe=w48",
+    "developer": "Korea Indie Dev",
+    "url": "https://play.google.com/store/apps/details?id=com.hyojun.littleknight",
+    "country": "US",
+    "source": "kr-google-match",
+    "title": "꼬마 기사 키우기 - 방치형 RPG"
+  },
+  "one:한게임신맞고대한민국원조고스톱": {
+    "icon": "https://play-lh.googleusercontent.com/BmlHi1FAGn5ZWCM13EAAS5K9AToZ1i9Ok10HWoQgaoZMFttJrbHTZUb0Z5zvbxH3xSYVaJ0s4HMUaP2Ko7HKouE=w48",
+    "developer": "NHN Corp.",
+    "url": "https://play.google.com/store/apps/details?id=com.NHNEnt.NDuelgo",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "한게임 신맞고 : 대한민국 원조 고스톱"
+  },
+  "one:프로스트킹덤머지생존전략slg": {
+    "icon": "https://play-lh.googleusercontent.com/Nl2Q5rxBu0jVKk1ApMGsai-hGg0iaC7R-GupFEj-N9hQcSI9YbFTKnxzJ57AOVF3sOzlbgULGvieA_j_nC05nA=w48",
+    "developer": "NEXUS",
+    "url": "https://play.google.com/store/apps/details?id=com.nexus.frostkingdom",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "프로스트킹덤: 머지 생존전략 SLG"
+  },
+  "one:루미나리버": {
+    "icon": "https://play-lh.googleusercontent.com/8ZswPwjfR8YzXxVz9DRZA0XyJIYDKdBd_INTtZtqEh0vDUeFIk1bd4PYKhs0idApodu9Q4bg5Uf7e-zQ_VzYV2s=w48",
+    "developer": "부스트유니버스",
+    "url": "https://play.google.com/store/apps/details?id=com.boostverse.Idlerpg.google",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "루미나리버"
+  },
+  "one:weplay파티게임": {
+    "icon": "https://play-lh.googleusercontent.com/EyjAkO-0zwnPY3xP_3McAQu8mmLNLbtz0XZWROyWmfdC_tF1Eu-GkHfhSo6Ye4VXpusHIwP5Gu1Xh8YaFVylAg=w48",
+    "developer": "WEJOY Pte. Ltd.",
+    "url": "https://play.google.com/store/apps/details?id=com.wejoy.weplay.kr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "WePlay - 파티게임"
+  },
+  "one:라스트오리진": {
+    "icon": "https://play-lh.googleusercontent.com/xUOBsJm5_PeqZw0rJKxwVhdyHRPs66hmSwZMgTZYaz3K6knJHYk47cxBuu67tFhhzQwd-cbNCm6stKiXTBfnVu4=w48",
+    "developer": "VALOFE Co., Ltd.",
+    "url": "https://play.google.com/store/apps/details?id=com.smartjoy.LastOrigin_G",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "라스트오리진"
+  },
+  "one:아스텔리아2": {
+    "icon": "https://play-lh.googleusercontent.com/0jV3o1CP4chmp2UTY3Vm63mNyKDPSdIDlDIelc5JTcFiZMs6nOdIvGbzAw5cVl_qTkNaC84gnPCys496ruHT4ZA=w48",
+    "developer": "Lepor Games Co.,Ltd",
+    "url": "https://play.google.com/store/apps/details?id=com.lepor.astellia2",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "아스텔리아2"
+  },
+  "one:식물운빨디펜스": {
+    "icon": "https://play-lh.googleusercontent.com/ts2ULyUh9PUfeUEZ-KNK_WqOPfaZ8jn_UY7jwPueA2d0tUQBp-p9oTDup-Jj1dePSb2z5vp7mrTdkcaE68Q9=w48",
+    "developer": "GoldFlowGames",
+    "url": "https://play.google.com/store/apps/details?id=com.goldflowgames.luckyplantdefenseggl",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "식물 운빨 디펜스"
+  },
+  "one:브라운더스트2": {
+    "icon": "https://play-lh.googleusercontent.com/frPGVrz_hwSOyNm3y9RoVkfxD5I5ibKv0C5RD9Ub1188PJtv3BXa7KkfSyzr_-9SeNk50AVt3P2XvS_jtzTa=w48",
+    "developer": "NEOWIZ",
+    "url": "https://play.google.com/store/apps/details?id=com.neowizgames.game.browndust2",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "브라운더스트2 - 가슴 벅찬 RPG"
+  },
+  "one:이사만루26": {
+    "icon": "https://play-lh.googleusercontent.com/OlgwCx3YwjOfZFe35Mv5qzJOXk_2OnI3QQ2ExHEex_JjkkGD2dTbiI6aje6v1u9f_6ef103uFThTzJJq285kWw=w48",
+    "developer": "GONGGAMES Corp.",
+    "url": "https://play.google.com/store/apps/details?id=com.gonggames.kbo3.aos.google.kr",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "이사만루26"
+  },
+  "one:쿠키런오븐브레이크": {
+    "icon": "https://play-lh.googleusercontent.com/dlSJyyapJ336pDW4NKNS1hs9LFhjOj-KWW-HlZDowCgGpEb51kYFLiuJIr9BVDJH5NNMfjXNAamysOebRCMFfdc=w48",
+    "developer": "Devsisters Corporation",
+    "url": "https://play.google.com/store/apps/details?id=com.devsisters.gb",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "쿠키런: 오븐브레이크"
+  },
+  "one:열혈강호귀환": {
+    "icon": "https://play-lh.googleusercontent.com/8yQhhuaU9Y4EAPn3EKWVisnTq_jhv64cltkHAehbbF0usGOUSHCxEBiaycfiq392CMEJDxbR2pjxVCdgtsSP3A=w48",
+    "developer": "9RING",
+    "url": "https://play.google.com/store/apps/details?id=com.rxjhkr.an",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "열혈강호: 귀환"
+  },
+  "one:월드마스터약탈없는1인전략": {
+    "icon": "https://play-lh.googleusercontent.com/jF2eXVFkEnffB03eGeVWPgXWGYyUKw4YU0KRAvmE24o3amhgtQPn_WZscX0QN2Ak16-lfB0Xl330YfeYitgGvw=w48",
+    "developer": "알코브팩토리",
+    "url": "https://play.google.com/store/apps/details?id=com.alcove.worldmaster.gg",
+    "country": null,
+    "source": "kr-google-match",
+    "title": "월드 마스터: 약탈 없는 1인 전략"
+  },
+  "one:피망섯다": {
+    "icon": "https://play-lh.googleusercontent.com/DOxPLYkSR485vfTP1kmw0wQ88XICzWOdjPOZjpHr0Ta-2vRLgEvB1ED5U5YEAWAnIyvU6Ot1rTql0cpmV5Y2rQ=w48",
+    "developer": "NEOWIZ corp",
+    "url": "https://play.google.com/store/apps/details?id=com.neowiz.games.sudda",
+    "country": "KR",
+    "source": "kr-google-match",
+    "title": "피망 섯다"
   }
 }
