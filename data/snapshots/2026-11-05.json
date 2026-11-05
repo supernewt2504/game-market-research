@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "collectedAt": "2026-11-05T02:18:00.785Z",
+  "collectedAt": "2026-11-05T03:16:02.016Z",
   "country": "kr",
   "charts": {
     "google_popular": [
@@ -419,108 +419,108 @@
       },
       {
         "rank": 60,
+        "name": "Block Blast Lite",
+        "id": "com.blockblast.lite",
+        "developer": "HungryStudio",
+        "url": "https://play.google.com/store/apps/details?id=com.blockblast.lite"
+      },
+      {
+        "rank": 61,
         "name": "리니지W",
         "id": "com.ncsoft.lineagew",
         "developer": "NC Corporation",
         "url": "https://play.google.com/store/apps/details?id=com.ncsoft.lineagew"
       },
       {
-        "rank": 61,
+        "rank": 62,
         "name": "Bus Fever Party! 버스게임교통체증차빼기퍼즐",
         "id": "gridplus.busjam.carpuzzle",
         "developer": "Lumi Games",
         "url": "https://play.google.com/store/apps/details?id=gridplus.busjam.carpuzzle"
       },
       {
-        "rank": 62,
+        "rank": 63,
         "name": "무한의 계단",
         "id": "com.nflystudio.InfiniteStaircase",
         "developer": "Neptune Corp.",
         "url": "https://play.google.com/store/apps/details?id=com.nflystudio.InfiniteStaircase"
       },
       {
-        "rank": 63,
+        "rank": 64,
         "name": "비타 마작(Vita Mahjong)",
         "id": "com.vitastudio.mahjong",
         "developer": "Vita Studio.",
         "url": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong"
       },
       {
-        "rank": 64,
+        "rank": 65,
         "name": "할리우드 머지",
         "id": "com.hollywood.merge",
         "developer": "VoyagerOne IE",
         "url": "https://play.google.com/store/apps/details?id=com.hollywood.merge"
       },
       {
-        "rank": 65,
+        "rank": 66,
         "name": "스도쿠",
         "id": "com.splendapps.sudoku",
         "developer": "Splend Apps",
         "url": "https://play.google.com/store/apps/details?id=com.splendapps.sudoku"
       },
       {
-        "rank": 66,
+        "rank": 67,
         "name": "Supermarket Tycoon Empire",
         "id": "com.supermarkettycoon.idle",
         "developer": "Sopot Studios",
         "url": "https://play.google.com/store/apps/details?id=com.supermarkettycoon.idle"
       },
       {
-        "rank": 67,
+        "rank": 68,
         "name": "나 혼자만 상한가 : 회귀 주식 키우기 게임",
         "id": "com.seizemode.up",
         "developer": "seizemode",
         "url": "https://play.google.com/store/apps/details?id=com.seizemode.up"
       },
       {
-        "rank": 68,
+        "rank": 69,
         "name": "로얄 매치 Royal Match",
         "id": "com.dreamgames.royalmatch",
         "developer": "Dream Games, Ltd.",
         "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch"
       },
       {
-        "rank": 69,
+        "rank": 70,
         "name": "마작 블라스트 (Mahjong Blast)",
         "id": "com.nebula.mahjongtile",
         "developer": "Nebula  Studio",
         "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile"
       },
       {
-        "rank": 70,
+        "rank": 71,
         "name": "푸드스타（Foodstars）: 합쳐서 요리하기",
         "id": "com.merge.game.foodstars",
         "developer": "Happibits Game",
         "url": "https://play.google.com/store/apps/details?id=com.merge.game.foodstars"
       },
       {
-        "rank": 71,
+        "rank": 72,
         "name": "Search It – 숨은그림찾기",
         "id": "com.leap.searchit",
         "developer": "Leap Game Studios",
         "url": "https://play.google.com/store/apps/details?id=com.leap.searchit"
       },
       {
-        "rank": 72,
+        "rank": 73,
         "name": "Twist Colors: Cubescape",
         "id": "cube.clear.burst.spin.sweep.puzzle.rotate",
         "developer": "Nova Games Technology Limited",
         "url": "https://play.google.com/store/apps/details?id=cube.clear.burst.spin.sweep.puzzle.rotate"
       },
       {
-        "rank": 73,
+        "rank": 74,
         "name": "Arrows - 퍼즐 이스케이프",
         "id": "com.ecffri.arrows",
         "developer": "Lessmore GmbH",
         "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows"
-      },
-      {
-        "rank": 74,
-        "name": "Block Blast Lite",
-        "id": "com.blockblast.lite",
-        "developer": "HungryStudio",
-        "url": "https://play.google.com/store/apps/details?id=com.blockblast.lite"
       },
       {
         "rank": 75,
