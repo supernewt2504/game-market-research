@@ -1,0 +1,3424 @@
+{
+  "date": "2026-11-06",
+  "collected_at": "2026-11-06 09:00",
+  "source": "secretary-ocr",
+  "charts": {
+    "onestore_grossing": [
+      {
+        "rank": 1,
+        "name": "컴투스프로야구V26",
+        "id": "one:컴투스프로야구v26",
+        "developer": "(주)컴투스",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/29/IF142158856020090629182843/0000768953/ko/img/original/0000768953_20260729113155.png",
+        "released": "2023.05.24"
+      },
+      {
+        "rank": 2,
+        "name": "나이트 크로우",
+        "id": "one:나이트크로우",
+        "developer": "wemade",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202401/29/IF1423491841420111020154802/0000772632/ko/img/original/0000772632_DP000101_20240129191942.png",
+        "released": "2024.01.31"
+      },
+      {
+        "rank": 3,
+        "name": "FC 온라인 M",
+        "id": "one:fc온라인m",
+        "developer": "(주) 넥슨",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/26/IF142158931020090716174343/0000730623/ko/img/original/0000730623_20261026105924.png",
+        "released": "2018.07.25"
+      },
+      {
+        "rank": 4,
+        "name": "창세기전 모바일 - 서풍의 광시곡",
+        "id": "one:창세기전모바일서풍의광시곡",
+        "developer": "LINE Games",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/03/SE202009161645355210053006/0000773185/ko/img/original/0000773185_20261003060142.png",
+        "released": "2024.01.08"
+      },
+      {
+        "rank": 5,
+        "name": "컴투스프로야구2026",
+        "id": "one:컴투스프로야구2026",
+        "developer": "(주)컴투스",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202607/23/IF142158856020090629182843/0000755517/ko/img/original/0000755517_20260723164645.jpg",
+        "released": "2021.05.26"
+      },
+      {
+        "rank": 6,
+        "name": "라스트 어사일럼: 페스트",
+        "id": "one:라스트어사일럼페스트",
+        "developer": "FRONTIER GAMES CO LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202603/16/SE202401161347052530063207/0001004747/ko/img/original/0001004747_20260316213353.jpg",
+        "released": "2026.03.24"
+      },
+      {
+        "rank": 7,
+        "name": "쿠키런 키우기 - 쿠키런: 크럼블",
+        "id": "one:쿠키런키우기쿠키런크럼블",
+        "developer": "Devsisters Corn",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/21/SE201909031223149860047635/0001005869/ko/img/original/0001005869_20260921153230.png",
+        "released": "2026.07.29"
+      },
+      {
+        "rank": 8,
+        "name": "그놈은 드래곤",
+        "id": "one:그놈은드래곤",
+        "developer": "HongKong GameTree Limited",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/03/SE202502202054322730066016/0001003330/ko/img/original/0001003330_20260703132133.png",
+        "released": "2026.01.13"
+      },
+      {
+        "rank": 9,
+        "name": "후더덕 서바이벌",
+        "id": "one:후더덕서바이벌",
+        "developer": "JOY MOBILE NETWORK PTE. LTD",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202609/11/SE202305191649311540061664/0001007788/ko/img/original/0001007788_20260911185228.jpg",
+        "released": "2026.09.17"
+      },
+      {
+        "rank": 10,
+        "name": "디아블로 이모탈",
+        "id": "one:디아블로이모탈",
+        "developer": "Blizzard Entertainment Inc",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202606/17/SE202210201630346680060228/0000752945/ko/img/original/0000752945_20260617170216.png",
+        "released": "2022.06.01"
+      },
+      {
+        "rank": 11,
+        "name": "삼국지: 천하결전",
+        "id": "one:삼국지천하결전",
+        "developer": "BILIBILI HK LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/02/SE201911261852127640049454/0001008003/ko/img/original/0001008003_20260902181613.png",
+        "released": "2026.09.23"
+      },
+      {
+        "rank": 12,
+        "name": "열혈강호: 넥스트",
+        "id": "one:열혈강호넥스트",
+        "developer": "Kingnet Technology HK Limited",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202606/03/SE201906121711239050043819/0001005477/ko/img/original/0001005477_20260603190719.png",
+        "released": "2026.07.28"
+      },
+      {
+        "rank": 13,
+        "name": "FCIHE for Onestore",
+        "id": "one:fcihe",
+        "developer": "(주) 넥슨코리아",
+        "url": ""
+      },
+      {
+        "rank": 14,
+        "name": "미르4",
+        "id": "one:미르4",
+        "developer": "WEMADE",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202102/09/IF1423491841420111020154802/0000749348/img/original/0000749348_DP000101_20210209060311.png",
+        "released": "2020.11.24"
+      },
+      {
+        "rank": 15,
+        "name": "MLB 9이닝스 26",
+        "id": "one:mlb9이닝스26",
+        "developer": "(주)컴투스",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202603/26/IF142158856020090629182843/0000780131/ko/img/original/0000780131_20260326110255.png",
+        "released": "2025.01.23"
+      },
+      {
+        "rank": 16,
+        "name": "퍼즐 오브 Z",
+        "id": "one:퍼즐오브z",
+        "developer": "Frontier Games Co., Limited",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202504/16/SE202003171759501960051026/0000755502/ko/img/original/0000755502_20250416181106.png",
+        "released": "2021.06.01"
+      },
+      {
+        "rank": 17,
+        "name": "로그W: 리메인즈 오브 갓",
+        "id": "one:로그w리메인즈오브갓",
+        "developer": "이펀 컴퍼니",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/11/SE202606251257097140069418/0001007321/ko/img/original/0001007321_20260911160225.png",
+        "released": "2026.08.31"
+      },
+      {
+        "rank": 18,
+        "name": "오늘의 꽃",
+        "id": "one:오늘의꽃",
+        "developer": "Ujoy Games Limited",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202604/20/SE201912311413594350050114/0001004553/ko/img/original/0001004553_20260420202629.jpg",
+        "released": "2026.05.20"
+      },
+      {
+        "rank": 19,
+        "name": "탑 플레이어 포커- 바카라 블랙잭 슬트 기",
+        "id": "one:탑플레이어포커바카라블랙잭슬트기",
+        "developer": "404connect",
+        "url": ""
+      },
+      {
+        "rank": 20,
+        "name": "아레스: 라이즈 오브 가디언즈",
+        "id": "one:아레스라이즈오브가디언즈",
+        "developer": "kakaogames",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/26/SE201602172153432760008705/0000774424/ko/img/original/0000774424_20261026222737.png",
+        "released": "2024.04.23"
+      },
+      {
+        "rank": 21,
+        "name": "Age of Origins",
+        "id": "one:ageoforigins",
+        "developer": "camelgames-kr",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/201912/12/SE201911251619198790049419/0000744946/img/original/0000744946_DP000101_20191212190253.png",
+        "released": "2019.12.26"
+      },
+      {
+        "rank": 22,
+        "name": "한게임포커 for OneStore - 7포커, 바둑•••",
+        "id": "one:한게임포커7포커바둑",
+        "developer": "NHN Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202007/21/IF1424000464120140212155903/0000749741/img/original/0000749741_DP000101_20200721170218.png",
+        "released": "2020.08.19"
+      },
+      {
+        "rank": 23,
+        "name": "에브리타운 : 잔망루피 콜라보레이션",
+        "id": "one:에브리타운잔망루피콜라보레이션",
+        "developer": "위메이드커넥트",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/01/SE201507012152584090006503/0000734814/ko/img/original/0000734814_20261001103206.png",
+        "released": "2018.12.18"
+      },
+      {
+        "rank": 24,
+        "name": "킹덤2: 타오르는 전장",
+        "id": "one:킹덤2타오르는전장",
+        "developer": "FOWGAMES Co Ltd",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/29/SE202002191540181790050703/0001003511/ko/img/original/0001003511_20260729151509.png",
+        "released": "2026.08.04"
+      },
+      {
+        "rank": 25,
+        "name": "마피아42",
+        "id": "one:마피아42",
+        "developer": "팀42 주식회사",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202603/18/SE201611181801084740013082/0001001413/ko/img/original/0001001413_20260318150406.png",
+        "released": "2026.04.10"
+      },
+      {
+        "rank": 26,
+        "name": "블루 아카이브",
+        "id": "one:블루아카이브",
+        "developer": "(주) 넥슨",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/07/IF142158931020090716174343/0000758646/ko/img/original/0000758646_20260707153911.png",
+        "released": "2021.11.07"
+      },
+      {
+        "rank": 27,
+        "name": "캣 히어로 : 방치형 RPG",
+        "id": "one:캣히어로방치형rpg",
+        "developer": "주식회사 게임듀오",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202506/10/SE202210272032113180060296/0001001156/ko/img/original/0001001156_20250610140908.png",
+        "released": "2025.06.13"
+      },
+      {
+        "rank": 28,
+        "name": "레알팜",
+        "id": "one:레알팜",
+        "developer": "(주)네오게임즈",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202407/16/IF1423001630020090916175821/0000777265/ko/img/original/0000777265_DP000101_20240716174049.png",
+        "released": "2024.08.01"
+      },
+      {
+        "rank": 29,
+        "name": "오피스 퀸 키우기",
+        "id": "one:오피스퀸키우기",
+        "developer": "위시인터랙티브",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/16/SE201803211442559270024674/0000780512/ko/img/original/0000780512_20260916174224.png",
+        "released": "2025.05.07"
+      },
+      {
+        "rank": 30,
+        "name": "갓깨비 키우기-999뽑기 증정",
+        "id": "one:갓깨비키우기999뽑기증정",
+        "developer": "joynetgames",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202509/30/SE202305191649311540061664/0000780670/ko/img/original/0000780670_20250930102013.png",
+        "released": "2025.04.17"
+      },
+      {
+        "rank": 31,
+        "name": "뮤 모나크2",
+        "id": "one:뮤모나크2",
+        "developer": "(주)웹젠",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/28/IF1423502835320131125163752/0000774749/ko/img/original/0000774749_202610281102530.png",
+        "released": "2024.08.29"
+      },
+      {
+        "rank": 32,
+        "name": "호라이즌 워커",
+        "id": "one:호라이즌워커",
+        "developer": "젠틀매니악",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202608/27/SE202402151820201840063417/0000776102/ko/img/original/0000776102_20260827101333.png",
+        "released": "2024.08.28"
+      },
+      {
+        "rank": 33,
+        "name": "아키텍트: 랜드 오브 엑자일",
+        "id": "one:아키텍트랜드오브엑자일",
+        "developer": "DRIMAGE Co Ltd",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202604/28/SE202409061209501860064754/0001004675/ko/img/original/0001004675_20260428133659.png",
+        "released": "2026.05.20"
+      },
+      {
+        "rank": 34,
+        "name": "I 5 17 for onestore",
+        "id": "one:i517",
+        "developer": "NEOWIZ",
+        "url": ""
+      },
+      {
+        "rank": 35,
+        "name": "에버나이트: 리버스",
+        "id": "one:에버나이트리버스",
+        "developer": "LONGSIN",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202608/13/SE202604221530472390068812/0001008212/ko/img/original/0001008212_20260813173953.jpg",
+        "released": "2026.09.16"
+      },
+      {
+        "rank": 36,
+        "name": "레전드 오브 이미르",
+        "id": "one:레전드오브이미르",
+        "developer": "(주)위메이드",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202512/10/IF1423491841420111020154802/0001003232/ko/img/original/0001003232_20251210115843.png",
+        "released": "2025.12.24"
+      },
+      {
+        "rank": 37,
+        "name": "프리스톤테일M",
+        "id": "one:프리스톤테일m",
+        "developer": "FOW Games",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202608/26/SE202002191540181790050703/0000762806/ko/img/original/0000762806_20260826090600.png",
+        "released": "2022.07.25"
+      },
+      {
+        "rank": 38,
+        "name": "메이크 드라마 : MAD",
+        "id": "one:메이크드라마mad",
+        "developer": "Wemade Connect",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202606/03/SE201507012152584090006503/0001005003/ko/img/original/0001005003_20260603110722.png",
+        "released": "2026.06.03"
+      },
+      {
+        "rank": 39,
+        "name": "2026 프로야구GO",
+        "id": "one:2026프로야구go",
+        "developer": "HAEGIN",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202603/30/SE201907031110020700044777/0001003809/ko/img/original/0001003809_20260330182733.png",
+        "released": "2026.03.18"
+      },
+      {
+        "rank": 40,
+        "name": "좀비 웨이브스",
+        "id": "one:좀비웨이브스",
+        "developer": "Fun Formula",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202408/28/SE201602140238062270008713/0000778332/ko/img/original/0000778332_DP000101_20240828211404.png",
+        "released": "2024.09.25"
+      },
+      {
+        "rank": 41,
+        "name": "더 코지 플로리스트",
+        "id": "one:더코지플로리스트",
+        "developer": "RiftSky Games Co Limited",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202605/14/SE202601291908427500068112/0001005317/ko/img/original/0001005317_20260514211955.png",
+        "released": "2026.06.04"
+      },
+      {
+        "rank": 42,
+        "name": "드래곤 베인",
+        "id": "one:드래곤베인",
+        "developer": "빌리온게임즈",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202506/24/SE202108121047201340056501/0000755455/ko/img/original/0000755455_20250624211547.png",
+        "released": "2021.06.15"
+      },
+      {
+        "rank": 43,
+        "name": "갑부: 장사의 시대",
+        "id": "one:갑부장사의시대",
+        "developer": "BLANCOZONE NETWORK CO., LIMITE T",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202402/04/SE202003171759501960051026/0000751784/ko/img/original/0000751784_DP000101_20240204104854.png",
+        "released": "2021.01.19"
+      },
+      {
+        "rank": 44,
+        "name": "ofoIE: The World of Magic",
+        "id": "one:ofoietheworldofmagic",
+        "developer": "(주)컴투스",
+        "url": ""
+      },
+      {
+        "rank": 45,
+        "name": "삼국지 전략판",
+        "id": "one:삼국지전략판",
+        "developer": "Qookka Games",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202602/03/SE202007212129343820052373/0000749976/ko/img/original/0000749976_20260203165221.png",
+        "released": "2021.02.23"
+      },
+      {
+        "rank": 46,
+        "name": "대항해의길",
+        "id": "one:대항해의길",
+        "developer": "Linekong Korea Co. Ltd",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202211/03/SE201704251800541220015256/0000737030/ko/img/original/0000737030_DP000101_20221103113545.jpg",
+        "released": "2019.05.16"
+      },
+      {
+        "rank": 47,
+        "name": "황제의 꿈",
+        "id": "one:황제의꿈",
+        "developer": "37GAMES ENTERTAINMENT LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202002/25/SE201705101704334640015385/0000742436/img/original/0000742436_DP000101_20200225125529.png",
+        "released": "2019.09.25"
+      },
+      {
+        "rank": 48,
+        "name": "인생존망겜",
+        "id": "one:인생존망겜",
+        "developer": "FRONTIER GAMES CO LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202506/03/SE202401161347052530063207/0001000214/ko/img/original/0001000214_20250603180342.png",
+        "released": "2025.07.02"
+      },
+      {
+        "rank": 49,
+        "name": "컴투스프로야구 for 매니저 LIVE 2026",
+        "id": "one:컴투스프로야구for매니저live2026",
+        "developer": "(주)컴투스",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/22/IF142158856020090629182843/0000648374/ko/img/original/0000648374_20260922100203.png",
+        "released": "2013.12.06"
+      },
+      {
+        "rank": 50,
+        "name": "드래곤빌리지3",
+        "id": "one:드래곤빌리지3",
+        "developer": "highbrow",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202604/16/IF1423502197420111101111925/0001005299/ko/img/original/0001005299_20260416111005.png",
+        "released": "2026.05.27"
+      },
+      {
+        "rank": 51,
+        "name": "모아용: SSS급 영웅 지급중",
+        "id": "one:모아용sss급영웅지급중",
+        "developer": "캡클라우드(주)",
+        "url": ""
+      },
+      {
+        "rank": 52,
+        "name": "히어로즈 테일즈2",
+        "id": "one:히어로즈테일즈2",
+        "developer": "SUNFLOWER NETWORK TECHNOLOGY C*.•",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202608/13/SE202506031629454610066665/0001008198/ko/img/original/0001008198_20260813163113.jpg",
+        "released": "2026.10.14"
+      },
+      {
+        "rank": 53,
+        "name": "천년 어게인",
+        "id": "one:천년어게인",
+        "developer": "VFive Games co.,Ltd",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/20/SE202308171457142420062187/0000777458/ko/img/original/0000777458_20261020110218.png",
+        "released": "2024.10.21"
+      },
+      {
+        "rank": 54,
+        "name": "낭만강호: 추억의 패키지 게임",
+        "id": "one:낭만강호추억의패키지게임",
+        "developer": "주식회사 아이클럭워크",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202604/09/SE201907212320388120045714/0000776551/ko/img/original/0000776551_20260409125109.png",
+        "released": "2024.10.23"
+      },
+      {
+        "rank": 55,
+        "name": "가십하버: 합성 & 스토리 게임",
+        "id": "one:가십하버합성스토리게임",
+        "developer": "Microfun Limited",
+        "url": ""
+      },
+      {
+        "rank": 56,
+        "name": "에이지 오브 엠파이어 모바일",
+        "id": "one:에이지오브엠파이어모바일",
+        "developer": "",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202410/14/SE202205311321052530059165/0000778053/ko/img/original/0000778053_DP000101_20241014160113.png",
+        "released": "2024.10.31"
+      },
+      {
+        "rank": 57,
+        "name": "월드 워: 머신 컨퀘스트",
+        "id": "one:월드워머신컨퀘스트",
+        "developer": "NDREAM Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202205/26/SE202203111335433520058497/0000762007/ko/img/original/0000762007_DP000101_20220526142633.jpg",
+        "released": "2022.05.20"
+      },
+      {
+        "rank": 58,
+        "name": "MLB 9이닝스 라이벌 26",
+        "id": "one:mlb9이닝스라이벌26",
+        "developer": "(주)컴투스",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/14/IF142158856020090629182843/0001006544/ko/img/original/0001006544_20260714155410.png",
+        "released": "2026.09.08"
+      },
+      {
+        "rank": 59,
+        "name": "19: 인페르노 나인",
+        "id": "one:19인페르노나인",
+        "developer": "Leniu Games",
+        "url": ""
+      },
+      {
+        "rank": 60,
+        "name": "091 = for OneStore",
+        "id": "one:091",
+        "developer": "bluepotion",
+        "url": ""
+      },
+      {
+        "rank": 61,
+        "name": "삼국지: 제후의 전쟁",
+        "id": "one:삼국지제후의전쟁",
+        "developer": "REALITY SQUARED GAME CO., LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202608/04/SE201905071606061380042153/0001007790/ko/img/original/0001007790_20260804155034.png",
+        "released": "2026.09.02"
+      },
+      {
+        "rank": 62,
+        "name": "삼국지 러쉬 Origins : 타워 디펜스",
+        "id": "one:삼국지러쉬origins타워디펜스",
+        "developer": "",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202305/10/SE202303202131145320061309/0000768525/ko/img/original/0000768525_DP000101_20230510160522.png",
+        "released": "2023.06.14"
+      },
+      {
+        "rank": 63,
+        "name": "라스트오리진",
+        "id": "one:라스트오리진",
+        "developer": "(주)밸로프",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202601/28/SE201509241610123810007355/0000738778/ko/img/original/0000738778_20260128155024.png",
+        "released": "2019.03.20"
+      },
+      {
+        "rank": 64,
+        "name": "한게임 섯다n맞고 for OneStore",
+        "id": "one:한게임섯다n맞고",
+        "developer": "NHN Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202108/27/IF1424000464120140212155903/0000749386/img/original/0000749386_DP000101_20210827122204.png",
+        "released": "2020.08.19"
+      },
+      {
+        "rank": 65,
+        "name": "궁3D",
+        "id": "one:궁3d",
+        "developer": "위시인터랙티브",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202412/12/SE201803211442559270024674/0000746200/ko/img/original/0000746200_DP000101_20241212154957.png",
+        "released": "2020.06.09"
+      },
+      {
+        "rank": 66,
+        "name": "열혈강호: 화룡전",
+        "id": "one:열혈강호화룡전",
+        "developer": "(주)세시소프트",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/04/IF1423501814720130923140945/0001002415/ko/img/original/0001002415_20261104103348.png",
+        "released": "2025.11.04"
+      },
+      {
+        "rank": 67,
+        "name": "세계수의 노래",
+        "id": "one:세계수의노래",
+        "developer": "END9 GAMES Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202610/06/SE202407111318497980064305/0001006307/ko/img/original/0001006307_20261006115243.jpg",
+        "released": "2026.10.28"
+      },
+      {
+        "rank": 68,
+        "name": "스타 여친",
+        "id": "one:스타여친",
+        "developer": "HONG KONG SING WIN LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/23/SE202512191631564330067842/0001003604/ko/img/original/0001003604_20261023120541.png",
+        "released": "2026.02.26"
+      },
+      {
+        "rank": 69,
+        "name": "Total Football: Mobile Soccer 2026",
+        "id": "one:totalfootballmobilesoccer2026",
+        "developer": "GALA SPORTS TECHNOLOGY LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202605/20/SE202109241516523740056882/0000776041/ko/img/original/0000776041_20260520171214.png",
+        "released": "2024.07.08"
+      },
+      {
+        "rank": 70,
+        "name": "조선협객전 클래식",
+        "id": "one:조선협객전클래식",
+        "developer": "(주)스마트나우",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202512/15/SE201601141758498030008456/0000779318/ko/img/original/0000779318_20251215140701.png",
+        "released": "2026.02.23"
+      },
+      {
+        "rank": 71,
+        "name": "한게임포커 클래식 for OneStore : 7포·••",
+        "id": "one:한게임포커클래식7포",
+        "developer": "NHN Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202512/18/IF1423400704020110531171530/0000766347/ko/img/original/0000766347_20251218105307.png",
+        "released": "2022.12.16"
+      },
+      {
+        "rank": 72,
+        "name": "기적의 검",
+        "id": "one:기적의검",
+        "developer": "4399 KOREA",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202211/23/IF1423500365320130718182716/0000735228/ko/img/original/0000735228_DP000101_20221123122629.jpg",
+        "released": "2019.09.09"
+      },
+      {
+        "rank": 73,
+        "name": "건쉽배틀 토탈워페어",
+        "id": "one:건쉽배틀토탈워페어",
+        "developer": "조이시티",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202305/24/IF1423149183820100825115823/0000749420/ko/img/original/0000749420_DP000101_20230524133751.png",
+        "released": "2020.08.26"
+      },
+      {
+        "rank": 74,
+        "name": "열혈강호: 귀환",
+        "id": "one:열혈강호귀환",
+        "developer": "9RING GAME",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/28/SE202305191719115920061665/0001001402/ko/img/original/0001001402_20260728133435.png",
+        "released": "2025.08.06"
+      },
+      {
+        "rank": 75,
+        "name": "신궁 키우기",
+        "id": "one:신궁키우기",
+        "developer": "RP",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/23/SE202501250222038930065877/0000780759/ko/img/original/0000780759_20260923114851.png",
+        "released": "2025.02.21"
+      },
+      {
+        "rank": 76,
+        "name": "추억의 잡화점",
+        "id": "one:추억의잡화점",
+        "developer": "Pogo Hopper Limited",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/18/SE202507291141312460066971/0001001846/ko/img/original/0001001846_20260918110609.png",
+        "released": "2025.09.28"
+      },
+      {
+        "rank": 77,
+        "name": "숲의 소환단:방치형 판타지 수집 RPG",
+        "id": "one:숲의소환단방치형판타지수집rpg",
+        "developer": "Theplayplus",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/28/SE202507311214219820066984/0001009277/ko/img/original/0001009277_20260928174934.png",
+        "released": "2026.10.30"
+      },
+      {
+        "rank": 78,
+        "name": "브라운더스트2",
+        "id": "one:브라운더스트2",
+        "developer": "(주)네오위즈",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202605/27/IF1423601484020120111182105/0001004374/ko/img/original/0001004374_20260527112218.jpg",
+        "released": "2026.06.18"
+      },
+      {
+        "rank": 79,
+        "name": "우파루 오딧세이",
+        "id": "one:우파루오딧세이",
+        "developer": "hangame",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/30/IF1423400704020110531171530/0000767840/ko/img/original/0000767840_20260930122948.png",
+        "released": "2023.10.04"
+      },
+      {
+        "rank": 80,
+        "name": "이것이 삼국지다",
+        "id": "one:이것이삼국지다",
+        "developer": "END9 GAMES Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202606/06/SE202407111318497980064305/0001006079/ko/img/original/0001006079_20260606150240.png",
+        "released": "2026.07.08"
+      },
+      {
+        "rank": 81,
+        "name": "아케론:종말의 서곡",
+        "id": "one:아케론종말의서곡",
+        "developer": "U.LU Games",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202603/25/SE201512111410023190008158/0000781410/ko/img/original/0000781410_20260325151543.png",
+        "released": "2025.05.09"
+      },
+      {
+        "rank": 82,
+        "name": "ZE WEI(Last Shelter: Survival)",
+        "id": "one:zeweilastsheltersurvival",
+        "developer": "im30.net",
+        "url": ""
+      },
+      {
+        "rank": 83,
+        "name": "무림소녀 키우기: 리바이브",
+        "id": "one:무림소녀키우기리바이브",
+        "developer": "Game2Gather",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/17/SE202110181401575080057140/0001008723/ko/img/original/0001008723_20260917142017.png",
+        "released": "2026.10.01"
+      },
+      {
+        "rank": 84,
+        "name": "요괴의 전설M",
+        "id": "one:요괴의전설m",
+        "developer": "Guangzhou Mengzhong Entertainment T*",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202609/05/SE202606151748008720069310/0001007892/ko/img/original/0001007892_20260905162308.jpg",
+        "released": "2026.09.18"
+      },
+      {
+        "rank": 85,
+        "name": "하스스톤",
+        "id": "one:하스스톤",
+        "developer": "Blizzard Entertainment Inc",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202403/06/SE202210201630346680060228/0000752154/ko/img/original/0000752154_DP000101_20240306095009.png",
+        "released": "2021.08.10"
+      },
+      {
+        "rank": 86,
+        "name": "왓더뼈킹 20000뽑기 FLEX !",
+        "id": "one:왓더뼈킹20000뽑기flex",
+        "developer": "TeamQuest",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/15/SE202211301125312470060547/0001007149/ko/img/original/0001007149_20260915100928.png",
+        "released": "2026.10.15"
+      },
+      {
+        "rank": 87,
+        "name": "럽플레이스",
+        "id": "one:럽플레이스",
+        "developer": "(주)캐킷",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/07/SE202504081244543290066298/0001000312/ko/img/original/0001000312_20261007164358.png",
+        "released": "2025.05.29"
+      },
+      {
+        "rank": 88,
+        "name": "Weplay - 파티게임",
+        "id": "one:weplay파티게임",
+        "developer": "WEJOY PTE. LTD",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202407/11/SE202204291701420320058846/0000764950/ko/img/original/0000764950_DP000101_20240711222057.png",
+        "released": "2022.09.23"
+      },
+      {
+        "rank": 89,
+        "name": "왕이되는자- 서민에서 왕까지, 세상을 ••·",
+        "id": "one:왕이되는자서민에서왕까지세상을",
+        "developer": "chuangcool",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202601/09/SE201811231110238560033887/0000740545/ko/img/original/0000740545_20260109172958.png",
+        "released": "2019.06.25"
+      },
+      {
+        "rank": 90,
+        "name": "토이 삼국",
+        "id": "one:토이삼국",
+        "developer": "XINIU NET LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202606/05/SE202402261821375500063491/0001005208/ko/img/original/0001005208_20260605210305.png",
+        "released": "2026.06.11"
+      },
+      {
+        "rank": 91,
+        "name": "트리 오브 세이비어: 네버랜드",
+        "id": "one:트리오브세이비어네버랜드",
+        "developer": "Qookka Games",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202609/30/SE202404011626206360063737/0000775732/ko/img/original/0000775732_20260930184723.jpg",
+        "released": "2024.10.10"
+      },
+      {
+        "rank": 92,
+        "name": "드래곤빌리지",
+        "id": "one:드래곤빌리지",
+        "developer": "highbrow",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202511/04/IF1423502197420111101111925/0000285367/ko/img/original/0000285367_20251104102625.png",
+        "released": "2012.06.15"
+      },
+      {
+        "rank": 93,
+        "name": "그라나도에스파다M",
+        "id": "one:그라나도에스파다m",
+        "developer": "(주)한빛소프트",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/17/SE201509221446386500007319/0000772353/ko/img/original/0000772353_20260917091030.png",
+        "released": "2024.02.22"
+      },
+      {
+        "rank": 94,
+        "name": "킹덤 가드:타워 디펜스 TD (Kingdom G•",
+        "id": "one:킹덤가드타워디펜스tdkingdomg",
+        "developer": "tap4fun",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202309/05/SE201602140238062270008713/0000768233/ko/img/original/0000768233_DP000101_20230905232221.png",
+        "released": "2023.04.05"
+      },
+      {
+        "rank": 95,
+        "name": "Legends Reborn: D|T| IF",
+        "id": "one:legendsreborndtif",
+        "developer": "ACE GAME",
+        "url": ""
+      },
+      {
+        "rank": 96,
+        "name": "호드 워:어벤저의 소환",
+        "id": "one:호드워어벤저의소환",
+        "developer": "JoyTogether Games",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/22/SE202603301658001970068604/0001005098/ko/img/original/0001005098_20260722153744.png",
+        "released": "2026.06.10"
+      },
+      {
+        "rank": 97,
+        "name": "이사만루26",
+        "id": "one:이사만루26",
+        "developer": "GONGGAMES Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/29/SE201907251226210760045936/0000745127/ko/img/original/0000745127_20261029110818.png",
+        "released": "2020.02.12"
+      },
+      {
+        "rank": 98,
+        "name": "희비전 리버스",
+        "id": "one:희비전리버스",
+        "developer": "WISH INTERACTIVE TECHNOLOGY LIN T",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202604/02/SE201803211442559270024674/0001004690/ko/img/original/0001004690_20260402153942.png",
+        "released": "2026.05.06"
+      },
+      {
+        "rank": 99,
+        "name": "로스트 소드",
+        "id": "one:로스트소드",
+        "developer": "위메이드커넥트",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/10/SE201507012152584090006503/0001000423/ko/img/original/0001000423_20260710080741.png",
+        "released": "2025.06.26"
+      },
+      {
+        "rank": 100,
+        "name": "귀멸의 칼날: 새벽의 서약",
+        "id": "one:귀멸의칼날새벽의서약",
+        "developer": "SheLK Gam",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/19/SE202607061823271750069511/0001010333/ko/img/original/0001010333_20261019203736.png",
+        "released": "2026.10.20"
+      }
+    ],
+    "onestore_popular": [
+      {
+        "rank": 1,
+        "name": "귀멸의 칼날: 새벽의 서약",
+        "id": "one:귀멸의칼날새벽의서약",
+        "developer": "SheLK Gam",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/19/SE202607061823271750069511/0001010333/ko/img/original/0001010333_20261019203736.png",
+        "released": "2026.10.20"
+      },
+      {
+        "rank": 2,
+        "name": "루미나: 세라피아",
+        "id": "one:루미나세라피아",
+        "developer": "GM 게임",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/13/SE202608201451188450070045/0001008976/ko/img/original/0001008976_20261013180749.png",
+        "released": "2026.10.26"
+      },
+      {
+        "rank": 3,
+        "name": "호라이즌 워커",
+        "id": "one:호라이즌워커",
+        "developer": "젠틀매니악",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202608/27/SE202402151820201840063417/0000776102/ko/img/original/0000776102_20260827101333.png",
+        "released": "2024.08.28"
+      },
+      {
+        "rank": 4,
+        "name": "꼬마 기사 키우기 - 방치형 RPG",
+        "id": "one:꼬마기사키우기방치형rpg",
+        "developer": "Korea Indie Dev",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/28/SE202610191838572650071113/0001010839/ko/img/original/0001010839_20261028183508.png",
+        "released": "2026.10.20"
+      },
+      {
+        "rank": 5,
+        "name": "원피스: 그랜드 어드벤처",
+        "id": "one:원피스그랜드어드벤처",
+        "developer": "INNOVA GAME",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202608/07/SE202510091647457860067369/0001003986/ko/img/original/0001003986_20260807162358.jpg",
+        "released": "2026.02.03"
+      },
+      {
+        "rank": 6,
+        "name": "아스텔리아2",
+        "id": "one:아스텔리아2",
+        "developer": "Lepor Games CoLto",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/08/SE202506092139365320066703/0001009081/ko/img/original/0001009081_20261008120643.png",
+        "released": "2026.11.04"
+      },
+      {
+        "rank": 7,
+        "name": "세계수의 노래",
+        "id": "one:세계수의노래",
+        "developer": "END9 GAMES Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202610/06/SE202407111318497980064305/0001006307/ko/img/original/0001006307_20261006115243.jpg",
+        "released": "2026.10.28"
+      },
+      {
+        "rank": 8,
+        "name": "숲의 소환단:방치형 판타지 수집 RPG",
+        "id": "one:숲의소환단방치형판타지수집rpg",
+        "developer": "Theplayplus",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/28/SE202507311214219820066984/0001009277/ko/img/original/0001009277_20260928174934.png",
+        "released": "2026.10.30"
+      },
+      {
+        "rank": 9,
+        "name": "프로스트 킹덤: 머지 생존전략 SLG",
+        "id": "one:프로스트킹덤머지생존전략slg",
+        "developer": "NEXUS Co., Ltd",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/13/SE202010191054390090053562/0001007470/ko/img/original/0001007470_20260713165651.png",
+        "released": "2026.07.23"
+      },
+      {
+        "rank": 10,
+        "name": "한게임 신맞고 : 대한민국 원조 고스톱",
+        "id": "one:한게임신맞고대한민국원조고스톱",
+        "developer": "NHN Corporation",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/20/IF1423400704020110531171530/0001006138/ko/img/original/0001006138_20260720085038.png",
+        "released": "2026.07.27"
+      },
+      {
+        "rank": 11,
+        "name": "검신제로",
+        "id": "one:검신제로",
+        "developer": "Neptune Company",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202608/27/IF1424000861920140306115233/0001007550/ko/img/original/0001007550_20260827141139.png",
+        "released": "2026.10.29"
+      },
+      {
+        "rank": 12,
+        "name": "메이크 드라마 : MAD",
+        "id": "one:메이크드라마mad",
+        "developer": "Wemade Connect",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202606/03/SE201507012152584090006503/0001005003/ko/img/original/0001005003_20260603110722.png",
+        "released": "2026.06.03"
+      },
+      {
+        "rank": 13,
+        "name": "피망 뉴맞고: 대한민국 1등 고스톱",
+        "id": "one:피망뉴맞고대한민국1등고스톱",
+        "developer": "NEOWIZ",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/27/IF1423601484020120111182105/0000412419/ko/img/original/0000412419_20261027101501.png",
+        "released": "2013.08.20"
+      },
+      {
+        "rank": 14,
+        "name": "루미나리버",
+        "id": "one:루미나리버",
+        "developer": "boostuniverse",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/19/SE202610151538110010071008/0001010802/ko/img/original/0001010802_20261019125510.png",
+        "released": "2026.10.29"
+      },
+      {
+        "rank": 15,
+        "name": "라스트오리진",
+        "id": "one:라스트오리진",
+        "developer": "(주)밸로프",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202601/28/SE201509241610123810007355/0000738778/ko/img/original/0000738778_20260128155024.png",
+        "released": "2019.03.20"
+      },
+      {
+        "rank": 16,
+        "name": "Weplay- 파티게임",
+        "id": "one:weplay파티게임",
+        "developer": "WEJOY PTE. LTD",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202407/11/SE202204291701420320058846/0000764950/ko/img/original/0000764950_DP000101_20240711222057.png",
+        "released": "2022.09.23"
+      },
+      {
+        "rank": 17,
+        "name": "브라운더스트2",
+        "id": "one:브라운더스트2",
+        "developer": "(주)네오위즈",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202605/27/IF1423601484020120111182105/0001004374/ko/img/original/0001004374_20260527112218.jpg",
+        "released": "2026.06.18"
+      },
+      {
+        "rank": 18,
+        "name": "픽셀 히어로즈: 방치형 RPG",
+        "id": "one:픽셀히어로즈방치형rpg",
+        "developer": "JOYFORGE CO., LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/09/SE202511251642505750067669/0001003303/ko/img/original/0001003303_20260709181032.png",
+        "released": "2026.04.09"
+      },
+      {
+        "rank": 19,
+        "name": "창세기전 모바일 - 서풍의 광시곡",
+        "id": "one:창세기전모바일서풍의광시곡",
+        "developer": "LINE Games",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/03/SE202009161645355210053006/0000773185/ko/img/original/0000773185_20261003060142.png",
+        "released": "2024.01.08"
+      },
+      {
+        "rank": 20,
+        "name": "식물 운빨 디펜스",
+        "id": "one:식물운빨디펜스",
+        "developer": "GoldFlowGames",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/10/SE202604091403061460068685/0001005623/ko/img/original/0001005623_20261010104618.png",
+        "released": "2026.09.17"
+      },
+      {
+        "rank": 21,
+        "name": "후더덕 서바이벌",
+        "id": "one:후더덕서바이벌",
+        "developer": "JOY MOBILE NETWORK PTE. LTD",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202609/11/SE202305191649311540061664/0001007788/ko/img/original/0001007788_20260911185228.jpg",
+        "released": "2026.09.17"
+      },
+      {
+        "rank": 22,
+        "name": "빙고 1to25",
+        "id": "one:빙고1to25",
+        "developer": "zensty",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/23/SE201501011112551970004667/0000756177/ko/img/original/0000756177_20260723153924.png",
+        "released": "2021.06.17"
+      },
+      {
+        "rank": 23,
+        "name": "로스트 소드",
+        "id": "one:로스트소드",
+        "developer": "위메이드커넥트",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/10/SE201507012152584090006503/0001000423/ko/img/original/0001000423_20260710080741.png",
+        "released": "2025.06.26"
+      },
+      {
+        "rank": 24,
+        "name": "모아용: SSS급 영웅 지급중",
+        "id": "one:모아용sss급영웅지급중",
+        "developer": "캡클라우드(주)",
+        "url": ""
+      },
+      {
+        "rank": 25,
+        "name": "이사만루26",
+        "id": "one:이사만루26",
+        "developer": "GONGGAMES Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/29/SE201907251226210760045936/0000745127/ko/img/original/0000745127_20261029110818.png",
+        "released": "2020.02.12"
+      },
+      {
+        "rank": 26,
+        "name": "전생했더니 검 한 자루",
+        "id": "one:전생했더니검한자루",
+        "developer": "EmeForge",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/13/SE202205132150509290059012/0001008384/ko/img/original/0001008384_20261013103658.png",
+        "released": "2026.11.05"
+      },
+      {
+        "rank": 27,
+        "name": "FC 온라인 M",
+        "id": "one:fc온라인m",
+        "developer": "(주) 넥슨",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/26/IF142158931020090716174343/0000730623/ko/img/original/0000730623_20261026105924.png",
+        "released": "2018.07.25"
+      },
+      {
+        "rank": 28,
+        "name": "열혈강호: 넥스트",
+        "id": "one:열혈강호넥스트",
+        "developer": "Kingnet Technology HK Limited",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202606/03/SE201906121711239050043819/0001005477/ko/img/original/0001005477_20260603190719.png",
+        "released": "2026.07.28"
+      },
+      {
+        "rank": 29,
+        "name": "컴투스프로야구V26",
+        "id": "one:컴투스프로야구v26",
+        "developer": "(주)컴투스",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/29/IF142158856020090629182843/0000768953/ko/img/original/0000768953_20260729113155.png",
+        "released": "2023.05.24"
+      },
+      {
+        "rank": 30,
+        "name": "그놈은 드래곤",
+        "id": "one:그놈은드래곤",
+        "developer": "HongKong GameTree Limited",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/03/SE202502202054322730066016/0001003330/ko/img/original/0001003330_20260703132133.png",
+        "released": "2026.01.13"
+      },
+      {
+        "rank": 31,
+        "name": "소년가행: 턴제 수집형 RPG",
+        "id": "one:소년가행턴제수집형rpg",
+        "developer": "Dreamplay Games",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/14/SE201412291732471160004634/0001006488/ko/img/original/0001006488_20261014164846.png",
+        "released": "2026.09.02"
+      },
+      {
+        "rank": 32,
+        "name": "월드 마스터: 약탈 없는 1인 전략",
+        "id": "one:월드마스터약탈없는1인전략",
+        "developer": "AlcoveFactory",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202608/07/SE201712111655503860019876/0001005637/ko/img/original/0001005637_20260807022249.png",
+        "released": "2026.09.16"
+      },
+      {
+        "rank": 33,
+        "name": "무림소녀 키우기:리바이브",
+        "id": "one:무림소녀키우기리바이브",
+        "developer": "",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/17/SE202110181401575080057140/0001008723/ko/img/original/0001008723_20260917142017.png",
+        "released": "2026.10.01"
+      },
+      {
+        "rank": 34,
+        "name": "FCEH for Onestore",
+        "id": "one:fceh",
+        "developer": "(주) 넥슨코리아",
+        "url": ""
+      },
+      {
+        "rank": 35,
+        "name": "삼국지: 천하결전",
+        "id": "one:삼국지천하결전",
+        "developer": "BILIBILI HK LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/02/SE201911261852127640049454/0001008003/ko/img/original/0001008003_20260902181613.png",
+        "released": "2026.09.23"
+      },
+      {
+        "rank": 36,
+        "name": "쿠키런: 오븐브레이크",
+        "id": "one:쿠키런오븐브레이크",
+        "developer": "devsisters",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/20/SE201909031223149860047635/0000745409/ko/img/original/0000745409_20261020225328.png",
+        "released": "2020.01.29"
+      },
+      {
+        "rank": 37,
+        "name": "걸스타그램: 19 그녀들의 비밀 계정",
+        "id": "one:걸스타그램19그녀들의비밀계정",
+        "developer": "DT Games",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202608/24/SE201906251704038610044493/0000778650/ko/img/original/0000778650_20260824212832.png",
+        "released": "2024.09.12"
+      },
+      {
+        "rank": 38,
+        "name": "버섯커 키우기-3000뽑기 증정",
+        "id": "one:버섯커키우기3000뽑기증정",
+        "developer": "Joynetgames",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202509/30/SE202305191649311540061664/0000771927/ko/img/original/0000771927_20250930102148.png",
+        "released": "2023.12.21"
+      },
+      {
+        "rank": 39,
+        "name": "로그W: 리메인즈 오브 갓",
+        "id": "one:로그w리메인즈오브갓",
+        "developer": "",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/11/SE202606251257097140069418/0001007321/ko/img/original/0001007321_20260911160225.png",
+        "released": "2026.08.31"
+      },
+      {
+        "rank": 40,
+        "name": "컴투스프로야구2026",
+        "id": "one:컴투스프로야구2026",
+        "developer": "(주)컴투스",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202607/23/IF142158856020090629182843/0000755517/ko/img/original/0000755517_20260723164645.jpg",
+        "released": "2021.05.26"
+      },
+      {
+        "rank": 41,
+        "name": "피망 섯다",
+        "id": "one:피망섯다",
+        "developer": "NEOWIZ",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/27/IF1423601484020120111182105/0000658073/ko/img/original/0000658073_20261027102025.png",
+        "released": "2014.12.10"
+      },
+      {
+        "rank": 42,
+        "name": "에버나이트: 리버스",
+        "id": "one:에버나이트리버스",
+        "developer": "LONGSIN",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202608/13/SE202604221530472390068812/0001008212/ko/img/original/0001008212_20260813173953.jpg",
+        "released": "2026.09.16"
+      },
+      {
+        "rank": 43,
+        "name": "에브리타운 : 잔망루피 콜라보레이션",
+        "id": "one:에브리타운잔망루피콜라보레이션",
+        "developer": "위메이드커넥트",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/01/SE201507012152584090006503/0000734814/ko/img/original/0000734814_20261001103206.png",
+        "released": "2018.12.18"
+      },
+      {
+        "rank": 44,
+        "name": "블루 아카이브",
+        "id": "one:블루아카이브",
+        "developer": "(주) 넥슨",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/07/IF142158931020090716174343/0000758646/ko/img/original/0000758646_20260707153911.png",
+        "released": "2021.11.07"
+      },
+      {
+        "rank": 45,
+        "name": "라스트 어사일럼: 페스트",
+        "id": "one:라스트어사일럼페스트",
+        "developer": "FRONTIER GAMES CO LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202603/16/SE202401161347052530063207/0001004747/ko/img/original/0001004747_20260316213353.jpg",
+        "released": "2026.03.24"
+      },
+      {
+        "rank": 46,
+        "name": "열혈강호: 귀환",
+        "id": "one:열혈강호귀환",
+        "developer": "9RING GAME",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/28/SE202305191719115920061665/0001001402/ko/img/original/0001001402_20260728133435.png",
+        "released": "2025.08.06"
+      },
+      {
+        "rank": 47,
+        "name": "쿠키런: 킹덤",
+        "id": "one:쿠키런킹덤",
+        "developer": "devsisters",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202503/13/SE201909031223149860047635/0000751155/ko/img/original/0000751155_DP000101_20250313100249.png",
+        "released": "2021.01.20"
+      },
+      {
+        "rank": 48,
+        "name": "레알팜",
+        "id": "one:레알팜",
+        "developer": "(주)네오게임즈",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202407/16/IF1423001630020090916175821/0000777265/ko/img/original/0000777265_DP000101_20240716174049.png",
+        "released": "2024.08.01"
+      },
+      {
+        "rank": 49,
+        "name": "히어로즈 테일즈2",
+        "id": "one:히어로즈테일즈2",
+        "developer": "SUNFLOWER NETWORK TECHNOLOGY C*",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202608/13/SE202506031629454610066665/0001008198/ko/img/original/0001008198_20260813163113.jpg",
+        "released": "2026.10.14"
+      },
+      {
+        "rank": 50,
+        "name": "요괴의 전설M",
+        "id": "one:요괴의전설m",
+        "developer": "Guangzhou Mengzhong Entertainment T**",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202609/05/SE202606151748008720069310/0001007892/ko/img/original/0001007892_20260905162308.jpg",
+        "released": "2026.09.18"
+      },
+      {
+        "rank": 51,
+        "name": "삼국지: 킹덤",
+        "id": "one:삼국지킹덤",
+        "developer": "FLYFUN TECHNOLOGY CO LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202608/12/SE202208151612469600059758/0001004748/ko/img/original/0001004748_20260812115123.png",
+        "released": "2026.10.22"
+      },
+      {
+        "rank": 52,
+        "name": "마: 다크판타지 3D 방치형 RPG",
+        "id": "one:마다크판타지3d방치형rpg",
+        "developer": "NETTOPDATA",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/01/SE202609010934141270070202/0001008710/ko/img/original/0001008710_20260901100831.png",
+        "released": "2026.10.27"
+      },
+      {
+        "rank": 53,
+        "name": "갓깨비 키우기-999뽑기 증정",
+        "id": "one:갓깨비키우기999뽑기증정",
+        "developer": "joynetgames",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202509/30/SE202305191649311540061664/0000780670/ko/img/original/0000780670_20250930102013.png",
+        "released": "2025.04.17"
+      },
+      {
+        "rank": 54,
+        "name": "마피아42",
+        "id": "one:마피아42",
+        "developer": "팀42 주식회사",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202603/18/SE201611181801084740013082/0001001413/ko/img/original/0001001413_20260318150406.png",
+        "released": "2026.04.10"
+      },
+      {
+        "rank": 55,
+        "name": "2026 프로야구GO",
+        "id": "one:2026프로야구go",
+        "developer": "HAEGIN",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202603/30/SE201907031110020700044777/0001003809/ko/img/original/0001003809_20260330182733.png",
+        "released": "2026.03.18"
+      },
+      {
+        "rank": 56,
+        "name": "죽어서 왔습니다: 방치형 타이쿤 RPG",
+        "id": "one:죽어서왔습니다방치형타이쿤rpg",
+        "developer": "NADDIC GAMES CO LTD",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/01/SE202101191047288280054734/0001006463/ko/img/original/0001006463_20260901110136.png",
+        "released": "2026.10.22"
+      },
+      {
+        "rank": 57,
+        "name": "헤이즈 리버브",
+        "id": "one:헤이즈리버브",
+        "developer": "Kibi Play",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202511/13/SE202506241527594190066774/0001001806/ko/img/original/0001001806_20251113195700.jpg",
+        "released": "2025.11.11"
+      },
+      {
+        "rank": 58,
+        "name": "프렌즈팝",
+        "id": "one:프렌즈팝",
+        "developer": "카카오게임즈 / NHN픽셀큐브",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202508/26/SE201602172153432760008705/0000695121/ko/img/original/0000695121_20250826181339.png",
+        "released": "2015.12.17"
+      },
+      {
+        "rank": 59,
+        "name": "에이펙스 걸스",
+        "id": "one:에이펙스걸스",
+        "developer": "네오리진",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202506/27/SE202204180947080170058747/0000778737/ko/img/original/0000778737_20250627154124.png",
+        "released": "2025.01.08"
+      },
+      {
+        "rank": 60,
+        "name": "섹스타닷넷 더 무비 : 이제는 68영상의•••",
+        "id": "one:섹스타닷넷더무비이제는68영상의",
+        "developer": "adultfactory19",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202606/05/SE202307251506337130062051/0001006409/ko/img/original/0001006409_20260605204405.png",
+        "released": "2026.08.28"
+      },
+      {
+        "rank": 61,
+        "name": "왓더뼈킹 : 20000뽑기 FLEX !",
+        "id": "one:왓더뼈킹20000뽑기flex",
+        "developer": "TeamQuest",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/15/SE202211301125312470060547/0001007149/ko/img/original/0001007149_20260915100928.png",
+        "released": "2026.10.15"
+      },
+      {
+        "rank": 62,
+        "name": "포트리스M:대국민 슈팅 액션",
+        "id": "one:포트리스m대국민슈팅액션",
+        "developer": "주식회사 씨씨알컨텐츠트리",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/11/SE202107151556246280056288/0000739119/ko/img/original/0000739119_20260911102351.png",
+        "released": "2019.03.27"
+      },
+      {
+        "rank": 63,
+        "name": "Untamable",
+        "id": "one:untamable",
+        "developer": "백애진",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/30/SE202610302025324130071411/0001011674/ko/img/original/0001011674_20261030210042.png",
+        "released": "2026.11.02"
+      },
+      {
+        "rank": 64,
+        "name": "19: 인페르노 나인",
+        "id": "one:19인페르노나인",
+        "developer": "Leniu Games",
+        "url": ""
+      },
+      {
+        "rank": 65,
+        "name": "다크엔젤 : 천사 강림",
+        "id": "one:다크엔젤천사강림",
+        "developer": "U.LU Games",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202608/19/SE201512111410023190008158/0001008326/ko/img/original/0001008326_20260819155130.jpg",
+        "released": "2026.09.11"
+      },
+      {
+        "rank": 66,
+        "name": "성궁의 시대",
+        "id": "one:성궁의시대",
+        "developer": "Mantle Interactive Hong Kong Limited",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/06/SE202509272038119140067326/0001007218/ko/img/original/0001007218_20261006135556.png",
+        "released": "2026.10.29"
+      },
+      {
+        "rank": 67,
+        "name": "섹스타매치 : 지루할 틈 없는 리얼 야한 1••",
+        "id": "one:섹스타매치지루할틈없는리얼야한1",
+        "developer": "adultfactory19",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/22/SE202307251506337130062051/0001006315/ko/img/original/0001006315_20260722145957.png",
+        "released": "2026.07.24"
+      },
+      {
+        "rank": 68,
+        "name": "나만 SSS급 퇴마사",
+        "id": "one:나만sss급퇴마사",
+        "developer": "STAR DOME TECHNOLOGY LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/27/SE202606021716312580069186/0001006533/ko/img/original/0001006533_20260727151206.png",
+        "released": "2026.09.21"
+      },
+      {
+        "rank": 69,
+        "name": "I|D E7ł for onestore",
+        "id": "one:ide7",
+        "developer": "NEOWIZ",
+        "url": ""
+      },
+      {
+        "rank": 70,
+        "name": "쿠키런: 모험의 탑",
+        "id": "one:쿠키런모험의탑",
+        "developer": "devsisters",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/28/SE201909031223149860047635/0000774287/ko/img/original/0000774287_20260728095818.png",
+        "released": "2024.08.06"
+      },
+      {
+        "rank": 71,
+        "name": "폴가이즈",
+        "id": "one:폴가이즈",
+        "developer": "Epic Games",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202506/21/SE202409180330035210064824/0000779015/ko/img/original/0000779015_20250621040927.png",
+        "released": "2025.06.24"
+      },
+      {
+        "rank": 72,
+        "name": "낭만강호: 추억의 패키지 게임",
+        "id": "one:낭만강호추억의패키지게임",
+        "developer": "주식회사 아이클럭워크",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202604/09/SE201907212320388120045714/0000776551/ko/img/original/0000776551_20260409125109.png",
+        "released": "2024.10.23"
+      },
+      {
+        "rank": 73,
+        "name": "좀비고등학교",
+        "id": "one:좀비고등학교",
+        "developer": "AWESOMEPIECE",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/29/IF1423641613020120202111831/0000761446/ko/img/original/0000761446_20261029140518.png",
+        "released": "2022.03.14"
+      },
+      {
+        "rank": 74,
+        "name": "애니팡3",
+        "id": "one:애니팡3",
+        "developer": "Wemade Play Co., Ltd",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/15/IF1423455844220110817143932/0000705512/ko/img/original/0000705512_20261015082507.png",
+        "released": "2016.09.26"
+      },
+      {
+        "rank": 75,
+        "name": "대검키우기",
+        "id": "one:대검키우기",
+        "developer": "chopchopgames",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/23/SE202506101114190060066704/0001011006/ko/img/original/0001011006_20261023154333.png",
+        "released": "2026.10.23"
+      },
+      {
+        "rank": 76,
+        "name": "가십하버: 합성 & 스토리 게임",
+        "id": "one:가십하버합성스토리게임",
+        "developer": "Microfun Limited",
+        "url": ""
+      },
+      {
+        "rank": 77,
+        "name": "딸깍 삼국지 : 미축 키우기",
+        "id": "one:딸깍삼국지미축키우기",
+        "developer": "플라잉모몽가",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/24/SE202610060040287300070797/0001011139/ko/img/original/0001011139_20261024053141.png",
+        "released": "2026.10.24"
+      },
+      {
+        "rank": 78,
+        "name": "슬링샷 카: 멀리 날리기",
+        "id": "one:슬링샷카멀리날리기",
+        "developer": "happy studio",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/20/SE202609201112500150070568/0001009428/ko/img/original/0001009428_20260920171339.png",
+        "released": "2026.09.30"
+      },
+      {
+        "rank": 79,
+        "name": "방치형 전사 육성",
+        "id": "one:방치형전사육성",
+        "developer": "pkyappapk",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/30/SE202610201626575690071149/0001011637/ko/img/original/0001011637_20261030121101.png",
+        "released": "2026.11.04"
+      },
+      {
+        "rank": 80,
+        "name": "삼국지: 제후의 전쟁",
+        "id": "one:삼국지제후의전쟁",
+        "developer": "REALITY SQUARED GAME CO., LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202608/04/SE201905071606061380042153/0001007790/ko/img/original/0001007790_20260804155034.png",
+        "released": "2026.09.02"
+      },
+      {
+        "rank": 81,
+        "name": "마이 리틀 가디스: 키우기 RPG",
+        "id": "one:마이리틀가디스키우기rpg",
+        "developer": "PIGAMES",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/13/SE202603180910571520068477/0001006869/ko/img/original/0001006869_20260713112459.png",
+        "released": "2026.07.15"
+      },
+      {
+        "rank": 82,
+        "name": "쿠키런 키우기 - 쿠키런: 크럼블",
+        "id": "one:쿠키런키우기쿠키런크럼블",
+        "developer": "Devsisters Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/21/SE201909031223149860047635/0001005869/ko/img/original/0001005869_20260921153230.png",
+        "released": "2026.07.29"
+      },
+      {
+        "rank": 83,
+        "name": "루미마스터",
+        "id": "one:루미마스터",
+        "developer": "BILIBILI HK LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/03/SE201911261852127640049454/0001004771/ko/img/original/0001004771_20260903131656.png",
+        "released": "2026.09.17"
+      },
+      {
+        "rank": 84,
+        "name": "열혈강호: 화룡전",
+        "id": "one:열혈강호화룡전",
+        "developer": "(주)세시소프트",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/04/IF1423501814720130923140945/0001002415/ko/img/original/0001002415_20261104103348.png",
+        "released": "2025.11.04"
+      },
+      {
+        "rank": 85,
+        "name": "길드 타이쿤 : 방치형 길드 경영",
+        "id": "one:길드타이쿤방치형길드경영",
+        "developer": "플라잉모몽가",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/03/SE202610060040287300070797/0001011891/ko/img/original/0001011891_20261103203057.png",
+        "released": "2026.11.03"
+      },
+      {
+        "rank": 86,
+        "name": "공항 타이쿤",
+        "id": "one:공항타이쿤",
+        "developer": "happy studio",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/30/SE202609201112500150070568/0001009775/ko/img/original/0001009775_20260930204430.png",
+        "released": "2026.09.30"
+      },
+      {
+        "rank": 87,
+        "name": "라스트 리턴 : 좀비 생존 RPG",
+        "id": "one:라스트리턴좀비생존rpg",
+        "developer": "GoGames",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202610/29/SE202507110432264890066880/0001011539/ko/img/original/0001011539_20261029021306.jpg",
+        "released": "2026.11.05"
+      },
+      {
+        "rank": 88,
+        "name": "ㅋ시. 와 33r",
+        "id": "one:시와33r",
+        "developer": "",
+        "url": ""
+      },
+      {
+        "rank": 89,
+        "name": "위드M",
+        "id": "one:위드m",
+        "developer": "Joyimpact",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202309/04/SE201610261443517690012780/0000758542/ko/img/original/0000758542_DP000101_20230904122206.png",
+        "released": "2022.02.22"
+      },
+      {
+        "rank": 90,
+        "name": "디아블로 이모탈",
+        "id": "one:디아블로이모탈",
+        "developer": "Blizzard Entertainment Inc",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202606/17/SE202210201630346680060228/0000752945/ko/img/original/0000752945_20260617170216.png",
+        "released": "2022.06.01"
+      },
+      {
+        "rank": 91,
+        "name": "한게임포커 for OneStore - 7포커, 바둑··•",
+        "id": "one:한게임포커7포커바둑",
+        "developer": "NHN Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202007/21/IF1424000464120140212155903/0000749741/img/original/0000749741_DP000101_20200721170218.png",
+        "released": "2020.08.19"
+      },
+      {
+        "rank": 92,
+        "name": "소울 오브 크라임",
+        "id": "one:소울오브크라임",
+        "developer": "GM 게임",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/29/SE202604131700296330068721/0001007558/ko/img/original/0001007558_20260929105222.png",
+        "released": "2026.09.29"
+      },
+      {
+        "rank": 93,
+        "name": "캣 히어로: 방치형 RPG",
+        "id": "one:캣히어로방치형rpg",
+        "developer": "주식회사 게임듀오",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202506/10/SE202210272032113180060296/0001001156/ko/img/original/0001001156_20250610140908.png",
+        "released": "2025.06.13"
+      },
+      {
+        "rank": 94,
+        "name": "한게임포커 클래식 for OneStore : 7포•••",
+        "id": "one:한게임포커클래식7포",
+        "developer": "",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202512/18/IF1423400704020110531171530/0000766347/ko/img/original/0000766347_20251218105307.png",
+        "released": "2022.12.16"
+      },
+      {
+        "rank": 95,
+        "name": "명일방주",
+        "id": "one:명일방주",
+        "developer": "Yostar Limited",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202012/28/SE202007201242312920052348/0000749849/img/original/0000749849_DP000101_20201228180112.png",
+        "released": "2021.01.21"
+      },
+      {
+        "rank": 96,
+        "name": "템빨용사: 픽셀 아이템 머지 RPG",
+        "id": "one:템빨용사픽셀아이템머지rpg",
+        "developer": "5minlab Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202606/11/SE201901181152329010037373/0001006551/ko/img/original/0001006551_20260611161901.png",
+        "released": "2026.06.26"
+      },
+      {
+        "rank": 97,
+        "name": "귀판오분전-444뽑기 증정",
+        "id": "one:귀판오분전444뽑기증정",
+        "developer": "joynetgames",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202512/11/SE202305191649311540061664/0001002518/ko/img/original/0001002518_20251211222632.png",
+        "released": "2025.12.18"
+      },
+      {
+        "rank": 98,
+        "name": "전장의 그녀 6- 19금 성인게임",
+        "id": "one:전장의그녀619금성인게임",
+        "developer": "zensty",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202410/29/SE201501011112551970004667/0000778978/ko/img/original/0000778978_DP000101_20241029164056.png",
+        "released": "2024.10.31"
+      },
+      {
+        "rank": 99,
+        "name": "브림비크: 바이킹 생존 RPG",
+        "id": "one:브림비크바이킹생존rpg",
+        "developer": "PSNV",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/27/SE202610270450518260071303/0001011345/ko/img/original/0001011345_202610270543230.png",
+        "released": "2026.11.04"
+      },
+      {
+        "rank": 100,
+        "name": "미녀 맞고: 100명의 미녀와 고스톱",
+        "id": "one:미녀맞고100명의미녀와고스톱",
+        "developer": "",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202412/06/SE201901041401570270036615/0000779237/ko/img/original/0000779237_DP000101_20241206181803.png",
+        "released": "2024.12.06"
+      }
+    ],
+    "galaxy_grossing": [
+      {
+        "rank": 1,
+        "name": "명조:워더링 웨이브",
+        "id": "gal:명조워더링웨이브",
+        "developer": "KURO GAMES",
+        "url": ""
+      },
+      {
+        "rank": 2,
+        "name": "라스트 어사일럼: 페스트",
+        "id": "gal:라스트어사일럼페스트",
+        "developer": "Frontier Games Co., Limited",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202603/16/SE202401161347052530063207/0001004747/ko/img/original/0001004747_20260316213353.jpg",
+        "released": "2026.03.24"
+      },
+      {
+        "rank": 3,
+        "name": "리니지M",
+        "id": "gal:리니지m",
+        "developer": "NC Corporation",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/201705/26/SE201507160922048210006629/0000715814/img/original/0000715814_DP000101_20170526102641.png",
+        "released": "2017.05.26"
+      },
+      {
+        "rank": 4,
+        "name": "붕괴: 스타레일",
+        "id": "gal:붕괴스타레일",
+        "developer": "COGNOSPHERE PTE. LTD",
+        "url": ""
+      },
+      {
+        "rank": 5,
+        "name": "FC 온라인 M",
+        "id": "gal:fc온라인m",
+        "developer": "NEXON Korea Corporation",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/26/IF142158931020090716174343/0000730623/ko/img/original/0000730623_20261026105924.png",
+        "released": "2018.07.25"
+      },
+      {
+        "rank": 6,
+        "name": "이환",
+        "id": "gal:이환",
+        "developer": "Perfect World Games",
+        "url": ""
+      },
+      {
+        "rank": 7,
+        "name": "마비노기 모바일",
+        "id": "gal:마비노기모바일",
+        "developer": "NEXON Korea Corp. & devCAT Corp",
+        "url": ""
+      },
+      {
+        "rank": 8,
+        "name": "Royal Match",
+        "id": "gal:royalmatch",
+        "developer": "Dream Games",
+        "url": ""
+      },
+      {
+        "rank": 9,
+        "name": "FC모바일 for Samsung",
+        "id": "gal:fc모바일",
+        "developer": "NEXON Korea Corporation",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/16/IF142158931020090716174343/0001005336/ko/img/original/0001005336_20261016182926.png",
+        "released": "2026.06.10"
+      },
+      {
+        "rank": 10,
+        "name": "Roblox",
+        "id": "gal:roblox",
+        "developer": "Roblox Corporation",
+        "url": ""
+      },
+      {
+        "rank": 11,
+        "name": "열혈강호: 넥스트",
+        "id": "gal:열혈강호넥스트",
+        "developer": "Kingnet Technology HK Limited",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202606/03/SE201906121711239050043819/0001005477/ko/img/original/0001005477_20260603190719.png",
+        "released": "2026.07.28"
+      },
+      {
+        "rank": 12,
+        "name": "원신",
+        "id": "gal:원신",
+        "developer": "추천",
+        "url": ""
+      },
+      {
+        "rank": 13,
+        "name": "한게임포커 클래식 - 7포커 홀덤 바둑이 섯다 바카라 하이로우 훌라 슬롯 블랙잭까지 무료로 즐기세요!",
+        "id": "gal:한게임포커클래식7포커홀덤바둑이섯다바카라하이로우훌라슬롯블랙잭까지무료로즐기세요",
+        "developer": "NHN Corporation",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202512/18/IF1423400704020110531171530/0000766347/ko/img/original/0000766347_20251218105307.png",
+        "released": "2022.12.16"
+      },
+      {
+        "rank": 14,
+        "name": "한게임 포커 for Samsung",
+        "id": "gal:한게임포커",
+        "developer": "NHN Corporation",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202007/21/IF1424000464120140212155903/0000749741/img/original/0000749741_DP000101_20200721170218.png",
+        "released": "2020.08.19"
+      },
+      {
+        "rank": 15,
+        "name": "가십하버: 합성 & 스토리 게임",
+        "id": "gal:가십하버합성스토리게임",
+        "developer": "Microfun Limited",
+        "url": ""
+      },
+      {
+        "rank": 16,
+        "name": "명일방주: 엔드필드",
+        "id": "gal:명일방주엔드필드",
+        "developer": "GRYPH FRONTIER PTE. LTD",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202012/28/SE202007201242312920052348/0000749849/img/original/0000749849_DP000101_20201228180112.png",
+        "released": "2021.01.21"
+      },
+      {
+        "rank": 17,
+        "name": "후더덕 서바이벌",
+        "id": "gal:후더덕서바이벌",
+        "developer": "JOY MOBILE NETWORK PTE LTD",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202609/11/SE202305191649311540061664/0001007788/ko/img/original/0001007788_20260911185228.jpg",
+        "released": "2026.09.17"
+      },
+      {
+        "rank": 18,
+        "name": "세븐나이츠 리버스",
+        "id": "gal:세븐나이츠리버스",
+        "developer": "ⓒ Netmarble Corp. & Netmarble Nexus Inc",
+        "url": ""
+      },
+      {
+        "rank": 19,
+        "name": "한게임 로얄홀덤",
+        "id": "gal:한게임로얄홀덤",
+        "developer": "ⓒNHN.Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202509/19/IF1423400704020110531171530/0000765288/ko/img/original/0000765288_20250919183515.png",
+        "released": "2023.01.26"
+      },
+      {
+        "rank": 20,
+        "name": "블루 아카이브",
+        "id": "gal:블루아카이브",
+        "developer": "NEXON Korea Corporation",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/07/IF142158931020090716174343/0000758646/ko/img/original/0000758646_20260707153911.png",
+        "released": "2021.11.07"
+      },
+      {
+        "rank": 21,
+        "name": "삼국지 전략판",
+        "id": "gal:삼국지전략판",
+        "developer": "Qookka Entertainment Limited",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202602/03/SE202007212129343820052373/0000749976/ko/img/original/0000749976_20260203165221.png",
+        "released": "2021.02.23"
+      },
+      {
+        "rank": 22,
+        "name": "퍼즐 오브 Z",
+        "id": "gal:퍼즐오브z",
+        "developer": "WISDOM ENTERTAINMENT ONLINE INTERNATIONAL LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202504/16/SE202003171759501960051026/0000755502/ko/img/original/0000755502_20250416181106.png",
+        "released": "2021.06.01"
+      },
+      {
+        "rank": 23,
+        "name": "Pokémon GO",
+        "id": "gal:pokmongo",
+        "developer": "Scopely Explore",
+        "url": ""
+      },
+      {
+        "rank": 24,
+        "name": "뮤 모나크2",
+        "id": "gal:뮤모나크2",
+        "developer": "Webzen Inc",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/28/IF1423502835320131125163752/0000774749/ko/img/original/0000774749_202610281102530.png",
+        "released": "2024.08.29"
+      },
+      {
+        "rank": 25,
+        "name": "쿠키런: 오븐브레이크",
+        "id": "gal:쿠키런오븐브레이크",
+        "developer": "Devsisters Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/20/SE201909031223149860047635/0000745409/ko/img/original/0000745409_20261020225328.png",
+        "released": "2020.01.29"
+      },
+      {
+        "rank": 26,
+        "name": "검은사막 모바일 for samsung",
+        "id": "gal:검은사막모바일",
+        "developer": "PearlAbyss Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202604/14/SE201909181545533260047765/0000743136/ko/img/original/0000743136_20260414140032.png",
+        "released": "2019.10.16"
+      },
+      {
+        "rank": 27,
+        "name": "I9: 인페르노 나인",
+        "id": "gal:i9인페르노나인",
+        "developer": "Leniu Technology Co Limited",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202509/05/SE202308251113205830062229/0000779560/ko/img/original/0000779560_20250905121635.jpg",
+        "released": "2025.01.15"
+      },
+      {
+        "rank": 28,
+        "name": "히어로즈 테일즈2",
+        "id": "gal:히어로즈테일즈2",
+        "developer": "Sunflower Network Technology Co., Limited",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202608/13/SE202506031629454610066665/0001008198/ko/img/original/0001008198_20260813163113.jpg",
+        "released": "2026.10.14"
+      },
+      {
+        "rank": 29,
+        "name": "갓깨비 키우기-999뽑기 증정",
+        "id": "gal:갓깨비키우기999뽑기증정",
+        "developer": "JOY MOBILE NETWORK PTE LTD",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202509/30/SE202305191649311540061664/0000780670/ko/img/original/0000780670_20250930102013.png",
+        "released": "2025.04.17"
+      },
+      {
+        "rank": 30,
+        "name": "미르4",
+        "id": "gal:미르4",
+        "developer": "Wemade Co Ltd",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202102/09/IF1423491841420111020154802/0000749348/img/original/0000749348_DP000101_20210209060311.png",
+        "released": "2020.11.24"
+      },
+      {
+        "rank": 31,
+        "name": "피망 포커 : 카지노 로얄 - 홀덤, 7포커, 바둑이 for Samsung",
+        "id": "gal:피망포커카지노로얄홀덤7포커바둑이",
+        "developer": "추천",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/01/IF1423601484020120111182105/0001000703/ko/img/original/0001000703_20260901083146.png",
+        "released": "2025.07.21"
+      },
+      {
+        "rank": 32,
+        "name": "명일방주",
+        "id": "gal:명일방주",
+        "developer": "YOSTAR (HONG KONG) LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202012/28/SE202007201242312920052348/0000749849/img/original/0000749849_DP000101_20201228180112.png",
+        "released": "2021.01.21"
+      },
+      {
+        "rank": 33,
+        "name": "천년 어게인",
+        "id": "gal:천년어게인",
+        "developer": "ACTOZ SOFT Co.,Ltd",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/20/SE202308171457142420062187/0000777458/ko/img/original/0000777458_20261020110218.png",
+        "released": "2024.10.21"
+      },
+      {
+        "rank": 34,
+        "name": "갑부: 장사의 시대",
+        "id": "gal:갑부장사의시대",
+        "developer": "BLANCOZONE NETWORK KOREA",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202402/04/SE202003171759501960051026/0000751784/ko/img/original/0000751784_DP000101_20240204104854.png",
+        "released": "2021.01.19"
+      },
+      {
+        "rank": 35,
+        "name": "배틀그라운드",
+        "id": "gal:배틀그라운드",
+        "developer": "Krafton Inc",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/201808/27/SE201805091608190000026916/0000733060/img/original/0000733060_DP000101_20180827155347.png",
+        "released": "2018.08.27"
+      },
+      {
+        "rank": 36,
+        "name": "좀비 웨이브스",
+        "id": "gal:좀비웨이브스",
+        "developer": "Fun Formula",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202408/28/SE201602140238062270008713/0000778332/ko/img/original/0000778332_DP000101_20240828211404.png",
+        "released": "2024.09.25"
+      },
+      {
+        "rank": 37,
+        "name": "꿈의 정원 (Gardenscapes)",
+        "id": "gal:꿈의정원gardenscapes",
+        "developer": "Playrix",
+        "url": ""
+      },
+      {
+        "rank": 38,
+        "name": "캣 히어로",
+        "id": "gal:캣히어로",
+        "developer": "Game Duo Co., Ltd",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202506/10/SE202210272032113180060296/0001001156/ko/img/original/0001001156_20250610140908.png",
+        "released": "2025.06.13"
+      },
+      {
+        "rank": 39,
+        "name": "씨사이드 익스케이프: 합성 & 스토리 게임",
+        "id": "gal:씨사이드익스케이프합성스토리게임",
+        "developer": "Microfun Limited",
+        "url": ""
+      },
+      {
+        "rank": 40,
+        "name": "한게임 신맞고 for Samsung",
+        "id": "gal:한게임신맞고",
+        "developer": "NHN Corporation",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/20/IF1423400704020110531171530/0001006138/ko/img/original/0001006138_20260720085038.png",
+        "released": "2026.07.27"
+      },
+      {
+        "rank": 41,
+        "name": "파운데이션: 우주 전선",
+        "id": "gal:파운데이션우주전선",
+        "developer": "FunPlus International AG",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202603/09/SE202108261510110180056618/0001004554/ko/img/original/0001004554_20260309163957.png",
+        "released": "2026.03.26"
+      },
+      {
+        "rank": 42,
+        "name": "한게임 섯다&맞고 for Samsung",
+        "id": "gal:한게임섯다맞고",
+        "developer": "NHN Corporation",
+        "url": ""
+      },
+      {
+        "rank": 43,
+        "name": "연운",
+        "id": "gal:연운",
+        "developer": "Netease Interactive Entertainment Pte Ltd",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/201912/30/SE201912091634434850049762/0000745296/img/original/0000745296_DP000101_20191230152620.png",
+        "released": "2019.12.30"
+      },
+      {
+        "rank": 44,
+        "name": "쿠키런 키우기 - 쿠키런: 크럼블",
+        "id": "gal:쿠키런키우기쿠키런크럼블",
+        "developer": "Devsisters Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/21/SE201909031223149860047635/0001005869/ko/img/original/0001005869_20260921153230.png",
+        "released": "2026.07.29"
+      },
+      {
+        "rank": 45,
+        "name": "퍼니싱:그레이 레이븐",
+        "id": "gal:퍼니싱그레이레이븐",
+        "developer": "KURO GAMES",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202512/23/SE202408011919593810064466/0000754709/ko/img/original/0000754709_20251223072918.jpg",
+        "released": "2021.07.07"
+      },
+      {
+        "rank": 46,
+        "name": "로그W: 리메인즈 오브 갓",
+        "id": "gal:로그w리메인즈오브갓",
+        "developer": "Efun Company Limited Korea Branch",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/11/SE202606251257097140069418/0001007321/ko/img/original/0001007321_20260911160225.png",
+        "released": "2026.08.31"
+      },
+      {
+        "rank": 47,
+        "name": "기적의 검",
+        "id": "gal:기적의검",
+        "developer": "4399 KOREA",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202211/23/IF1423500365320130718182716/0000735228/ko/img/original/0000735228_DP000101_20221123122629.jpg",
+        "released": "2019.09.09"
+      },
+      {
+        "rank": 48,
+        "name": "버섯커 키우기-3000뽑기 증정",
+        "id": "gal:버섯커키우기3000뽑기증정",
+        "developer": "JOY MOBILE NETWORK PTE LTD",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202509/30/SE202305191649311540061664/0000771927/ko/img/original/0000771927_20250930102148.png",
+        "released": "2023.12.21"
+      },
+      {
+        "rank": 49,
+        "name": "에버나이트: 리버스",
+        "id": "gal:에버나이트리버스",
+        "developer": "HONG KONG LONGSIN CO., LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202608/13/SE202604221530472390068812/0001008212/ko/img/original/0001008212_20260813173953.jpg",
+        "released": "2026.09.16"
+      },
+      {
+        "rank": 50,
+        "name": "앙상블스타즈！！",
+        "id": "gal:앙상블스타즈",
+        "developer": "Eureka Creation Limited",
+        "url": ""
+      },
+      {
+        "rank": 51,
+        "name": "붕괴3rd",
+        "id": "gal:붕괴3rd",
+        "developer": "COGNOSPHERE PTE LTD",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/201709/13/SE201507160922048210006629/0000719844/img/original/0000719844_DP000101_20170913113659.png",
+        "released": "2017.09.13"
+      },
+      {
+        "rank": 52,
+        "name": "피망 뉴맞고 : 대한민국 1등 고스톱 for Samsung",
+        "id": "gal:피망뉴맞고대한민국1등고스톱",
+        "developer": "NEOWIZ",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/27/IF1423601484020120111182105/0000412419/ko/img/original/0000412419_20261027101501.png",
+        "released": "2013.08.20"
+      },
+      {
+        "rank": 53,
+        "name": "쿠키런: 킹덤",
+        "id": "gal:쿠키런킹덤",
+        "developer": "Devsisters Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202503/13/SE201909031223149860047635/0000751155/ko/img/original/0000751155_DP000101_20250313100249.png",
+        "released": "2021.01.20"
+      },
+      {
+        "rank": 54,
+        "name": "토이 삼국",
+        "id": "gal:토이삼국",
+        "developer": "XINIU NET LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202606/05/SE202402261821375500063491/0001005208/ko/img/original/0001005208_20260605210305.png",
+        "released": "2026.06.11"
+      },
+      {
+        "rank": 55,
+        "name": "황제라 칭하라",
+        "id": "gal:황제라칭하라",
+        "developer": "Clicktouch Technology International Company Limited",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202501/21/SE201808061818198450029204/0000733569/ko/img/original/0000733569_DP000101_20250121171854.png",
+        "released": "2018.09.17"
+      },
+      {
+        "rank": 56,
+        "name": "모던 워쉽",
+        "id": "gal:모던워쉽",
+        "developer": "ARTSTORM FZE",
+        "url": ""
+      },
+      {
+        "rank": 57,
+        "name": "비지 세이비어",
+        "id": "gal:비지세이비어",
+        "developer": "JOY MOBILE NETWORK PTE LTD",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202506/16/SE202305191649311540061664/0000779097/ko/img/original/0000779097_20250616161852.jpg",
+        "released": "2024.12.19"
+      },
+      {
+        "rank": 58,
+        "name": "꿈의 마을 (Township)",
+        "id": "gal:꿈의마을township",
+        "developer": "Playrix",
+        "url": ""
+      },
+      {
+        "rank": 59,
+        "name": "귀판오분전-444뽑기 증정",
+        "id": "gal:귀판오분전444뽑기증정",
+        "developer": "JOY MOBILE NETWORK PTE LTD",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202512/11/SE202305191649311540061664/0001002518/ko/img/original/0001002518_20251211222632.png",
+        "released": "2025.12.18"
+      },
+      {
+        "rank": 60,
+        "name": "냥냥 시노비 : 미소녀 닌자 디펜스",
+        "id": "gal:냥냥시노비미소녀닌자디펜스",
+        "developer": "CookApps Inc",
+        "url": ""
+      },
+      {
+        "rank": 61,
+        "name": "트리 오브 세이비어: 네버랜드",
+        "id": "gal:트리오브세이비어네버랜드",
+        "developer": "Qookka Entertainment Limited",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202609/30/SE202404011626206360063737/0000775732/ko/img/original/0000775732_20260930184723.jpg",
+        "released": "2024.10.10"
+      },
+      {
+        "rank": 62,
+        "name": "액션 대마인",
+        "id": "gal:액션대마인",
+        "developer": "Gremory Games Inc",
+        "url": ""
+      },
+      {
+        "rank": 63,
+        "name": "레이싱 마스터",
+        "id": "gal:레이싱마스터",
+        "developer": "추천",
+        "url": ""
+      },
+      {
+        "rank": 64,
+        "name": "이것이 삼국지다",
+        "id": "gal:이것이삼국지다",
+        "developer": "Endninegames Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202606/06/SE202407111318497980064305/0001006079/ko/img/original/0001006079_20260606150240.png",
+        "released": "2026.07.08"
+      },
+      {
+        "rank": 65,
+        "name": "프로젝트 세카이 컬러풀 스테이지! feat. 하츠네 미쿠",
+        "id": "gal:프로젝트세카이컬러풀스테이지feat하츠네미쿠",
+        "developer": "SEGA /",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/11/SE201911181948373760049253/0000761375/ko/img/original/0000761375_20260911174025.png",
+        "released": "2022.04.06"
+      },
+      {
+        "rank": 66,
+        "name": "히어로즈 테일즈",
+        "id": "gal:히어로즈테일즈",
+        "developer": "37 Mobile Games",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202405/14/SE202102261511272580055120/0000755969/ko/img/original/0000755969_DP000101_20240514165947.png",
+        "released": "2021.06.26"
+      },
+      {
+        "rank": 67,
+        "name": "피쉬돔 (Fishdom)",
+        "id": "gal:피쉬돔fishdom",
+        "developer": "Playrix",
+        "url": ""
+      },
+      {
+        "rank": 68,
+        "name": "템빨용사: 픽셀 아이템 머지 RPG",
+        "id": "gal:템빨용사픽셀아이템머지rpg",
+        "developer": "5minlab Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202606/11/SE201901181152329010037373/0001006551/ko/img/original/0001006551_20260611161901.png",
+        "released": "2026.06.26"
+      },
+      {
+        "rank": 69,
+        "name": "아케론:종말의 서곡",
+        "id": "gal:아케론종말의서곡",
+        "developer": "Shanghai Youlu Information and technology Co.,LTD",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202603/25/SE201512111410023190008158/0000781410/ko/img/original/0000781410_20260325151543.png",
+        "released": "2025.05.09"
+      },
+      {
+        "rank": 70,
+        "name": "꿈의 집 (Homescapes)",
+        "id": "gal:꿈의집homescapes",
+        "developer": "Playrix",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/17/SE202110071807219760057055/0000758866/ko/img/original/0000758866_20260917201431.png",
+        "released": "2021.12.13"
+      },
+      {
+        "rank": 71,
+        "name": "지구의 마지막 날: 생존",
+        "id": "gal:지구의마지막날생존",
+        "developer": "NiceOne",
+        "url": ""
+      },
+      {
+        "rank": 72,
+        "name": "Once Human",
+        "id": "gal:oncehuman",
+        "developer": "Netease Interactive Entertainment Pte Ltd",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202502/28/SE202008121128380290052561/0000780754/ko/img/original/0000780754_DP000101_20250228205810.png",
+        "released": "2025.04.23"
+      },
+      {
+        "rank": 73,
+        "name": "궁신 : 방치형 RPG",
+        "id": "gal:궁신방치형rpg",
+        "developer": "NSN GAMES",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202608/25/SE202608101757208710069910/0001008439/ko/img/original/0001008439_20260825154936.png",
+        "released": "2026.09.10"
+      },
+      {
+        "rank": 74,
+        "name": "Warhammer 40,000: Tacticus",
+        "id": "gal:warhammer40000tacticus",
+        "developer": "Snowprint Studios AB",
+        "url": ""
+      },
+      {
+        "rank": 75,
+        "name": "2026 프로야구GO!",
+        "id": "gal:2026프로야구go",
+        "developer": "Haegin",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202603/30/SE201907031110020700044777/0001003809/ko/img/original/0001003809_20260330182733.png",
+        "released": "2026.03.18"
+      },
+      {
+        "rank": 76,
+        "name": "에오스 레드",
+        "id": "gal:에오스레드",
+        "developer": "BluePotion Games",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202003/23/SE202001281845450050050385/0000746344/img/original/0000746344_DP000101_20200323124709.png",
+        "released": "2020.03.30"
+      },
+      {
+        "rank": 77,
+        "name": "열혈강호: 귀환",
+        "id": "gal:열혈강호귀환",
+        "developer": "Hong Kong 9 Ring Network Co Limited",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/28/SE202305191719115920061665/0001001402/ko/img/original/0001001402_20260728133435.png",
+        "released": "2025.08.06"
+      },
+      {
+        "rank": 78,
+        "name": "신삼국지 모바일-코에이 테크모 인증",
+        "id": "gal:신삼국지모바일코에이테크모인증",
+        "developer": "Aligames",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202603/20/SE202007212129343820052373/0000726276/ko/img/original/0000726276_20260320194552.png",
+        "released": "2018.05.16"
+      },
+      {
+        "rank": 79,
+        "name": "우와 모험단",
+        "id": "gal:우와모험단",
+        "developer": "JOY MOBILE NETWORK PTE LTD",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202603/13/SE202305191649311540061664/0001002649/ko/img/original/0001002649_20260313185657.png",
+        "released": "2026.03.19"
+      },
+      {
+        "rank": 80,
+        "name": "데블M",
+        "id": "gal:데블m",
+        "developer": "Sunflower Network Technology Co., Limited",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202303/03/SE202102261511272580055120/0000766484/ko/img/original/0000766484_DP000101_20230303200306.png",
+        "released": "2023.03.08"
+      },
+      {
+        "rank": 81,
+        "name": "네메시스: 나인",
+        "id": "gal:네메시스나인",
+        "developer": "PENGTAI INTERACTIVE ADVERTISING CO.,LTD",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202605/11/SE202604131700296330068721/0001005605/ko/img/original/0001005605_20260511122825.png",
+        "released": "2026.06.08"
+      },
+      {
+        "rank": 82,
+        "name": "블루 아카이브 (15)",
+        "id": "gal:블루아카이브15",
+        "developer": "추천",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/07/IF142158931020090716174343/0000765249/ko/img/original/0000765249_20260707153608.png",
+        "released": "2022.11.28"
+      },
+      {
+        "rank": 83,
+        "name": "요새전선 : 카드히어로 TD",
+        "id": "gal:요새전선카드히어로td",
+        "developer": "NORI GAMES",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202601/17/SE202202071615498280058260/0001003378/ko/img/original/0001003378_20260117014239.png",
+        "released": "2026.01.30"
+      },
+      {
+        "rank": 84,
+        "name": "Legends Reborn: 마지막 전투",
+        "id": "gal:legendsreborn마지막전투",
+        "developer": "ACE UNIQUE GAME LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202506/17/SE202302211948213840061150/0001001236/ko/img/original/0001001236_20250617152149.jpg",
+        "released": "2025.11.14"
+      },
+      {
+        "rank": 85,
+        "name": "ASURA: 블러드 앤 소울",
+        "id": "gal:asura블러드앤소울",
+        "developer": "SPGame",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202601/10/SE202205132150509290059012/0001002387/ko/img/original/0001002387_20260110222307.png",
+        "released": "2026.01.07"
+      },
+      {
+        "rank": 86,
+        "name": "시티 데몬헌터즈: 각성자들",
+        "id": "gal:시티데몬헌터즈각성자들",
+        "developer": "UNI-STAR INTERACTIVE HK LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202606/25/SE202310071738454800062530/0001004178/ko/img/original/0001004178_20260625114934.jpg",
+        "released": "2026.06.24"
+      },
+      {
+        "rank": 87,
+        "name": "그랑삼국",
+        "id": "gal:그랑삼국",
+        "developer": "YOOZOO. ALL RIGHT SRESERVED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202106/01/SE201901162315329710037206/0000746929/img/original/0000746929_DP000101_20210601120447.png",
+        "released": "2020.08.03"
+      },
+      {
+        "rank": 88,
+        "name": "타일 서바이벌",
+        "id": "gal:타일서바이벌",
+        "developer": "FunPlus International AG",
+        "url": ""
+      },
+      {
+        "rank": 89,
+        "name": "데블2M",
+        "id": "gal:데블2m",
+        "developer": "SUNFLOWER NETWORK TECHNOLOGY CO., LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202607/22/SE202506031629454610066665/0001006587/ko/img/original/0001006587_20260722171526.jpg",
+        "released": "2026.08.12"
+      },
+      {
+        "rank": 90,
+        "name": "피망 쇼다운 홀덤 : 텍사스 홀덤, 포커, 토너먼트",
+        "id": "gal:피망쇼다운홀덤텍사스홀덤포커토너먼트",
+        "developer": "NEOWIZ",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202608/26/IF1423601484020120111182105/0000776879/ko/img/original/0000776879_20260826104955.png",
+        "released": "2024.12.05"
+      },
+      {
+        "rank": 91,
+        "name": "Total Football: Mobile Soccer 2026",
+        "id": "gal:totalfootballmobilesoccer2026",
+        "developer": "GALA SPORTS TECHNOLOGY LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202605/20/SE202109241516523740056882/0000776041/ko/img/original/0000776041_20260520171214.png",
+        "released": "2024.07.08"
+      },
+      {
+        "rank": 92,
+        "name": "플랜츠 온 파이어",
+        "id": "gal:플랜츠온파이어",
+        "developer": "NUVERSE PTE. LTD",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202608/15/SE202505152034183590066535/0001007208/ko/img/original/0001007208_20260815134058.jpg",
+        "released": "2026.08.26"
+      },
+      {
+        "rank": 93,
+        "name": "로드모바일: 킹덤 워즈",
+        "id": "gal:로드모바일킹덤워즈",
+        "developer": "IGG",
+        "url": ""
+      },
+      {
+        "rank": 94,
+        "name": "아키르: 로드 오브 디스트럭션",
+        "id": "gal:아키르로드오브디스트럭션",
+        "developer": "SPGame",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202605/22/SE202205132150509290059012/0001000344/ko/img/original/0001000344_20260522115932.png",
+        "released": "2025.07.30"
+      },
+      {
+        "rank": 95,
+        "name": "심연 삼국",
+        "id": "gal:심연삼국",
+        "developer": "MIAO PLAY ENTERTAINMENT NETWORK LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/20/SE202308111528228040062171/0001007489/ko/img/original/0001007489_20260720171324.png",
+        "released": "2026.08.12"
+      },
+      {
+        "rank": 96,
+        "name": "세계수의 노래",
+        "id": "gal:세계수의노래",
+        "developer": "Endninegames Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202610/06/SE202407111318497980064305/0001006307/ko/img/original/0001006307_20261006115243.jpg",
+        "released": "2026.10.28"
+      },
+      {
+        "rank": 97,
+        "name": "에보니 - 왕의 귀환",
+        "id": "gal:에보니왕의귀환",
+        "developer": "TG Inc",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202404/23/SE201602140238062270008713/0000758142/ko/img/original/0000758142_DP000101_20240423202356.png",
+        "released": "2021.10.19"
+      },
+      {
+        "rank": 98,
+        "name": "퍼즐 앤 카오스",
+        "id": "gal:퍼즐앤카오스",
+        "developer": "WISDOM ENTERTAINMENT ONLINE INTERNATIONAL LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 99,
+        "name": "레이드: 그림자의 전설",
+        "id": "gal:레이드그림자의전설",
+        "developer": "Plarium Global Ltd",
+        "url": ""
+      }
+    ],
+    "galaxy_popular": [
+      {
+        "rank": 1,
+        "name": "Roblox",
+        "id": "gal:roblox",
+        "developer": "Roblox Corporation",
+        "url": ""
+      },
+      {
+        "rank": 2,
+        "name": "로얄 킹덤 (Royal Kingdom)",
+        "id": "gal:로얄킹덤royalkingdom",
+        "developer": "Dream Games",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202601/14/SE202408142340538560064546/0001003877/ko/img/original/0001003877_20260114191413.png",
+        "released": "2026.01.19"
+      },
+      {
+        "rank": 3,
+        "name": "Pokémon GO",
+        "id": "gal:pokmongo",
+        "developer": "Scopely Explore",
+        "url": ""
+      },
+      {
+        "rank": 4,
+        "name": "세계수의 노래",
+        "id": "gal:세계수의노래",
+        "developer": "Endninegames Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202610/06/SE202407111318497980064305/0001006307/ko/img/original/0001006307_20261006115243.jpg",
+        "released": "2026.10.28"
+      },
+      {
+        "rank": 5,
+        "name": "쿠키런: 킹덤",
+        "id": "gal:쿠키런킹덤",
+        "developer": "Devsisters Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202503/13/SE201909031223149860047635/0000751155/ko/img/original/0000751155_DP000101_20250313100249.png",
+        "released": "2021.01.20"
+      },
+      {
+        "rank": 6,
+        "name": "배틀그라운드",
+        "id": "gal:배틀그라운드",
+        "developer": "Krafton Inc",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/201808/27/SE201805091608190000026916/0000733060/img/original/0000733060_DP000101_20180827155347.png",
+        "released": "2018.08.27"
+      },
+      {
+        "rank": 7,
+        "name": "쿠키런: 오븐브레이크",
+        "id": "gal:쿠키런오븐브레이크",
+        "developer": "Devsisters Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/20/SE201909031223149860047635/0000745409/ko/img/original/0000745409_20261020225328.png",
+        "released": "2020.01.29"
+      },
+      {
+        "rank": 8,
+        "name": "원신",
+        "id": "gal:원신",
+        "developer": "COGNOSPHERE PTE. LTD",
+        "url": ""
+      },
+      {
+        "rank": 9,
+        "name": "수박 게임 : 과일 퍼즐",
+        "id": "gal:수박게임과일퍼즐",
+        "developer": "SUPERBOX Inc",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202502/26/SE202003060929346800050867/0000781195/ko/img/original/0000781195_DP000101_20250226224237.png",
+        "released": "2025.02.27"
+      },
+      {
+        "rank": 10,
+        "name": "Royal Match",
+        "id": "gal:royalmatch",
+        "developer": "Dream Games",
+        "url": ""
+      },
+      {
+        "rank": 11,
+        "name": "Meowdoku: 두뇌 퍼즐 게임",
+        "id": "gal:meowdoku두뇌퍼즐게임",
+        "developer": "OAKEVER GAMES PTE. LTD",
+        "url": ""
+      },
+      {
+        "rank": 12,
+        "name": "세븐나이츠 리버스",
+        "id": "gal:세븐나이츠리버스",
+        "developer": "추천",
+        "url": ""
+      },
+      {
+        "rank": 13,
+        "name": "한게임 포커 for Samsung",
+        "id": "gal:한게임포커",
+        "developer": "NHN Corporation",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202007/21/IF1424000464120140212155903/0000749741/img/original/0000749741_DP000101_20200721170218.png",
+        "released": "2020.08.19"
+      },
+      {
+        "rank": 14,
+        "name": "라스트 어사일럼: 페스트",
+        "id": "gal:라스트어사일럼페스트",
+        "developer": "Frontier Games Co., Limited",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202603/16/SE202401161347052530063207/0001004747/ko/img/original/0001004747_20260316213353.jpg",
+        "released": "2026.03.24"
+      },
+      {
+        "rank": 15,
+        "name": "Vita Mahjong",
+        "id": "gal:vitamahjong",
+        "developer": "OAKEVER GAMES PTE. LTD",
+        "url": ""
+      },
+      {
+        "rank": 16,
+        "name": "명조:워더링 웨이브",
+        "id": "gal:명조워더링웨이브",
+        "developer": "KURO GAMES",
+        "url": ""
+      },
+      {
+        "rank": 17,
+        "name": "Amaze GO! - 화살표 퍼즐",
+        "id": "gal:amazego화살표퍼즐",
+        "developer": "OAKEVER GAMES PTE. LTD",
+        "url": ""
+      },
+      {
+        "rank": 18,
+        "name": "붕괴: 스타레일",
+        "id": "gal:붕괴스타레일",
+        "developer": "COGNOSPHERE PTE. LTD",
+        "url": ""
+      },
+      {
+        "rank": 19,
+        "name": "Tile Explorer - 트리플 매치",
+        "id": "gal:tileexplorer트리플매치",
+        "developer": "OAKEVER GAMES PTE. LTD",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202512/17/SE202511071916277440067550/0001003527/ko/img/original/0001003527_20251217180416.png",
+        "released": "2025.12.18"
+      },
+      {
+        "rank": 20,
+        "name": "한게임 섯다&맞고 for Samsung",
+        "id": "gal:한게임섯다맞고",
+        "developer": "NHN Corporation",
+        "url": ""
+      },
+      {
+        "rank": 21,
+        "name": "피망 뉴맞고 : 대한민국 1등 고스톱 for Samsung",
+        "id": "gal:피망뉴맞고대한민국1등고스톱",
+        "developer": "NEOWIZ",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/27/IF1423601484020120111182105/0000412419/ko/img/original/0000412419_20261027101501.png",
+        "released": "2013.08.20"
+      },
+      {
+        "rank": 22,
+        "name": "한게임 신맞고 for Samsung",
+        "id": "gal:한게임신맞고",
+        "developer": "NHN Corporation",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/20/IF1423400704020110531171530/0001006138/ko/img/original/0001006138_20260720085038.png",
+        "released": "2026.07.27"
+      },
+      {
+        "rank": 23,
+        "name": "리니지M",
+        "id": "gal:리니지m",
+        "developer": "NC Corporation",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/201705/26/SE201507160922048210006629/0000715814/img/original/0000715814_DP000101_20170526102641.png",
+        "released": "2017.05.26"
+      },
+      {
+        "rank": 24,
+        "name": "오목 챔피언 (O-mok Champion)",
+        "id": "gal:오목챔피언omokchampion",
+        "developer": "金城賢吾",
+        "url": ""
+      },
+      {
+        "rank": 25,
+        "name": "Sudoku - Classic Sudoku Puzzle",
+        "id": "gal:sudokuclassicsudokupuzzle",
+        "developer": "OAKEVER GAMES PTE. LTD",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202107/14/SE202105272220526700055862/0000757013/img/original/0000757013_DP000101_20210714201735.png",
+        "released": "2021.07.14"
+      },
+      {
+        "rank": 26,
+        "name": "FC모바일 for Samsung",
+        "id": "gal:fc모바일",
+        "developer": "NEXON Korea Corporation",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/16/IF142158931020090716174343/0001005336/ko/img/original/0001005336_20261016182926.png",
+        "released": "2026.06.10"
+      },
+      {
+        "rank": 27,
+        "name": "Brain Test 4: Tricky Friends",
+        "id": "gal:braintest4trickyfriends",
+        "developer": "Unico Studio LLC",
+        "url": ""
+      },
+      {
+        "rank": 28,
+        "name": "이환",
+        "id": "gal:이환",
+        "developer": "Perfect World Games",
+        "url": ""
+      },
+      {
+        "rank": 29,
+        "name": "삼국지: 천하결전",
+        "id": "gal:삼국지천하결전",
+        "developer": "BILIBILI HK LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/02/SE201911261852127640049454/0001008003/ko/img/original/0001008003_20260902181613.png",
+        "released": "2026.09.23"
+      },
+      {
+        "rank": 30,
+        "name": "명일방주",
+        "id": "gal:명일방주",
+        "developer": "추천",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202012/28/SE202007201242312920052348/0000749849/img/original/0000749849_DP000101_20201228180112.png",
+        "released": "2021.01.21"
+      },
+      {
+        "rank": 31,
+        "name": "블록 크러쉬 퀘스트",
+        "id": "gal:블록크러쉬퀘스트",
+        "developer": "mobirix",
+        "url": ""
+      },
+      {
+        "rank": 32,
+        "name": "FC 온라인 M",
+        "id": "gal:fc온라인m",
+        "developer": "NEXON Korea Corporation",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/26/IF142158931020090716174343/0000730623/ko/img/original/0000730623_20261026105924.png",
+        "released": "2018.07.25"
+      },
+      {
+        "rank": 33,
+        "name": "블루 아카이브",
+        "id": "gal:블루아카이브",
+        "developer": "NEXON Korea Corporation",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/07/IF142158931020090716174343/0000758646/ko/img/original/0000758646_20260707153911.png",
+        "released": "2021.11.07"
+      },
+      {
+        "rank": 34,
+        "name": "쿠키런 키우기 - 쿠키런: 크럼블",
+        "id": "gal:쿠키런키우기쿠키런크럼블",
+        "developer": "Devsisters Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/21/SE201909031223149860047635/0001005869/ko/img/original/0001005869_20260921153230.png",
+        "released": "2026.07.29"
+      },
+      {
+        "rank": 35,
+        "name": "피망 포커 : 카지노 로얄 - 홀덤, 7포커, 바둑이 for Samsung",
+        "id": "gal:피망포커카지노로얄홀덤7포커바둑이",
+        "developer": "NEOWIZ",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/01/IF1423601484020120111182105/0001000703/ko/img/original/0001000703_20260901083146.png",
+        "released": "2025.07.21"
+      },
+      {
+        "rank": 36,
+        "name": "프로 장기",
+        "id": "gal:프로장기",
+        "developer": "mobirix",
+        "url": ""
+      },
+      {
+        "rank": 37,
+        "name": "2026 프로야구GO!",
+        "id": "gal:2026프로야구go",
+        "developer": "Haegin",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202603/30/SE201907031110020700044777/0001003809/ko/img/original/0001003809_20260330182733.png",
+        "released": "2026.03.18"
+      },
+      {
+        "rank": 38,
+        "name": "헌터 파티 키우기: 방치형 RPG",
+        "id": "gal:헌터파티키우기방치형rpg",
+        "developer": "LUNOSOFT INC",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202405/30/IF142815936020090818140347/0000773310/ko/img/original/0000773310_DP000101_20240530151127.png",
+        "released": "2024.01.04"
+      },
+      {
+        "rank": 39,
+        "name": "Piano Tiles 3",
+        "id": "gal:pianotiles3",
+        "developer": "Frank Veenstra",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/201405/22/IF1423502186920131018203255/0000664137/img/original/0000664137_DP000101.png",
+        "released": "2014.05.29"
+      },
+      {
+        "rank": 40,
+        "name": "DEEEER Simulator",
+        "id": "gal:deeeersimulator",
+        "developer": "Pujia8 Games INC",
+        "url": ""
+      },
+      {
+        "rank": 41,
+        "name": "Bakery Stack Race",
+        "id": "gal:bakerystackrace",
+        "developer": "PROBUDDY SOFTWARE SOLUTIONS PRIVATE LIMITED",
+        "url": ""
+      },
+      {
+        "rank": 42,
+        "name": "냥냥 시노비 : 미소녀 닌자 디펜스",
+        "id": "gal:냥냥시노비미소녀닌자디펜스",
+        "developer": "CookApps Inc",
+        "url": ""
+      },
+      {
+        "rank": 43,
+        "name": "오목",
+        "id": "gal:오목",
+        "developer": "Popoko VM Games",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202604/08/SE202003060929346800050867/0001005214/ko/img/original/0001005214_20260408095209.png",
+        "released": "2026.04.09"
+      },
+      {
+        "rank": 44,
+        "name": "Battle Strategy: Tower Defense",
+        "id": "gal:battlestrategytowerdefense",
+        "developer": "Zygle Games LTD",
+        "url": ""
+      },
+      {
+        "rank": 45,
+        "name": "가십하버: 합성 & 스토리 게임",
+        "id": "gal:가십하버합성스토리게임",
+        "developer": "Microfun Limited",
+        "url": ""
+      },
+      {
+        "rank": 46,
+        "name": "한게임포커 클래식 - 7포커 홀덤 바둑이 섯다 바카라 하이로우 훌라 슬롯 블랙잭까지 무료로 즐기세요!",
+        "id": "gal:한게임포커클래식7포커홀덤바둑이섯다바카라하이로우훌라슬롯블랙잭까지무료로즐기세요",
+        "developer": "NHN Corporation",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202512/18/IF1423400704020110531171530/0000766347/ko/img/original/0000766347_20251218105307.png",
+        "released": "2022.12.16"
+      },
+      {
+        "rank": 47,
+        "name": "Magic Cube Puzzle 3D",
+        "id": "gal:magiccubepuzzle3d",
+        "developer": "Like Home Technology (Shenzhen)Co.,Ltd",
+        "url": ""
+      },
+      {
+        "rank": 48,
+        "name": "토킹톰 골드런",
+        "id": "gal:토킹톰골드런",
+        "developer": "Outfit7 Limited",
+        "url": ""
+      },
+      {
+        "rank": 49,
+        "name": "명일방주: 엔드필드",
+        "id": "gal:명일방주엔드필드",
+        "developer": "GRYPH FRONTIER PTE. LTD",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202012/28/SE202007201242312920052348/0000749849/img/original/0000749849_DP000101_20201228180112.png",
+        "released": "2021.01.21"
+      },
+      {
+        "rank": 50,
+        "name": "VR Roller Coaster Theme Park Virtual Reality Game 360",
+        "id": "gal:vrrollercoasterthemeparkvirtualrealitygame360",
+        "developer": "Vipera Games Sp. z o.o",
+        "url": ""
+      },
+      {
+        "rank": 51,
+        "name": "배고픈 바다: 사냥, 다른 물고기를 먹어 성장 게임. 물고기를 먹고 상어로부터 생존하고 임무를 완수하세요",
+        "id": "gal:배고픈바다사냥다른물고기를먹어성장게임물고기를먹고상어로부터생존하고임무를완수하세요",
+        "developer": "Dmitry Tarabuschenkov",
+        "url": ""
+      },
+      {
+        "rank": 52,
+        "name": "Boom Blocks: 퍼즐 게임",
+        "id": "gal:boomblocks퍼즐게임",
+        "developer": "EVRIKA GAMES L.LC-FZ",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202608/21/SE202509261835202160067325/0001002515/ko/img/original/0001002515_20260821215548.png",
+        "released": "2025.10.10"
+      },
+      {
+        "rank": 53,
+        "name": "Dobble Go!",
+        "id": "gal:dobblego",
+        "developer": "2023 Amuzo/Asmodee",
+        "url": ""
+      },
+      {
+        "rank": 54,
+        "name": "I9: 인페르노 나인",
+        "id": "gal:i9인페르노나인",
+        "developer": "Leniu Technology Co Limited",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202509/05/SE202308251113205830062229/0000779560/ko/img/original/0000779560_20250905121635.jpg",
+        "released": "2025.01.15"
+      },
+      {
+        "rank": 55,
+        "name": "Stickman School Run",
+        "id": "gal:stickmanschoolrun",
+        "developer": "Playtouch",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202504/07/SE201804102110491950025907/0001000282/en/img/original/0001000282_20250407051934.png",
+        "released": "2025.04.16"
+      },
+      {
+        "rank": 56,
+        "name": "애니메이션 드레스업: 인형 메이크업",
+        "id": "gal:애니메이션드레스업인형메이크업",
+        "developer": "PLAYNERA, TOO",
+        "url": ""
+      },
+      {
+        "rank": 57,
+        "name": "꿈의 마을 (Township)",
+        "id": "gal:꿈의마을township",
+        "developer": "Playrix",
+        "url": ""
+      },
+      {
+        "rank": 58,
+        "name": "캔디크러쉬사가 (Candy Crush Saga)",
+        "id": "gal:캔디크러쉬사가candycrushsaga",
+        "developer": "King",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202408/06/SE201602140238062270008713/0000777071/ko/img/original/0000777071_DP000101_20240806215359.png",
+        "released": "2024.08.13"
+      },
+      {
+        "rank": 59,
+        "name": "열혈강호: 넥스트",
+        "id": "gal:열혈강호넥스트",
+        "developer": "Kingnet Technology HK Limited",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202606/03/SE201906121711239050043819/0001005477/ko/img/original/0001005477_20260603190719.png",
+        "released": "2026.07.28"
+      },
+      {
+        "rank": 60,
+        "name": "Stickman Thief Puzzle Game - Robbery Escape & Brain Teaser Adventures",
+        "id": "gal:stickmanthiefpuzzlegamerobberyescapebrainteaseradventures",
+        "developer": "TENDER STUDIO",
+        "url": ""
+      },
+      {
+        "rank": 61,
+        "name": "꿈의 정원 (Gardenscapes)",
+        "id": "gal:꿈의정원gardenscapes",
+        "developer": "Playrix",
+        "url": ""
+      },
+      {
+        "rank": 62,
+        "name": "프로젝트 세카이 컬러풀 스테이지! feat. 하츠네 미쿠",
+        "id": "gal:프로젝트세카이컬러풀스테이지feat하츠네미쿠",
+        "developer": "추천",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/11/SE201911181948373760049253/0000761375/ko/img/original/0000761375_20260911174025.png",
+        "released": "2022.04.06"
+      },
+      {
+        "rank": 63,
+        "name": "ES-DE Frontend",
+        "id": "gal:esdefrontend",
+        "developer": "Northwestern Software AB",
+        "url": ""
+      },
+      {
+        "rank": 64,
+        "name": "검은사막 모바일 for samsung",
+        "id": "gal:검은사막모바일",
+        "developer": "PearlAbyss Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202604/14/SE201909181545533260047765/0000743136/ko/img/original/0000743136_20260414140032.png",
+        "released": "2019.10.16"
+      },
+      {
+        "rank": 65,
+        "name": "Stumble Guys 스텀블 가이즈",
+        "id": "gal:stumbleguys스텀블가이즈",
+        "developer": "Scopely Inc",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202511/28/SE201602140238062270008713/0000769643/ko/img/original/0000769643_20251128012318.png",
+        "released": "2023.08.21"
+      },
+      {
+        "rank": 66,
+        "name": "에그 메이커",
+        "id": "gal:에그메이커",
+        "developer": "mobirix",
+        "url": ""
+      },
+      {
+        "rank": 67,
+        "name": "Real Car Racing Game: Extreme Car Driving Simulator Master 3D: Grand Track Auto Drive & Drift Race Offline Games",
+        "id": "gal:realcarracinggameextremecardrivingsimulatormaster3dgrandtrackautodrivedriftraceofflinegames",
+        "developer": "VIKING STUDIO",
+        "url": ""
+      },
+      {
+        "rank": 68,
+        "name": "쿠키런: 모험의 탑",
+        "id": "gal:쿠키런모험의탑",
+        "developer": "Devsisters Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/28/SE201909031223149860047635/0000774287/ko/img/original/0000774287_20260728095818.png",
+        "released": "2024.08.06"
+      },
+      {
+        "rank": 69,
+        "name": "고물 히어로",
+        "id": "gal:고물히어로",
+        "developer": "SUPERBOX. Inc",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202610/01/SE201612121604458290013492/0001009797/ko/img/original/0001009797_20261001110809.jpg",
+        "released": "2026.10.22"
+      },
+      {
+        "rank": 70,
+        "name": "교통 주행 시뮬레이터",
+        "id": "gal:교통주행시뮬레이터",
+        "developer": "mobirix",
+        "url": ""
+      },
+      {
+        "rank": 71,
+        "name": "옥토패스 트래블러: 대륙의 패자",
+        "id": "gal:옥토패스트래블러대륙의패자",
+        "developer": "Netease Interactive Entertainment Pte Ltd",
+        "url": ""
+      },
+      {
+        "rank": 72,
+        "name": "piano Magic Tiles",
+        "id": "gal:pianomagictiles",
+        "developer": "Scientific Games International GmbH",
+        "url": ""
+      },
+      {
+        "rank": 73,
+        "name": "피망 섯다 for Samsung",
+        "id": "gal:피망섯다",
+        "developer": "NEOWIZ",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/27/IF1423601484020120111182105/0000658073/ko/img/original/0000658073_20261027102025.png",
+        "released": "2014.12.10"
+      },
+      {
+        "rank": 74,
+        "name": "모던 워쉽",
+        "id": "gal:모던워쉽",
+        "developer": "ARTSTORM FZE",
+        "url": ""
+      },
+      {
+        "rank": 75,
+        "name": "Zombie War:Highland Defense",
+        "id": "gal:zombiewarhighlanddefense",
+        "developer": "HARVI STUDIO APPS",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202511/27/SE202511272206519230067700/0001003247/ko/img/original/0001003247_20251127231719.png",
+        "released": "2025.11.28"
+      },
+      {
+        "rank": 76,
+        "name": "Antistress relaxing toy game",
+        "id": "gal:antistressrelaxingtoygame",
+        "developer": "XGAME STUDIO",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202504/26/SE201803220148255960024686/0001000519/en/img/original/0001000519_20250426024256.png",
+        "released": "2025.04.30"
+      },
+      {
+        "rank": 77,
+        "name": "아스팔트 레전드 - 초강력 아케이드 자동차 레이싱 게임",
+        "id": "gal:아스팔트레전드초강력아케이드자동차레이싱게임",
+        "developer": "Gameloft SE",
+        "url": ""
+      },
+      {
+        "rank": 78,
+        "name": "템빨용사: 픽셀 아이템 머지 RPG",
+        "id": "gal:템빨용사픽셀아이템머지rpg",
+        "developer": "5minlab Corp",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202606/11/SE201901181152329010037373/0001006551/ko/img/original/0001006551_20260611161901.png",
+        "released": "2026.06.26"
+      },
+      {
+        "rank": 79,
+        "name": "Country Balls: World War",
+        "id": "gal:countryballsworldwar",
+        "developer": "MAD PIXEL GAMES LTD",
+        "url": ""
+      },
+      {
+        "rank": 80,
+        "name": "수박 만들기 2048",
+        "id": "gal:수박만들기2048",
+        "developer": "mobirix",
+        "url": ""
+      },
+      {
+        "rank": 81,
+        "name": "Bus Simulator 3D Bus Games",
+        "id": "gal:bussimulator3dbusgames",
+        "developer": "추천",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202503/04/SE202408142340538560064546/0000781279/ko/img/original/0000781279_DP000101_20250304120325.png",
+        "released": "2025.03.04"
+      },
+      {
+        "rank": 82,
+        "name": "Backrooms Darkness",
+        "id": "gal:backroomsdarkness",
+        "developer": "SaturnoSystems",
+        "url": ""
+      },
+      {
+        "rank": 83,
+        "name": "타일 서바이벌",
+        "id": "gal:타일서바이벌",
+        "developer": "FunPlus International AG",
+        "url": ""
+      },
+      {
+        "rank": 84,
+        "name": "피쉬돔 (Fishdom)",
+        "id": "gal:피쉬돔fishdom",
+        "developer": "Playrix",
+        "url": ""
+      },
+      {
+        "rank": 85,
+        "name": "Brain Test All-Star: IQ Boost",
+        "id": "gal:braintestallstariqboost",
+        "developer": "UNICO STUDIO LLC",
+        "url": ""
+      },
+      {
+        "rank": 86,
+        "name": "고스톱 PLUS - 무료 고스톱 맞고 화투",
+        "id": "gal:고스톱plus무료고스톱맞고화투",
+        "developer": "BUZZ POWDER Inc",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202605/22/SE201709290832532770018505/0001006012/ko/img/original/0001006012_20260522152848.png",
+        "released": "2026.05.28"
+      },
+      {
+        "rank": 87,
+        "name": "갓깨비 키우기-999뽑기 증정",
+        "id": "gal:갓깨비키우기999뽑기증정",
+        "developer": "JOY MOBILE NETWORK PTE LTD",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202509/30/SE202305191649311540061664/0000780670/ko/img/original/0000780670_20250930102013.png",
+        "released": "2025.04.17"
+      },
+      {
+        "rank": 88,
+        "name": "베놈: 다크 벤전스",
+        "id": "gal:베놈다크벤전스",
+        "developer": "Guangzhou Luzhu  Information Technology Co., Ltd",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202511/03/SE202205132150509290059012/0000763590/ko/img/original/0000763590_20251103170345.png",
+        "released": "2022.09.06"
+      },
+      {
+        "rank": 89,
+        "name": "Turbo Charger VR Car Challenge - VR Car Racing Game- VR Mobile Game - Speed Legends Asphalt Horizon - Need for Asphalt Legends - Forza Burnout",
+        "id": "gal:turbochargervrcarchallengevrcarracinggamevrmobilegamespeedlegendsasphalthorizonneedforasphaltlegendsforzaburnout",
+        "developer": "PIXELGEAR",
+        "url": ""
+      },
+      {
+        "rank": 90,
+        "name": "페르소나5: 더 팬텀 X",
+        "id": "gal:페르소나5더팬텀x",
+        "developer": "FEDEEN GAMES LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/22/SE201907121935432990045259/0000773383/ko/img/original/0000773383_20260922151958.png",
+        "released": "2024.05.01"
+      },
+      {
+        "rank": 91,
+        "name": "하스스톤",
+        "id": "gal:하스스톤",
+        "developer": "Blizzard Entertainment, Inc",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202403/06/SE202210201630346680060228/0000752154/ko/img/original/0000752154_DP000101_20240306095009.png",
+        "released": "2021.08.10"
+      },
+      {
+        "rank": 92,
+        "name": "Modern Car Parking: 3D Car Game - City Car Parking",
+        "id": "gal:moderncarparking3dcargamecitycarparking",
+        "developer": "Mobify",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202408/22/SE202408170605057940064603/0000778234/en/img/original/0000778234_DP000101_20240822135933.png",
+        "released": "2024.08.23"
+      },
+      {
+        "rank": 93,
+        "name": "Tiles Magic Piano 4",
+        "id": "gal:tilesmagicpiano4",
+        "developer": "Mark Peters",
+        "url": ""
+      },
+      {
+        "rank": 94,
+        "name": "Gold Digger FRVR - Explore the Mine",
+        "id": "gal:golddiggerfrvrexplorethemine",
+        "developer": "2021 FRVR",
+        "url": ""
+      },
+      {
+        "rank": 95,
+        "name": "드랍 더 넘버",
+        "id": "gal:드랍더넘버",
+        "developer": "SUPERBOX Inc",
+        "url": ""
+      },
+      {
+        "rank": 96,
+        "name": "퍼즐 오브 Z",
+        "id": "gal:퍼즐오브z",
+        "developer": "WISDOM ENTERTAINMENT ONLINE INTERNATIONAL LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202504/16/SE202003171759501960051026/0000755502/ko/img/original/0000755502_20250416181106.png",
+        "released": "2021.06.01"
+      },
+      {
+        "rank": 97,
+        "name": "Cosmo Run",
+        "id": "gal:cosmorun",
+        "developer": "No Six Five",
+        "url": ""
+      },
+      {
+        "rank": 98,
+        "name": "캣 히어로",
+        "id": "gal:캣히어로",
+        "developer": "Game Duo Co., Ltd",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202506/10/SE202210272032113180060296/0001001156/ko/img/original/0001001156_20250610140908.png",
+        "released": "2025.06.13"
+      },
+      {
+        "rank": 99,
+        "name": "롤링 볼 레이스 3D 물리 게임",
+        "id": "gal:롤링볼레이스3d물리게임",
+        "developer": "THE GAME KINGDOMS SMC PRIVATE LIMITED",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202109/28/SE201804102110491950025907/0000758452/img/original/0000758452_DP000101_20210928005227.png",
+        "released": "2021.09.28"
+      },
+      {
+        "rank": 100,
+        "name": "바둑",
+        "id": "gal:바둑",
+        "developer": "추천",
+        "url": "",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202502/04/SE201411140006058350004212/0000773545/ko/img/original/0000773545_DP000101_20250204192738.png",
+        "released": "2024.01.05"
+      }
+    ]
+  }
+}
