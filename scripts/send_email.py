@@ -32,32 +32,46 @@ def kst_today():
 
 PLATFORMS = [("google", "Google Play"), ("apple", "App Store"), ("kr_stores", "국내 스토어")]
 
-# 멱등성 마커: 해당 날짜를 이미 보냈는지 기록(아침 catch-up 슬롯이 여러 번 떠도 중복 발송 방지)
+# 멱등성 마커: "<날짜>:<보낸 플랫폼 목록>" 한 줄(예: 2026-11-05:apple,google,kr_stores).
+# 플랫폼 단위로 기록하므로, 같은 날짜라도 뒤늦게 생긴 차트(예: 원스토어·갤럭시)만 골라
+# 재발송할 수 있다(이미 보낸 구글·애플은 중복 안 됨). 구 형식(날짜만)도 읽는다.
 MARKER = os.path.join(ROOT, "data", "last_emailed.txt")
 
 
-def already_sent(date):
+def read_marker():
+    """마커 → (날짜, 보낸 플랫폼 집합). 없거나 구형식이면 집합은 비거나 부분."""
     try:
         with open(MARKER, encoding="utf-8") as f:
-            return f.read().strip() == date
+            line = f.read().strip()
     except FileNotFoundError:
-        return False
+        return (None, set())
+    if not line:
+        return (None, set())
+    if ":" in line:
+        d, plats = line.split(":", 1)
+        return (d.strip(), {p for p in (x.strip() for x in plats.split(",")) if p})
+    return (line, set())  # 구 형식(날짜만) — 어떤 플랫폼을 보냈는지는 미기록
 
 
-def mark_sent(date):
+def write_marker(date, plats):
     os.makedirs(os.path.dirname(MARKER), exist_ok=True)
     with open(MARKER, "w", encoding="utf-8") as f:
-        f.write(date + "\n")
+        f.write(f"{date}:{','.join(sorted(plats))}\n")
 
 
 def latest_date():
     import glob
-    files = sorted(glob.glob(os.path.join(ROOT, "out", "email_google_*.html")))
-    if not files:
-        files = sorted(glob.glob(os.path.join(ROOT, "out", "email_apple_*.html")))
-    if not files:
-        return None
-    return os.path.basename(files[-1]).rsplit("_", 1)[1][:-5]  # email_google_<date>.html -> date
+    dates = set()
+    for pkey, _ in PLATFORMS:
+        for p in glob.glob(os.path.join(ROOT, "out", f"email_{pkey}_*.html")):
+            dates.add(os.path.basename(p).rsplit("_", 1)[1][:-5])
+    return max(dates) if dates else None  # ISO 날짜 문자열 정렬 = 시간순
+
+
+def present_platforms(date):
+    """해당 날짜에 실제 메일 파일이 존재하는 플랫폼 키 목록(PLATFORMS 순서 유지)."""
+    return [pkey for pkey, _ in PLATFORMS
+            if os.path.exists(os.path.join(ROOT, "out", f"email_{pkey}_{date}.html"))]
 
 
 def connect():
@@ -84,19 +98,39 @@ def main():
         print("발송할 리포트가 없습니다.", file=sys.stderr)
         sys.exit(1)
     force = os.environ.get("FORCE_SEND", "").strip().lower() in ("1", "true", "yes")
-    if already_sent(date) and not force:
-        print(f"이미 발송됨({date}) → 건너뜀. (재발송하려면 FORCE_SEND=1)")
+
+    present = present_platforms(date)
+    if not present:
+        print("보낼 파일이 없습니다:", date, file=sys.stderr)
+        sys.exit(1)
+
+    marked_date, marked_set = read_marker()
+    # 발송 대상 결정:
+    #  - force            → 존재하는 전체(강제 재발송)
+    #  - 새 날짜          → 존재하는 전체
+    #  - 같은 날짜        → 아직 안 보낸 플랫폼만(뒤늦게 생긴 차트 자가치유, 중복 없음)
+    if force:
+        todo = list(present)
+    elif marked_date != date:
+        todo = list(present)
+    else:
+        todo = [p for p in present if p not in marked_set]
+
+    if not todo:
+        print(f"이미 완전 발송됨({date}: {','.join(sorted(marked_set)) or '-'}) → 건너뜀. "
+              f"(강제 재발송은 FORCE_SEND=1)")
         return
+
     to_env = os.environ.get("MAIL_TO")
     recipients = [a.strip() for a in to_env.split(",")] if to_env else CFG["to"]
 
-    sent = 0
+    sent_keys = []
     s = connect()
     try:
         for pkey, label in PLATFORMS:
-            path = os.path.join(ROOT, "out", f"email_{pkey}_{date}.html")
-            if not os.path.exists(path):
+            if pkey not in todo:
                 continue
+            path = os.path.join(ROOT, "out", f"email_{pkey}_{date}.html")
             with open(path, encoding="utf-8") as f:
                 html = f.read()
             tag = os.environ.get("SUBJECT_TAG", "").strip()
@@ -108,13 +142,16 @@ def main():
             msg["Date"] = formatdate(localtime=True)
             s.sendmail(MAIL_FROM, recipients, msg.as_string())
             print(f"발송 완료 [{label}] → {', '.join(recipients)}")
-            sent += 1
+            sent_keys.append(pkey)
     finally:
         s.quit()
-    if sent == 0:
+    if not sent_keys:
         print("보낼 파일이 없습니다:", date, file=sys.stderr)
         sys.exit(1)
-    mark_sent(date)  # 발송 성공 → 마커 기록(이후 슬롯은 건너뜀)
+    # 마커 갱신: 같은 날짜면 기존 집합에 합집합(누적), 새 날짜면 이번에 보낸 것만
+    newset = (marked_set | set(sent_keys)) if marked_date == date else set(sent_keys)
+    write_marker(date, newset)
+    print(f"마커 기록: {date}: {','.join(sorted(newset))}")
 
 
 if __name__ == "__main__":

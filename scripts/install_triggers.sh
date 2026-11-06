@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
-# 비서컴에 launchd 타이머 2개 설치:
-#   - 수집: 매일 23:45 KST → daily-collect.yml dispatch
-#   - 발송: 매일 08:00 KST → daily-email.yml   dispatch
+# 비서컴에 launchd 타이머 4개 설치:
+#   - 국내스토어: 매일 23:30 KST → push_kr_stores.sh (원스토어·갤럭시 커밋/푸시)
+#   - 수집:       매일 23:45 KST → daily-collect.yml dispatch
+#   - 발송:       매일 08:00 KST → daily-email.yml   dispatch
+#   - 발송검증:   매일 08:30 KST → daily-email.yml   dispatch (30분 뒤 재점검; 미발송·누락분 자가치유)
 # 멱등: 이미 설치돼 있으면 교체. 비서컴에서 이 repo를 clone한 뒤 한 번만 실행하면 된다.
 #   사용: bash scripts/install_triggers.sh
 #
@@ -55,10 +57,12 @@ EOF
   printf '✓ 설치: %-46s %02d:%02d KST → %s %s\n' "$label" "$hour" "$min" "$(basename "$script")" "$arg"
 }
 
-# 23:30 원스토어·갤럭시 랭킹 → repo 커밋/푸시(다음 collect 가 병합) | 23:45 수집 | 08:00 발송
+# 23:30 원스토어·갤럭시 랭킹 → repo 커밋/푸시(다음 collect 가 병합) | 23:45 수집 | 08:00 발송 | 08:30 발송검증
 make_plist "co.supernewt.gamemarket.krstores" 23 30 "$REPO_DIR/scripts/push_kr_stores.sh"
 make_plist "co.supernewt.gamemarket.collect"  23 45 "$TRIG" "daily-collect.yml"
 make_plist "co.supernewt.gamemarket.email"     8  0 "$TRIG" "daily-email.yml"
+# 발송 30분 뒤 재점검: send_email.py 가 마커(플랫폼 단위)를 보고 미발송·누락분만 재발송(완전 발송이면 자동 skip)
+make_plist "co.supernewt.gamemarket.verify"    8 30 "$TRIG" "daily-email.yml"
 
 echo ""
 echo "설치 완료. 등록 확인:"
