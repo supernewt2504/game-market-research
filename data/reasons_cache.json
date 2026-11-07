@@ -1,18 +1,13 @@
 {
   "431946152": {
-    "researchedAt": "2026-10-31T18:48:13.670Z",
+    "researchedAt": "2026-11-07T14:46:35.428Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "기타",
-      "short": "차트 상승 기사 미확인, 10월 할로윈 업데이트 가능성 있음",
-      "summary": "로블록스의 App Store 매출 7계단 상승을 직접 다룬 최신 한국어 기사는 찾지 못했습니다. 검색된 기사는 2026년 5월 연휴 구글 매출 1위 보도와 2026년 3분기 실적 발표 등이며, 이번 앱스토어 순위 변동과 직접 연결되지 않습니다. 스토어 업데이트 내역은 버그 수정과 속도·안정성 개선 같은 정기 점검 위주라 순위 상승의 직접 원인으로 보기 어렵습니다. 같은 시기 10월 핼러윈 인게임 이벤트 업데이트가 있었으므로 이것이 상승 요인일 가능성은 있으나 확인되지 않았습니다.",
-      "articles": [
-        {
-          "title": "2026년 10월, 로블록스에서 즐길 핼러윈 업데이트와 이벤트 8개 추천",
-          "url": "https://mmoculture.com/ko/news/roblox-halloween-updates-and-events-to-play/"
-        }
-      ],
+      "short": "원인 미확인: 스토어 업데이트는 버그·성능 개선만 명시, 6계단 상승 근거 부족",
+      "summary": "최신 한국어 기사에서 로블록스의 앱스토어 매출 6계단 상승 원인을 직접 다룬 자료는 찾지 못했다. 검색된 기사들은 구글 플레이 기준 연휴 효과나 방학 시즌 상승을 다루지만, 이 건의 앱스토어 차트 변동과 일치하지 않는다. 스토어 업데이트 내역은 정기 버그 수정과 속도·안정성 개선만 언급해 신규 콘텐츠나 이벤트 근거가 되지 않는다. 따라서 원인은 확정할 수 없으며, 추가 확인이 필요하다.",
+      "articles": [],
       "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE=w128",
       "screenshots": [
         "https://play-lh.googleusercontent.com/dyrYUKyHWljlIROGRjV-hEExZPmuvatd-SXKYayiarvlhQYx1nRuHIWhtETWInNEZ-I2M9SU3NZPebs7v1ka=w400",
@@ -49,13 +44,13 @@
     }
   },
   "553834731": {
-    "researchedAt": "2026-10-31T18:48:05.837Z",
+    "researchedAt": "2026-11-07T14:46:40.853Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "기타",
-      "short": "기사 미확인, 스토어 문구 기준 추정(주간 업데이트 상시 제공)",
-      "summary": "App Store 매출 순위 8계단 상승의 직접적 원인을 다룬 최신 한국어 기사는 검색되지 않았다. 확인된 자료는 2024년 구글 플레이 WAU 순위 기사뿐이며 이번 App Store 변동과 무관하다. 스토어 업데이트 내역에는 게임이 매주 새 콘텐츠를 추가한다는 상시 안내만 있어 특정 이벤트나 신규 콘텐츠를 확인할 수 없으므로, 원인은 정기 업데이트 등 추정에 그친다.",
+      "short": "최근 기사 미확인, 매주 업데이트 공지만 확인됨",
+      "summary": "이번 검색에서는 2026년 App Store 매출 순위 6계단 상승의 원인을 직접 설명하는 최신 한국어 기사를 찾지 못했다. 검색된 기사는 2012년 출시 배경, 2017년 장수 비결(월 1~2회 업데이트), 2024년 구글 WAU 순위 변동 등 과거 자료뿐이었다. 스토어 업데이트 내역에는 매주 새로운 기능과 레벨이 추가된다는 일반적인 안내만 있어 구체적인 상승 원인은 확인할 수 없으며, 순위 상승의 직접 원인은 추가 확인이 필요하다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI=w128",
       "screenshots": [
@@ -386,13 +381,13 @@
     }
   },
   "1195621598": {
-    "researchedAt": "2026-11-02T22:55:49.138Z",
+    "researchedAt": "2026-11-07T14:46:52.615Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "신규 콘텐츠 '파라오의 보물' 업데이트 추정(미검증)",
-      "summary": "검색으로는 Homescapes 순위 상승을 다룬 최신 한국어 기사를 찾지 못했다. 제공된 스토어 업데이트 내역에는 레이첼, 에디슨과 함께 파라오의 무덤을 탐험하는 '파라오의 보물' 콘텐츠와 퍼즐·함정 요소, 이벤트 보상이 적혀 있어 신규 스토리 콘텐츠 업데이트가 상승 요인일 가능성이 있다. 다만 업데이트 시점과 순위 변동의 인과관계는 확인되지 않았으므로 추정으로만 본다.",
+      "short": "파라오의 보물 신규 콘텐츠 업데이트로 순위 5계단 상승 추정",
+      "summary": "최신 한국어 기사에서 순위 상승 원인을 확인하지 못했다. 스토어 업데이트 내역에 파라오 무덤 탐험을 주제로 한 신규 콘텐츠와 이벤트 보상이 있어, 이것이 신규 유저 유입이나 참여 증가로 이어졌을 가능성이 있다. 다만 이는 업데이트 내역에 근거한 추정이며, 매출 이벤트나 프로모션 여부는 확인되지 않았다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/98F-rCvO3NbMvijqi_bRDAt4x9y3sBbTffMFxK0iOn8W0SlFqs7BkmKE9UsqgPH07yDNj2B2IrKeoYGjvGGYcHU=w128",
       "screenshots": [
@@ -630,27 +625,14 @@
     }
   },
   "1471942989": {
-    "researchedAt": "2026-10-26T20:12:20.407Z",
-    "verified": true,
+    "researchedAt": "2026-11-07T14:46:47.662Z",
+    "verified": false,
     "data": {
-      "verified": true,
+      "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "스토리 퀘스트 '타짜의 길' 추가로 신규·복귀 유입 확대 추정",
-      "summary": "NHN이 오늘(10월 26일) '한게임 섯다&맞고'에 이야기 중심 성장형 퀘스트 '타짜의 길'을 추가했다. 초보부터 최상위 고수까지 3개 챕터로 구성되며, 플레이 수준에 따라 시작 지점이 자동 배정된다. 모든 퀘스트를 완료하면 누적 100억 쩐 이상의 게임머니와 전용 칭호가 주어지고, 11월 19일까지 기념 프로모션도 진행된다. 다만 기사들이 앱스토어 순위 상승 원인으로 이 업데이트를 직접 지목하지는 않아, 순위 상승과의 연관은 업데이트 시점과 콘텐츠 성격에 기반한 추정이다.",
-      "articles": [
-        {
-          "title": "한게임 섯다&맞고, 스토리 기반 콘텐츠 '타짜의 길' 업데이트",
-          "url": "https://www.ipnn.co.kr/news/articleView.html?idxno=418022"
-        },
-        {
-          "title": "초짜에서 고수까지 이야기 따라 성장…NHN, '한게임 섯다&맞고' 새 퀘스트",
-          "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=257242"
-        },
-        {
-          "title": "NHN '한게임 섯다&맞고', 스토리 퀘스트 '타짜의 길' 업데이트…육성 재미 강화",
-          "url": "https://www.ziksir.com/news/articleView.html?idxno=150733"
-        }
-      ],
+      "short": "타짜의 길·신규 캐릭터·할로윈 한정 상품 추가 후 5계단 상승(기사 미확인)",
+      "summary": "검색된 기사는 2024년 출시 이후의 누적 매출 성과와 젊은 층 공략을 다룰 뿐, 이번 5계단 상승의 원인을 직접 설명하지 않아 검증되지 않았습니다. 스토어 업데이트 내역에는 신규 모드 '타짜의 길', 신규 캐릭터 '나최고' 상점 출시, 할로윈 한정 상품, 일일목표 보상 변경 등 콘텐츠 변화가 포함되어 있어 이것이 상승 요인일 가능성이 있습니다. 다만 매출 데이터와의 직접적 인과관계는 확인되지 않았으므로 추정으로 보아야 합니다.",
+      "articles": [],
       "icon": "https://play-lh.googleusercontent.com/CqdDCCaoUKuuANbhIfbCWehb2UTPN6YPbucx6KUzurF6WebH10KPaG46AG-fBCl9w1hAnOqbr2psIJtQFoUOaHw=w128",
       "screenshots": [
         "https://play-lh.googleusercontent.com/i3kjXoGH98sN_1aiGkkONgyiPouI-e-8IIuFxMH_2XqzdrLwnepRR0W6xQ78h3cnHM9NFS7WzBx3zu0DCYNc=w400",
@@ -3939,6 +3921,63 @@
       "videoImage": "https://play-lh.googleusercontent.com/k6FXUS20buMimCaog036eiCb8vacwTu0aUmT_A8--ONaVdu6CpMHDpIMuBQOPwzTRPexlfHfKbH3gexxZu87Kg=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.gamedots.seasideescape&hl=ko&gl=kr",
       "recentChanges": "매주 신규 콘텐츠가 있습니다!<br>-새로운 장소! 해제하고 로웬을 따라 이곳의 이야기를 탐색하세요!<br>-새로운 도전! 이번 주의 이벤트로 더 다채로운 게임을 경험해 보세요!<br><br>일부 버그를 수정하고 새로운 기능을 추가했습니다!"
+    }
+  },
+  "6776891493": {
+    "researchedAt": "2026-11-07T14:46:21.133Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "신규 오픈",
+      "short": "정식 출시 직후 길드·아레나 등 콘텐츠 대거 추가",
+      "summary": "커뮤니티에 올라온 운영팀 공지에 따르면 이 게임은 안드로이드 기준 정식 출시가 막 이뤄졌고, 순위 급상승 시점과 맞물려 있습니다. 스토어 업데이트 내역에는 길드 시스템과 아레나 시스템 추가, 신규 스킬·영웅 추가, 이벤트 추가, 컨텐츠 확장, 길드 검색 오류 수정이 포함되어 있습니다. 다만 App Store 매출 순위 상승을 직접 분석한 기사는 찾지 못해, 신규 오픈 효과와 대규모 콘텐츠 추가를 추정 원인으로만 판단했습니다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/kT-XLUyO3crdy2KpBXK9wDkrw-o_LtxMTUZ-udm0mqrJ0yRhRxwWhfY0vUEFtb8JLp8GcpX1DG3WGWp5psVwsFE=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/sVX8o6ifaxxLaTZeSGe-Sko7yJmk_fJ8CfL94pX7gFgyQpdI-g21JtusgpE70awC98hbbu4gTVmNd0URj1DBDQ=w400",
+        "https://play-lh.googleusercontent.com/4KN94oBOYwlICGMNZJuXEwoP5li8CYBYv-GRL327IhXqW1OtQUy18TDRGHhAbptFz-qbTtqNmhfiHtmU8XZoTQ=w400",
+        "https://play-lh.googleusercontent.com/y9-mPN-UStQNY5pJO2TrAgu4rPa3ackDJ9RT6tGj3zvlnT6fK-qTZy5TaWG7N9qVzi1cLr3F2j12SGrucWsHqxg=w400",
+        "https://play-lh.googleusercontent.com/kN_UHARbsOTcarchsmTZColG6j4ohDbdft-bYQvTB3rHL5ULJcwEqjAGHj-g8TYGr43CWsVjMq-C6MJOtdXpndk=w400"
+      ],
+      "video": "https://www.youtube.com/embed/iBxXsj4fbR0?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/sX3TSxQek4nZPbmqzcH_dwV3Fj_nbKjgfpwpsj_GIvT0vTsjfalg1cM3DMzIoFHXUjMWxZQVp1FA2FUxgSgA=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.ryonggame.dragonknightidle&hl=ko&gl=kr",
+      "recentChanges": "길드 검색 오류 수정<br>----------------------------<br>1.길드 시스템 추가<br>2.아레나 시스템 추가<br>3.신규 스킬,영웅 추가<br>4.이벤트 추가<br>5.컨텐츠 확장<br>6.길드 검색 오류 수정<br>"
+    }
+  },
+  "com.zjcs.android.kr": {
+    "researchedAt": "2026-11-07T14:46:28.327Z",
+    "verified": true,
+    "data": {
+      "verified": true,
+      "category": "신규 오픈",
+      "short": "11/4 국내 정식 출시 후 11/11 화산귀환 콜라보 예정",
+      "summary": "볼트레이 게임즈가 11월 4일 국내 앱마켓에 정식 출시했고, 출시 전에는 커스터마이징 이벤트와 경품 행사로 사전 관심을 모았습니다. 화산귀환 콜라보는 11월 11일부터 12월 1일까지로 예고되어 있어 현재 순위 상승의 직접 원인은 출시 효과로 보는 것이 자연스럽고, 콜라보 본편은 아직 시작 전입니다. 다만 기사들이 순위 변동 자체를 언급하지는 않아, 13계단 상승과의 인과는 기사로 확인되지 않은 추정입니다.",
+      "articles": [
+        {
+          "title": "볼트레이 게임즈 ‘소드 x 스태프’ 출시…‘화산귀환’ 콜라보 예고에 기대↑",
+          "url": "https://www.thedailypost.kr/news/articleView.html?idxno=116655"
+        },
+        {
+          "title": "\"매화검존이 RPG에 떴다!\"···소드x스태프에 핀 화산의 매화",
+          "url": "https://www.campaigninsight.co.kr/news/articleView.html?idxno=7069"
+        },
+        {
+          "title": "소드 X 스태프와 ‘화산귀환’이 만나다",
+          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112559"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/cFqrT7-MwB0n-tQjeR3SA33XPtRsONjnkbQyGkTn3Sni5qmXILKFOh03TkxAPcE_F9dlwbDOKfW8wFV1V45T=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/dFs-DcaZTETy9bYSmzfGDLxqMMhHDLpFP2I0uuMAtyspPxhgrZcEvBMP2CkRSyxFitP4wGs8OzmoMcFzcJviuw=w400",
+        "https://play-lh.googleusercontent.com/LHL4PV1bH36SMByL08rKsQlsVUVHEW92DUKcBgbkDOxlqlNIACeqzejSs8gSZKkPdnxtHCIvV8BqqTu2cIEMXg=w400",
+        "https://play-lh.googleusercontent.com/1lhxOM7VUwFiHwKXOg2XRZNOn1SCGbeG8Rlr6jh_ejVbJPYPMtkq8ilCZ26SSHx4b6lN7kUH75jHwta2dOVypA=w400",
+        "https://play-lh.googleusercontent.com/cHO-CYmhbzQK5VqJFzth3s1dodINjrtEOEfHQLCZj9YqML1quaIkB6gAoRbFu6qkTfhwh_W36pPxrP0Gl6zJZA=w400"
+      ],
+      "video": "https://www.youtube.com/embed/bXsLiDe0apM?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/IHe3uzhKBE88XLYvrklcyigBRrz_IwqN1hHfoBbOzittFaWl3AkGJJC80dL9BXNgQDfHtY8eN_nAx6etSBF9Bw=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.zjcs.android.kr&hl=ko&gl=kr",
+      "recentChanges": ""
     }
   }
 }
