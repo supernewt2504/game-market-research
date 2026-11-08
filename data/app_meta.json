@@ -7146,7 +7146,7 @@
   "one:3d운전교실": {
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202003/18/SE202003181507163270051058/0000747038/img/original/0000747038_DP000101_20200318153900.png",
     "released": "2020.03.19",
-    "developer": "",
+    "developer": "golyeos",
     "country": null,
     "source": "kr-onestore",
     "title": "3D운전교실"
@@ -7308,5 +7308,187 @@
     "appId": "com.digitalextremes.warframemobile",
     "source": "kr-google-match",
     "title": "Warframe"
+  },
+  "com.papegames.lysk.kr": {
+    "released": "2024.01.08",
+    "developer": "InFold Games",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/5x2dfdcyMkHFW5RImP8BkNoQoWENWIvKwm2W2iRL8Adln7WLeJZi-JIr8kAJ0rUalVzA4qVS6WNpK7TjQa-3=w48",
+    "source": "google"
+  },
+  "com.playrix.fishdomdd.gplay": {
+    "released": "2016.03.02",
+    "developer": "Playrix",
+    "country": "IE",
+    "icon": "https://play-lh.googleusercontent.com/JrsX1K8iBig6HRQxouWSRM-DlxPyJGBGK33TE1WEqBajbLtEu13mPPeXoWQIrQrfSFR3he8tbtx-D2xCEXMJMQ=w48",
+    "source": "google"
+  },
+  "com.hp.clicker.diy.asmr.charm.master": {
+    "released": "2026.10.27",
+    "developer": "HIGAME Studio",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/PekzZFcwigs-9QXd89vUiauwE120Jp-ef4ytfvpivBgGYx4F2OK0XCy5lL0uWO5-GYc0NLVGBdAlvYhtngipSA=w48",
+    "source": "google"
+  },
+  "kr.haoplay.game.and.reverse": {
+    "released": "2023.10.25",
+    "developer": "HaoPlay Limited",
+    "country": "HK",
+    "icon": "https://play-lh.googleusercontent.com/EVu4ax1GxxSB2Adpbj9Lhu2D2Mnhwkt1hFlCHh0drUzaK-ChepMedhKEGxkokM9V3TmJXPnEGYLGzkzKgb_n=w48",
+    "source": "google"
+  },
+  "com.qoni.guesstheiranswer": {
+    "released": "2021.01.29",
+    "developer": "TapNation",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/kv6EDR6dr68_OVcYpZ1Yly7YhiZ89uu71Q6SENfPpiNRdDOGPIePSa_RxLHTQs01CJSCxbQ39Cz9Mz3IsS7o5wc=w48",
+    "source": "google"
+  },
+  "6828723435": {
+    "released": "2026.11.07",
+    "developer": "Eunseok Lee",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/ff/31/a6ff31b6-2284-dae6-c4b8-3fa527fb6013/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "one:영웅전설가가브트릴로지": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202608/20/SE202002191540181790050703/0000770636/ko/img/original/0000770636_20260820100411.png",
+    "released": "2024.09.02",
+    "developer": "fowgames",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "영웅전설: 가가브 트릴로지"
+  },
+  "one:별별히어로영웅다있소": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202603/05/SE202101191047288280054734/0001004502/ko/img/original/0001004502_20260305162246.jpg",
+    "released": "2026.05.14",
+    "developer": "NADDIC GAMES CO LTD",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "별별 히어로: 영웅 다 있소"
+  },
+  "one:주술회전팬텀퍼레이드": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/17/SE201911261852127640049454/0000776037/ko/img/original/0000776037_20260717205515.png",
+    "released": "2024.11.05",
+    "developer": "BILIBILI HK LIMITED",
+    "country": "HK",
+    "source": "kr-onestore",
+    "title": "주술회전 팬텀 퍼레이드"
+  },
+  "one:닼마다크판타지3d방치형rpg": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/01/SE202609010934141270070202/0001008710/ko/img/original/0001008710_20260901100831.png",
+    "released": "2026.10.27",
+    "developer": "NETTOPDATA",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "닼마: 다크판타지 3D 방치형 RPG"
+  },
+  "one:고물히어로": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202610/01/SE201612121604458290013492/0001009797/ko/img/original/0001009797_20261001110809.jpg",
+    "released": "2026.10.22",
+    "developer": "SUPERBOX",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "고물 히어로"
+  },
+  "one:젖어버린그녀": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202509/24/SE202312191145490490063027/0001002486/ko/img/original/0001002486_20250924153600.png",
+    "released": "2025.11.07",
+    "developer": "",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "젖어버린그녀"
+  },
+  "gal:삼국지왕전": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202511/25/SE201608221537419240011716/0001003194/ko/img/original/0001003194_20251125113927.png",
+    "released": "2026.01.16",
+    "developer": "HONG KONG BLACK BEARD GAME LIMITED",
+    "country": "HK",
+    "source": "kr-onestore",
+    "title": "삼국지 왕전"
+  },
+  "gal:삼국지킹덤": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202608/12/SE202208151612469600059758/0001004748/ko/img/original/0001004748_20260812115123.png",
+    "released": "2026.10.22",
+    "developer": "FLYFUN TECHNOLOGY CO., LIMITED",
+    "country": "HK",
+    "source": "kr-onestore",
+    "title": "삼국지: 킹덤"
+  },
+  "gal:삼국지제후의전쟁": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202608/04/SE201905071606061380042153/0001007790/ko/img/original/0001007790_20260804155034.png",
+    "released": "2026.09.02",
+    "developer": "REALITY SQUARED GAME CO., LIMITED",
+    "country": "HK",
+    "source": "kr-onestore",
+    "title": "삼국지: 제후의 전쟁"
+  },
+  "gal:해리포터깨어난마법": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202401/30/SE202008121128380290052561/0000761515/ko/img/original/0000761515_DP000101_20240130183417.png",
+    "released": "2023.06.26",
+    "developer": "Netease Interactive Entertainment Pte Ltd",
+    "country": "CN",
+    "source": "kr-onestore",
+    "title": "해리포터: 깨어난 마법"
+  },
+  "one:legendsrebornditete": {
+    "icon": "https://play-lh.googleusercontent.com/LbUIZKnQUPt3MvFLoVLOLE4sx9THRwq9NwCRQE-BZdfHpFwEM5Rrj6Dj8YoXQuf57AKQ6iJ-7AtkQaQGsPMJAQ=w48",
+    "developer": "ACE GAME INTERNATIONAL LIMITED",
+    "country": "HK",
+    "released": "2025.11.13",
+    "url": "https://play.google.com/store/apps/details?id=com.Knight.GrandQuest&hl=ko&gl=kr",
+    "appId": "com.Knight.GrandQuest",
+    "source": "kr-google-match",
+    "title": "Legends Reborn: 마지막 전투"
+  },
+  "one:24ee1lastsheltersurvival": {
+    "icon": "https://play-lh.googleusercontent.com/bCUKlHtllYdlK5A9FT3nIo_LxoapkzO2jeyEwrRnZZNvD1stuB-6JATy86hORqWR6qqfS-5FtzXh4ERasBf_sQ=w48",
+    "developer": "LAST ORIGIN STUDIO LIMITED",
+    "country": null,
+    "released": "2026.08.12",
+    "url": "https://play.google.com/store/apps/details?id=com.more.lastshelter.gp&hl=ko&gl=kr",
+    "appId": "com.more.lastshelter.gp",
+    "source": "kr-google-match",
+    "title": "Last Shelter: War Z"
+  },
+  "one:1122kingofavalon": {
+    "icon": "https://play-lh.googleusercontent.com/zVlcCovlEcmVxVTswrAPn9ECPlKESMh9BwXS-bglZRSqKzwjZy6f2p5qTLG4xcghkpdEjuPdd5tK1U4J-vrtzg=w48",
+    "developer": "Anawiki Games",
+    "country": null,
+    "released": "2016.01.19",
+    "url": "https://play.google.com/store/apps/details?id=com.anawiki.als2&hl=ko&gl=kr",
+    "appId": "com.anawiki.als2",
+    "source": "kr-google-match",
+    "title": "Avalon Legends Solitaire 2"
+  },
+  "one:weplayie72": {
+    "icon": "https://play-lh.googleusercontent.com/EyjAkO-0zwnPY3xP_3McAQu8mmLNLbtz0XZWROyWmfdC_tF1Eu-GkHfhSo6Ye4VXpusHIwP5Gu1Xh8YaFVylAg=w48",
+    "developer": "WEJOY Pte. Ltd.",
+    "country": "SG",
+    "released": "2022.06.10",
+    "url": "https://play.google.com/store/apps/details?id=com.wejoy.weplay.kr&hl=ko&gl=kr",
+    "appId": "com.wejoy.weplay.kr",
+    "source": "kr-google-match",
+    "title": "WePlay - 파티게임"
+  },
+  "gal:dx각성자들": {
+    "icon": "https://play-lh.googleusercontent.com/0BJx_c2RuimsYquJfgc1X-xWhngiGzA_osuy7k-YUS4Svu-EQGzbRQInM_OJp3AE2tWMPIdWoIGRmI-_MX2gX4M=w48",
+    "developer": "Archosaur Games",
+    "country": null,
+    "released": "2026.02.27",
+    "url": "https://play.google.com/store/apps/details?id=com.fh.kr.drc.gp&hl=ko&gl=kr",
+    "appId": "com.fh.kr.drc.gp",
+    "source": "kr-google-match",
+    "title": "DX: 각성자들"
+  },
+  "gal:grannycatprankstergrannyhousechaosadventure": {
+    "icon": "https://play-lh.googleusercontent.com/EQOBaxboRCDHFOnsOgHWlfwI9DnDYFb0vU9gG981suqLu-xLZQ0lSCmAGlQaFGyu6aAQWZ-NXoI2JsmCPH5F=w48",
+    "developer": "GamesVibe Studio",
+    "country": null,
+    "released": null,
+    "url": "https://play.google.com/store/apps/details?id=com.gv.catisnaughty.fun.simulator.game&hl=ko&gl=kr",
+    "appId": "com.gv.catisnaughty.fun.simulator.game",
+    "source": "kr-google-match",
+    "title": "Kitty vs Granny House Pranks"
   }
 }
