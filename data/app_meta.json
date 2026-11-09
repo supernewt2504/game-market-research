@@ -7363,7 +7363,7 @@
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202603/05/SE202101191047288280054734/0001004502/ko/img/original/0001004502_20260305162246.jpg",
     "released": "2026.05.14",
     "developer": "NADDIC GAMES CO LTD",
-    "country": null,
+    "country": "KR",
     "source": "kr-onestore",
     "title": "별별 히어로: 영웅 다 있소"
   },
@@ -7490,5 +7490,180 @@
     "appId": "com.gv.catisnaughty.fun.simulator.game",
     "source": "kr-google-match",
     "title": "Kitty vs Granny House Pranks"
+  },
+  "com.gnisoft.f4u.googlePlay": {
+    "released": "2026.11.03",
+    "developer": "GNISoft",
+    "country": "KR",
+    "icon": "https://play-lh.googleusercontent.com/HJyQ2mNSX8v_i1Z4rzIemJb2aTBwp9g4F5PqKrfW6rN4uxWHCZwjEajeUSP7rGFw0-CYj6eE_IXhCm69YPE0=w48",
+    "source": "google"
+  },
+  "com.Steal.Eggs.Monster.Escape": {
+    "released": "2026.10.02",
+    "developer": "H2T GLOBAL PTE. LTD.",
+    "country": "SG",
+    "icon": "https://play-lh.googleusercontent.com/ZayG0OSk-CenLZ5ew0UN7upMJudpmgGyzb3e62mVf5FxpipokBhxdpcnHzZ9gGRQ4WvaaunQE3ddBCp29eF9nA=w48",
+    "source": "google"
+  },
+  "com.mainquest.randomdefense2d": {
+    "released": "2026.10.21",
+    "developer": "MainQuest",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/P8geBsI2xJ5Vbz4cdxba9kZyrw2Rv3WsEZXA_ASy4r6GuICNtD1ZxpY98ddVHqvwv2-0C91bpBombQxi0xC0sg=w48",
+    "source": "google"
+  },
+  "6790690966": {
+    "released": "2026.11.08",
+    "developer": "Gnisoft",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/45/a7/e445a719-d919-584b-c87f-58553148928b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6782771784": {
+    "released": "2026.08.03",
+    "developer": "SuperPlanet",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/43/0d/59430d86-5b2a-2727-0e44-da6507cba18d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6802383216": {
+    "released": "2026.09.04",
+    "developer": "Loop Games Oyun Teknolojileri Anonim Sirketi",
+    "country": "TR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/b8/d9/1db8d987-37d7-8f0c-129d-ce5ae9b34fa9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6444043291": {
+    "released": "2023.01.11",
+    "developer": "SuperPlay",
+    "country": "DK",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/63/3d/51633d6c-e444-2a44-5512-7010e1fb9ec5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "one:이세계판타지라이프": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202605/20/SE202112241633358960057904/0000780423/ko/img/original/0000780423_20260520162851.png",
+    "released": "2025.02.11",
+    "developer": "ewan2kr",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "이세계 판타지 라이프"
+  },
+  "one:영주님은죽지않는다방치형rpg": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/23/SE202607171151503830069623/0001009529/ko/img/original/0001009529_20260923152727.png",
+    "released": "2026.10.12",
+    "developer": "Dearto",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "영주님은 죽지 않는다 : 방치형 RPG"
+  },
+  "one:픽셀법사키우기": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202601/26/SE202408221433201120064650/0000778905/ko/img/original/0000778905_20260126205410.png",
+    "released": "2024.11.26",
+    "developer": "스트리트컴플릿",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "픽셀 법사 키우기"
+  },
+  "one:이터널엠버방치형rpg": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202601/21/SE202303192156233670061305/0000768388/ko/img/original/0000768388_20260121164340.png",
+    "released": "2023.04.18",
+    "developer": "Zencat Gaming",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "이터널 엠버- 방치형 rpg"
+  },
+  "one:황제라칭하라": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202501/21/SE201808061818198450029204/0000733569/ko/img/original/0000733569_DP000101_20250121171854.png",
+    "released": "2018.09.17",
+    "developer": "clicktouchgame",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "황제라 칭하라"
+  },
+  "one:컴투스프로야구a": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/29/IF142158856020090629182843/0000768953/ko/img/original/0000768953_20260729113155.png",
+    "released": "2023.05.24",
+    "developer": "",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "컴투스프로야구//)A"
+  },
+  "one:판타지포유": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/02/IF1424001061920140319111724/0001009460/ko/img/original/0001009460_20261002163043.png",
+    "released": "2026.11.08",
+    "developer": "지앤아이소프트(주)",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "판타지포유"
+  },
+  "one:legendsreborndxemf": {
+    "icon": "https://play-lh.googleusercontent.com/LbUIZKnQUPt3MvFLoVLOLE4sx9THRwq9NwCRQE-BZdfHpFwEM5Rrj6Dj8YoXQuf57AKQ6iJ-7AtkQaQGsPMJAQ=w48",
+    "developer": "ACE GAME INTERNATIONAL LIMITED",
+    "country": "HK",
+    "released": "2025.11.13",
+    "url": "https://play.google.com/store/apps/details?id=com.Knight.GrandQuest&hl=ko&gl=kr",
+    "appId": "com.Knight.GrandQuest",
+    "source": "kr-google-match",
+    "title": "Legends Reborn: 마지막 전투"
+  },
+  "one:한게임섯다맞고": {
+    "icon": "https://play-lh.googleusercontent.com/CqdDCCaoUKuuANbhIfbCWehb2UTPN6YPbucx6KUzurF6WebH10KPaG46AG-fBCl9w1hAnOqbr2psIJtQFoUOaHw=w48",
+    "developer": "NHN Corp.",
+    "country": "KR",
+    "released": "2017.08.09",
+    "url": "https://play.google.com/store/apps/details?id=com.NHNEnt.MSudda&hl=ko&gl=kr",
+    "appId": "com.NHNEnt.MSudda",
+    "source": "kr-google-match",
+    "title": "한게임 섯다&맞고"
+  },
+  "one:zaeweilastsheltersurvival": {
+    "icon": "https://play-lh.googleusercontent.com/bCUKlHtllYdlK5A9FT3nIo_LxoapkzO2jeyEwrRnZZNvD1stuB-6JATy86hORqWR6qqfS-5FtzXh4ERasBf_sQ=w48",
+    "developer": "LAST ORIGIN STUDIO LIMITED",
+    "country": null,
+    "released": "2026.08.12",
+    "url": "https://play.google.com/store/apps/details?id=com.more.lastshelter.gp&hl=ko&gl=kr",
+    "appId": "com.more.lastshelter.gp",
+    "source": "kr-google-match",
+    "title": "Last Shelter: War Z"
+  },
+  "gal:redhunt제트기와전투기슈터비행슈팅": {
+    "icon": "https://play-lh.googleusercontent.com/WaqMLSynxTZuM-nh_LlLARSiTWNc9uGHfr609VKmIwIc2mVSGdVQpAtxARmOeSb1ScEiMJDrpYLXJcbC-y5FXg=w48",
+    "developer": "Pulse8 L.L.C-FZ",
+    "country": "AE",
+    "released": "2024.02.14",
+    "url": "https://play.google.com/store/apps/details?id=com.playstorm.redhuntroyal.reloaded&hl=ko&gl=kr",
+    "appId": "com.playstorm.redhuntroyal.reloaded",
+    "source": "kr-google-match",
+    "title": "Red Hunt: 제트기와 전투기 슈터, 비행슈팅"
+  },
+  "gal:바둑팝사활온라인대국바둑ai레슨": {
+    "icon": "https://play-lh.googleusercontent.com/BQoVMlaGTS7nkp9ajESJNemP8FnVbdEI_fAGzUQCdGb9pOMYt-OF_aVR21AcYBf4eAn0LSxBwbscF-DufjdGEwM=w48",
+    "developer": "BadukPop Go (CorePlane Inc.)",
+    "country": "KR",
+    "released": "2019.09.09",
+    "url": "https://play.google.com/store/apps/details?id=com.coreplane.badukpop.prod&hl=ko&gl=kr",
+    "appId": "com.coreplane.badukpop.prod",
+    "source": "kr-google-match",
+    "title": "바둑 팝 - 사활, 온라인 대국, 바둑 AI 게임"
+  },
+  "gal:diypaperdolldressupgames": {
+    "icon": "https://play-lh.googleusercontent.com/S_s0JIIZ6_m3Eujmx691ku4CXzQnOTCRFlDBXawkiMADWF1MAmcQOHIZ6lcCzbBWzpRrQxrf8CIdiwaBc_Oabw4=w48",
+    "developer": "Dress Up Games for Girls",
+    "country": null,
+    "released": "2023.10.04",
+    "url": "https://play.google.com/store/apps/details?id=pion.paper.doll.dress.up.diy.makeup.design.decor&hl=ko&gl=kr",
+    "appId": "pion.paper.doll.dress.up.diy.makeup.design.decor",
+    "source": "kr-google-match",
+    "title": "DIY Paper Doll Dress Up"
+  },
+  "gal:cargameextremecarbeamdrivehighwayracingdrivingbestcarparkingsimulatorrealdriftinggames": {
+    "icon": "https://play-lh.googleusercontent.com/RkyC4P8sAvbrOcOlaQhKw66mIa8A0KMrQn6AUBdef9vC2OlNYAQE7E01N-SCe7DRya93ZO84qIYqSgDMlOy1WA=w48",
+    "developer": "AxesInMotion Racing",
+    "country": null,
+    "released": "2014.07.15",
+    "url": "https://play.google.com/store/apps/details?id=com.aim.racing&hl=ko&gl=kr",
+    "appId": "com.aim.racing",
+    "source": "kr-google-match",
+    "title": "Extreme Car Driving Simulator"
   }
 }
