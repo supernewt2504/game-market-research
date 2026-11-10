@@ -6669,7 +6669,7 @@
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202601/09/SE201811231110238560033887/0000740545/ko/img/original/0000740545_20260109172958.png",
     "released": "2019.06.25",
     "developer": "chuangcool",
-    "country": null,
+    "country": "CN",
     "source": "kr-onestore",
     "title": "왕이되는자- 서민에서 왕까지, 세상을 ••·"
   },
@@ -6932,7 +6932,7 @@
   "gal:golddiggerfrvrexplorethemine": {
     "icon": "https://play-lh.googleusercontent.com/yWRQU2xZnhs6ZvT-sd34YWfnNu3XW3jy2Vmt2wsphuM58Jqr2lIvrTIHVZQLqSidtHjGn0j52_mj-0-qONcj6A=w48",
     "developer": "FRVR",
-    "country": null,
+    "country": "CA",
     "released": "2021.04.12",
     "url": "https://play.google.com/store/apps/details?id=com.frvr.golddigger&hl=ko&gl=kr",
     "appId": "com.frvr.golddigger",
@@ -7035,7 +7035,7 @@
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202502/18/SE202001281845450050050385/0000776939/ko/img/original/0000776939_DP000101_20250218173057.png",
     "released": "2024.07.24",
     "developer": "bluepotion",
-    "country": null,
+    "country": "KR",
     "source": "kr-onestore",
     "title": "에오스 블랙 for OneStore"
   },
@@ -7051,7 +7051,7 @@
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202601/09/SE201811231110238560033887/0000740545/ko/img/original/0000740545_20260109172958.png",
     "released": "2019.06.25",
     "developer": "chuangcool",
-    "country": null,
+    "country": "CN",
     "source": "kr-onestore",
     "title": "왕이되는자- 서민에서 왕까지, 세상을 키"
   },
@@ -7474,7 +7474,7 @@
   "gal:dx각성자들": {
     "icon": "https://play-lh.googleusercontent.com/0BJx_c2RuimsYquJfgc1X-xWhngiGzA_osuy7k-YUS4Svu-EQGzbRQInM_OJp3AE2tWMPIdWoIGRmI-_MX2gX4M=w48",
     "developer": "Archosaur Games",
-    "country": null,
+    "country": "CN",
     "released": "2026.02.27",
     "url": "https://play.google.com/store/apps/details?id=com.fh.kr.drc.gp&hl=ko&gl=kr",
     "appId": "com.fh.kr.drc.gp",
@@ -7544,7 +7544,7 @@
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202605/20/SE202112241633358960057904/0000780423/ko/img/original/0000780423_20260520162851.png",
     "released": "2025.02.11",
     "developer": "ewan2kr",
-    "country": null,
+    "country": "KR",
     "source": "kr-onestore",
     "title": "이세계 판타지 라이프"
   },
@@ -7665,5 +7665,173 @@
     "appId": "com.aim.racing",
     "source": "kr-google-match",
     "title": "Extreme Car Driving Simulator"
+  },
+  "com.risingfighter.app": {
+    "released": "2026.10.30",
+    "developer": "주식회사 레이크빌더",
+    "country": "KR",
+    "icon": "https://play-lh.googleusercontent.com/GSLAiPaMR6Fh4imVLxlocHD7C7q7W2nwdS6D-sMBlqJuISLycAYUkZRppgryw2Hnfs_f1LC5trGb1h2eX8nABBk=w48",
+    "source": "google"
+  },
+  "6827982032": {
+    "released": "2026.11.09",
+    "developer": "JI WON PARK",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/ed/35/daed3517-68dd-75f7-49bb-cbba45e781ea/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6768860167": {
+    "released": "2026.11.09",
+    "developer": "Billionairegames",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/48/78/be487882-ba9e-398f-1ae7-33e54ac481e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6831030571": {
+    "released": "2026.11.06",
+    "developer": "min chan kim",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/25/bc/c025bc59-3fe4-b934-7353-4f1eda5c9a6d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6746328263": {
+    "released": "2025.05.26",
+    "developer": "Voodoo",
+    "country": "FR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/ac/39/7fac393c-1a05-63d4-351d-67fc0a2c3275/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6737595599": {
+    "released": "2026.03.26",
+    "developer": "FunPlus International AG",
+    "country": "CN",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/2a/00/f22a00ea-1bf9-6519-bc0b-72cef3573cc7/FPX_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "one:9up프로야구kbo모바일야구매니저": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202412/19/SE202112011047157380057632/0000760054/ko/img/original/0000760054_DP000101_20241219165357.png",
+    "released": "2022.03.22",
+    "developer": "Ace Project",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "9UP 프로야구: KBO 모바일 야구 매니저"
+  },
+  "one:삼국지왕전": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202511/25/SE201608221537419240011716/0001003194/ko/img/original/0001003194_20251125113927.png",
+    "released": "2026.01.16",
+    "developer": "HONG KONG BLACK BEARD GAME LIMITED",
+    "country": "HK",
+    "source": "kr-onestore",
+    "title": "삼국지 왕전"
+  },
+  "one:더스타라이트": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202511/13/IF142158856020090629182843/0001002697/ko/img/original/0001002697_20251113151324.png",
+    "released": "2025.11.25",
+    "developer": "(주)게임테일즈",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "더 스타라이트"
+  },
+  "one:나혼자만렙삼국": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202502/05/SE202402211547335310063457/0000779997/ko/img/original/0000779997_DP000101_20250205112550.png",
+    "released": "2025.01.20",
+    "developer": "kreskyfun",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "나 혼자 만렙 삼국"
+  },
+  "one:창세기전키우기": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202608/07/SE202310231122197650062621/0001003852/ko/img/original/0001003852_20260807041215.png",
+    "released": "2026.04.02",
+    "developer": "New Normal Soft",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "창세기전 키우기"
+  },
+  "one:미니전선강철사령관lastwar": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202611/02/SE202510221642433870067440/0001005329/ko/img/original/0001005329_20261102171020.jpg",
+    "released": "2026.06.23",
+    "developer": "FLY FLY Games+",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "미니 전선: 강철사령관-Last War"
+  },
+  "one:신세계전설": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202603/27/SE202601191808459290068025/0001004868/ko/img/original/0001004868_20260327170714.jpg",
+    "released": "2026.04.16",
+    "developer": "HK INTERACTIVE NETWORK TECHNOLOG.•",
+    "country": "HK",
+    "source": "kr-onestore",
+    "title": "신세계 전설"
+  },
+  "one:삼국밴픽삼국지밴픽리그": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/08/SE202610060040287300070797/0001012206/ko/img/original/0001012206_20261108150634.png",
+    "released": "2026.11.08",
+    "developer": "플라잉모몽가",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "삼국밴픽 : 삼국지 밴픽 리그"
+  },
+  "one:방구석건물주방치형키우기": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/07/SE202611020627393860071459/0001012094/ko/img/original/0001012094_20261107061142.png",
+    "released": "2026.11.06",
+    "developer": "MAYDIUM",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "방구석 건물주: 방치형 키우기"
+  },
+  "one:판타지히어로즈m도트mmorpg": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/06/SE202608031607300850069833/0001012097/ko/img/original/0001012097_20261106101545.png",
+    "released": "2026.11.09",
+    "developer": "WITHEL GAMES",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "판타지 히어로즈M - 도트 MMORPG"
+  },
+  "one:포트나이트": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202602/17/SE202409172129242790064821/0000779798/ko/img/original/0000779798_20260217035337.png",
+    "released": "2025.06.11",
+    "developer": "Epic Games",
+    "country": "US",
+    "source": "kr-onestore",
+    "title": "포트나이트"
+  },
+  "gal:마인크래프트마인크래프트모드슈터게임전쟁게임군대게임슈팅게임전장배틀로얄마인크래프트": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/201407/04/IF1424001254320140402151304/0000668258/img/original/0000668258_DP000101.png",
+    "released": "2014.07.07",
+    "developer": "S4u",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "마인크래프트 :  ( 마인크래프트 모드 슈터 게임 전쟁 게임,군대 게임,슈팅 게임,전장 배틀 로얄 : 마인크래프트)"
+  },
+  "one:legendsreborndiene": {
+    "icon": "https://play-lh.googleusercontent.com/LbUIZKnQUPt3MvFLoVLOLE4sx9THRwq9NwCRQE-BZdfHpFwEM5Rrj6Dj8YoXQuf57AKQ6iJ-7AtkQaQGsPMJAQ=w48",
+    "developer": "ACE GAME INTERNATIONAL LIMITED",
+    "country": "HK",
+    "released": "2025.11.13",
+    "url": "https://play.google.com/store/apps/details?id=com.Knight.GrandQuest&hl=ko&gl=kr",
+    "appId": "com.Knight.GrandQuest",
+    "source": "kr-google-match",
+    "title": "Legends Reborn: 마지막 전투"
+  },
+  "gal:워터소트퀴즈": {
+    "icon": "https://play-lh.googleusercontent.com/VaoS1ImwguX6-IJeOYg-OocnY0BWC--EYUUIn-HopsUi7kKsCrXLbZBnRaebswC-iHjmZq7NVMHhlbxHxw9P=w48",
+    "developer": "mobirix",
+    "country": "KR",
+    "released": "2024.06.17",
+    "url": "https://play.google.com/store/apps/details?id=com.mobirix.ldwsq&hl=ko&gl=kr",
+    "appId": "com.mobirix.ldwsq",
+    "source": "kr-google-match",
+    "title": "워터 소트 퀴즈"
+  },
+  "gal:stickmanbattlefightergamestickmanfightingactiongamesstickmanfightbattlewarriorssimulator": {
+    "icon": "https://play-lh.googleusercontent.com/DHgOEG_IQOyqHdkHwjw3TBIrYTJTKuX_B7YAuqmVP9XAz4_Q-jNykC9xCRDieLtWSbdfXV-MShyK9Y83RjxvPg=w48",
+    "developer": "SkySoft Studio",
+    "country": null,
+    "released": "2020.03.08",
+    "url": "https://play.google.com/store/apps/details?id=com.stickman.warriors.stickwarriors.dragon.shadow.fight&hl=ko&gl=kr",
+    "appId": "com.stickman.warriors.stickwarriors.dragon.shadow.fight",
+    "source": "kr-google-match",
+    "title": "Stickman Warriors"
   }
 }

@@ -184,25 +184,25 @@
     }
   },
   "963067330": {
-    "researchedAt": "2026-10-26T02:15:34.234Z",
+    "researchedAt": "2026-11-10T14:47:44.275Z",
     "verified": true,
     "data": {
       "verified": true,
       "category": "컨텐츠 업데이트",
-      "short": "10주년 대규모 업데이트·점핑 이벤트로 신규·복귀 유입 확대",
-      "summary": "출시 10주년을 맞아 26일 대규모 업데이트가 열리며, 콘텐츠 분량은 지난해 9주년 대비 거의 두 배 수준이라고 개발진이 밝혔다. 신규 쿠키(점프맛, 슬라이드맛, 브레이브로드)와 미니게임, 맵 메이커 확장이 포함되고, 신규·복귀 유저의 초기 성장 부담을 낮추는 점핑 이벤트와 맥스 부스트 이벤트도 함께 운영된다. 여기에 10주년 리캡 이벤트와 기존 유저 감사 보상이 더해져 기존 팬과 신규 유입을 동시에 노린 구성으로 보인다.",
+      "short": "10주년 대규모 업데이트·이벤트와 마이쿠키 출시가 순위 반등 견인",
+      "summary": "데브시스터즈는 10주년을 맞아 이용자가 직접 만든 쿠키로 달리는 콘텐츠(마이쿠키)와 역대 에피소드를 모은 모드를 추가해 즐길 거리를 넓혔다. 업계 분석에서는 10주년 대규모 업데이트와 오프라인 행사 효과를 최근 순위 반등의 원인으로 꼽았다. 다만 해당 보도의 역주행 수치(구글 플레이 114위→31위)는 구글 플레이 기준이며, 애플 앱스토어에서는 10월 17일 70위에서 27일 7위까지 오른 것으로 전해졌다. 이번 변동(앱스토어 5계단 상승, 49위)은 같은 10주년 업데이트 흐름과 맞물린 것으로 보인다.",
       "articles": [
         {
-          "title": "10년 달린 '쿠키런: 오븐브레이크'…미니게임·이용자 창작으로 재미 넓힌다 - 디지털데일리",
-          "url": "https://www.ddaily.co.kr/page/view/2026102412480224212"
+          "title": "'쿠키런: 오븐브레이크' 10주년 업데이트⋯직접 만든 쿠키로 달려",
+          "url": "https://www.etoday.co.kr/news/view/2640459"
         },
         {
-          "title": "쿠키런 오븐브레이크 10주년, 4156억 벌었지만 “매출보다 이용자 확대” - 위키트리",
+          "title": "데브 '쿠키런: 오븐 브레이크' 저력 여전하네~ 구글 매출 83계단 역주행 성공…시리즈 장기 흥행 기대감 커져",
+          "url": "https://www.tgdaily.co.kr/news/articleView.html?idxno=407774"
+        },
+        {
+          "title": "쿠키런 오븐브레이크 10주년, 4156억 벌었지만 \"매출보다 이용자 확대\"",
           "url": "https://www.wikitree.co.kr/articles/1168932"
-        },
-        {
-          "title": "\"러닝 장르 본가라는 자부심\"...10년 달린 '쿠키런: 오븐브레이크'의 비전 - 플레이포럼",
-          "url": "https://www.playforum.net/news/articleView.html?idxno=635677"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/dlSJyyapJ336pDW4NKNS1hs9LFhjOj-KWW-HlZDowCgGpEb51kYFLiuJIr9BVDJH5NNMfjXNAamysOebRCMFfdc=w128",
@@ -215,7 +215,7 @@
       "video": "https://www.youtube.com/embed/b69f2eFqmdU?vq=large&rel=0&autohide=1&showinfo=0",
       "videoImage": "https://play-lh.googleusercontent.com/wCNkoNlL2YwU64Qdv21V6zmq6srlz8kRZpmIZL6q6h5laJz8PADRMR40D99hPdf3tLo7Z5GdRx01o4oPKozneA=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.devsisters.gb&hl=ko&gl=kr",
-      "recentChanges": "**신규유저 특별 보상 이벤트 (~11/27)<br>쉽고 재밌는 국민 런게임!<br>수백 종의 귀여운 쿠키와 함께 즐겨요.<br><br>1. 모든 용감한 우리들에게 이벤트모드 OPEN!<br>어느날 갑자기 게임 속에 떨어졌다?!<br>이벤트를 플레이하며 스위트 아카이브의 위기를 해결해 주세요!<br><br>2. 브레이브 로드 쿠키 &amp; 픽셀방울 출시!<br>스위트 아카이브의 창조자 브레이브 로드 쿠키를 만나보세요!<br><br>3. 점프맛 쿠키 &amp; 토마토 찹찹 출시!<br>스위트 아카이브 전담 안전 점검관 점프맛 쿠키를 만나보세요!<br><br>4. 세계 제작용 콘솔창 보물 출시!<br>달콤한 세계를 만드는 방법이 실시간으로 입력되는 콘솔창!<br><br>5. 마이쿠키 출시!<br>오븐브레이크 세계를 달리는 나만의 쿠키를 만들어 보세요!<br>마이쿠키 우정런에서 친구들과 달리며 내 마이쿠키를 자랑해 보세요!<br><br>6. 10주년 기념! 10가지 이벤트 OPEN!<br>다양한 이벤트를 플레이하고 스위트 키코드를 모아<br>엄청난 보상과 특별한 기념 스킨들을 획득하세요!"
+      "recentChanges": "**신규유저 특별 보상 이벤트 (~11/27)<br>쉽고 재밌는 국민 런게임!<br>수백 종의 귀여운 쿠키와 함께 즐겨요.<br><br>*버그 수정<br>1. 모든 용감한 우리들에게 이벤트모드 OPEN!<br>어느날 갑자기 게임 속에 떨어졌다?!<br>이벤트를 플레이하며 스위트 아카이브의 위기를 해결해 주세요!<br><br>2. 브레이브 로드 쿠키 &amp; 픽셀방울 출시!<br>스위트 아카이브의 창조자 브레이브 로드 쿠키를 만나보세요!<br><br>3. 점프맛 쿠키 &amp; 토마토 찹찹 출시!<br>스위트 아카이브 전담 안전 점검관 점프맛 쿠키를 만나보세요!<br><br>4. 세계 제작용 콘솔창 보물 출시!<br>달콤한 세계를 만드는 방법이 실시간으로 입력되는 콘솔창!<br><br>5. 마이쿠키 출시!<br>오븐브레이크 세계를 달리는 나만의 쿠키를 만들어 보세요!<br>마이쿠키 우정런에서 친구들과 달리며 내 마이쿠키를 자랑해 보세요!<br><br>6. 10주년 기념! 10가지 이벤트 OPEN!<br>다양한 이벤트를 플레이하고 스위트 키코드를 모아<br>엄청난 보상과 특별한 기념 스킨들을 획득하세요!"
     }
   },
   "1053012308": {
@@ -408,13 +408,13 @@
     }
   },
   "1273957743": {
-    "researchedAt": "2026-11-01T19:15:09.965Z",
+    "researchedAt": "2026-11-10T14:47:29.249Z",
     "verified": false,
     "data": {
       "verified": false,
-      "category": "컨텐츠 업데이트",
-      "short": "10/29 EVO 클래스 출시·접속/강화 부스트 이벤트 (추정)",
-      "summary": "이번 23계단 상승의 원인을 직접 다룬 최신 한국어 기사는 찾지 못했다. 공식 공지에는 10월 29일 정기점검 후 EVO 클래스가 새로 출시되며 7일간 접속 이벤트와 강화 부스트 이벤트가 진행된다는 내용이 있고, 가을 통합 이벤트와 플레이 레거시 포인트 부스트도 10월 말~11월 중순에 걸쳐 진행된다. 다만 이것들이 App Store 매출 순위 상승과 인과적으로 연결된다는 보도나 데이터는 확인되지 않아 추정에 가깝다.",
+      "category": "기타",
+      "short": "앱스토어 매출 6계단 상승 원인 미확인, 스토어 기록은 버그 수정뿐",
+      "summary": "검색된 한국어 기사는 대부분 PC방 사용시간 순위를 다루며, 앱스토어 매출 차트 상승 원인을 직접 설명하는 기사는 찾지 못했습니다. 스토어 최근 업데이트 내역에는 버그 수정만 있어 매출 상승을 설명할 근거가 부족합니다. 따라서 매출 이벤트나 신규 콘텐츠가 원인이었다고 단정할 수 없으며, 앱스토어 매출 집계와 이벤트 공지를 추가로 확인해야 합니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/7Qd9rIuWR2S_X6sUQ9MXMUahaxcI0q0J_EyxBpodBgYLedWqyXZnDihA_J5HV928vo-DaQtNJHD2MmyYdPEd=w128",
       "screenshots": [
@@ -426,18 +426,31 @@
       "video": "https://www.youtube.com/embed/j8rh4W3gPAI?vq=large&rel=0&autohide=1&showinfo=0",
       "videoImage": "https://play-lh.googleusercontent.com/P2Io6JTXtk3_V3EuGlSMrs4BBpoGDvqc4Z1T43asdOYRxCN7BpMo-IfNma_PZxeG2OqB9AtU7ZeNgPTQGFu-zQ=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.nexon.fo4m&hl=ko&gl=kr",
-      "recentChanges": ""
+      "recentChanges": "1. 버그 수정"
     }
   },
   "1366526331": {
-    "researchedAt": "2026-10-27T19:42:27.342Z",
+    "researchedAt": "2026-11-10T14:47:14.319Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "콜라보",
-      "short": "10월 벤틀리 콜라보·이벤트 패스 업데이트 영향 추정",
-      "summary": "이번 조사에서는 App Store 매출 순위 상승을 직접 다룬 최신 한국어 기사를 찾지 못했다. 공식 패치노트 기준으로 10월 13일 업데이트 43.2에 벤틀리 콜라보와 신규 이벤트 패스(새벽을 깨우는 자들), 서바이버 패스(빌런즈)가 포함됐으며, 이것이 상점 구매 증가로 이어졌을 가능성이 있다. 다만 이는 공식 공지에 근거한 추정이며 매출 상승 원인으로 확인된 것은 아니다. 최근 PC방 이벤트 기사는 확인되었으나 PC방 점유율 기사라 App Store 매출과 직접 연결되지 않아 제외했다.",
-      "articles": [],
+      "short": "IVE 콜라보 44.1 업데이트 뒤 스팀 매출 1위(앱스토어 직접 근거 없음)",
+      "summary": "검색된 기사는 2026년 11월 4일 PC 44.1 업데이트에 적용된 그룹 아이브(IVE) 콜라보가 스팀 매출 순위 상승과 시기적으로 맞물린다고 보도했습니다. 다만 이 기사들은 App Store가 아닌 스팀 차트를 다루며, 개별 콜라보가 전체 매출에 얼마나 기여했는지는 공개되지 않았다고 명시합니다. 따라서 App Store 매출 12계단 상승의 직접 원인으로 확정하기는 어렵고, 콜라보 업데이트를 가장 유력한 원인으로 보는 추정에 그칩니다.",
+      "articles": [
+        {
+          "title": "아이브 만난 크래프톤 ‘배틀그라운드’, 스팀 글로벌 매출 1위 - ZDNet korea",
+          "url": "https://zdnet.co.kr/view/?no=20261106162914"
+        },
+        {
+          "title": "크래프톤 '배틀그라운드', 스팀 글로벌·한국 매출 1위… 9년 차 흥행력 입증 - 비즈트리뷴",
+          "url": "https://www.biztribune.co.kr/news/articleView.html?idxno=362177"
+        },
+        {
+          "title": "크래프톤 배틀그라운드 스팀 매출 1위 탈환 - ER 이코노믹리뷰",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=756341"
+        }
+      ],
       "icon": "https://play-lh.googleusercontent.com/U2YTTx2h3VNUL5bjl5yAUG0WMsqdZxRAb2UMZ8vT2Waw67oASbDAnbBB_29H45BVCjO-Jn_MlAFedT8KEj7T=w128",
       "screenshots": [
         "https://play-lh.googleusercontent.com/RAzBHFeIapnjRDZ_S3dmryE2gZkxcLAsgUPeYUcdki7RY0vMb8NhZMcM-n5CeVAGk0DCysnIrGIfU3GkctV_0AM=w400",
@@ -848,15 +861,15 @@
     }
   },
   "1571873795": {
-    "researchedAt": "2026-10-27T19:41:01.626Z",
+    "researchedAt": "2026-11-10T14:46:44.321Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "8월 픽업·로어추적 이벤트 등 콘텐츠 업데이트 추정(미검증)",
-      "summary": "이번 순위 상승을 직접 설명하는 한국어 기사는 찾지 못했습니다. 검색된 기사들은 블루 아카이브의 다른 업데이트(4.5주년 '케이' 픽업, 데카그라마톤 편 3장 등)를 다루고 있어 이번 신규 진입과 연결되지 않습니다. 제공된 업데이트 내역(니코·쿠루미 픽업, 특수작전 로어추적 편, 메인 스토리 2부 추가)은 신규 진입 가능성이 있는 콘텐츠 업데이트 요인이지만, 현재 시점과 날짜가 맞는지 확인되지 않았습니다. 앱스토어 버전 기록에서 같은 내역이 2024년 8월 18일 버전으로 표기되어 있어, 현재 47위 진입의 원인이라고 단정할 수 없습니다.",
+      "short": "11/10 대형 업데이트·페스 선택권 및 픽업 효과로 신규 진입",
+      "summary": "검색으로는 이번 페스 선택권 지급과 11월 10일 업데이트의 매출 순위 효과를 직접 다룬 최신 기사를 찾지 못했다. 따라서 스토어 업데이트 내역을 근거로 판단하면, 11/10 시작 업데이트에 수영복 픽업 두 건, 3성 학생 선택권, 200회 무료 모집 이벤트, 메인·이벤트 스토리 추가, 한국어 더빙 공개가 함께 묶여 있어 신규 진입의 원인으로 보인다. 다만 이는 추정이며 실제 매출 집계나 기사로 확인된 사실이 아니다.",
       "articles": [],
-      "icon": "https://play-lh.googleusercontent.com/vlVAv0UGD-knTIap84gJDkKZlnZjzhgYdAU3W6mRVkzIjc-rxtRcy5EHud3Om2haqzqW9-73AjYnYiuSluy39S4=w128",
+      "icon": "https://play-lh.googleusercontent.com/GnRkc6gDw7cPYrK1AvQNy7S_R4B7Atq6ncuJGf14CGaG0K8j_ayp0jrkIzuIfMHjP2Mb6ku5yeph3hHA6MLt7b0=w128",
       "screenshots": [
         "https://play-lh.googleusercontent.com/ozmrrHd3AfusvRARFWgcUKSz3IjLgQQ_HB7doBM7dUEfL8qqYD_dw6-VMAguhMZLnKBD93MsjK97YaZSPRd-88g=w400",
         "https://play-lh.googleusercontent.com/lROCmEgadEgZcQXtlAKyk7YEdBAGWqjStH36JnEqBnOJ2hdEFfyeGYfRQMks29tToz97_jniIyYVV710tEzqbw=w400",
@@ -866,7 +879,7 @@
       "video": "https://www.youtube.com/embed/cIKu_XHsi2g?vq=large&rel=0&autohide=1&showinfo=0",
       "videoImage": "https://play-lh.googleusercontent.com/k3Mzcr0G38bhgsliRSk3TMH--PmiDjIMCPqzlh0y_Y6zcy26QXdyjFJdiJn5nQuvoR8V-s6xxkW8ije3VrAz=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.nexon.bluearchive&hl=ko&gl=kr",
-      "recentChanges": "1. 니코, 쿠루미 픽업 추가 (8/18~8/31)<br>2. 특수작전: 로어추적 편 이벤트 진행 (8/18~8/31)<br>3. 총력전 – 카이텐저(시가전) 진행 및 신규 난이도 &#39;루나틱&#39; 추가(8/25~8/31)<br>4. 메인 스토리 2부 프롤로그 추가<br>5. 메인 스토리 2부 0. 총학생회 편 1장 &#39;살구꽃이 피는 어느 봄날에&#39; 추가<br>6. 메인 스토리 2부 Ex. 로어추적 편 1장 &#39;정오의 아지랑이&#39; 추가<br>7. 모의 총력전 추가"
+      "recentChanges": "1. 마코토(수영복), 사츠키(수영복) 픽업 추가 (11/10~11/16)<br>2. 무료 모집 &#39;200회&#39; 이벤트 진행 (11/10~11/16)<br>3. [특별] 페스 3성 학생 선택권 (11/10~12/7)<br>4. 메인 스토리 Vol.1 - 불꽃과 그림자 편 (11/10~)<br>5. 메인 스토리 1부 최종편 1장~4장 한국어 더빙 추가 (11/10~)<br>6. 이벤트 스토리 - 출항! 만마선 마코토 의장님의 화려한 피서 추가 (11/10~11/23)<br>7. 제약해제결전 세트의 분노(경장갑) 진행 (11/11~12/7)<br>8. 총력전 예로니무스(시가전) 진행 (11/17~11/23)<br>9. 이로하(수영복), 이부키(수영복) 픽업 추가 (11/17~11/23)<br>10. 3성 학생 그룹의 획득 확률 합산 수치 2배 증가 (11/17~11/23)"
     }
   },
   "1582390510": {
@@ -924,6 +937,28 @@
       "videoImage": "https://play-lh.googleusercontent.com/B7N8G4jpOcuCi_5yuzNnaadQ74-3sZu-QATbTaF-d_OrGnzbFmnGs1Hp8EGrcWgtXCFOPwq5pAfjGKrv-nla=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.proximabeta.nikke&hl=ko&gl=kr",
       "recentChanges": "《승리의 여신: 니케》 4주년 MARIA-n 버전을 지금 플레이하실 수 있습니다!<br><br>[신규 니케]<br>SSR - 마리안 : 퀸<br>SSR - 홍련 : 신살<br>SSR - 라푼젤 : 생츄어리<br><br>[신규 이벤트]<br>4주년 풀 보이스 스토리 이벤트 : MARIA-n<br>미니 게임：FADING AFFECTION<br>VOLT TRIP<br><br>[신규 코스튬]<br>스노우 화이트 : 헤비암즈 - 라크리모사<br>마리안 : 퀸 - 라스트 어펙션<br>나유타 - 삼독<br>네온 : 비전 아이 - 디어 그레이스<br><br>[기타]<br>메인 챕터 49, 50 업데이트<br>스킬 초기화 한정 오픈<br>챔피언 아레나 정식 오픈<br>디오라마 로비 추가<br><br>[개선 사항]<br>* 버그 수정 및 개선 사항과 관련된 자세한 내용은 게임 내 공지를 확인하여 주시기 바랍니다."
+    }
+  },
+  "1599719154": {
+    "researchedAt": "2026-11-10T14:46:50.069Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "4.6 업데이트(신규 캐릭터 펄·복각·신규 스토리)로 매출 순위 상승",
+      "summary": "4.6 버전 「달 뜨기 전, 괴수와 춤을」 업데이트에서 신규 캐릭터 「펄(환락•얼음)」과 에바네시아·천야•블레이드 복각이 함께 나왔고, 개척 임무 스토리와 여러 신규 이벤트·코스튬이 추가되었습니다. 이 신규 콘텐츠 투입이 매출 순위 24계단 상승(현재 41위)의 원인으로 보이나, 이번 4.6 업데이트의 순위 변동을 직접 다룬 최신 한국어 기사는 검색되지 않아 스토어 업데이트 내역을 근거로 한 추정입니다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/3IZbEPpQ4qlG3iv3xzP9UaxssYZWpxrlOnM6UfMBav2VlaJX3ERr3xuexKF_8ax127U5ekSts2Nkyc335cKTjA=w400",
+        "https://play-lh.googleusercontent.com/UDfbepcz_9w7DI6I8cI1UeJgIvMKfWhkEj1a7g0kTfru4uMWxsAdTJbVk9yGLKMyz1S0pXJjOHQBtjOEM-KCsjo=w400",
+        "https://play-lh.googleusercontent.com/f8p6ZGHCZ0B7PfXzE8D0IQ1QM5ohHL5nFZ_O1il7-wenJ1ilV51OP69_a_achOcQqdeBGxnnWgEf9xuUB24h=w400",
+        "https://play-lh.googleusercontent.com/xssAG8JXPaVXpF3hkcDfshXk-HbrzO9yUwclOrpYQVz1Klxg_Gd9oTImQDFQK_1tS9gos6IV0lLBJAaBrXV3=w400"
+      ],
+      "video": "https://www.youtube.com/embed/TKiThLDJlT4?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/UIKb887yyvLgaw_kYiqk4JwPcBwovQarH0r55OpW33wnuZ3BFZZmO6MFMjct0uIFqktvosOa3MMXsL-pSd0C4iU=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea&hl=ko&gl=kr",
+      "recentChanges": "4.6 버전 「달 뜨기 전, 괴수와 춤을」 출시!<br>신규 캐릭터: 「펄(환락•얼음)」<br>캐릭터 복각: 「에바네시아(환락•물리)」 「천야•블레이드(공허•화염)」<br>신규 스토리: 개척 임무 「아스트로폴리스」-「달 뜨기 전, 괴수와 춤을」<br>신규 이벤트: 「러브, 고스트 + 로봇」 「스타피스 페스티벌: 원 테이크」 등<br>신규 코스튬: 에바네시아 코스튬 「꽃 피길 기다리는 달」, 히아킨 코스튬 「구름 곁의 따스함」<br>기타: 신규 필드, 신규 적, 신규 스테이지 등"
     }
   },
   "1606549505": {
@@ -2182,15 +2217,15 @@
     }
   },
   "6753862216": {
-    "researchedAt": "2026-10-27T19:41:48.038Z",
+    "researchedAt": "2026-11-10T14:47:19.868Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "신규 레벨·스토리 추가 업데이트, 기사 미확인(추정)",
-      "summary": "검색에서 순위 상승을 다룬 한국어 기사는 찾지 못했고, 확인된 자료는 App Store 앱 페이지와 스토어 업데이트 내역뿐이다. 스토어 내역에는 새로운 레벨(재료 합성과 손님 응대), 새로운 스토리 챕터, 버그 수정 및 성능 개선이 담겨 있어 콘텐츠 업데이트가 매출 순위 상승의 유력한 배경으로 보인다. 다만 이는 업데이트 내역에 근거한 추정이며, 매출 증가의 직접 원인이 되는 이벤트나 프로모션의 존재는 확인하지 못했다.",
+      "short": "신규 레벨·스토리 추가 및 버그 수정 업데이트가 순위 상승과 시기적으로 맞물림",
+      "summary": "최근 스토어 업데이트에서 새 레벨과 새 스토리 챕터가 추가되었고, 버그 수정과 성능 개선도 함께 이루어졌습니다. 앱 스토어 설명에는 대규모 이벤트와 어버이날 관련 패스 등 특별 콘텐츠도 소개되어 있습니다. 다만 순위 상승을 직접 다룬 한국어 기사는 찾지 못해, 확인되지 않은 추정 수준의 판단입니다.",
       "articles": [],
-      "icon": "https://play-lh.googleusercontent.com/lRD1humGJ8WjkSlBS7jFeHV4ILQRKAvRoeW5w2Eawtd24-mqNh9aQGp5Ucc8kBWU0NTvWiGEefb0MZloMasI=w128",
+      "icon": "https://play-lh.googleusercontent.com/y0kOATNKVF67UuEBd6CbSczEm9VugaSiWgz0uGyPBBH6OfYRgFVUM0x2W7vj-fTWcGfpIz5tolxsOX5c3e0hJg=w128",
       "screenshots": [
         "https://play-lh.googleusercontent.com/lnPJ43yjtryy3ba7hI5emzvpVS3mnJF9sUGUH4ueaIg5g_vajOzQZeWCPjJ9dp_N95NCxWa90Uh0feQCMSbQMQ=w400",
         "https://play-lh.googleusercontent.com/CpiNQEEPXrl4uD9sBqqSnXWvWJxocghwccJGtyEmYA1kT3Q1u872DZz0z_zZ8npTlD9lk0zLfHrGK0ahkfoAtw=w400",
@@ -3347,25 +3382,17 @@
     }
   },
   "6475033368": {
-    "researchedAt": "2026-11-01T19:14:49.769Z",
+    "researchedAt": "2026-11-10T14:46:57.912Z",
     "verified": true,
     "data": {
       "verified": true,
       "category": "컨텐츠 업데이트",
-      "short": "3.7 버전 신규 5성 여우의 별자리·쇄명 픽업 공개 후 관심 증가",
-      "summary": "3.7 버전(9월 30일 업데이트)의 신규 5성 공명자 여우의 별자리와 쇄명이 출시되며 관심이 몰렸다. 기사들은 여우의 별자리를 몽주 시리즈 수호신급 메인 성능의 캐릭터로 평가했고, 쇄명은 합일 파티의 서브 딜러로 여우의 별자리와 함께 편성할 때 가치가 높다고 분석했다. 다만 기사들은 앱스토어 매출 순위 변동을 직접 다루지 않아, 순위 상승과의 연결은 업데이트 시기와 신규 캐릭터 화제성에 근거한 해석이다.",
+      "short": "3.7 버전(9/30) 신규 5성 공명자·지역·스토리 확장 후 매출 상위권 진입",
+      "summary": "9월 30일 적용된 3.7 버전 '거울에 잠긴 허상, 마음이 비추는 인간 세상' 업데이트가 순위 상승의 계기로 보도됐다. 업데이트 약 일주일 만에 일본 구글플레이 매출 1위, 한국 4위, 대만 3위를 기록했다. 다만 이 기사의 순위 데이터는 구글플레이 기준 모바일인덱스 자료이며, 질문의 App Store 차트와는 집계 대상이 다르다. 또한 기사가 약 한 달 전 것이라 현재 순위 유지 여부는 별도 확인이 필요하다.",
       "articles": [
         {
-          "title": "[명조] 여우의 별자리 “어자... 이래도 안 뽑으실 건가요?”",
-          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=111875"
-        },
-        {
-          "title": "[명조] 쇄명 “여우의 별자리 있으면 그냥 뽑아”",
-          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112398"
-        },
-        {
-          "title": "명조 합일 파티 종결, ‘쇄명’ 육성 가이드",
-          "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216774"
+          "title": "[차트픽] '명조' 日 구글 매출 1위…韓 4위·대만 3위 (경향게임스)",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309079"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_=w128",
@@ -3968,21 +3995,21 @@
     }
   },
   "com.nianticlabs.pokemongo": {
-    "researchedAt": "2026-11-09T14:46:56.986Z",
+    "researchedAt": "2026-11-10T14:47:06.665Z",
     "verified": false,
     "data": {
       "verified": false,
-      "category": "매출 이벤트",
-      "short": "10주년 기념 이벤트와 7월 패스 효과(7월 기사 기준)",
-      "summary": "나이언틱의 포켓몬 고는 출시 10주년과 포켓몬 IP 30주년이 겹친 기념 행사를 앞세워 국내 앱마켓 매출 상위권으로 올라섰다. 7월 패스가 매일 무료 레이드패스와 알 부화 거리 단축 등을 제공해 이벤트 효과를 키웠고, 메가에너지를 얻으려는 레이드 참여 증가와 프리미엄 레이드패스 구매가 주말 매출을 끌어올렸다는 분석이다. 다만 확인된 기사는 2026년 7월 기준이며, 현재(11월) 구글 매출 14계단 상승의 직접 원인은 기사로 입증되지 않아 스토어 업데이트 내역 외의 추가 근거가 필요하다.",
+      "category": "컨텐츠 업데이트",
+      "short": "11/9~11/13 와일드 위크 등 11월 이벤트 집중, 순위 상승 추정",
+      "summary": "검색된 기사는 11월 14~15일 수원 현장 이벤트와 '와일드 에리어: 글로벌' 이벤트를 다루지만, 순위 상승 원인을 직접 언급하지 않았습니다. 포켓몬고 11월 일정에는 11월 9일부터 13일까지 진행되는 '와일드 위크'와 11월 24일부터 30일까지의 '황혼의 소원'이 포함되어 있어, 이 이벤트 시기와 매출 순위 상승이 겹친 것으로 보입니다. 다만 매출 순위 상승의 직접 원인은 확인되지 않았으므로 추정으로만 기록합니다. 스토어 최근 업데이트 내역은 '기타 버그 수정 및 성능 개선' 수준이라 근거가 약합니다.",
       "articles": [
         {
-          "title": "포켓몬GO, 10주년 온-오프라인 축제 힘입어 차트 역주행",
-          "url": "https://m.news.nate.com/view/20260713n31743"
+          "title": "Pokémon GO, 11월 수원 현장 이벤트 개최",
+          "url": "https://www.inven.co.kr/webzine/news/?news=322700"
         },
         {
-          "title": "나이언틱 '포켓몬고', iOS 매출 1위 탈환…서울서 10주년 오프라인 축제 연다",
-          "url": "https://zdnet.co.kr/view/?no=20260711140753"
+          "title": "포켓몬 GO | 26년 11월 일정 : 대발견, 레이드 및 맥스 배틀, 이벤트 및 팁",
+          "url": "https://poketory.com/pokemongo-calendar-november2026/"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/DUA40mf0fd6lUkU_Pvfw78BOoY37nPNM5tKw0tf4sCqzJfNwR84wqj-J00WN99QaZ89SpruNsU1xX7sDw6uBZg=w128",
@@ -4039,6 +4066,59 @@
       "video": null,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.fatr.global&hl=ko&gl=kr",
       "recentChanges": "최신 버전으로 업데이트하세요!<br>지도 업데이트: 더 많은 호텔 구역이 추가되었습니다. 지금 탐험해 보세요!<br>신규 이벤트: 흥미진진한 이벤트가 찾아왔어요. 지금 참여해 보세요!<br>경험 개선: 게임 플레이를 더욱 쾌적하게 즐기실 수 있도록 다양한 문제를 수정하고 개선했어요!"
+    }
+  },
+  "6758200096": {
+    "researchedAt": "2026-11-10T14:46:37.942Z",
+    "verified": true,
+    "data": {
+      "verified": true,
+      "category": "신규 오픈",
+      "short": "7월 16일 국내 정식 출시 및 MVP 카드 확률 10배 이벤트",
+      "summary": "그라비티는 라그나로크M: Classic을 7월 16일 모바일과 PC로 국내 정식 출시했고, 제니 중심 경제와 간결한 성장 구조로 과금 부담을 낮췄다고 소개했다. 출시 기념으로 7월 30일까지 MVP 발터 카드 획득 확률을 10배로 올리는 이벤트가 진행됐다. 동남아와 대만·홍콩·마카오에서 앱스토어 인기·매출 상위권을 기록한 흥행도 국내 진입의 배경으로 언급됐다. 다만 현재 47위가 출시 직후 순위인지, 2.0.5 업데이트 및 단간론파 콜라보 이후 변화인지는 기사로 확인되지 않아 해당 부분은 추정으로 남는다.",
+      "articles": [
+        {
+          "title": "그라비티, MMORPG 신작 ‘라그나로크M: Classic’ 국내 정식 론칭",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318575&site=csgo"
+        },
+        {
+          "title": "MMORPG '라그나로크M:Classic' 韓 정식 론칭 : 네이트 뉴스",
+          "url": "https://m.news.nate.com/view/20260716n23300"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/5SFBw-txEgmxfiD8J5DcHchCZFvLCo1jZsalnlDHYjv5nddS-8oLSRIwGHmqKF0NLaZJ9Gmbx6wEMGxlNtFe=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/b8hK-P4BbtPeVk70War16BedwBXYgERuRPdVECjq99ckZRHX4oOv-w2Bc12THBSDIIGhJtLq0BkkNHVPcOS0NEE=w400",
+        "https://play-lh.googleusercontent.com/zLUgjqGj3ut6YPkiu0ZsIApGYGopDfHO6ovwACcq7iVtIs5ByvmBlEB4h4LLe5SAQzkaIPHl-aLLpidVzP242w=w400",
+        "https://play-lh.googleusercontent.com/LvQpgwia6PESE2cfgw3Umw8gePbQpQEukmiGWlDuNdbS89C4FU1c1kLhGg0U8mqIZkeAqvUEfuUWe8HKXFSvOw=w400",
+        "https://play-lh.googleusercontent.com/qtjnHET7uHNy8uoEIuHJooaiczi8W8WImk2H815QjboUo2z4In82QzuDIs6O5UWeBUtUFMmNtdKUKv5faY8o8w=w400"
+      ],
+      "video": "https://www.youtube.com/embed/IexvJ62S-I8?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/6WXl0F2WD9Hs6afeq1tqB42f8Rz_W9QfJoLvg-LIrCFJz_Sj0i0PsMiAk2un1ehUbzXful6gARpblnMf0CNnEQ=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.gravity.romkrzeny.aos&hl=ko&gl=kr",
+      "recentChanges": ""
+    }
+  },
+  "com.HoYoverse.hkrpgoversea": {
+    "researchedAt": "2026-11-10T14:47:36.531Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "4.6 버전 신규 캐릭터·스토리·이벤트 업데이트로 매출 5계단 상승(추정)",
+      "summary": "스토어 업데이트 내역 기준으로 4.6 버전에서 신규 캐릭터 「펄(환락•얼음)」과 신규 스토리 「달 뜨기 전, 괴수와 춤을」이 출시되었고, 복각 캐릭터와 신규 이벤트·코스튬이 함께 추가되었습니다. 이러한 대형 콘텐츠 업데이트가 매출 상승의 주된 요인으로 추정되지만, 이번 검색으로는 4.6 버전과 순위 변동을 직접 다룬 기사를 찾지 못했습니다. 따라서 검증되지 않은 추정입니다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/3IZbEPpQ4qlG3iv3xzP9UaxssYZWpxrlOnM6UfMBav2VlaJX3ERr3xuexKF_8ax127U5ekSts2Nkyc335cKTjA=w400",
+        "https://play-lh.googleusercontent.com/UDfbepcz_9w7DI6I8cI1UeJgIvMKfWhkEj1a7g0kTfru4uMWxsAdTJbVk9yGLKMyz1S0pXJjOHQBtjOEM-KCsjo=w400",
+        "https://play-lh.googleusercontent.com/f8p6ZGHCZ0B7PfXzE8D0IQ1QM5ohHL5nFZ_O1il7-wenJ1ilV51OP69_a_achOcQqdeBGxnnWgEf9xuUB24h=w400",
+        "https://play-lh.googleusercontent.com/xssAG8JXPaVXpF3hkcDfshXk-HbrzO9yUwclOrpYQVz1Klxg_Gd9oTImQDFQK_1tS9gos6IV0lLBJAaBrXV3=w400"
+      ],
+      "video": "https://www.youtube.com/embed/TKiThLDJlT4?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/UIKb887yyvLgaw_kYiqk4JwPcBwovQarH0r55OpW33wnuZ3BFZZmO6MFMjct0uIFqktvosOa3MMXsL-pSd0C4iU=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea&hl=ko&gl=kr",
+      "recentChanges": "4.6 버전 「달 뜨기 전, 괴수와 춤을」 출시!<br>신규 캐릭터: 「펄(환락•얼음)」<br>캐릭터 복각: 「에바네시아(환락•물리)」 「천야•블레이드(공허•화염)」<br>신규 스토리: 개척 임무 「아스트로폴리스」-「달 뜨기 전, 괴수와 춤을」<br>신규 이벤트: 「러브, 고스트 + 로봇」 「스타피스 페스티벌: 원 테이크」 등<br>신규 코스튬: 에바네시아 코스튬 「꽃 피길 기다리는 달」, 히아킨 코스튬 「구름 곁의 따스함」<br>기타: 신규 필드, 신규 적, 신규 스테이지 등"
     }
   }
 }
