@@ -1,1 +1,1 @@
-2026-11-09:apple,google,kr_stores
+2026-11-10:apple,google,kr_stores
