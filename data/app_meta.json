@@ -65,7 +65,7 @@
   "870442795": {
     "released": "2018.01.11",
     "developer": "SUD Inc.",
-    "country": "JP",
+    "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d4/2e/65/d42e65c7-8f56-8998-ceb7-c916bebee4b3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -863,7 +863,7 @@
   "com.Chodun.CatGunner": {
     "released": "2026.04.12",
     "developer": "NEPTUNE(TREEPLLA)",
-    "country": "JP",
+    "country": "KR",
     "icon": "https://play-lh.googleusercontent.com/DP5-B3_N_pnc3SvmC2jXR61qDewhniXTQrIzhLKdVLkmLDcx8FtIi7Eh16KM59HhAHA3bTb0tDk0YP7WMFpUTWc=w48",
     "source": "google"
   },
@@ -1178,7 +1178,7 @@
   "com.abi.colony.flow": {
     "released": "2026.06.12",
     "developer": "ABI GAMES PTE. LTD.",
-    "country": "SG",
+    "country": "VN",
     "icon": "https://play-lh.googleusercontent.com/K7-94t2sh19wsGm99A389QnBuVbTshv7_DRgnGOuGxBHJ-VHo0pcvrK1l_3rsbJcFHYjuxTt7AMPAihSWdnMy1I=w48",
     "source": "google"
   },
@@ -1276,7 +1276,7 @@
   "com.abi.foodpop": {
     "released": "2026.10.10",
     "developer": "ABI GAMES PTE. LTD.",
-    "country": "SG",
+    "country": "VN",
     "icon": "https://play-lh.googleusercontent.com/zQqRs3ERP3ujsJAw3ZAyF4wejrx73elZJh5mGuhnbAsV_W4dagLj0ZOmUzygprB4lko3-2YEnqX7T1HJ1ShuRSY=w48",
     "source": "google"
   },
@@ -1450,7 +1450,7 @@
   "com.rxjhglkr.gp": {
     "released": "2026.07.20",
     "developer": "Kingnet Technology Limited",
-    "country": "US",
+    "country": "CN",
     "icon": "https://play-lh.googleusercontent.com/ct9hCP6C7NRwwTT3p-eIRLAJHMYuK2k2kO0tC6nc8YUCwgRos5tOuzfKmflfPOwQdfJiuNHkmifu0lhVcEmY=w48",
     "source": "google"
   },
@@ -2862,7 +2862,7 @@
   "6792678112": {
     "released": "2026.09.28",
     "developer": "SONEW",
-    "country": "JP",
+    "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/dc/53/c2dc5347-6f26-e115-eb1a-4fa7cd688219/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -3729,7 +3729,7 @@
   "one:열혈강호넥스트": {
     "developer": "Kingnet Technology Limited",
     "url": "https://play.google.com/store/apps/details?id=com.rxjhglkr.gp",
-    "country": "US",
+    "country": "CN",
     "source": "kr-google-match",
     "title": "열혈강호: 넥스트",
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202606/03/SE201906121711239050043819/0001005477/ko/img/original/0001005477_20260603190719.png",
@@ -4125,7 +4125,7 @@
   "one:대항해의길": {
     "developer": "Linekong Korea Co. Ltd.",
     "url": "https://play.google.com/store/apps/details?id=com.netease.dhhzlggkr",
-    "country": "US",
+    "country": "CN",
     "source": "kr-google-match",
     "title": "대항해의길",
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202211/03/SE201704251800541220015256/0000737030/ko/img/original/0000737030_DP000101_20221103113545.jpg",
@@ -4253,7 +4253,7 @@
   "one:월드워머신컨퀘스트": {
     "developer": "NDREAM Corp.",
     "url": "https://play.google.com/store/apps/details?id=com.bigbreakgames.wot&hl=ko&gl=kr",
-    "country": "JP",
+    "country": "KR",
     "source": "kr-google-match",
     "title": "월드 워 머신 컨퀘스트",
     "released": "2022.05.24",
@@ -4946,7 +4946,7 @@
   "gal:수박게임과일퍼즐": {
     "developer": "Aladdin X Inc.",
     "url": "https://play.google.com/store/apps/details?id=com.aladdinx.suikagame&hl=ko&gl=kr",
-    "country": "KR",
+    "country": "JP",
     "source": "kr-google-match",
     "title": "수박게임",
     "released": "2024.03.28",
@@ -5385,7 +5385,7 @@
   "gal:열혈강호넥스트": {
     "developer": "Kingnet Technology Limited",
     "url": "https://play.google.com/store/apps/details?id=com.rxjhglkr.gp",
-    "country": "US",
+    "country": "CN",
     "source": "kr-google-match",
     "title": "열혈강호: 넥스트",
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202606/03/SE201906121711239050043819/0001005477/ko/img/original/0001005477_20260603190719.png",
@@ -5767,7 +5767,7 @@
   "gal:롤링볼레이스3d물리게임": {
     "developer": "FALCON GAME STUDIO",
     "url": "https://play.google.com/store/apps/details?id=com.sky.rolling.ball.jump.balance.escape.adventure&hl=ko&gl=kr",
-    "country": "US",
+    "country": "VN",
     "source": "kr-google-match",
     "title": "3D 슈퍼 롤링 볼 레이스",
     "released": "2024.05.14",
@@ -6192,7 +6192,7 @@
   "one:꼬마기사키우기방치형rpg": {
     "developer": "Korea Indie Dev",
     "url": "https://play.google.com/store/apps/details?id=com.hyojun.littleknight",
-    "country": "US",
+    "country": "KR",
     "source": "kr-google-match",
     "title": "꼬마 기사 키우기 - 방치형 RPG",
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/28/SE202610191838572650071113/0001010839/ko/img/original/0001010839_20261028183508.png",

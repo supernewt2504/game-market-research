@@ -56,6 +56,33 @@ function seedCountry(name) {
   for (const [k, c] of DEV_SEED) if (n.includes(k)) return c;
   return null;
 }
+const normDev = (s) => (s || '').toLowerCase().replace(/\s+/g, ' ').trim();
+let _ovCache = null;
+function loadOverrides() {
+  if (_ovCache) return _ovCache;
+  _ovCache = {};
+  try {
+    const raw = JSON.parse(readFileSync(join(DATA, 'dev_country.json'), 'utf-8'));
+    for (const [k, v] of Object.entries(raw)) {
+      if (k.startsWith('_')) continue;            // _comment 등 메타키 제외
+      if (typeof v === 'string' && /^[A-Za-z]{2}$/.test(v)) _ovCache[normDev(k)] = v.toUpperCase();
+    }
+  } catch { /* 파일 없으면 오버라이드 없음 */ }
+  return _ovCache;
+}
+// meta 전체를 돌며 개발사명이 오버라이드에 있으면 country 를 그 값으로 강제 교정.
+function applyCountryOverrides(meta) {
+  const ov = loadOverrides();
+  if (!Object.keys(ov).length) return 0;
+  let n = 0;
+  for (const m of Object.values(meta)) {
+    if (!m || !m.developer) continue;
+    const c = ov[normDev(m.developer)];
+    if (c && m.country !== c) { m.country = c; n++; }
+  }
+  if (n) console.log(`국적 오버라이드 적용: ${n}건 교정`);
+  return n;
+}
 function addrCountry(addr) {
   const a = (addr || '').toLowerCase();
   for (const [k, c] of ADDR_COUNTRY) if (a.includes(k)) return c;
@@ -271,6 +298,10 @@ async function main() {
       console.log(`원스토어 검색보강: 아이콘 +${got} / 대상 ${osItems.length}`);
     }
   }
+
+  // 개발사 국적 수동 오버라이드(권위값): data/dev_country.json 의 값으로 강제 교정.
+  // seed/주소/Haiku 추정이 틀린 경우를 매 실행마다 바로잡는다(Haiku 오판 영구 방지).
+  applyCountryOverrides(meta);
 
   mkdirSync(DATA, { recursive: true });
   writeFileSync(metaPath, JSON.stringify(meta, null, 2), 'utf-8');

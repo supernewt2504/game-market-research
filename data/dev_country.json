@@ -1,0 +1,13 @@
+{
+  "_comment": "개발사 국적 수동 오버라이드(권위값). 키=개발사명 정규화(소문자·공백1칸·trim), 값=ISO alpha-2. enrich.mjs가 매 실행 마지막에 meta.country를 이 값으로 강제 교정한다(Haiku 오판 영구 방지). 신규 오류 발견 시 여기에 한 줄 추가. 근거는 웹검증(2026-11-10).",
+  "neptune(treeplla)": "KR",
+  "ndream corp.": "KR",
+  "sonew": "KR",
+  "sud inc.": "KR",
+  "korea indie dev": "KR",
+  "aladdin x inc.": "JP",
+  "kingnet technology limited": "CN",
+  "linekong korea co. ltd.": "CN",
+  "falcon game studio": "VN",
+  "abi games pte. ltd.": "VN"
+}
