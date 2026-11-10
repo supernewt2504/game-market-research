@@ -534,7 +534,7 @@
   "1558248707": {
     "released": "2021.10.06",
     "developer": "Gaggle Studios, Inc.",
-    "country": "US",
+    "country": "CA",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/98/9d/bb989d20-d341-52dc-ac38-0f4ad2fe61a8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -1150,7 +1150,7 @@
   "com.superplaystudios.disneysolitairedreams": {
     "released": "2025.04.16",
     "developer": "SuperPlay.",
-    "country": "DK",
+    "country": "IL",
     "icon": "https://play-lh.googleusercontent.com/BpyKPyeCiAoCtYP23WtOoHW1G_4IAGUyk4G6V_5YNmXomuBwNC5ZnSq5OfxejW-Ufuukma8-UYZirB2wz3m8UnM=w48",
     "source": "google"
   },
@@ -1800,7 +1800,7 @@
   "com.screenshake.dominodreams": {
     "released": "2023.01.10",
     "developer": "SuperPlay.",
-    "country": "DK",
+    "country": "IL",
     "icon": "https://play-lh.googleusercontent.com/KPBcFtNGNn3cMtgFthtbrWL0COVs5bINj1aQYniBa6JxgI-FAkce2czhVONttEtLQXnfd0X5rHA6YGMHp3nfWw=w48",
     "source": "google"
   },
@@ -2437,7 +2437,7 @@
   "6475757306": {
     "released": "2025.04.16",
     "developer": "SuperPlay",
-    "country": "HU",
+    "country": "IL",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/2d/70/b82d7015-4dda-7ffe-5227-0d96828ccdf5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -5541,7 +5541,7 @@
   "gal:braintest4trickyfriends": {
     "developer": "Unico Studio",
     "url": "https://play.google.com/store/apps/details?id=com.unicostudio.braintest4&hl=ko&gl=kr",
-    "country": "CN",
+    "country": "TR",
     "source": "kr-google-match",
     "title": "브레인 테스트 (Brain Test) 4:교묘한 친구들",
     "released": "2023.03.30",
@@ -5827,7 +5827,7 @@
   "gal:braintestallstariqboost": {
     "developer": "Unico Studio",
     "url": "https://play.google.com/store/apps/details?id=com.unicostudio.braintestlegacy&hl=ko&gl=kr",
-    "country": "CN",
+    "country": "TR",
     "source": "kr-google-match",
     "title": "브레인테스트 올스타 (Brain Test): IQ 게임",
     "released": "2024.08.11",
@@ -6246,7 +6246,7 @@
   "one:아스텔리아2": {
     "developer": "Lepor Games Co.,Ltd",
     "url": "https://play.google.com/store/apps/details?id=com.lepor.astellia2",
-    "country": "CN",
+    "country": "KR",
     "source": "kr-google-match",
     "title": "아스텔리아2",
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/08/SE202506092139365320066703/0001009081/ko/img/original/0001009081_20261008120643.png",
@@ -7251,7 +7251,7 @@
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202506/03/SE201602140238062270008713/0000780176/ko/img/original/0000780176_20250603203719.png",
     "released": "2025.02.26",
     "developer": "MY.GAMES",
-    "country": "RU",
+    "country": "NL",
     "source": "kr-onestore",
     "title": "War Robots PvP 멀티플레이어"
   },
@@ -7259,7 +7259,7 @@
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202609/07/SE201909171705157400047760/0001007297/ko/img/original/0001007297_20260907123422.jpg",
     "released": "2026.09.08",
     "developer": "KingKongSOFT",
-    "country": "US",
+    "country": "KR",
     "source": "kr-onestore",
     "title": "요새하는겜 : 삼국 타워 디펜스"
   },
@@ -7536,7 +7536,7 @@
   "6444043291": {
     "released": "2023.01.11",
     "developer": "SuperPlay",
-    "country": "DK",
+    "country": "IL",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/63/3d/51633d6c-e444-2a44-5512-7010e1fb9ec5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
