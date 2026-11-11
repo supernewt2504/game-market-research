@@ -1,0 +1,454 @@
+{
+  "848091833": {
+    "verified": false,
+    "category": "컨텐츠 업데이트",
+    "short": "보물 게이지·진화/본능 추가 등 대형 업데이트로 신규 진입 추정",
+    "summary": "스토어 업데이트 내역에 따르면 보물 게이지 기능이 새로 들어가 가득 찬 게이지로 최고급 보물을 확정 획득할 수 있게 됐다. 일부 캐릭터에 제3·제4 진화 형태와 본능·초본능이 추가됐고, 레전드 스토리에는 새 맵과 고난도 스테이지 해방이 더해졌다. 이런 대규모 콘텐츠 업데이트가 매출 상위권 신규 진입의 원인으로 보이나, 현재 24위 진입을 직접 다룬 최신 기사는 찾지 못해 추정에 해당한다.",
+    "articles": [],
+    "icon": "https://play-lh.googleusercontent.com/rGpOjeQ_xeWTj-PZCZ1URVchLJf0SujnvO-UV7H4qqY5bfpusJoDYYPlYa2kC7VPm74P-JgzjihhnI469HGnjGE=w128",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/GRlbsUoosX6IY9xnOj8S2ibR_ui6OGX0qFrxqWmzQPXxOaSRefWdfKHyjN3zpSyr27D8Qk-Tqc7_L1izvy9sKQ=w400",
+      "https://play-lh.googleusercontent.com/qz94raMq36kSaGumhs9GPC7e80IKY4832dVPuiP2IX4r2pg2secRKwIFNqf4heexOsns7ThCImG6yAF8MRn7Myc=w400",
+      "https://play-lh.googleusercontent.com/V6eOxfiklBMot5DDlsESpAitlXkop-VRddxQKG0bL0mQKI-3pud53XiPCZGp56ebGoRWaByZMlovjJ7IKC4Mofo=w400",
+      "https://play-lh.googleusercontent.com/qqTUOHndUYZSEmSXDtkJVhcLMJ7rNIQ-WvZOGGAU7K47FtU6Gk1HTBXVdRVPcQ-22lbAIf3JWao8NI2VVT9A=w400"
+    ],
+    "video": null,
+    "storeUrl": "https://play.google.com/store/apps/details?id=jp.co.ponos.battlecatskr&hl=ko&gl=kr",
+    "recentChanges": "■보물 게이지 기능 추가<br>스테이지 클리어 등으로 축적되는 게이지가 가득 찬 상태로 스테이지에 도전하면<br>보물 게이지를 전부 소모해서 반드시 최고급 보물을 획득할 수 있게 되었습니다.<br><br>※보물을 획득할 수 있는 스테이지에서만 유효합니다.<br>※게이지는 보물을 획득하지 않는 스테이지에서도 축적됩니다.<br><br>■캐릭터에 진화 형태 추가<br>일부 캐릭터에 제3형태, 제4형태 진화 추가<br><br>■캐릭터에 본능 추가<br>일부 캐릭터에 본능, 초본능을 추가<br><br>■레전드 스토리<br>새로운 맵 추가<br>기존 맵의 고난도 스테이지 레벨 해방<br><br>■그 외<br>유저 랭크 보수 추가<br>냥콤보 추가<br>일부 기능 개선<br><br>■버그 수정"
+  },
+  "1458848044": {
+    "verified": true,
+    "category": "기타",
+    "short": "KBO 흥행·캠페인 영상·선수 연동 이벤트로 매출 상승",
+    "summary": "2026 KBO 리그 개막 흥행에 맞춰 공개된 개막 캠페인 영상이 유튜브에서 큰 조회수를 기록했고, 기사들은 이 관심이 게임 매출 순위 상승으로 이어졌다고 전한다. 앱스토어 스포츠 부문 매출 1위와 전체 매출 5위권 진입이 보도됐고, 한국 프로야구 대표팀의 WBC 8강 진출 때도 순위가 가파르게 오른 사례가 있다. 공식 모델 선수의 실제 경기 기록에 따라 아이템을 지급하는 이벤트도 진행 중이다. 다만 인용 기사들은 주로 4월과 3월 상승 흐름을 다루며, 이번 7계단 상승의 직접적 시점과 원인을 특정한 기사는 찾지 못했다. 스토어 업데이트 내역의 클럽 대전 역할군 추가와 선수 보관 개선은 기사에서 확인되지 않았다.",
+    "articles": [
+      {
+        "title": "'컴투스프로야구' 개막 영상, 1500만 뷰 돌파…양대 마켓 순위 상승",
+        "url": "https://m.news.nate.com/view/20260417n26206"
+      },
+      {
+        "title": "韓 'WBC' 극적 8강 진출에 컴투스 웃었다…'컴프야' 시리즈 순위 상승",
+        "url": "https://news.nate.com/view/20260311n18903"
+      },
+      {
+        "title": "컴투스 ‘컴프야V26’ 매출 상위권 안착, 글로벌 성과도 '눈길'",
+        "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=58851"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/lFrail_ogSgoETUZcsAgLG7gC4lvjcOdffEURRt5kTAaIbr3pdm7s7hrIQNMl-jTu_Hbw7NDuU9gpJZDRsqY=w128",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/BtV-E7fRGAyXDhJ9qfu4szex8HhXZit9dS8XjiYtckl5DrZSMUH0mbWHikFKvLrqq9ZKQg_KSRLBozg-Ohmn-g=w400",
+      "https://play-lh.googleusercontent.com/8SeSoQWqnhCHvrZ5NZJBtzI4V1BdZw9wbZ5Ar0ItAQcqYdi-0apBU7p9EmTm1YzrMtVW5nPh3m6qWeiCZYAG=w400",
+      "https://play-lh.googleusercontent.com/wNMbsdgOk13y1S_8RwNSH7vZBrha0JoSVqTqqmnb7afzHUiO_6An399CGynS86zt0ETcqoCatlEIH9_I4S5OeA=w400",
+      "https://play-lh.googleusercontent.com/6iPzebDlkLRSqrSBIn4mi3F1lJY99VJdhHNgfZE0YoLJgzfpqPJ2ew4NeuQiAp4Y4_D1Jix6ByZMTgzBzXdIK2A=w400"
+    ],
+    "video": "https://www.youtube.com/embed/SVvRP_poYFw?vq=large&rel=0&autohide=1&showinfo=0",
+    "videoImage": "https://play-lh.googleusercontent.com/VEUlql_X2pbhaOPFNuXWbLHtdFKVCwSIsQte5SCDsdwoUw4ACPyejXgNuMH7sxiJCXHBKf2qgTM2HoC5g3NE8w=w480",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.com2us.futurecpb.android.google.global.normal&hl=ko&gl=kr",
+    "recentChanges": "컴투스프로야구V26 업데이트!<br>현존 최고의 리얼리티 야구 게임을 경험해보세요!<br><br>- 클럽 대전 역할군 추가 : 백투백 히터<br>- 선수 보관 시스템 개선<br>- 편의성 및 인게임 개선<br>- UI/UX 개선<br>- 버그 수정<br><br>여러분의 소중한 의견을 리뷰로 남겨주세요.<br>컴프야V26은 모든 리뷰를 확인합니다."
+  },
+  "1520354659": {
+    "verified": false,
+    "category": "기타",
+    "short": "8월 편의성 업데이트 추정, 42계단 상승 기사 미확인",
+    "summary": "검색된 기사 중 현재 45위로의 42계단 상승 원인을 직접 다룬 기사는 찾지 못했습니다. 2026년 8월 26일 길드 집결지 시스템과 로키의 그림자 개편 등 편의성 업데이트가 있었다는 기사가 있어 스토어 내역과 일치하지만, 이것이 이번 순위 상승의 원인이라는 근거는 없습니다. 참고로 2026년 6월 24일 5주년 업데이트 이후에는 앱스토어 1위와 구글 플레이 2위 등 큰 폭의 순위 상승이 보도됐으나, 이는 시기가 달라 이번 변동과 직접 연결되지 않습니다.",
+    "articles": [
+      {
+        "title": "오딘 발할라 라이징 업데이트, 길드 집결지·로키의 그림자 안전지역 변경 총정리",
+        "url": "https://xn--2n1b69z8udca.com/game/%EC%98%A4%EB%94%98-%EB%B0%9C%ED%95%A0%EB%9D%BC-%EB%9D%BC%EC%9D%B4%EC%A7%95-4/"
+      },
+      {
+        "title": "카카오게임즈, '오딘: 발할라 라이징' 5주년…양대 마켓 최상위권 탈환",
+        "url": "https://www.asiatime.co.kr/article/20260626500294"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/65JquVIM391Il8M5oXrUzwTOFvFn72Yef4EJGWLBp190MflgritBJqiMuSjoK_ZeA2jF53OV9rRNgAXRm8_scQ=w128",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/407nGpW-m-cP-DrLhfADkFveWiVitELylkVFbjKzUjQYy7dhaMAB5o7_iNd_biomnGkujj5ktBNNlgNyjm6Mqw=w400",
+      "https://play-lh.googleusercontent.com/za7D-AXxneD1pjLB_8_gQ8bx5TfjSMQilcK7ootEb9F4ixCDj65CKcpDdUmsvLyXBUxiXR_U2xYuNwfZjymzfg=w400",
+      "https://play-lh.googleusercontent.com/7rKrjWCI3jaL8kwpQgRiB1lnKkgOE_yNUrCZJ9SerM8caM-nCwN3dwyyg_7PceptOp9OR8EiwYeGKjBa_EyrXQ=w400",
+      "https://play-lh.googleusercontent.com/5VFf5rmfCYUV2kbLf0QXhX2fPR6Yg6kO1nf334gGwgd7nI6TAiHvNj-xikIFbs0dJrz5RHg3p3Ny4uXWMnN6dFc=w400"
+    ],
+    "video": "https://www.youtube.com/embed/MRghUoLn8X0?vq=large&rel=0&autohide=1&showinfo=0",
+    "videoImage": "https://play-lh.googleusercontent.com/8kVZOwAUe4a6vFgzEo0yLtLrbQKQlD_G_Ph6NVKToE2UI3qd7zCKLII3DLtcgoUvZfle2GqoHEorJL_fUzDXRw=w480",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.kakaogames.odin&hl=ko&gl=kr",
+    "recentChanges": "- 편의성 기능 추가<br>- 오류사항 수정 및 시스템 개선"
+  },
+  "1571873795": {
+    "verified": false,
+    "category": "컨텐츠 업데이트",
+    "short": "11/10 페스 3성 선택권·픽업·스토리 업데이트 영향 추정",
+    "summary": "검색에서 이번 업데이트(11/10 시작)의 순위 상승을 직접 다룬 최신 한국어 기사를 찾지 못했다. 스토어 업데이트 내역상 11/10 시작 항목은 마코토·사츠키 수영복 픽업, 200회 무료 모집, [특별] 페스 3성 학생 선택권, 메인·이벤트 스토리 추가이며, 이는 신규 픽업과 무료 모집을 통한 매출 유인으로 볼 수 있다. 다만 기사로 확인되지 않아 순위 상승과의 인과관계는 추정이며, 11/17 이후 3성 학생 획득 확률 2배 증가와 이로하·이부키 수영복 픽업도 후속 상승 요인이 될 수 있다.",
+    "articles": [],
+    "icon": "https://play-lh.googleusercontent.com/2Va8nfkK6S1TNOf8d4Eqa2TB-8hVq_VvZ278Alldh6ce99yI97D08H_7_2iYx4mKqQeqrJNXM8dtH0_DGhXZtg=w128",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/NZCRPmkmrE-uZfb4BY0dId2aja8SDwcxInY4CEJFgwwNc6Nkj3F66Y46UOkI3o4feCJRXgKzytc91xLK8Jct=w400",
+      "https://play-lh.googleusercontent.com/kEvxA6nxoYKGoX-FQ0OcWdj69NgYA2s0xCAeoFp1vJc90XYwBqqiMWLXiSVk-tktxG_v-oYB-TwDXjivNBM3xkk=w400",
+      "https://play-lh.googleusercontent.com/jHr_HJCU_B7salKQMkEjmWMxwqIs6sDKEor_4vCUEtTbPj0DABbAnLFhi-ftnZeKftLGHZdlGPgpsi2hIXzqlA=w400",
+      "https://play-lh.googleusercontent.com/VpFArBVdJ6Gm2v7xxAmBlwGA-1m7YCVTMmXymAMLpv5cBTlPXKfz4mQsEbL-h110x5B-H7p3SfqM7s2niovj_g=w400"
+    ],
+    "video": "https://www.youtube.com/embed/cIKu_XHsi2g?vq=large&rel=0&autohide=1&showinfo=0",
+    "videoImage": "https://play-lh.googleusercontent.com/mp2VbSm8Gp7qrwvzChAcSNu68QrBh9tKybF1Mgr1OzwfDhkI3nEuBq_NfOH6kqwlWeC4CR-jG6McNYo3nx6hDZM=w480",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.nexon.bluearchiveteen&hl=ko&gl=kr",
+    "recentChanges": "1. 마코토(수영복), 사츠키(수영복) 픽업 추가 (11/10~11/16)<br>2. 무료 모집 &#39;200회&#39; 이벤트 진행 (11/10~11/16)<br>3. [특별] 페스 3성 학생 선택권 (11/10~12/7)<br>4. 메인 스토리 Vol.1 - 불꽃과 그림자 편 (11/10~)<br>5. 메인 스토리 1부 최종편 1장~4장 한국어 더빙 추가 (11/10~)<br>6. 이벤트 스토리 - 출항! 만마선 마코토 의장님의 화려한 피서 추가 (11/10~11/23)<br>7. 제약해제결전 세트의 분노(경장갑) 진행 (11/11~12/7)<br>8. 총력전 예로니무스(시가전) 진행 (11/17~11/23)<br>9. 이로하(수영복), 이부키(수영복) 픽업 추가 (11/17~11/23)<br>10. 3성 학생 그룹의 획득 확률 합산 수치 2배 증가 (11/17~11/23)"
+  },
+  "1599719154": {
+    "verified": false,
+    "category": "컨텐츠 업데이트",
+    "short": "4.7 버전 신규 5성 에이언즈★아하·화폐 전쟁 시즌2 공개",
+    "summary": "4.7 버전 '지금, 뭇별을 웃음으로'가 11일 적용되며 한정 5성 캐릭터 '에이언즈★아하'와 신규 육성 시스템 '기연 성혼'이 추가됐다. 상시 콘텐츠 '화폐 전쟁'도 시즌 2 '그림 속 기묘한 항해'로 개편됐고, 아하와 연계된 '극장판 복슬복슬호: 시끌벅적 주방' 등 버전 이벤트가 열린다. 다만 찾은 기사는 업데이트 발표 기사뿐이며 매출 순위 상승을 직접 분석한 기사는 확인되지 않아, 순위 상승은 스토어 업데이트 내역을 근거로 한 추정이다.",
+    "articles": [
+      {
+        "title": "붕괴: 스타레일, 11일 4.7 버전 업데이트",
+        "url": "https://www.inven.co.kr/webzine/news/?news=322863"
+      },
+      {
+        "title": "'붕괴: 스타레일', 11일 4.7 버전 업데이트 < 게임 < 뉴스 < 기사본문 - 경향게임스",
+        "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309912"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q=w128",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/h2kUJUBbdBhX82LsKGu-KO7D4Azt97v3wjqdFPgF7tHUnYMn9cN_o7lQzntHwQwBpH04l0eMPAW9m9RoRNnN5g=w400",
+      "https://play-lh.googleusercontent.com/33Hr_vXxfG4ipRt3v5H8WrWHUeHrAjdzOLx9Pbqu8_U0ixi_GF8Ucw1LQ2RCEIVDnKQtDo9D1_waA0_WfqfTaA=w400",
+      "https://play-lh.googleusercontent.com/y41rQeaeCg79Tt9vGUDx9EdP6gU0YeGMv_z564B8p3vSH508KE3Q5yzVSZd1jPFNWV-ZcRWU666GKwCc7UPsymg=w400",
+      "https://play-lh.googleusercontent.com/TDPU21EICCL8ysixgkjLwjRW0Ej2mTKBs6tr79KdkRXxbmQ3e9f-mk8XDvI8krD7v3wL1MbRV9HlA7zyAPOaAg=w400"
+    ],
+    "video": "https://www.youtube.com/embed/ImE4-KEgnM4?vq=large&rel=0&autohide=1&showinfo=0",
+    "videoImage": "https://play-lh.googleusercontent.com/7Bpdui4P1Tn8oQOzrBt8XgDAiY-dZlb_T20N5DMynmpx0ZyeYdf6gZXJyLGox_yTcbjgLTwhQT2oOLWo3mdBaw=w480",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea&hl=ko&gl=kr",
+    "recentChanges": "4.7 버전 「지금, 뭇별을 웃음으로」 출시!<br>신규 캐릭터: 「에이언즈•아하(환락•양자)」<br>신규 스토리: 개척 임무 「이상 낙원」-「지금, 뭇별을 웃음으로」<br>신규 이벤트: 「극장판 복슬복슬호: 시끌벅적 주방」 「스타피스 페스티벌: 스타의 길」 등<br>콘텐츠 업데이트: 화폐 전쟁 신규 시즌 「화폐 전쟁•그림 속 기묘한 항해」<br>기타: 다양한 혜택, 신규 필드, 신규 외형 등"
+  },
+  "1606356401": {
+    "verified": true,
+    "category": "컨텐츠 업데이트",
+    "short": "3.3 버전 신규 S급 에이전트·메카 전투 추가로 매출 순위 상승",
+    "summary": "3.3 버전 '다시 하늘을 향해'가 10월 21일에 업데이트되며 S급 에이전트 피닉스와 세베리안이 추가되고 메카 조종 전투 콘텐츠가 열렸습니다. 벨리나 복각과 출석 보상, 신규 코스튬, 상시 콘텐츠 신규 시즌도 함께 공개되어 신규·복귀 유저 유입과 과금 수요를 키웠을 가능성이 큽니다. 다만 기사들은 업데이트 내용만 보도하고 순위 변동과의 직접적 인과관계는 확인하지 않았으므로, 순위 상승은 이 업데이트 시점과 맞물린 것으로 추정합니다.",
+    "articles": [
+      {
+        "title": "호요버스 '젠레스 존 제로', 3.3 버전 '다시 하늘을 향해' 오는 21일 업데이트",
+        "url": "https://www.thisisgame.com/articles/430844"
+      },
+      {
+        "title": "[영상] 젠레스 존 제로, 3.3 버전 '다시 하늘을 향해' 21일 공개",
+        "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=61354"
+      },
+      {
+        "title": "‘젠레스 존 제로’, 3.3 버전 ‘다시 하늘을 향해’ 오는 21일 업데이트",
+        "url": "https://www.bodnara.co.kr/bbs/article.html?num=214799"
+      },
+      {
+        "title": "젠레스 존 제로, 3.3 버전 '다시 하늘을 향해' 21일 업데이트",
+        "url": "https://www.ipnn.co.kr/news/articleView.html?idxno=417830"
+      },
+      {
+        "title": "젠레스 존 제로, 3.3 버전 다시 하늘을 향해 10월 21일 업데이트",
+        "url": "https://www.betanews.net/article/view/beta202610120018"
+      },
+      {
+        "title": "호요버스, 흥행작 '젠레스 존 제로' 3.3버전 21일 업데이트 예고",
+        "url": "https://www.apnews.kr/news/articleView.html?idxno=3051977"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/N8j-t_IXvDvqFzN3U_19OJPIyAHHgljwVa7TMyCYpdRXRykalU3HKq9u9oPnzDXEkUOX1yyuX16yuWNDrUC_Uw=w128",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/wTwzoB4v8b31I2MFV3kp1Xz9fJa_KiXFtgUfyVwPI-Z8vEp1wUeylCdOMYkTSJyDPG0T--6N_UrBfbnkBGQSXpU=w400",
+      "https://play-lh.googleusercontent.com/Hf83_W9Cp4-wGsq_5aurFCGiS0xOIvTbjWr1Zm5priyKhGzkSbiNwBuU-Oi52CZ36FXBUKovbITAWGndPlbqSQ=w400",
+      "https://play-lh.googleusercontent.com/DqYMq__QIJPukXMAX_j0NDvn5Yon2OYeQR1Ok2VG1r4ThN2ECCaCEMkbDuOcVGMPSSPEEeU2bqJeX3tlIoyZpKE=w400",
+      "https://play-lh.googleusercontent.com/PbYArhFuMAPQ4DW-CpBh8j-ggpgWtbEIsPIaZy6otyeUpVVpzdFQpXe3Nq0zB6Qymvv5QQrtXpZhtXeWPKDp=w400"
+    ],
+    "video": "https://www.youtube.com/embed/bu2OGWKKvTQ?vq=large&rel=0&autohide=1&showinfo=0",
+    "videoImage": "https://play-lh.googleusercontent.com/eJdB293QaWZJVlNeE7AV8haxoVvezjmq4ZXqJY1tCKQRvXdk-VFGPQafimTxj5idWBkOX8Vl-Tefk7ZlXp_R=w480",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.HoYoverse.Nap&hl=ko&gl=kr",
+    "recentChanges": "신규 3.3 버전 「다시 하늘을 향해」 출시!<br><br>신규 캐릭터<br>S급 에이전트 「피닉스(불·이상)」<br>S급 에이전트 「세베리안(바람·강공)」<br><br>복각 캐릭터<br>S급 에이전트 「벨리나(바람·이상)」<br>S급 에이전트 「노르마(불·격파)」<br><br>신규 코스튬<br>피닉스-[삶이라는 병]<br>피닉스-[공상 증후군]<br>세베리안-[범접할 수 없는 위엄]"
+  },
+  "6754593077": {
+    "verified": true,
+    "category": "컨텐츠 업데이트",
+    "short": "11/11 1.5 버전 업데이트, S급 엘림·신규 스토리 효과",
+    "summary": "퍼펙트월드는 11월 11일 이환의 1.5 버전 '지금 거신 번호는'을 업데이트했고, 신규 S급 캐릭터 엘림과 메인 스토리 '디지털 바다: 다시 만나는 곳'이 추가됐다. 엘림 등장에 맞춘 기간 한정 보드와 탈것 등도 함께 열렸으며, 버전 후반에는 EXE, 시티 익스프레스, 탄탄대로가 순차 공개된다고 보도됐다. 다만 기사들은 업데이트 내용만 전할 뿐 앱스토어 매출 순위 상승과의 직접적 인과관계는 명시하지 않았다.",
+    "articles": [
+      {
+        "title": "퍼펙트월드, '이환' 신규 1.5 버전 선보여",
+        "url": "https://www.tgdaily.co.kr/news/articleView.html?idxno=407926"
+      },
+      {
+        "title": "‘이환’ 신규 1.5 버전 ‘지금 거신 번호는’ 업데이트",
+        "url": "https://www.ilovepcbang.com/news/articleView.html?idxno=203253"
+      },
+      {
+        "title": "신규 캐릭터 '엘림' 등장, 이환 1.5 버전 업데이트 진행",
+        "url": "https://www.inven.co.kr/webzine/news/?news=323225"
+      },
+      {
+        "title": "‘이환’, 신규 스토리·캐릭터 담은 1.5 버전 공개",
+        "url": "https://www.khgames.co.kr/news/articleView.html?idxno=310215"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw=w128",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/dkOYq48565OFlwQkELVsilrbt8Wmp3v1FbJRdtEuiW1jOmcpXgSe2epokqWuosSLnvDt-ril6l23tM0XjFSWJw=w400",
+      "https://play-lh.googleusercontent.com/3EEvFhi85lrPBiJSOO7sBB_RKFeTvc4GPbRkZCwTfLK6-KylfBFA4z6pla5SIbFLBMFgYvIvMgmVIVkeLwnd6g=w400",
+      "https://play-lh.googleusercontent.com/x9x1PRGaG99iiYAzmUtmSR0iVPkQqiRzbGauEt7V7OK2Ix9Vx03zxWYQvFN9d8xRxZLNlYHxa7HrVwflW4FBtA=w400",
+      "https://play-lh.googleusercontent.com/1_aJhVaMV9l0gRrvHkT2BOze58AVVftbowoIQ2WuqeYXolcDpWV2QcDzl9S2AzrdgdQJq6iWYeZNQ6qUiKVKdgk=w400"
+    ],
+    "video": "https://www.youtube.com/embed/iF5hxpmEPsk?vq=large&rel=0&autohide=1&showinfo=0",
+    "videoImage": "https://play-lh.googleusercontent.com/QsZhz8KgPIgJ9eSQRglijeKpZD00QBd7PEB4u5F0LzPo7wTz21wLHq_fLRB1HetBEzZhslfgmsh9nkk2uT3tEdc=w480",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.hottagames.nte&hl=ko&gl=kr",
+    "recentChanges": "1.5 버전 「지금 거신 번호는」 오픈!<br><br>1. 신규 한정 S급 캐릭터 「엘림」 등장<br>2. 신규 한정 S급 아크 「연결음이 흐르는 동안」 추가<br>3. 신규 메인 스토리 「디지털 바다: 다시 만나는 곳」 오픈<br>4. 신규 이상 공간: 「없는 번호?」 시스템 오픈<br>5. 신규 액세서리 「작은 친구」, 「사수의 눈」 2종 출시<br>6. 신규 탈것 「철강호」, 「육지의 지배자 001 시제품」 2종 출시<br>7. 월드 상호작용 오브젝트 「이동식 점술 노점」 추가<br>8. 신규 콘텐츠<br>「시티 익스프레스」 화물차 한 대에서 도시 하나로.<br>「시티 오너」 거리를 설계하고 건물을 세우세요. 온 도시가 당신의 말판입니다.<br>「탄탄대로」 TerraX 「철강호」 출시 기념 특별 이벤트! 전차를 몰아 지상 최강의 자리를 차지하세요.<br>9. 신규 이상 순례 - 우아한 부패자, 둥지 어미"
+  },
+  "6502326151": {
+    "verified": true,
+    "category": "컨텐츠 업데이트",
+    "short": "1주년 업데이트·로스바이세 신규 시즌으로 국내외 매출 순위 반등",
+    "summary": "출시 1주년(10월 22일)을 앞두고 21일 신규 시즌 콘텐츠와 한정 캐릭터 로스바이세가 추가되며 매출 반등이 시작됐다. 기사에 따르면 국내 구글 플레이 순위는 업데이트 전 70위권에서 27일 11위까지 올랐고, 같은 시기 국내 애플 앱스토어 7위, 일본과 대만에서도 상위권 순위가 관측됐다. 1주년 기념 축제 분위기와 이벤트 보상, 이용자 의견을 반영한 시스템 개선도 상승을 뒷받침한 것으로 보인다. 다만 14위는 기사 기준 구글 플레이 순위이고, 질문의 App Store 14위와는 차트가 다르므로 수치 대조가 필요하다.",
+    "articles": [
+      {
+        "title": "스마일게이트 '카제나', 1주년 업데이트에 매출 순위 '역주행' - 한국아이닷컴",
+        "url": "https://www.hankooki.com/news/articleView.html?idxno=346886"
+      },
+      {
+        "title": "스마일게이트 ‘카제나’, 1주년 업데이트에 매출 반등 - ZDNet korea",
+        "url": "https://zdnet.co.kr/view/?no=20261029230112"
+      },
+      {
+        "title": "상승기류 제대로 탄 ‘카오스 제로 나이트메어’ - 게임톡",
+        "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112506"
+      },
+      {
+        "title": "'카오스 제로 나이트메어' 새 전성기 '활짝'? - 더게임스데일리",
+        "url": "https://www.tgdaily.co.kr/news/articleView.html?idxno=407593"
+      },
+      {
+        "title": "'카제나' 1주년 업데이트 통했다...한국·일본·대만 매출 순위 급상승 - 테크M",
+        "url": "https://www.techm.kr/news/articleView.html?idxno=156433"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/zSANiqdzop4Rf5--2B_dc1LiAbpmK33fpzZCmiVBlD6OKanMuZky5K-uxpC9PmnqKluITyIPdtu-remzPqRn_Q=w128",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/gg4Zuxemmo63ic9orXRx2KWhf6z5Fi5xO6XkRrAIQOZut3ipyfS1aUG9hRhqGaoT6zw4vOYx0AxI12niUt6NvA=w400",
+      "https://play-lh.googleusercontent.com/c8P6JXpisPISpl7O3DRpkoYXpNw8oej9iLcCCcd5YM9fotxnfeaZze-yGs-uLXFM4r8xQZkqXbiDu9V0ui56iQ=w400",
+      "https://play-lh.googleusercontent.com/FoIJyOqNYryE15wn4dkWy6myTvfSl3puE2P0qeMhR-ldrygGUaeDE6NSwBMIIPoiYdXT1cUYTDdlpSNRE3fJ6MQ=w400",
+      "https://play-lh.googleusercontent.com/wLlA45DDrGWGGtCTVBezfnEDmP3Ik82zzP_I_Ac1brlIxIAgZbbADMlH4hOO3t_G884E6JCKhZfbaiMcoqHTDQ8=w400"
+    ],
+    "video": "https://www.youtube.com/embed/XzPS9QkOKU8?vq=large&rel=0&autohide=1&showinfo=0",
+    "videoImage": "https://play-lh.googleusercontent.com/i4qsMHxuIWaahK1Il1jhHj8Etovo-bpK_ucAz4D5-Fx8x72cua5H1WxfSpiBx3S067taEESlfrNuEhILOZm1RCc=w480",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.smilegate.chaoszero.stove.google&hl=ko&gl=kr",
+    "recentChanges": ""
+  },
+  "6748004690": {
+    "verified": true,
+    "category": "컨텐츠 업데이트",
+    "short": "EP02 인피니티 사전등록 보상·신규 지역/클래스 업데이트(11/25)",
+    "summary": "넷마블은 11월 4일 낮 12시부터 'EPISODE 02. INFINITY' 사전 등록을 시작했고, 11월 25일 신규 지역 '헬론드'와 신규 클래스 '랜서'를 추가하는 업데이트를 적용한다고 밝혔다. 사전 등록자에게는 무제한 재합성권 4종, 영웅 영체 확정권, 장비 복구권 패스, 무한의 체력 회복제 등이 지급된다. 12월 2일에는 신규 서버 '인피니티'가 열리며 서버 전용 성장 아이템과 선착순 레벨 달성 다이아 보상이 제공된다. 다만 기사들은 차트 순위 상승을 직접 언급하지 않아, 51계단 상승은 이 업데이트 사전 등록 및 보상 유입과 맞물린 것으로 추정된다.",
+    "articles": [
+      {
+        "title": "넷마블 ‘SOL: 인챈트’, 신규 지역·클래스 추가…25일 대규모 업데이트",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=561110"
+      },
+      {
+        "title": "넷마블 '솔: 인챈트', 대규모 업데이트 사전등록…신규 클래스·지역 추가",
+        "url": "https://www.newsflix.co.kr/news/articleView.html?idxno=32994"
+      },
+      {
+        "title": "넷마블 '솔: 인챈트', 대규모 업데이트 앞두고 사전 등록 시작",
+        "url": "https://www.thepowernews.co.kr/view.php?ud=202611041427132590de3f0aa1be_7"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/eRGPrWXzheZvTiTRBDBuaysX8ptDH5xasKV8rzWmuEKA9WsXfftcybnz9zQB89Iiqx7WKa_naS_WK5DdT1KB=w128",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Q_WPB5n_YJhndJMeM80PZZXETsZ1H65stEb-0tqb0qjTDJihG0dC_7vInNiYWpj2aFRoFG-YANyn5vmyDNANDw=w400",
+      "https://play-lh.googleusercontent.com/h2w3yYrc6rdi-8Gu9wG60xRsQbUSa4HtNAexRXe2BBKpWfsvDrJjdyGi0SjcxQ4lkgGuS4pWEE5IcSMltxwG=w400",
+      "https://play-lh.googleusercontent.com/pS2s9W_yEa8WPaW2XL9xiRBgmInHL3En5KFTCHsWMQWvj9tkh8x6xX0TZrP3PWW_qY96t4BGKuZet_WllDrVHSk=w400",
+      "https://play-lh.googleusercontent.com/NuBRcM5QULJd2G_beY3nzFerZcZ5uh4y7NV0FvWZv7liAsOxiTpwpTS235r7UwUKPa2J3o9gPsKSNTLiyFDBcw=w400"
+    ],
+    "video": "https://www.youtube.com/embed/jRykO-HJfYM?vq=large&rel=0&autohide=1&showinfo=0",
+    "videoImage": "https://play-lh.googleusercontent.com/6ofQa9bEo32HwiWemq43_oEC2Ql4ia54mhu_I5OX4tMUUWLGpmd4RiwJ_5bzoIS_3vKmJoMZ6XD5EqjJxunD=w480",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.netmarble.sol&hl=ko&gl=kr",
+    "recentChanges": "- 신규 이벤트<br>- 편의성 개선<br>- 버그 수정"
+  },
+  "6745164499": {
+    "verified": true,
+    "category": "신규 오픈",
+    "short": "9/10 출시 후 앱스토어·구글 매출 1위 달성, 출시 효과로 상승",
+    "summary": "엔픽셀 개발, 스마일게이트 퍼블리싱의 PC-모바일 MMORPG '이클립스: 더 어웨이크닝'은 9월 10일 출시 직후 애플 앱스토어 매출 1위에 올랐고, 출시 5일째인 9월 15일 구글 플레이 매출 1위까지 차지했습니다. 기사들은 짧은 접속 시간에도 성장 체감을 얻을 수 있는 설계, 성소·AI 모드 등 방치형 성장 요소, 근거리 클래스 전투 개선과 월드 보스 난이도 완화 예고를 흥행 배경으로 꼽았습니다. 다만 기사에서는 '19계단 상승'이나 현재 17위라는 수치는 확인되지 않아, 이는 출시 직후 흥행 흐름에 근거한 해석으로 보는 것이 맞습니다.",
+    "articles": [
+      {
+        "title": "스마일게이트 '이클립스', 매출 1위 휩쓴 비결 두 가지",
+        "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216482"
+      },
+      {
+        "title": "'이클립스: 더 어웨이크닝', 구글·애플 매출 1위 달성",
+        "url": "https://www.inven.co.kr/webzine/news/?news=320901"
+      },
+      {
+        "title": "이클립스, 구글·애플 매출 동시 1위…스마일게이트 이용자 보상 나선다",
+        "url": "https://www.news33.net/news/articleView.html?idxno=118002"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/JhepoyYDmabwj5ffSFC3cyfAdllyeIdHzSW5a3i_nlzsahXojL7S57JR1_RlYYkRh02OXzZM6K1s9KWnd-1Mpw=w128",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/rLIO81TwTexfZ9oRuKRQv-cqlMbTKktb_547juZzjuaN0hvmYteIv1eXLvAt3x0G1KgUG81Vh7AfrRB0uJ447JE=w400",
+      "https://play-lh.googleusercontent.com/cWWjWct-Cv7cZwUQ1wYHpBcxiE1lzSLxsVA8dm_Ph3rCfRbpu1K0oCaUFt9OOVYOAwZKJ8T72bMfzkA7WWDFSds=w400",
+      "https://play-lh.googleusercontent.com/NA4acXdDt4pcrD9guMBfWz2WyzFFLISm1Bvs70S323IGLC3PWI1AlyTDRQInZ5EZSDcR0jUbotBd8XnDmNA5=w400",
+      "https://play-lh.googleusercontent.com/5EnLSAVNAme1qxQY_hCLVU9jdiih2hb1XgHiC7JPVjs02r45rt0BPH3axKSoQ1IsoY2_f4iKn_lZlLFW2arL=w400"
+    ],
+    "video": null,
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.smilegate.eclipse.stove.google&hl=ko&gl=kr",
+    "recentChanges": ""
+  },
+  "com.HoYoverse.hkrpgoversea": {
+    "verified": false,
+    "category": "컨텐츠 업데이트",
+    "short": "4.7 버전 출시(신규 캐릭터 아하 등)로 구글 매출 순위 상승 추정",
+    "summary": "2026년 11월 11일 출시된 4.7 버전 '지금, 뭇별을 웃음으로'의 신규 5성 캐릭터 '에이언즈•아하(환락•양자)', 신규 스토리와 이벤트, 화폐 전쟁 신규 시즌이 순위 상승의 유력한 원인으로 보인다. 다만 이번 순위 변동을 직접 다룬 최신 한국어 기사는 찾지 못했다. 확인된 기사는 2026년 4월 3주년 업데이트(4.2 버전) 때의 매출 급등이나 2025년 '페이트' 컬래버 등 과거 사례뿐이다. 따라서 스토어 업데이트 내역을 근거로 한 추정이며 검증되지 않았다.",
+    "articles": [],
+    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q=w128",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/h2kUJUBbdBhX82LsKGu-KO7D4Azt97v3wjqdFPgF7tHUnYMn9cN_o7lQzntHwQwBpH04l0eMPAW9m9RoRNnN5g=w400",
+      "https://play-lh.googleusercontent.com/33Hr_vXxfG4ipRt3v5H8WrWHUeHrAjdzOLx9Pbqu8_U0ixi_GF8Ucw1LQ2RCEIVDnKQtDo9D1_waA0_WfqfTaA=w400",
+      "https://play-lh.googleusercontent.com/y41rQeaeCg79Tt9vGUDx9EdP6gU0YeGMv_z564B8p3vSH508KE3Q5yzVSZd1jPFNWV-ZcRWU666GKwCc7UPsymg=w400",
+      "https://play-lh.googleusercontent.com/TDPU21EICCL8ysixgkjLwjRW0Ej2mTKBs6tr79KdkRXxbmQ3e9f-mk8XDvI8krD7v3wL1MbRV9HlA7zyAPOaAg=w400"
+    ],
+    "video": "https://www.youtube.com/embed/ImE4-KEgnM4?vq=large&rel=0&autohide=1&showinfo=0",
+    "videoImage": "https://play-lh.googleusercontent.com/7Bpdui4P1Tn8oQOzrBt8XgDAiY-dZlb_T20N5DMynmpx0ZyeYdf6gZXJyLGox_yTcbjgLTwhQT2oOLWo3mdBaw=w480",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea&hl=ko&gl=kr",
+    "recentChanges": "4.7 버전 「지금, 뭇별을 웃음으로」 출시!<br>신규 캐릭터: 「에이언즈•아하(환락•양자)」<br>신규 스토리: 개척 임무 「이상 낙원」-「지금, 뭇별을 웃음으로」<br>신규 이벤트: 「극장판 복슬복슬호: 시끌벅적 주방」 「스타피스 페스티벌: 스타의 길」 등<br>콘텐츠 업데이트: 화폐 전쟁 신규 시즌 「화폐 전쟁•그림 속 기묘한 항해」<br>기타: 다양한 혜택, 신규 필드, 신규 외형 등"
+  },
+  "6504389641": {
+    "verified": true,
+    "category": "컨텐츠 업데이트",
+    "short": "길드 성물 방어전 등 업데이트 후 매출 상위권 유지",
+    "summary": "8월 26일 출시 후 두 달째에도 매출 상위권을 유지하고 있으며, 10월에는 모바일인덱스 집계 월간 매출 1위를 기록했다. 10월 28일 최대 60명이 협동해 성물 3개를 지키는 길드 콘텐츠 '성물 방어전'이 추가되고 참여 보상 이벤트가 함께 시작되면서 순위 상승의 계기가 된 것으로 보인다. 다만 확보한 기사에서는 앱스토어 매출 10계단 상승이나 현재 10위라는 수치를 확인하지 못했고, 한 기사는 앱스토어 17위로 보도해 차트 수치는 추가 확인이 필요하다.",
+    "articles": [
+      {
+        "title": "컴투스 '제우스' 10월 매출 정상, '도깨비의세계' 주간 3주 연속 선두",
+        "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=61997"
+      },
+      {
+        "title": "서머너즈 워·야구 이어 '제우스'…컴투스, 주력 라인업 넓힌다",
+        "url": "https://zdnet.co.kr/view/?no=20261029225904"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/Cn3mFHKMLbpjEBSZGiCKysZpRKXYNm5CH4vGFBLUMpWtZ7gk_2ONDoqAfJ6OIh_V-Lm3d8uZOmzKoAFdQxW4=w128",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/4p7o8ypOMMsxlVT7JlKapxVC3F7KVyLpgXf-AL3FYZvcF6GDNPEYXReAYZqFqCtkTTsK2UsDDd8B_rwtTdp1aA=w400",
+      "https://play-lh.googleusercontent.com/TWBVQGor988tWjH0G-_pNHJmPLSo06RP4vFFuA1gs4JaXZmOvRV9EPN6Fc8zH8fFnwLZ3AppCvhKEKyMFxI3=w400",
+      "https://play-lh.googleusercontent.com/c5Tn2Wt6aS7TLGpvPwKf7lpBDI8iVUi50IYxmfG8aKawDTbEoGqkNjdbl-O3WylT2diQuyuZktXBp599O9I5WA=w400",
+      "https://play-lh.googleusercontent.com/fdR-3a2EaERsE5G-b_TzMUCXDbWwFUvWJnBzFgaRTpnOCEfTcf7EHHrF--fPIxB1KmKD_At0-sVglVtEo0HqkZw=w400"
+    ],
+    "video": null,
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.com2us.es.android.google.kr.normal&hl=ko&gl=kr",
+    "recentChanges": "[신규 콘텐츠]<br>- 길드 레이드 신규 보스 &#39;메데이아&#39; 등장<br><br>[콘텐츠 확장 / 개선]<br>- &#39;신석의 서 4장&#39; 추가<br>- 에테리온 및 신석 프리셋 추가<br>- 성장도 변화 이력 확인 기능 추가<br><br>[버그 수정 및 개선]<br>- 일부 기기에서 게임이 종료되던 현상 수정<br>- 모바일 그래픽 품질 및 게임 안정성 개선<br>- 기타 확인된 오류 및 UI 표기 수정<br><br>여러분의 많은 관심과 기대 부탁드립니다."
+  },
+  "com.HoYoverse.Nap": {
+    "verified": false,
+    "category": "컨텐츠 업데이트",
+    "short": "3.3 버전 신규 S급 에이전트·복각·코스튬 업데이트 효과로 추정",
+    "summary": "3.3 버전 「다시 하늘을 향해」 출시에 맞춘 신규 S급 에이전트 피닉스와 세베리안 추가가 순위 상승의 가장 유력한 원인으로 보입니다. 벨리나와 노르마 복각, 신규 코스튬 3종도 함께 신규 유입과 재방문을 자극했을 가능성이 있습니다. 다만 이번 3.3 업데이트의 순위 변동을 직접 다룬 최신 기사는 찾지 못해, 스토어 업데이트 내역을 근거로 한 추정이며 검증되지 않았습니다.",
+    "articles": [],
+    "icon": "https://play-lh.googleusercontent.com/N8j-t_IXvDvqFzN3U_19OJPIyAHHgljwVa7TMyCYpdRXRykalU3HKq9u9oPnzDXEkUOX1yyuX16yuWNDrUC_Uw=w128",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/wTwzoB4v8b31I2MFV3kp1Xz9fJa_KiXFtgUfyVwPI-Z8vEp1wUeylCdOMYkTSJyDPG0T--6N_UrBfbnkBGQSXpU=w400",
+      "https://play-lh.googleusercontent.com/Hf83_W9Cp4-wGsq_5aurFCGiS0xOIvTbjWr1Zm5priyKhGzkSbiNwBuU-Oi52CZ36FXBUKovbITAWGndPlbqSQ=w400",
+      "https://play-lh.googleusercontent.com/DqYMq__QIJPukXMAX_j0NDvn5Yon2OYeQR1Ok2VG1r4ThN2ECCaCEMkbDuOcVGMPSSPEEeU2bqJeX3tlIoyZpKE=w400",
+      "https://play-lh.googleusercontent.com/PbYArhFuMAPQ4DW-CpBh8j-ggpgWtbEIsPIaZy6otyeUpVVpzdFQpXe3Nq0zB6Qymvv5QQrtXpZhtXeWPKDp=w400"
+    ],
+    "video": "https://www.youtube.com/embed/bu2OGWKKvTQ?vq=large&rel=0&autohide=1&showinfo=0",
+    "videoImage": "https://play-lh.googleusercontent.com/eJdB293QaWZJVlNeE7AV8haxoVvezjmq4ZXqJY1tCKQRvXdk-VFGPQafimTxj5idWBkOX8Vl-Tefk7ZlXp_R=w480",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.HoYoverse.Nap&hl=ko&gl=kr",
+    "recentChanges": "신규 3.3 버전 「다시 하늘을 향해」 출시!<br><br>신규 캐릭터<br>S급 에이전트 「피닉스(불·이상)」<br>S급 에이전트 「세베리안(바람·강공)」<br><br>복각 캐릭터<br>S급 에이전트 「벨리나(바람·이상)」<br>S급 에이전트 「노르마(불·격파)」<br><br>신규 코스튬<br>피닉스-[삶이라는 병]<br>피닉스-[공상 증후군]<br>세베리안-[범접할 수 없는 위엄]"
+  },
+  "com.kurogame.wutheringwaves.global": {
+    "verified": true,
+    "category": "컨텐츠 업데이트",
+    "short": "9/30 3.7 업데이트 신규 공명자·지역 추가로 매출 상승",
+    "summary": "9월 30일 적용된 3.7 버전 업데이트로 5성 공명자 2명과 신규 지역, 메인 스토리, 에코 등이 추가되면서 매출 순위가 올랐다. 업데이트 약 일주일 뒤 모바일인덱스 집계에서 일본 구글플레이 매출 1위, 한국 4위, 대만 3위를 기록해 주요 아시아 3개 시장 모두 톱5에 들었다. 다만 이 상승세가 얼마나 유지될지는 추가로 지켜봐야 한다.",
+    "articles": [
+      {
+        "title": "[차트픽] ‘명조’ 日 구글 매출 1위…韓 4위·대만 3위",
+        "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309079"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_=w128",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/RBZFxqmKM9JPf2KtFGIsc9XNvQSta0uxdRPdRpNdjARhtnOkfkjzn9SspivmnyFp2Tq8IlDk2fr-9opD_WpmfNA=w400",
+      "https://play-lh.googleusercontent.com/hoLZ3fTVLKfPJ3Z1OGgwxYe9aAq4sG1_QHqBWzgGulqQ_1ko1gUcfp7M4IJcUor_7hzcth7MrExYeQPhK_1OeA=w400",
+      "https://play-lh.googleusercontent.com/EwKasvVFKHRjg29E7IDHVlHsdCOcw8Q887H4-vZblIjCJTPhj7V8iKaUn358VpdNMNFfc8WEBKs9kOMgyoC3Ha8=w400",
+      "https://play-lh.googleusercontent.com/LyV-2oE2XTDA7DXtlkJX8nlYXHLoNKkP5bB1_OzK6R-5rxuC4Sx7ebRUEEj6nz40BkugqBth3X3nmHwECJae=w400"
+    ],
+    "video": "https://www.youtube.com/embed/F7Gwrucj_TA?vq=large&rel=0&autohide=1&showinfo=0",
+    "videoImage": "https://play-lh.googleusercontent.com/WLUgiQTtLWDbSABKByeW_OLVzIHfX1T1soG8XM0o2MTM-SPTRQvuxclR8ARELHULRWFu7N1bW4u-AHbncxB3=w480",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global&hl=ko&gl=kr",
+    "recentChanges": "『명조:워더링 웨이브』 3.7 버전 「거울에 잠긴 허상, 마음이 비추는 인간 세상」 업데이트 내용<br><br>점검 완료되면 해당 다운로드 링크를 통해 최신 클라이언트 다운로드 및 설치 후 플레이하시기 바랍니다.<br><br>[신규 캐릭터]<br>5성 공명자 「여우의 별자리」(전도 | 증폭기)<br>※[부디 이 밤처럼 늘 영원하기를] 캐릭터 이벤트 튜닝에서 획득할 수 있습니다.<br><br>5성 공명자 「쇄명」(전도 | 직검)<br>※[내 마음 닿는 곳, 아홉 번 죽어도 후회 없으리] 캐릭터 이벤트 튜닝에서 획득할 수 있습니다."
+  },
+  "6762359394": {
+    "verified": true,
+    "category": "신규 오픈",
+    "short": "11/4 국내 정식 출시와 사전 경품 이벤트로 신규 진입",
+    "summary": "볼트레이 게임즈가 라이트 RPG '소드 x 스태프'를 11월 4일 국내에 정식 출시하면서 신규 진입이 이뤄졌다. 출시를 앞두고 캐릭터 커스터마이징 이벤트 '쏘~미더 커마 Plus'를 열어 순금 골드바 등 총 1,000만 원 규모의 경품을 내걸었고, 글로벌 누적 이용자 1,000만 명이라는 흥행 이력도 함께 알려졌다. 화산귀환 콜라보는 11월 11일부터 12월 1일까지라서 이번 진입 시점의 직접 원인이라기보다는 출시 이후 이용자 유입을 이어가는 후속 요소로 보는 것이 맞다.",
+    "articles": [
+      {
+        "title": "소드 x 스태프, 11월 4일 국내 정식 출시",
+        "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112764"
+      },
+      {
+        "title": "볼트레이 게임즈 '소드 x 스태프', 국내 서비스 시작",
+        "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309987"
+      },
+      {
+        "title": "볼트레이 게임즈, '소드 x 스태프' 내달 4일 출시…11일부터 '화산귀환' 컬래버 예고",
+        "url": "https://www.thedailypost.kr/news/articleView.html?idxno=116490"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/cFqrT7-MwB0n-tQjeR3SA33XPtRsONjnkbQyGkTn3Sni5qmXILKFOh03TkxAPcE_F9dlwbDOKfW8wFV1V45T=w128",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/dFs-DcaZTETy9bYSmzfGDLxqMMhHDLpFP2I0uuMAtyspPxhgrZcEvBMP2CkRSyxFitP4wGs8OzmoMcFzcJviuw=w400",
+      "https://play-lh.googleusercontent.com/LHL4PV1bH36SMByL08rKsQlsVUVHEW92DUKcBgbkDOxlqlNIACeqzejSs8gSZKkPdnxtHCIvV8BqqTu2cIEMXg=w400",
+      "https://play-lh.googleusercontent.com/1lhxOM7VUwFiHwKXOg2XRZNOn1SCGbeG8Rlr6jh_ejVbJPYPMtkq8ilCZ26SSHx4b6lN7kUH75jHwta2dOVypA=w400",
+      "https://play-lh.googleusercontent.com/cHO-CYmhbzQK5VqJFzth3s1dodINjrtEOEfHQLCZj9YqML1quaIkB6gAoRbFu6qkTfhwh_W36pPxrP0Gl6zJZA=w400"
+    ],
+    "video": "https://www.youtube.com/embed/bXsLiDe0apM?vq=large&rel=0&autohide=1&showinfo=0",
+    "videoImage": "https://play-lh.googleusercontent.com/IHe3uzhKBE88XLYvrklcyigBRrz_IwqN1hHfoBbOzittFaWl3AkGJJC80dL9BXNgQDfHtY8eN_nAx6etSBF9Bw=w480",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.zjcs.android.kr&hl=ko&gl=kr",
+    "recentChanges": ""
+  },
+  "6758975161": {
+    "verified": true,
+    "category": "컨텐츠 업데이트",
+    "short": "11/4 차원 점령전 추가 후 매출 순위 상승(추정)",
+    "summary": "카카오게임즈는 11월 4일 최대 9,000명이 참여하는 서버 대항전 '차원 점령전'과 미니게임 '경단 만들기', 꾸미기 요소 '방석 시스템'을 추가했다. 첫 프리시즌은 11월 7일부터 8일까지 세 차례 열렸고 별도 신청 없이 참여할 수 있으며, 서버 성과와 개인 기여도에 따라 보상이 지급된다. 다만 기사들은 앱스토어 매출 순위가 5계단 오른 시점과 이 업데이트를 직접 연결하지 않으므로, 순위 상승과의 인과관계는 업데이트 시점을 근거로 한 추정이다. 11월 10일 라이브 방송에서는 차원 점령전 개편과 신규 레이드 등 다음 업데이트 계획도 공개됐다.",
+    "articles": [
+      {
+        "title": "‘도깨비의세계’, 대규모 서버 대항전 ‘차원 점령전’ 업데이트",
+        "url": "https://www.koreadaily.com/article/20261104190507678"
+      },
+      {
+        "title": "도깨비의세계, 9천명 규모 차원 점령전 추가",
+        "url": "https://www.inven.co.kr/webzine/news/?news=322956"
+      },
+      {
+        "title": "‘도깨비의세계’ 신규 대규모 서버 대항전 ‘차원 점령전’ 업데이트",
+        "url": "https://www.ilovepcbang.com/news/articleView.html?idxno=203065"
+      },
+      {
+        "title": "카카오게임즈 ‘도깨비의세계’, 돌파 천장·재료 환급으로 실패 부담 줄인다",
+        "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62174"
+      },
+      {
+        "title": "도깨비의세계 \"제자리 사냥 사실상 삭제...대검 강타 조정\"",
+        "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216942"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/PJFxzucCQHWQZBZnyvLp3IDp4G70W2o_AlXxVIRSn_pB66f-STd4yFDJNGJ5clJDKi9DK8jcn-D9Tq0L5pRz=w128",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/xqlhtzeWfoy2zID56q2BWhq695jiABhtSpGq7msMU41tvyVjfzNW6kugtSn0isXCV0j678S_PUMcoOu1CFvrfA=w400",
+      "https://play-lh.googleusercontent.com/uGWDr-kCLnShDDqDLySJBO2YkLh_YZNeBFX9VWgIy48drmuUCO7hnIBZfdipIfQIjyj5NaMPt2jorD6E-Chz=w400",
+      "https://play-lh.googleusercontent.com/g49ZJutqXhdftB_tBPAIE-veItQx1WUPoVfBioMp3eXSU3c0p5RT1rwHLNjnt7PUHeZMLx8hLewn7lXwvMUT1Q=w400",
+      "https://play-lh.googleusercontent.com/1MPaa7CrhrMidnc0XJM1Tb1iSu90fCP8RsYjmgIjdTCqQtI2o1-71jCAFIhJE76-hE3QiQEyv1h7FeE1xYom=w400"
+    ],
+    "video": null,
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.kakaogames.dokkaebi&hl=ko&gl=kr",
+    "recentChanges": "신규 콘텐츠 &#39;차원 점령전&#39; 업데이트, 버그 수정"
+  }
+}

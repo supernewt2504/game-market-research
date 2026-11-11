@@ -202,6 +202,13 @@
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/2a/ca/6a2aca94-240b-0909-0af1-52ab365e4425/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
+  "1177953618": {
+    "released": "2016.12.12",
+    "developer": "Forward Vision Corporation Limited",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/00/5c/4d005c62-0a80-eacf-bf3a-9cec8b9627bd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
   "1193508329": {
     "released": "2017.03.30",
     "developer": "Easybrain Ltd",
@@ -676,6 +683,13 @@
     "developer": "Gameberry Studio Inc",
     "country": null,
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/10/b4/3210b41b-fa0d-8956-4323-de4b5e5c2805/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "1670875186": {
+    "released": "2023.06.07",
+    "developer": "Ujoy Games Limited",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/01/98/e60198e7-519b-e17f-90eb-44ce2ea75888/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
   "com.noriworks.gm": {
@@ -7355,7 +7369,7 @@
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202608/20/SE202002191540181790050703/0000770636/ko/img/original/0000770636_20260820100411.png",
     "released": "2024.09.02",
     "developer": "fowgames",
-    "country": null,
+    "country": "TR",
     "source": "kr-onestore",
     "title": "영웅전설: 가가브 트릴로지"
   },
@@ -7833,5 +7847,240 @@
     "appId": "com.stickman.warriors.stickwarriors.dragon.shadow.fight",
     "source": "kr-google-match",
     "title": "Stickman Warriors"
+  },
+  "com.badbeans.legendofmarmot": {
+    "released": "2026.07.02",
+    "developer": "BAD BEANS CO., LTD",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/TOlgPzzbHfnOG0c53MXYaskFzbccq5JJ6ALfV53PND7n7rXTjcJkyvdMkdpV82mkWNzouLH7qifX4Yw6jnui5Q=w48",
+    "source": "google"
+  },
+  "com.loop.packedloop": {
+    "released": "2026.08.28",
+    "developer": "Loop Games A.S.",
+    "country": "CZ",
+    "icon": "https://play-lh.googleusercontent.com/-6twuEMPoij1qkvaEbMow3MVYzbKDX-sxiQ7Rc0BfBOoKtxZrCFRWErCldaYJmFo2EuwRVPejJZT8vg7eH0ZDKQ=w48",
+    "source": "google"
+  },
+  "com.sesisoft.wildgirls.google": {
+    "released": "2026.11.09",
+    "developer": "Sesisoft",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/G2g3kt1s9EOp6oYuuzwxaeuzs3_DurrtjjIrWuuBwTDa2gHJ1uYVemyJOMB01vE9Vg-4wO59UrKYe6A_HJ1atcg=w48",
+    "source": "google"
+  },
+  "com.mobile.legends": {
+    "released": "2016.11.10",
+    "developer": "MOONTON",
+    "country": "SG",
+    "icon": "https://play-lh.googleusercontent.com/r3VU-78TGaJWewvEll8oNl0SF-ESsOiS--jQkdcSOSblzu9fY0j3xWA49pIjsGXOfheldafcPQHV_eegp_Z-MQ=w48",
+    "source": "google"
+  },
+  "6740617332": {
+    "released": "2026.11.11",
+    "developer": "Azra Games",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/d2/16/ebd2164d-de1d-5190-e503-ef6b9dc41fb9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6756291565": {
+    "released": "2026.11.09",
+    "developer": "SangHun Han",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/8f/ea/f48feae7-d3a8-4be2-47de-e36e3ed39e38/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6746332353": {
+    "released": "2026.11.01",
+    "developer": "株式会社イエローブルー",
+    "country": "JP",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/de/3d/99de3dbe-1356-2e25-2119-e566ea88529f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6819163732": {
+    "released": "2026.11.05",
+    "developer": "ILWOONG JUNG",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/45/b0/cf45b0e1-21dd-66ca-99b0-46378ba2ff71/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6483252725": {
+    "released": "2026.04.13",
+    "developer": "Netmarble Corporation",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/7f/cd/5f7fcd25-7377-4c5e-b9d3-31da50600807/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "one:컴투스프로야구for매니저live202기": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/22/IF142158856020090629182843/0000648374/ko/img/original/0000648374_20260922100203.png",
+    "released": "2013.12.06",
+    "developer": "(주)컴투스",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "컴투스프로야구 for 매니저 LIVE 202 기"
+  },
+  "one:그라나도에스파다": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/17/SE201509221446386500007319/0000772353/ko/img/original/0000772353_20260917091030.png",
+    "released": "2024.02.22",
+    "developer": "(주)한빛소프트",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "그라나도에스파다"
+  },
+  "one:질풍삼국": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202409/04/SE202407051714421270064264/0000777599/ko/img/original/0000777599_DP000101_20240904191706.png",
+    "released": "2024.09.18",
+    "developer": "Bibitto Games CO., Limited",
+    "country": "HK",
+    "source": "kr-onestore",
+    "title": "질풍삼국"
+  },
+  "one:야생소녀리버스": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/14/IF1423501814720130923140945/0001007223/ko/img/original/0001007223_20261014131749.png",
+    "released": "2026.11.10",
+    "developer": "SESISOFT",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "야생소녀: 리버스"
+  },
+  "one:오늘도레벨업히어로키우기방치형rpg": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/17/SE202307281304331370062077/0001008594/ko/img/original/0001008594_20260917104130.png",
+    "released": "2026.11.10",
+    "developer": "",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "오늘도 레벨업 히어로키우기 방치형 RPG"
+  },
+  "one:방치기사단theorigin": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/08/SE202610051227500010070788/0001009980/ko/img/original/0001009980_202610080131430.png",
+    "released": "2026.11.10",
+    "developer": "JAEMIMARU CO., LTD",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "방치기사단 The Origin"
+  },
+  "one:블루아카이브15": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/07/IF142158931020090716174343/0000765249/ko/img/original/0000765249_20260707153608.png",
+    "released": "2022.11.28",
+    "developer": "(주) 넥슨",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "블루 아카이브 (15)"
+  },
+  "one:발매기념할인좀비스쿨": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/31/SE202604131447189440068720/0001011719/ko/img/original/0001011719_20261031230517.png",
+    "released": "2026.11.02",
+    "developer": "Game Museum",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "[발매기념 할인] 좀비스쿨"
+  },
+  "one:에고웨펀방치형마검rpg": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/08/SE202610060040287300070797/0001012205/ko/img/original/0001012205_20261108145750.png",
+    "released": "2026.11.09",
+    "developer": "플라잉모몽가",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "에고웨펀 : 방치형 마검 RPG"
+  },
+  "one:냥냥탐험대키우기": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/22/SE202603180910571520068477/0001011029/ko/img/original/0001011029_20261022104219.png",
+    "released": "2026.11.09",
+    "developer": "PIGAMES",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "냥냥탐험대 키우기"
+  },
+  "gal:슝슝수련기": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202506/24/SE201907212320388120045714/0000779104/ko/img/original/0000779104_20250624151633.png",
+    "released": "2025.04.16",
+    "developer": "Iclockwork Inc",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "슝슝 수련기"
+  },
+  "gal:에오스블랙": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202502/18/SE202001281845450050050385/0000776939/ko/img/original/0000776939_DP000101_20250218173057.png",
+    "released": "2024.07.24",
+    "developer": "BluePotion Games",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "에오스 블랙"
+  },
+  "gal:프로젝트오리진x": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/16/SE202604131700296330068721/0001006389/ko/img/original/0001006389_20260716183108.png",
+    "released": "2026.08.05",
+    "developer": "PENGTAI INTERACTIVE ADVERTISING CO.,LTD",
+    "country": "CN",
+    "source": "kr-onestore",
+    "title": "프로젝트 오리진 : X"
+  },
+  "gal:귀신과함께악귀연구소": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202508/15/SE202205132150509290059012/0000775145/ko/img/original/0000775145_20250815171030.png",
+    "released": "2024.12.10",
+    "developer": "SPGame",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "귀신과 함께-악귀연구소"
+  },
+  "one:legendsreborndiete": {
+    "icon": "https://play-lh.googleusercontent.com/LbUIZKnQUPt3MvFLoVLOLE4sx9THRwq9NwCRQE-BZdfHpFwEM5Rrj6Dj8YoXQuf57AKQ6iJ-7AtkQaQGsPMJAQ=w48",
+    "developer": "ACE GAME INTERNATIONAL LIMITED",
+    "country": "HK",
+    "released": "2025.11.13",
+    "url": "https://play.google.com/store/apps/details?id=com.Knight.GrandQuest&hl=ko&gl=kr",
+    "appId": "com.Knight.GrandQuest",
+    "source": "kr-google-match",
+    "title": "Legends Reborn: 마지막 전투"
+  },
+  "gal:블루아카이브페스선택권지급": {
+    "icon": "https://play-lh.googleusercontent.com/GnRkc6gDw7cPYrK1AvQNy7S_R4B7Atq6ncuJGf14CGaG0K8j_ayp0jrkIzuIfMHjP2Mb6ku5yeph3hHA6MLt7b0=w48",
+    "developer": "NEXON Company",
+    "country": "KR",
+    "released": "2021.11.05",
+    "url": "https://play.google.com/store/apps/details?id=com.nexon.bluearchive&hl=ko&gl=kr",
+    "appId": "com.nexon.bluearchive",
+    "source": "kr-google-match",
+    "title": "블루 아카이브 - 페스 선택권 지급"
+  },
+  "gal:블루아카이브15페스선택권지급": {
+    "icon": "https://play-lh.googleusercontent.com/2Va8nfkK6S1TNOf8d4Eqa2TB-8hVq_VvZ278Alldh6ce99yI97D08H_7_2iYx4mKqQeqrJNXM8dtH0_DGhXZtg=w48",
+    "developer": "NEXON Company",
+    "country": "KR",
+    "released": "2022.11.22",
+    "url": "https://play.google.com/store/apps/details?id=com.nexon.bluearchiveteen&hl=ko&gl=kr",
+    "appId": "com.nexon.bluearchiveteen",
+    "source": "kr-google-match",
+    "title": "블루 아카이브 (15) - 페스 선택권 지급"
+  },
+  "gal:오징어게임모바일서바이벌": {
+    "icon": "https://play-lh.googleusercontent.com/6eKQliaEsXs8-a9WWLXKx-y9_sEq9yUt33IvQikxtDPoY3XMVS66TDMGOUVnILq9QCGeeyLvnSvpyBmYp487W8M=w48",
+    "developer": "Netflix, Inc.",
+    "country": "US",
+    "released": "2024.12.13",
+    "url": "https://play.google.com/store/apps/details?id=com.netflix.NGP.ProjectKraken&hl=ko&gl=kr",
+    "appId": "com.netflix.NGP.ProjectKraken",
+    "source": "kr-google-match",
+    "title": "오징어 게임: 모바일 서바이벌"
+  },
+  "gal:stickmanrescuedrawtosavebrainpuzzlegame": {
+    "icon": "https://play-lh.googleusercontent.com/mvIhlXW5YbUET_0BUi4NUoQJK96onlaqdU5Vaebu4_APNR7yJgLOXVf-7x77isnH6go0Yk2t27QJfVUwaGsa7g=w48",
+    "developer": "TapFun Game",
+    "country": "CN",
+    "released": "2022.12.02",
+    "url": "https://play.google.com/store/apps/details?id=com.stickmanrescue.drawgame&hl=ko&gl=kr",
+    "appId": "com.stickmanrescue.drawgame",
+    "source": "kr-google-match",
+    "title": "Stickman Rescue: Draw Game"
+  },
+  "gal:icecreamrolldessertgames": {
+    "icon": "https://play-lh.googleusercontent.com/oEZqWTtgoepGQdycafejFek6eAxHwGSIadC6sq101vXguSf_wFsiFrvwJnxGrZ5yL5sYn8Q0siPCFbOz1HGMNug=w48",
+    "developer": "TapNation",
+    "country": null,
+    "released": "2020.01.03",
+    "url": "https://play.google.com/store/apps/details?id=com.RedLineGames.Game49&hl=ko&gl=kr",
+    "appId": "com.RedLineGames.Game49",
+    "source": "kr-google-match",
+    "title": "Ice Cream Inc. ASMR, DIY Games"
   }
 }
