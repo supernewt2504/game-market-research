@@ -8082,5 +8082,23 @@
     "appId": "com.RedLineGames.Game49",
     "source": "kr-google-match",
     "title": "Ice Cream Inc. ASMR, DIY Games"
+  },
+  "one:아이모theworldofmagic": {
+    "developer": "(주)컴투스",
+    "url": "",
+    "country": "KR",
+    "source": "onestore-alias",
+    "title": "아이모: The World of Magic",
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202604/17/IF142158856020090629182843/0000269511/ko/img/original/0000269511_20260417165256.png",
+    "released": "2012.06.21"
+  },
+  "one:fc모바일": {
+    "developer": "(주) 넥슨코리아",
+    "url": "",
+    "country": "KR",
+    "source": "onestore-alias",
+    "title": "FC모바일 for Onestore",
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/16/IF142158931020090716174343/0001005336/ko/img/original/0001005336_20261016182926.png",
+    "released": "2026.06.10"
   }
 }

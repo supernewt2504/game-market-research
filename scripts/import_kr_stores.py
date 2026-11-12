@@ -31,6 +31,46 @@ _EL_RE = re.compile(
     r'\\"creator\\":\\"([^"\\]*)\\"[\s\S]{0,400}?\\"mainImageUrl\\":\\"(https:[^"\\]+?)\\"')
 
 
+ALIAS_PATH = os.path.join(ROOT, "data", "kr_title_alias.json")
+_ALIAS = None
+
+
+def _load_aliases():
+    """OCR 제목 오인식 교정 규칙 로드(data/kr_title_alias.json)."""
+    global _ALIAS
+    if _ALIAS is not None:
+        return _ALIAS
+    _ALIAS = []
+    try:
+        raw = json.load(open(ALIAS_PATH, encoding="utf-8"))
+        for a in raw.get("aliases", []):
+            if not a.get("title"):
+                continue
+            _ALIAS.append({
+                "pub": (a.get("pub") or "").lower(),
+                "title_re": re.compile(a["title_re"], re.I) if a.get("title_re") else None,
+                "title": a["title"],
+                "icon": a.get("icon"),
+                "released": a.get("released"),
+            })
+    except Exception:
+        _ALIAS = []
+    return _ALIAS
+
+
+def correct_title(title, publisher):
+    """OCR 깨진 제목을 alias 규칙으로 canonical 제목에 매핑(publisher+title 동시 일치 시)."""
+    t = (title or "")
+    pub = (publisher or "").lower()
+    for a in _load_aliases():
+        if a["pub"] and a["pub"] not in pub:
+            continue
+        if a["title_re"] and not a["title_re"].search(t.lower()):
+            continue
+        return a["title"]
+    return title
+
+
 def onestore_search(name):
     """원스토어 공개 검색(SSR) → [(title, icon_url), ...] 상위 몇 건."""
     term = re.sub(r"(?i)\s*for\s*onestore", "", name or "")
@@ -108,6 +148,16 @@ def add_icons(charts):
     except Exception:
         cache = {}
     cache = {k: _norm_cache(v) for k, v in cache.items()}
+    # alias canonical 게임의 아이콘·출시일을 캐시에 선반영(검색 실패 대비)
+    for a in _load_aliases():
+        k = norm_title(a["title"])
+        if not k or not (a.get("icon") or a.get("released")):
+            continue
+        c = cache.setdefault(k, {})
+        if a.get("icon"):
+            c["icon"] = c.get("icon") or a["icon"]
+        if a.get("released"):
+            c["released"] = c.get("released") or a["released"]
     # 캐시에 없거나 출시일이 아직 없는 고유 게임명만 조회(출시일 백필 포함)
     todo = {}
     for rows in charts.values():
@@ -192,13 +242,15 @@ def to_items(raw_list, prefix):
     items.sort(key=lambda it: it["rank"] if isinstance(it.get("rank"), int) and it["rank"] > 0 else 10**9)
     out, seen = [], set()
     for it in items:
-        gid = f"{ID_PREFIX[prefix]}:{norm_title(it['title'])}"
-        if not norm_title(it["title"]) or gid in seen:
+        ctitle = correct_title(it["title"], it.get("publisher"))  # OCR 오인식 교정
+        nt = norm_title(ctitle)
+        gid = f"{ID_PREFIX[prefix]}:{nt}"
+        if not nt or gid in seen:
             continue
         seen.add(gid)
         out.append({
             "rank": len(out) + 1,
-            "name": it["title"].strip(),
+            "name": ctitle.strip(),
             "id": gid,
             "developer": clean_publisher(it.get("publisher")),
             "url": "",

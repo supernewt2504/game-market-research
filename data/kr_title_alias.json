@@ -1,0 +1,21 @@
+{
+  "_comment": "원스토어/갤럭시 OCR 제목 오인식 교정(권위값). import_kr_stores.py가 변환 시 적용: publisher(정규화 후 pub 부분문자열 포함)+title(소문자 정규식 search) 둘 다 맞으면 title을 canonical로 치환 → name·id(일자간 매칭)·아이콘매칭이 정상화된다. icon/released/onestore_pid는 보조 보정용(검색 실패 대비). 신규 OCR 깨짐 발견 시 규칙 한 줄 추가. 근거=원스토어 공개검색 prodId 확인(2026-11-12).",
+  "aliases": [
+    {
+      "pub": "컴투스",
+      "title_re": "world of magic",
+      "title": "아이모: The World of Magic",
+      "onestore_pid": "0000269511",
+      "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202604/17/IF142158856020090629182843/0000269511/ko/img/original/0000269511_20260417165256.png",
+      "released": "2012.06.21"
+    },
+    {
+      "pub": "넥슨",
+      "title_re": "^fc.*onestore",
+      "title": "FC모바일 for Onestore",
+      "onestore_pid": "0001005336",
+      "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/16/IF142158931020090716174343/0001005336/ko/img/original/0001005336_20261016182926.png",
+      "released": "2026.06.10"
+    }
+  ]
+}
