@@ -412,6 +412,13 @@
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/e1/ac/dbe1ac0a-48a1-9fc4-61f3-a5a9df064750/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
+  "1474599374": {
+    "released": "2019.09.02",
+    "developer": "Lilith Games",
+    "country": "CN",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/b2/33/06b2338e-b8f7-f97d-35d4-f22c5e42f8dc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
   "1478227443": {
     "released": "2019.11.24",
     "developer": "NC Corp.",
@@ -7705,7 +7712,7 @@
   "6831030571": {
     "released": "2026.11.06",
     "developer": "min chan kim",
-    "country": null,
+    "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/25/bc/c025bc59-3fe4-b934-7353-4f1eda5c9a6d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -7866,7 +7873,7 @@
   "com.sesisoft.wildgirls.google": {
     "released": "2026.11.09",
     "developer": "Sesisoft",
-    "country": null,
+    "country": "KR",
     "icon": "https://play-lh.googleusercontent.com/G2g3kt1s9EOp6oYuuzwxaeuzs3_DurrtjjIrWuuBwTDa2gHJ1uYVemyJOMB01vE9Vg-4wO59UrKYe6A_HJ1atcg=w48",
     "source": "google"
   },
@@ -7940,14 +7947,14 @@
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/14/IF1423501814720130923140945/0001007223/ko/img/original/0001007223_20261014131749.png",
     "released": "2026.11.10",
     "developer": "SESISOFT",
-    "country": null,
+    "country": "KR",
     "source": "kr-onestore",
     "title": "야생소녀: 리버스"
   },
   "one:오늘도레벨업히어로키우기방치형rpg": {
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/17/SE202307281304331370062077/0001008594/ko/img/original/0001008594_20260917104130.png",
     "released": "2026.11.10",
-    "developer": "",
+    "developer": "RainbowRabbit INC",
     "country": null,
     "source": "kr-onestore",
     "title": "오늘도 레벨업 히어로키우기 방치형 RPG"
@@ -8119,5 +8126,179 @@
     "released": "2020.03.30",
     "url": "",
     "source": "onestore-alias"
+  },
+  "com.oakever.sortparade": {
+    "released": "2026.09.22",
+    "developer": "Oakever Games",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/Gt6y9cxYV9e-Z_eZRDtERhFXDHde7HgdYfH4A59gIRmCK9lBYo4o-_-oogcHBDr0D6tkRWqhDLjfi16d5rHk=w48",
+    "source": "google"
+  },
+  "com.superplanet.odyssey": {
+    "released": "2026.08.02",
+    "developer": "Super Planet",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/Q14ucZYoB6jNieC7zQhAZ-6xS2Ld0WLBAvJbCCqV4pePE373iraPBdcoaIjjSQRIHOf_yYO6hDE38uizKvRJDQ=w48",
+    "source": "google"
+  },
+  "com.vialmagic.colorsort": {
+    "released": "2026.10.30",
+    "developer": "juyi",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/SIVf-AvZcnr2FKigiiUCBpZlkMi02OQafI3aUTExwxoZN0iJAH4gfF5cEQolpy4o4vdP7eJfD44I3PCEkrqQ=w48",
+    "source": "google"
+  },
+  "com.gravity.romkrzeny.aos": {
+    "released": "2026.07.01",
+    "developer": "GRAVITY Co., Ltd.",
+    "country": "KR",
+    "icon": "https://play-lh.googleusercontent.com/5SFBw-txEgmxfiD8J5DcHchCZFvLCo1jZsalnlDHYjv5nddS-8oLSRIwGHmqKF0NLaZJ9Gmbx6wEMGxlNtFe=w48",
+    "source": "google"
+  },
+  "com.mf.coffee": {
+    "released": "2026.01.12",
+    "developer": "Microfun Limited",
+    "country": "CN",
+    "icon": "https://play-lh.googleusercontent.com/SaZgqXq2jWqVp_7UxFvB0rp7_B5p2P6BHFz6MqFL9pAv7JxKL8qedPFIenyFicUJb8KbpqDSrIkjLS-LV0tf=w48",
+    "source": "google"
+  },
+  "6761901736": {
+    "released": "2026.11.11",
+    "developer": "KODA DUCK GAMES COMPANY LIMITED",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/5a/e5/a35ae51e-034d-c590-bda5-fc4390314519/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6776551152": {
+    "released": "2026.11.11",
+    "developer": "Rastar Mobile",
+    "country": "CN",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/73/5c/2a735c86-f6b4-61e8-ca32-4cc11521b4e0/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6752611328": {
+    "released": "2026.05.21",
+    "developer": "3wave studio Co.Ltd.",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/66/46/3166469a-6cfa-5d98-b3fe-bb9a37eb9780/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6502438838": {
+    "released": "2025.11.04",
+    "developer": "Sesisoft",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/a6/a0/b6a6a08c-eafa-d15d-167d-fdb6e3f8c9c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6822578966": {
+    "released": "2026.10.23",
+    "developer": "SEOKJIN KIM",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/b4/35/9eb4357a-17e5-3a92-a805-d225877c0b84/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6744885861": {
+    "released": "2025.09.09",
+    "developer": "Archosaur Games",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/6c/c2/076cc2b9-7a90-a745-4211-7ce621a9ca26/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6443597557": {
+    "released": "2025.11.20",
+    "developer": "Studio B Side Co., Ltd",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/41/8c/03418cef-3e90-3737-3f01-de3bdcce0e4c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "one:파이널삼국지2풍성한신규서버혜택대": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202507/10/SE201506040825362880006245/0000752745/ko/img/original/0000752745_20250710114857.png",
+    "released": "2021.04.21",
+    "developer": "(주)게임펍",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "파이널삼국지2: 풍성한 신규서버 혜택 대···"
+  },
+  "one:조선협객전2m": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202510/16/SE201601141758498030008456/0000777654/ko/img/original/0000777654_20251016103732.png",
+    "released": "2024.11.23",
+    "developer": "(주)스마트나우",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "조선협객전2M"
+  },
+  "one:미니전선강철사령관l": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/12/SE202510221642433870067440/0001005329/ko/img/original/0001005329_20261112120651.png",
+    "released": "2026.06.23",
+    "developer": "FLY FLY Games+",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "미니 전선: 강철사령관-L…·"
+  },
+  "one:아쿠아랜드크레이지서바이벌": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/27/SE202112241633358960057904/0001009251/ko/img/original/0001009251_20261027180725.png",
+    "released": "2026.11.10",
+    "developer": "Eworldgame",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "아쿠아랜드: 크레이지 서바이벌"
+  },
+  "one:삼국지구주제패": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/28/SE201912191731148780050026/0001006327/ko/img/original/0001006327_20260928113246.png",
+    "released": "2026.11.11",
+    "developer": "RASTAR GAMES (HK) CO.,LIMITED",
+    "country": "HK",
+    "source": "kr-onestore",
+    "title": "삼국지: 구주제패"
+  },
+  "one:hazetheorigin": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/201808/02/SE201807141408337620028477/0000732268/img/original/0000732268_DP000101_20180802213408.png",
+    "released": "2018.08.04",
+    "developer": "JAEMIMARU CO., LTD",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "HA|ZE The Origin"
+  },
+  "one:다크에덴m": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202412/26/SE201709141540141890018126/0000728478/ko/img/original/0000728478_DP000101_20241226110144.png",
+    "released": "2019.01.30",
+    "developer": "플레이웍스(주)",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "다크에덴M"
+  },
+  "one:미르의전설2레볼루션": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202608/26/SE202308111528228040062171/0001008510/ko/img/original/0001008510_20260826115142.png",
+    "released": "2026.11.11",
+    "developer": "MIAO PLAY ENTERTAINMENT NETWORK •••",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "미르의 전설2: 레볼루션"
+  },
+  "one:섹스타닷넷더무비이제는69영상의": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202606/05/SE202307251506337130062051/0001006409/ko/img/original/0001006409_20260605204405.png",
+    "released": "2026.08.28",
+    "developer": "adultfactory19",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "섹스타닷넷 더 무비 : 이제는 69영상의"
+  },
+  "one:라스트걸코어이브": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/11/SE202303281638006420061378/0001008506/ko/img/original/0001008506_20261111154518.png",
+    "released": "2026.09.08",
+    "developer": "YNH Games Co., Ltd",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "라스트걸 : 코어이브"
+  },
+  "one:legendsreborndf": {
+    "icon": "https://play-lh.googleusercontent.com/LbUIZKnQUPt3MvFLoVLOLE4sx9THRwq9NwCRQE-BZdfHpFwEM5Rrj6Dj8YoXQuf57AKQ6iJ-7AtkQaQGsPMJAQ=w48",
+    "developer": "ACE GAME INTERNATIONAL LIMITED",
+    "country": null,
+    "released": "2025.11.13",
+    "url": "https://play.google.com/store/apps/details?id=com.Knight.GrandQuest&hl=ko&gl=kr",
+    "appId": "com.Knight.GrandQuest",
+    "source": "kr-google-match",
+    "title": "Legends Reborn: 마지막 전투"
   }
 }
