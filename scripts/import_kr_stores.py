@@ -71,6 +71,50 @@ def correct_title(title, publisher):
     return title
 
 
+_GROUPS = None
+
+
+def _load_groups():
+    """한 퍼블리셔의 구분불가 다중게임을 순위로 배정하는 그룹 규칙 로드."""
+    global _GROUPS
+    if _GROUPS is not None:
+        return _GROUPS
+    _GROUPS = []
+    try:
+        raw = json.load(open(ALIAS_PATH, encoding="utf-8"))
+        for g in raw.get("groups", []):
+            if not (g.get("high") and g.get("low")):
+                continue
+            _GROUPS.append({
+                "pub": (g.get("pub") or "").lower(),
+                "title_re": re.compile(g["title_re"], re.I) if g.get("title_re") else None,
+                "single": g.get("single", "low"),
+                "high": g["high"], "low": g["low"],
+            })
+    except Exception:
+        _GROUPS = []
+    return _GROUPS
+
+
+def apply_group_aliases(rows, prefix):
+    """차트 내 같은 그룹(구분불가 다중게임) 행을 순위로 canonical 배정(최상위=high, 나머지=low)."""
+    for g in _load_groups():
+        matched = [it for it in rows
+                   if (not g["pub"] or g["pub"] in (it.get("developer") or "").lower())
+                   and g["title_re"] and g["title_re"].search((it.get("name") or "").lower())]
+        if not matched:
+            continue
+        matched.sort(key=lambda it: it.get("rank") or 10**9)
+        for idx, it in enumerate(matched):
+            if len(matched) >= 2:
+                spec = g["high"] if idx == 0 else g["low"]
+            else:
+                spec = g["high"] if g["single"] == "high" else g["low"]
+            it["name"] = spec["title"]
+            it["id"] = f"{ID_PREFIX[prefix]}:{norm_title(spec['title'])}"
+    return rows
+
+
 def onestore_search(name):
     """원스토어 공개 검색(SSR) → [(title, icon_url), ...] 상위 몇 건."""
     term = re.sub(r"(?i)\s*for\s*onestore", "", name or "")
@@ -158,6 +202,16 @@ def add_icons(charts):
             c["icon"] = c.get("icon") or a["icon"]
         if a.get("released"):
             c["released"] = c.get("released") or a["released"]
+    for g in _load_groups():  # 그룹(에오스 블랙/레드) 아이콘·출시일도 선반영
+        for spec in (g["high"], g["low"]):
+            k = norm_title(spec["title"])
+            if not k or not (spec.get("icon") or spec.get("released")):
+                continue
+            c = cache.setdefault(k, {})
+            if spec.get("icon"):
+                c["icon"] = c.get("icon") or spec["icon"]
+            if spec.get("released"):
+                c["released"] = c.get("released") or spec["released"]
     # 캐시에 없거나 출시일이 아직 없는 고유 게임명만 조회(출시일 백필 포함)
     todo = {}
     for rows in charts.values():
@@ -257,6 +311,7 @@ def to_items(raw_list, prefix):
         })
         if len(out) >= LIMIT:
             break
+    apply_group_aliases(out, prefix)  # 구분불가 다중게임(에오스 등) 순위 배정
     return out
 
 

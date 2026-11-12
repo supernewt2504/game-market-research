@@ -33,5 +33,25 @@
       "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/01/IF1423601484020120111182105/0001000703/ko/img/original/0001000703_20260901083146.png",
       "released": "2025.07.21"
     }
+  ],
+  "_groups_comment": "한 퍼블리셔가 같은 패턴의 게임을 여럿 내서 OCR만으로 구분 불가한 경우, 차트 내 순위로 배정(휴리스틱). BluePotion 에오스 블랙/레드: 교차확인 결과 블랙>레드(2026-11-07 원스토어에 '에오스 블랙 for OneStore' r57 정상판독+깨진행 r71=레드, 2026-11-11 갤럭시 블랙 r80<레드 r86). 규칙=차트 내 BluePotion for-onestore 행을 순위오름차순 정렬, 최상위=블랙, 나머지=레드(단일행=레드, 레드 대역 r57~77).",
+  "groups": [
+    {
+      "pub": "bluepotion",
+      "title_re": "for\\s*onestore",
+      "single": "low",
+      "high": {
+        "title": "에오스 블랙 for OneStore",
+        "onestore_pid": "0000776939",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202502/18/SE202001281845450050050385/0000776939/ko/img/original/0000776939_DP000101_20250218173057.png",
+        "released": "2024.07.24"
+      },
+      "low": {
+        "title": "에오스 레드 for OneStore",
+        "onestore_pid": "0000746344",
+        "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202003/23/SE202001281845450050050385/0000746344/img/original/0000746344_DP000101_20200323124709.png",
+        "released": "2020.03.30"
+      }
+    }
   ]
 }

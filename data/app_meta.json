@@ -7048,10 +7048,11 @@
   "one:에오스블랙": {
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202502/18/SE202001281845450050050385/0000776939/ko/img/original/0000776939_DP000101_20250218173057.png",
     "released": "2024.07.24",
-    "developer": "bluepotion",
+    "developer": "BluePotion Games",
     "country": "KR",
-    "source": "kr-onestore",
-    "title": "에오스 블랙 for OneStore"
+    "source": "onestore-alias",
+    "title": "에오스 블랙 for OneStore",
+    "url": ""
   },
   "one:세계수의노래afk": {
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202610/06/SE202407111318497980064305/0001006307/ko/img/original/0001006307_20261006115243.jpg",
@@ -8107,6 +8108,15 @@
     "title": "피망 포커 for onestore",
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/01/IF1423601484020120111182105/0001000703/ko/img/original/0001000703_20260901083146.png",
     "released": "2025.07.21",
+    "url": "",
+    "source": "onestore-alias"
+  },
+  "one:에오스레드": {
+    "developer": "BluePotion Games",
+    "country": "KR",
+    "title": "에오스 레드 for OneStore",
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202003/23/SE202001281845450050050385/0000746344/img/original/0000746344_DP000101_20200323124709.png",
+    "released": "2020.03.30",
     "url": "",
     "source": "onestore-alias"
   }
