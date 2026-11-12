@@ -3769,10 +3769,10 @@
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202509/30/SE202305191649311540061664/0000780670/ko/img/original/0000780670_20250930102013.png"
   },
   "one:mlb9이닝스26": {
-    "developer": "Com2uS",
-    "url": "https://play.google.com/store/apps/details?id=com.com2us.ninepb3d.normal.freefull.google.global.android.common",
+    "developer": "(주)컴투스",
+    "url": "",
     "country": "KR",
-    "source": "kr-google-match",
+    "source": "onestore-alias",
     "title": "MLB 9이닝스 26",
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202603/26/IF142158856020090629182843/0000780131/ko/img/original/0000780131_20260326110255.png",
     "released": "2025.01.23"
@@ -8100,5 +8100,14 @@
     "title": "FC모바일 for Onestore",
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/16/IF142158931020090716174343/0001005336/ko/img/original/0001005336_20261016182926.png",
     "released": "2026.06.10"
+  },
+  "one:피망포커": {
+    "developer": "NEOWIZ",
+    "country": "KR",
+    "title": "피망 포커 for onestore",
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/01/IF1423601484020120111182105/0001000703/ko/img/original/0001000703_20260901083146.png",
+    "released": "2025.07.21",
+    "url": "",
+    "source": "onestore-alias"
   }
 }

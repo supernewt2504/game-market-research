@@ -1,5 +1,5 @@
 {
-  "_comment": "원스토어/갤럭시 OCR 제목 오인식 교정(권위값). import_kr_stores.py가 변환 시 적용: publisher(정규화 후 pub 부분문자열 포함)+title(소문자 정규식 search) 둘 다 맞으면 title을 canonical로 치환 → name·id(일자간 매칭)·아이콘매칭이 정상화된다. icon/released/onestore_pid는 보조 보정용(검색 실패 대비). 신규 OCR 깨짐 발견 시 규칙 한 줄 추가. 근거=원스토어 공개검색 prodId 확인(2026-11-12).",
+  "_comment": "원스토어/갤럭시 OCR 제목 오인식 교정(권위값). import_kr_stores.py correct_title()이 변환 시 적용: pub(소문자 부분문자열, 빈값이면 생략)+title_re(소문자 정규식 search) 일치 시 title을 canonical로 치환 → name·id(일자간 매칭)·아이콘매칭 정상화. icon/released/onestore_pid는 보조 보정용. 한 차트에 같은 규칙으로 여러 게임이 걸리면(예: 에오스 레드/블랙) 자동치환 금지(서로 다른 게임이 한 id로 합쳐짐) → 그런 건 보류. 근거=원스토어 공개검색 prodId 확인(2026-11-12).",
   "aliases": [
     {
       "pub": "컴투스",
@@ -10,12 +10,28 @@
       "released": "2012.06.21"
     },
     {
-      "pub": "넥슨",
+      "pub": "",
+      "title_re": "^mlb\\s*9[0-9]",
+      "title": "MLB 9이닝스 26",
+      "onestore_pid": "0000780131",
+      "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202603/26/IF142158856020090629182843/0000780131/ko/img/original/0000780131_20260326110255.png",
+      "released": "2025.01.23"
+    },
+    {
+      "pub": "",
       "title_re": "^fc.*onestore",
       "title": "FC모바일 for Onestore",
       "onestore_pid": "0001005336",
       "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/16/IF142158931020090716174343/0001005336/ko/img/original/0001005336_20261016182926.png",
       "released": "2026.06.10"
+    },
+    {
+      "pub": "neowiz",
+      "title_re": "onestore",
+      "title": "피망 포커 for onestore",
+      "onestore_pid": "0001000703",
+      "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/01/IF1423601484020120111182105/0001000703/ko/img/original/0001000703_20260901083146.png",
+      "released": "2025.07.21"
     }
   ]
 }
