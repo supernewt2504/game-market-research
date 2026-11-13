@@ -230,6 +230,13 @@
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/98/dd/2798dd4e-f772-d93b-0a82-588d3fb55302/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
+  "1229618961": {
+    "released": "2017.06.21",
+    "developer": "Ketchapp",
+    "country": "FR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/1c/e9/6e1ce91e-b8da-7e46-0b88-1e87661193ec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
   "1273957743": {
     "released": "2018.08.01",
     "developer": "NEXON Company",
@@ -3569,7 +3576,7 @@
   "com.pongvn.pm": {
     "released": "2026.10.12",
     "developer": "Pong Studio Co., Ltd.",
-    "country": null,
+    "country": "KR",
     "icon": "https://play-lh.googleusercontent.com/-C0zcjTqjxflezlN9W3NbWMe7LYPFCgD1iQWDfq7enRqT6Yd7T33eQ--Xs9Y-tAUlfd_SKEqa4xdTIT25pxJK-8=w48",
     "source": "google"
   },
@@ -8165,7 +8172,7 @@
   "6761901736": {
     "released": "2026.11.11",
     "developer": "KODA DUCK GAMES COMPANY LIMITED",
-    "country": null,
+    "country": "HK",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/5a/e5/a35ae51e-034d-c590-bda5-fc4390314519/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -8207,7 +8214,7 @@
   "6443597557": {
     "released": "2025.11.20",
     "developer": "Studio B Side Co., Ltd",
-    "country": null,
+    "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/41/8c/03418cef-3e90-3737-3f01-de3bdcce0e4c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -8255,7 +8262,7 @@
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/201808/02/SE201807141408337620028477/0000732268/img/original/0000732268_DP000101_20180802213408.png",
     "released": "2018.08.04",
     "developer": "JAEMIMARU CO., LTD",
-    "country": null,
+    "country": "KR",
     "source": "kr-onestore",
     "title": "HA|ZE The Origin"
   },
@@ -8287,18 +8294,60 @@
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/11/SE202303281638006420061378/0001008506/ko/img/original/0001008506_20261111154518.png",
     "released": "2026.09.08",
     "developer": "YNH Games Co., Ltd",
-    "country": null,
+    "country": "KR",
     "source": "kr-onestore",
     "title": "라스트걸 : 코어이브"
   },
   "one:legendsreborndf": {
     "icon": "https://play-lh.googleusercontent.com/LbUIZKnQUPt3MvFLoVLOLE4sx9THRwq9NwCRQE-BZdfHpFwEM5Rrj6Dj8YoXQuf57AKQ6iJ-7AtkQaQGsPMJAQ=w48",
     "developer": "ACE GAME INTERNATIONAL LIMITED",
-    "country": null,
+    "country": "HK",
     "released": "2025.11.13",
     "url": "https://play.google.com/store/apps/details?id=com.Knight.GrandQuest&hl=ko&gl=kr",
     "appId": "com.Knight.GrandQuest",
     "source": "kr-google-match",
     "title": "Legends Reborn: 마지막 전투"
+  },
+  "com.c3wavestudio.yumyumdragon": {
+    "released": "2026.05.20",
+    "developer": "3wave studio Co. Ltd.",
+    "country": "KR",
+    "icon": "https://play-lh.googleusercontent.com/oUkA9Y_xcFkbl6SDWqE5S_8Y1eJyxck5lhOvu_vj0GJY9Ob1KRPPstfwCqyE13xVIHt5L18sFTsfomubOrbJew=w48",
+    "source": "google"
+  },
+  "com.lycq.kr.and": {
+    "released": "2026.10.26",
+    "developer": "Xsoga Game",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/gqKZIBDTE-FutPcl0yO1sKRUV1VroQ-ri1L7MUyFd_c4V4CBBRMwvWlLl7880JCSFwPntfjz12wfdAfA9oE8YJ4=w48",
+    "source": "google"
+  },
+  "busflow.traffic.puzzle": {
+    "released": "2026.06.18",
+    "developer": "Hyper Surfer Games",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/RwFIyYCHn8ZliNj_xfaV4Ndc3h3J6tb9Q8xhKB80WFA_cia_i6QDwW5Dun_3ILx6mS1AKmNWG3wGjSp6LoOCIg=w48",
+    "source": "google"
+  },
+  "com.nexon.kart": {
+    "released": "2020.05.11",
+    "developer": "NEXON Company",
+    "country": "KR",
+    "icon": "https://play-lh.googleusercontent.com/RrpE9xexrHMDDOY6iel-UPFl-N8J-kL0wmbd1rYCP7Boq8_dPtnasme48dw7Ma1k2GYDsvmSuHqWeMCY_TqVCw=w48",
+    "source": "google"
+  },
+  "6829598542": {
+    "released": "2026.11.10",
+    "developer": "Groundcode",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/51/6b/31516b4a-39ae-1660-d254-f20a52e528ca/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6467117398": {
+    "released": "2023.12.21",
+    "developer": "Joy Net Games",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/36/45/5836455b-9904-0dc7-7ea4-fedaf2562cba/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
   }
 }

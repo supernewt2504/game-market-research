@@ -461,38 +461,46 @@
     }
   },
   "1366526331": {
-    "researchedAt": "2026-11-10T14:47:14.319Z",
-    "verified": false,
+    "researchedAt": "2026-11-13T14:46:04.196Z",
+    "verified": true,
     "data": {
-      "verified": false,
-      "category": "콜라보",
-      "short": "IVE 콜라보 44.1 업데이트 뒤 스팀 매출 1위(앱스토어 직접 근거 없음)",
-      "summary": "검색된 기사는 2026년 11월 4일 PC 44.1 업데이트에 적용된 그룹 아이브(IVE) 콜라보가 스팀 매출 순위 상승과 시기적으로 맞물린다고 보도했습니다. 다만 이 기사들은 App Store가 아닌 스팀 차트를 다루며, 개별 콜라보가 전체 매출에 얼마나 기여했는지는 공개되지 않았다고 명시합니다. 따라서 App Store 매출 12계단 상승의 직접 원인으로 확정하기는 어렵고, 콜라보 업데이트를 가장 유력한 원인으로 보는 추정에 그칩니다.",
+      "verified": true,
+      "category": "컨텐츠 업데이트",
+      "short": "11월 업데이트로 아스가르드 테마 모드·한정 낚시 콘텐츠 추가",
+      "summary": "크래프톤은 11월 업데이트로 북유럽 신화 콘셉트의 신규 테마 모드 '아스가르드'를 에란겔·비켄디·리빅 맵에 공개했고, 고대 괴수·탈 것·룬 스킬 등이 더해졌습니다. 같은 업데이트에 기간 한정 낚시 콘텐츠와 회복 아이템·총기 밸런스 조정도 포함됐습니다. 기사들은 업데이트 내용을 확인해 주지만, 이것이 28계단 순위 상승의 직접 원인이라는 내용은 기사에 없으므로 순위와의 연결은 업데이트 시점을 근거로 한 추정입니다.",
       "articles": [
         {
-          "title": "아이브 만난 크래프톤 ‘배틀그라운드’, 스팀 글로벌 매출 1위 - ZDNet korea",
-          "url": "https://zdnet.co.kr/view/?no=20261106162914"
+          "title": "크래프톤 '배그 모바일'서 새 모드 선봬",
+          "url": "https://www.tgdaily.co.kr/news/articleView.html?idxno=407968"
         },
         {
-          "title": "크래프톤 '배틀그라운드', 스팀 글로벌·한국 매출 1위… 9년 차 흥행력 입증 - 비즈트리뷴",
-          "url": "https://www.biztribune.co.kr/news/articleView.html?idxno=362177"
+          "title": "총 들고 아스가르드로... 배그 모바일, 이번엔 북유럽 신화다",
+          "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325508"
         },
         {
-          "title": "크래프톤 배틀그라운드 스팀 매출 1위 탈환 - ER 이코노믹리뷰",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=756341"
+          "title": "크래프톤, 배그 모바일에 북유럽 신화 입힌다…‘아스가르드’ 공개",
+          "url": "https://www.mydaily.co.kr/page/view/2026111215272519193"
+        },
+        {
+          "title": "‘배틀그라운드 모바일’, 신규 전장 ‘아스가르드’ 등장",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=310280"
+        },
+        {
+          "title": "배틀그라운드 모바일, 북유럽 신화 입힌 ‘아스가르드’ 추가",
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=563370"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/U2YTTx2h3VNUL5bjl5yAUG0WMsqdZxRAb2UMZ8vT2Waw67oASbDAnbBB_29H45BVCjO-Jn_MlAFedT8KEj7T=w128",
       "screenshots": [
-        "https://play-lh.googleusercontent.com/RAzBHFeIapnjRDZ_S3dmryE2gZkxcLAsgUPeYUcdki7RY0vMb8NhZMcM-n5CeVAGk0DCysnIrGIfU3GkctV_0AM=w400",
-        "https://play-lh.googleusercontent.com/oQKa-bqRyzw26hPCyGVPA9i1O5aDZStDfdSiALs9fkcx3JpdWwsnWwa4V31C-RX680LsV-B2qXAflcqzAaTjtXA=w400",
-        "https://play-lh.googleusercontent.com/UzeXXfvzlbBsg5OZxZs3Mgj6ZNCKl39XtQArfvJjSa-wdSBGDdQ8-mznpegpKAbZQbU-XP372jV8dvMeVGBqmIg=w400",
-        "https://play-lh.googleusercontent.com/x9PSAXAJU6f3jOluCi9FkfQF1dlc5XcP566UAWI8c665pAanMZtm_Ck_EhQZp2wa7CNlxtqYWvsR2H0x6zr-DQ=w400"
+        "https://play-lh.googleusercontent.com/73an2pp_CW92jgdhqJauRmUo1ZIDwhmGXwCAgk7nROSWhHqVq4nVY4W8xEphAPkizdvT5Z60s2WTsfWPK8jKk80=w400",
+        "https://play-lh.googleusercontent.com/jVbo89faM0ZcpFKKJFXeW63AmxxzP_KHqoJ-ZWK3wbADED_Ec2OB62YHILf70rMC1nBszgAZnCihi25ez2LxWIM=w400",
+        "https://play-lh.googleusercontent.com/NLaBWDFXo6J3XKl9762fAND6vv9JYmz_OgMAUZtmekpNZMBBqPeVjaDaFPUz60bH2i198AuorIheLVBihzYC8g=w400",
+        "https://play-lh.googleusercontent.com/yv7vx78Y0UusQi4WSVLkoO4cBbyzUi23cGVE3515yKJSxlmbfNw_CMdbGA0LN9uNERL3CrU_pptBBkSk3E5nmSw=w400"
       ],
-      "video": "https://www.youtube.com/embed/2fYCvcFlgSg?vq=large&rel=0&autohide=1&showinfo=0",
-      "videoImage": "https://play-lh.googleusercontent.com/k67sOOJzLksukjUH3I3YZ3PKEMc0WozPN-fC0GTEfe1ZauYkVJIfkSUsSdcLm5oS0_pahc4r2zuk-5GMfOtqaA=w480",
+      "video": "https://www.youtube.com/embed/USrTBFPVT3U?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/2zZEfGaM8AtQOMBWGLvgZYaV29iRzSzGV6yNMeuCXhaRh8i9415elU-9X8NW1TBy5VKDAI3jSRiEsYlf3HAJMA=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.pubg.krmobile&hl=ko&gl=kr",
-      "recentChanges": ""
+      "recentChanges": "신규 모드 : 아스가르드 테마 모드<br>클래식 업데이트<br>낚시 기능<br>럭키 에그"
     }
   },
   "1441742921": {
@@ -800,13 +808,13 @@
     }
   },
   "1507872328": {
-    "researchedAt": "2026-11-01T19:14:19.640Z",
+    "researchedAt": "2026-11-13T14:46:50.239Z",
     "verified": false,
     "data": {
       "verified": false,
-      "category": "기타",
-      "short": "스토어 내역상 버그 수정·UI 최적화 중심, 상승 원인 미확정",
-      "summary": "제공된 스토어 업데이트 내역에는 버그 수정 및 UI/UX 최적화만 적혀 있어, 38계단 상승을 이 업데이트로 설명하기에는 근거가 부족합니다. 한국어 기사 검색에서는 순위 상승을 다룬 뉴스를 찾지 못했고, 검색된 자료는 커뮤니티 글과 스토어 페이지뿐이었습니다. 따라서 상승 원인은 추정으로만 남기며, 대회 공지나 이벤트 등 매출 측면 요인이 있었을 가능성은 별도 확인이 필요합니다.",
+      "category": "매출 이벤트",
+      "short": "제9회 홀덤 마스터스 진행 중, 원인은 추정(미확인)",
+      "summary": "스토어 업데이트 내역은 버그 수정과 UI/UX 최적화뿐이라 순위 상승을 설명하지 못한다. 제9회 홀덤 마스터스(총상금 24억 원, 2026년 10월 2일~12월 13일)가 WPL 후원으로 진행 중이며, 온라인 새틀라이트 참여가 매출 상승의 유력 후보로 보인다. 다만 이를 순위 상승과 직접 연결한 기사는 찾지 못해 추정에 머문다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/QQVS3cmt_fMF91ecz8fHExUP_VJUty-9dCmA7sOZQR3086-4nD-2ANOA2cOkFeiHt5eFW55CZJGpiaO_BahNZA=w128",
       "screenshots": [
@@ -2086,13 +2094,13 @@
     }
   },
   "6448786147": {
-    "researchedAt": "2026-11-09T14:47:09.545Z",
+    "researchedAt": "2026-11-13T14:46:24.245Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "기타",
-      "short": "11계단 상승 원인 미확인, 11/1 골드블록 패키지 제거와 시기 겹침",
-      "summary": "이번 조사에서는 11계단 상승의 직접 원인을 확인할 수 있는 한국어 기사를 찾지 못했다. 스토어 기록상 2026년 11월 1일 서버 시간부터 골드블록 상점의 특혜 패키지가 내려가고 다른 플랫폼의 동일 패키지도 함께 비공개될 예정이며, 이 변화가 상위권 상승 시기와 겹친다. 다만 패키지 제거가 매출 순위를 올렸다는 근거는 없으므로, 이는 추정이 아닌 시기상의 참고 사항으로만 봐야 한다.",
+      "short": "기사 미확인, 최근 업데이트는 버그 수정뿐이라 상승 원인 불명확",
+      "summary": "최신 한국어 기사에서 이 게임의 App Store 매출 순위 상승을 설명하는 내용을 찾지 못했습니다. 검색된 자료는 이벤트 진행 방식과 나무위키 등 일반 정보에 그쳤습니다. 제공된 스토어 업데이트 내역은 연맹 스타 파티 비정상 소멸 문제를 고친 버그 수정뿐이어서, 이것이 8계단 상승의 직접 원인이라고 보기는 어렵습니다. 따라서 상승 원인은 확인되지 않았으며, 매출 이벤트나 신규 콘텐츠 여부는 추가 확인이 필요합니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc=w128",
       "screenshots": [
@@ -2103,7 +2111,7 @@
       ],
       "video": null,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.fun.lastwar.gp&hl=ko&gl=kr",
-      "recentChanges": "서버 시간 [2026/11/1]부터 [골드블록 상점] 페이지 내 [골드블록 패키지 (특혜)] 제거, 기타 플랫폼 동일 패키지도 동시 비공개 예정."
+      "recentChanges": "[버그 수정]<br>특수 상황에서 연맹 스타 파티 비정상 소멸 문제 수정."
     }
   },
   "6767834940": {
@@ -2128,13 +2136,13 @@
     }
   },
   "6739554056": {
-    "researchedAt": "2026-11-02T22:55:30.968Z",
+    "researchedAt": "2026-11-13T14:46:39.739Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "낚시 선수권 최적화 등 업데이트 영향으로 추정(미검증)",
-      "summary": "검색에서는 킹샷의 최근 앱스토어 순위 상승 원인을 직접 다룬 기사를 찾지 못했습니다. 확인된 자료는 출시 이후 매출 흐름과 마케팅 성과를 다룬 글 위주라 이번 순위 변동과 직접 연결되지 않습니다. 스토어 업데이트 내역에 따르면 낚시 선수권 이벤트 최적화, 해초 도감 추가, 10배 배수 낚시 옵션, 보상 일괄 수령, 영주 프로필 고화질 확인 등 이벤트 참여를 편하게 만드는 변화가 있었습니다. 따라서 이 콘텐츠 업데이트와 이벤트 효율 개선이 순위 상승의 가능성 있는 원인이지만, 검증된 근거는 아닙니다.",
+      "short": "낚시 선수권 최적화 업데이트로 이벤트 참여 편의 개선, 순위 상승 추정",
+      "summary": "스토어 업데이트 내역에 따르면 낚시 선수권 대회에 해초 도감이 추가되고, 왕국 진행도 달성 시 배수 낚시 10배 옵션이 열리며 기본 낚시 도구 레벨이 자동으로 최고 레벨까지 오른다. 이벤트 낚시 포인트로 섬 장식품 보상을 받는 임무 기능과 보상 일괄 수령 기능도 추가됐다. 순위 상승의 직접적 원인을 다룬 기사는 찾지 못했으므로, 이는 업데이트 내역을 근거로 한 추정이다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq=w128",
       "screenshots": [
@@ -2921,14 +2929,19 @@
     }
   },
   "com.ProjectMoon.LimbusCompany": {
-    "researchedAt": "2026-10-31T18:48:33.186Z",
-    "verified": false,
+    "researchedAt": "2026-11-13T14:45:56.323Z",
+    "verified": true,
     "data": {
-      "verified": false,
+      "verified": true,
       "category": "컨텐츠 업데이트",
-      "short": "10월 신규 인격 추출·정기 업데이트 영향 추정(미확인)",
-      "summary": "이번 6계단 상승의 직접 원인을 다룬 최신 한국어 기사는 찾지 못했다. 검색된 기사는 2023~2025년 흥행 기사뿐이라 근거로 쓸 수 없다. 스토어 업데이트 내역상 10월 22일과 29일 정기 업데이트에 신규 인격 추출 이벤트가 예고되어 있어, 이것이 매출 반등의 요인일 가능성이 있다. 다만 매출 데이터와 직접 연결된 자료가 없으므로 추정으로만 보아야 한다.",
-      "articles": [],
+      "short": "제10회 발푸르기스의 밤 이벤트로 매출 급등(앱스토어 기준)",
+      "summary": "5월 12일 시작된 제10회 발푸르기스의 밤 이벤트가 상승의 배경으로 꼽혔고, 신규 인격 두 종과 홍루의 신규 E.G.O가 공개되었다. 기사 기준 급등은 국내 애플 앱스토어에서 먼저 나타났으며 10분 만에 77위에서 4위로 올랐고, 스팀에서도 매출 2위를 기록했다. 다만 이 기사는 구글 플레이 차트를 직접 다루지 않아, 구글 매출 44계단 상승의 원인은 같은 이벤트로 추정할 뿐 기사로 확인되지는 않았다.",
+      "articles": [
+        {
+          "title": "[차트픽] ‘림버스 컴퍼니’, 앱스토어 4위·스팀 매출 2위 급등",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=310300"
+        }
+      ],
       "icon": "https://play-lh.googleusercontent.com/mnqUeIK2w48bqiVf9w3h-6w0SuHrwx1Xh5DFhHHjgcu9x29qGIzs4EO9QeWtmZ42YzPOC29uU2Q73h25Nz9PCQ=w128",
       "screenshots": [
         "https://play-lh.googleusercontent.com/7US0iX0uT7h-z4tmls1CBDRhkHAnU22dXpp_k4u828bQW-pIG5vTArhVkKgTcpVKWPnPqIsqZoQbCMdOvlh6Das=w400",
@@ -3327,19 +3340,14 @@
     }
   },
   "jp.konami.pesam": {
-    "researchedAt": "2026-10-31T18:47:28.886Z",
-    "verified": true,
+    "researchedAt": "2026-11-13T14:45:48.584Z",
+    "verified": false,
     "data": {
-      "verified": true,
-      "category": "컨텐츠 업데이트",
-      "short": "8월 대형 업데이트·월드컵 캠페인·신규 시즌 이벤트가 매출 상승 견인",
-      "summary": "코나미 실적 발표에 따르면 eFootball은 2026년 8월 대형 업데이트와 월드컵 기념 캠페인, 신규 시즌 개막 이벤트가 흥행하며 매출 성장을 이끌었습니다. 센서타워 추정치에서도 2026년 1~7월 일본 모바일게임 인앱 수익 1위였고 7월에 출시 이후 최고 월간 수익을 기록했습니다. 다만 이 기사는 일본 시장과 코나미 전체 실적 중심이라, 구글 매출 차트에서 26계단 오른 원인을 직접 특정한 자료는 아닙니다.",
-      "articles": [
-        {
-          "title": "코나미, 상반기 영업이익 73.1% 급증",
-          "url": "https://www.inven.co.kr/webzine/news/?news=322791"
-        }
-      ],
+      "verified": false,
+      "category": "기타",
+      "short": "구글 매출 55계단 상승, 원인 기사 미확인(버그 수정 외 정보 없음)",
+      "summary": "한국어 기사 검색에서 eFootball의 구글 매출 순위 55계단 상승을 직접 설명하는 기사를 찾지 못했습니다. 스토어 최근 업데이트 내역에는 '버그를 수정했습니다'라는 문구만 있어 매출 상승과의 연관을 확인할 수 없습니다. 검색에서 나온 11월 5일 점검 후 신규 캠페인과 패키지 관련 정보는 영문 매체 보도이며 순위 상승과의 연결이 확인되지 않아 근거로 쓰지 않았습니다. 따라서 상승 원인은 추측에 해당하며 공식 공지나 게임 내 뉴스 확인이 필요합니다.",
+      "articles": [],
       "icon": "https://play-lh.googleusercontent.com/jn-jaGEFUPiu0dBP9O6PjiRk-BCwFFLm0RdeOjLH-qLYjhHJlzNBMgl3Sah24htajj67_fdve-DzGsqmMUx1tqQ=w128",
       "screenshots": [
         "https://play-lh.googleusercontent.com/CfFU4pqBrg8fQRMF6uXwiHY_xSFkT3O-BKkiOITrEQ6XxOe0RDg3O9o3H4d9RT7z4ZEU2C3mv3GUU6wTMGNVB_0=w400",
@@ -3494,25 +3502,25 @@
     }
   },
   "com.epidgames.trickcalrevive": {
-    "researchedAt": "2026-11-01T19:14:42.685Z",
+    "researchedAt": "2026-11-13T14:46:12.067Z",
     "verified": true,
     "data": {
       "verified": true,
       "category": "컨텐츠 업데이트",
-      "short": "3주년 업데이트·기념 이벤트로 구글 매출 상위권 진입",
-      "summary": "에피드게임즈는 3주년을 맞은 트릭컬 리바이브가 국내 구글플레이 매출 4위에 올라 서비스 이후 최고 순위를 기록했다고 밝혔고, 3주년 업데이트의 대규모 무료 보상이 이를 뒷받침했다. 경향게임스는 3주년 기념 사전 예약과 다양한 이벤트, 대규모 업데이트가 국내와 일본 매출 순위 급등의 배경이라고 분석했다. 다만 확인된 기사들은 3주년 기간의 순위 급등을 다루며, 현재 39위까지의 하락 구간이나 스토어에 적힌 시즌3 챕터 8-B와 버터 사복패스는 직접 언급하지 않는다.",
+      "short": "3주년 업데이트·신규 사도 비비·우이 추가 효과로 구글 매출 급등",
+      "summary": "2026년 9월 24일 3주년 업데이트로 신규 엘다인 사도 '비비'와 '우이'가 추가되고 대규모 무료 뽑기 보상이 제공되면서 국내 구글플레이 매출이 7위에서 4위, 이후 3위까지 올랐다는 보도가 있습니다. 같은 시기 일본 1주년 업데이트도 겹쳐 일본 애플 매출 3위를 기록했습니다. 다만 찾은 기사는 주로 9월 말~10월 초 상승을 다루고 있어, 현재 48위로 25계단 오른 흐름이나 최근 '사복 세트'·'메인스토리 시즌3 외전 A' 업데이트와의 직접적 연관은 확인되지 않았습니다.",
       "articles": [
         {
-          "title": "3주년 힘 받은 트릭컬 리바이브, 구글 매출 4위에 올라 (게임메카)",
-          "url": "https://www.gamemeca.com/en/view.php?gid=1781228"
+          "title": "트릭컬 리바이브, 3위까지 찍었다…구글 매출 '역대 최고' 다시 경신",
+          "url": "https://m.news.nate.com/view/20261002n35398?mid=m05&list=recent&cpcd="
         },
         {
-          "title": "'트릭컬' 韓日 매출 순위 급등, 서비스 3주년 효과 '뚜렷' (경향게임스)",
-          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=308816"
+          "title": "애니 공개에 3주년 겹경사, '트릭컬 리바이브' 구글 매출 4위 기록",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321647"
         },
         {
-          "title": "‘트릭컬 리바이브’, 日 출시 1주년 맞아 매출 최상위권 등극 (게임뷰)",
-          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=61079"
+          "title": "트릭컬 리바이브, 3주년 구글 매출 4위 역대 최고 기록 경신",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=308922"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/OCiuBv70Dnuw9wcGet3EtTUF2nEkS1vhYYkvOahe9-MmKg6EhxGkf-9ZVxnWIJXflQSmfOIjTcaSbwJSJyuzHA=w128",
@@ -3524,7 +3532,7 @@
       ],
       "video": null,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.epidgames.trickcalrevive&hl=ko&gl=kr",
-      "recentChanges": "메인스토리 시즌3 챕터 8-B 오픈!<br>버터 사복패스 출시!"
+      "recentChanges": "메인스토리 시즌3 외전 A 오픈!<br>[기연! 풍파 끝에 인연이 피어나다] 사복 세트 출시!"
     }
   },
   "6475033368": {
@@ -3897,14 +3905,27 @@
     }
   },
   "6749251466": {
-    "researchedAt": "2026-11-06T14:46:41.200Z",
-    "verified": false,
+    "researchedAt": "2026-11-13T14:46:18.995Z",
+    "verified": true,
     "data": {
-      "verified": false,
-      "category": "콜라보",
-      "short": "어메이징 디지털 서커스 콜라보 쿠키 추가로 인한 상승 추정(기사 미확인)",
-      "summary": "검색으로는 43계단 상승 원인을 직접 다룬 최신 한국어 기사를 찾지 못했다. 찾은 기사는 출시 2주 성적이나 10월 패치 티어표 등이며 이번 순위 변동을 설명하지 않는다. 따라서 제공된 스토어 업데이트 내역을 근거로 판단하면, 어메이징 디지털 서커스 콜라보 쿠키 추가가 가장 큰 요인으로 보이며, 레디베리 쿠키 추가와 일일던전 레벨 확장이 보조 요인일 가능성이 있다. 다만 이는 추정이며 매출 이벤트 등 다른 요인의 영향은 확인되지 않았다.",
-      "articles": [],
+      "verified": true,
+      "category": "컨텐츠 업데이트",
+      "short": "최근 업데이트 후 매출 순위 회복, 디지털 서커스 콜라보 효과 언급",
+      "summary": "기사들은 쿠키런: 크럼블이 최근 업데이트 이후 국내 앱스토어 매출 순위를 다시 끌어올렸다고 전합니다. 업데이트의 핵심으로는 어메이징 디지털 서커스 콜라보 던전과 신규 스테이지가 공식 X 계정에서 소개되었습니다. 다만 기사의 3위 재진입 기록은 기사 작성 시점 기준이며, 현재 47위와는 집계 시점이 다를 수 있습니다.",
+      "articles": [
+        {
+          "title": "데브시스터즈, 쿠키런 신작 힘입어 흑자 전환",
+          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112961"
+        },
+        {
+          "title": "3분기 흑자 전환 성공한 데브시스터즈, 글로벌 시장 확대는 지속",
+          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62153"
+        },
+        {
+          "title": "'쿠키런: 크럼블'·'쿠키런 클래식'이 힘냈다…데브시스터즈, 3분기 영업이익 흑자 전환",
+          "url": "https://m.news.nate.com/view/20261110n25883"
+        }
+      ],
       "icon": "https://play-lh.googleusercontent.com/J2vWNQT3sCqTzkmkSMVcq8y-X3V4LXv7Z_mL95REkMSiLMkzteR3TRzF2j3CyV1fENiJ3CTy-AcAjN5lA1Tlpg=w128",
       "screenshots": [
         "https://play-lh.googleusercontent.com/aF9pKQBZHHZW8C_oDKSSjTKwot4OBB7XbgTFrmcmPne7sscMdGh6_SsOGS9DglYIRnUnl_5ZaDay7AGm8o04_w=w400",
@@ -4452,6 +4473,49 @@
       "videoImage": "https://play-lh.googleusercontent.com/i4qsMHxuIWaahK1Il1jhHj8Etovo-bpK_ucAz4D5-Fx8x72cua5H1WxfSpiBx3S067taEESlfrNuEhILOZm1RCc=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.smilegate.chaoszero.stove.google&hl=ko&gl=kr",
       "recentChanges": ""
+    }
+  },
+  "6443575749": {
+    "researchedAt": "2026-11-13T14:46:32.569Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "기타",
+      "short": "최근 업데이트는 버그 수정뿐, 상승 원인 미확인",
+      "summary": "검색으로는 이 게임의 7계단 상승 원인을 직접 설명하는 최신 한국어 기사를 찾지 못했다. 제공된 스토어 업데이트 내역은 버그 수정과 안정성 강화만 담고 있어 매출 순위 급등을 설명하기에 근거가 약하다. 확인되지 않은 이벤트나 프로모션을 원인으로 단정할 수 없으므로 원인은 미확인으로 둔다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/wgV7Vk8afyNQoKWmoPYdm8jQh68lr1sJeYKIzx30ajqntBX_eQE-gnF0IEQdUrbSqqwOMd36BebwI-CyGmkETj0=w400",
+        "https://play-lh.googleusercontent.com/BRJytIfT6PQhqVApU6me7IT8yZcKXUiTC1nKo3TXI_N-UudOi1_JmxOvBYUAKoQqNSQ0m3KwHHl-M9RysQq83oE=w400",
+        "https://play-lh.googleusercontent.com/OpBH5kelv8rxm0_8wdsW1xVWclLDcmQMzH-ICFJCjn6lTyxf83ffEqnEIVIlgaTu66LUY8XjitgyYw1n80XAbeU=w400",
+        "https://play-lh.googleusercontent.com/J6B7zHgUyuQsL8H5K6ZO0U-C2n3-KFxvGQ8TIzO0b2b48i9duE-oKjfXkdHhbN82hAt1O4PI2hJEscVcr5zZbRc=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.gof.global&hl=ko&gl=kr",
+      "recentChanges": "[최적화 및 조정] <br><br>1. 여러 버그를 수정하여 게임의 안정성을 강화하고 원활한 경험을 보장했습니다."
+    }
+  },
+  "com.ryonggame.dragonknightidle": {
+    "researchedAt": "2026-11-13T14:46:55.866Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "축복 시스템·신규 보스 3종·이벤트 추가 등 업데이트 효과(추정)",
+      "summary": "최신 한국어 기사에서 순위 상승 원인을 확인하지 못해 스토어 업데이트 내역을 근거로 판단했다. 업데이트에는 축복 시스템, 신규 보스 3종, 단풍 축제 및 방치 이벤트, 스테이지·콘텐츠 확장이 포함되어 있어 신규 콘텐츠가 유입을 늘렸을 가능성이 있다. 다만 실제 매출 상승의 직접 원인은 기사로 검증되지 않았으므로 추정이다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/kT-XLUyO3crdy2KpBXK9wDkrw-o_LtxMTUZ-udm0mqrJ0yRhRxwWhfY0vUEFtb8JLp8GcpX1DG3WGWp5psVwsFE=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/sVX8o6ifaxxLaTZeSGe-Sko7yJmk_fJ8CfL94pX7gFgyQpdI-g21JtusgpE70awC98hbbu4gTVmNd0URj1DBDQ=w400",
+        "https://play-lh.googleusercontent.com/4KN94oBOYwlICGMNZJuXEwoP5li8CYBYv-GRL327IhXqW1OtQUy18TDRGHhAbptFz-qbTtqNmhfiHtmU8XZoTQ=w400",
+        "https://play-lh.googleusercontent.com/y9-mPN-UStQNY5pJO2TrAgu4rPa3ackDJ9RT6tGj3zvlnT6fK-qTZy5TaWG7N9qVzi1cLr3F2j12SGrucWsHqxg=w400",
+        "https://play-lh.googleusercontent.com/kN_UHARbsOTcarchsmTZColG6j4ohDbdft-bYQvTB3rHL5ULJcwEqjAGHj-g8TYGr43CWsVjMq-C6MJOtdXpndk=w400"
+      ],
+      "video": "https://www.youtube.com/embed/iBxXsj4fbR0?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/sX3TSxQek4nZPbmqzcH_dwV3Fj_nbKjgfpwpsj_GIvT0vTsjfalg1cM3DMzIoFHXUjMWxZQVp1FA2FUxgSgA=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.ryonggame.dragonknightidle&hl=ko&gl=kr",
+      "recentChanges": "길드 오류 수정<br>-----------------------------------<br>1.축복 시스템 추가<br>2.신규 보스 3종 추가<br>3.단풍 축제 이벤트 추가<br>4.방치 이벤트 추가<br>5.스테이지,컨텐츠 확장<br>6.버그 수정, 최적화"
     }
   }
 }
