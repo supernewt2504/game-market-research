@@ -363,6 +363,13 @@
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ae/00/f9ae00da-b031-6e83-77f6-cd14b457aae3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
+  "1465731199": {
+    "released": "2019.05.31",
+    "developer": "Moreno Maio",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/21/73/b42173ba-ff97-524d-e384-db5e0c53052d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
   "1466736988": {
     "released": "2020.05.11",
     "developer": "NEXON Company",
@@ -515,6 +522,13 @@
     "developer": "SuperPlanet",
     "country": null,
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/68/c8/8868c81f-62f5-3e67-9269-158f5336ee20/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "1524791715": {
+    "released": "2021.02.22",
+    "developer": "Qookka Entertainment Limited",
+    "country": "CN",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/2f/6f/a42f6f5f-d65e-2d12-a8da-e05ad5d3aae0/AppIcon-kr-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
     "source": "apple"
   },
   "1528941310": {
@@ -2129,7 +2143,7 @@
   "6448746491": {
     "released": "2023.06.20",
     "developer": "KSEEK Corp.",
-    "country": null,
+    "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/26/b0/6126b02d-2082-c64d-1d0b-f77e59a3d1f6/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -6547,7 +6561,7 @@
   },
   "gal:pianotiles3": {
     "developer": "G3 studio",
-    "country": null,
+    "country": "KR",
     "source": "kr-onestore",
     "title": "프로즌 피아노 - don't tap the white tile.(piano tiles)",
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/201405/22/IF1423502186920131018203255/0000664137/img/original/0000664137_DP000101.png",
@@ -7264,7 +7278,7 @@
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/15/SE202211301125312470060547/0001007149/ko/img/original/0001007149_20260915100928.png",
     "released": "2026.10.15",
     "developer": "TeamQuest Co.,Ltd",
-    "country": null,
+    "country": "KR",
     "source": "kr-onestore",
     "title": "왓더뼈킹 : 20000뽑기 FLEX!"
   },
@@ -8151,7 +8165,7 @@
   "com.vialmagic.colorsort": {
     "released": "2026.10.30",
     "developer": "juyi",
-    "country": null,
+    "country": "CN",
     "icon": "https://play-lh.googleusercontent.com/SIVf-AvZcnr2FKigiiUCBpZlkMi02OQafI3aUTExwxoZN0iJAH4gfF5cEQolpy4o4vdP7eJfD44I3PCEkrqQ=w48",
     "source": "google"
   },
@@ -8278,7 +8292,7 @@
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202608/26/SE202308111528228040062171/0001008510/ko/img/original/0001008510_20260826115142.png",
     "released": "2026.11.11",
     "developer": "MIAO PLAY ENTERTAINMENT NETWORK •••",
-    "country": null,
+    "country": "CN",
     "source": "kr-onestore",
     "title": "미르의 전설2: 레볼루션"
   },
@@ -8348,6 +8362,62 @@
     "developer": "Joy Net Games",
     "country": null,
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/36/45/5836455b-9904-0dc7-7ea4-fedaf2562cba/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "com.arrowflow.escape.puzzle.game": {
+    "released": "2026.08.10",
+    "developer": "Adaric Ltd",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/9Awn-pf68Gb0SUTRgzBR-0dmCD9xaItuQW4EXrXXHBIKBviGk3-bhvY0N708QRqE8KRO7_hK_fhWI3zFpinnXA=w48",
+    "source": "google"
+  },
+  "com.rastargames.cdjzkr": {
+    "released": "2026.10.26",
+    "developer": "RASTAR GAMES HK",
+    "country": "HK",
+    "icon": "https://play-lh.googleusercontent.com/OknIVreo1WcoLK5U4KRXVKp9qFmDbVuoVTzvPfJVzHf7FNLrkUl00TwBobHuVrj_hTKSkxCSURrr9Z37KjAEmg4=w48",
+    "source": "google"
+  },
+  "com.tempogames.thebazaar": {
+    "released": "2026.11.06",
+    "developer": "Tempo Games Studio",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/V29ElR2eW5DfHQK69E-vm_AyLB1KP7HINazSTG5-enRgrcpsNEHaRtCswCY_t4YOMyBverrOdqweWG68ijHRXg=w48",
+    "source": "google"
+  },
+  "com.fungames.blockcraft": {
+    "released": "2016.08.24",
+    "developer": "Wildlife Studios",
+    "country": "BR",
+    "icon": "https://play-lh.googleusercontent.com/cW5-ehIemeFEMYScpxS_tUf9aSmvxcT3Yo-a2-_CisAuSf1XzGY0DvbktsKkNFUNn9twLAJgzmXvsgdr4MqCXw=w48",
+    "source": "google"
+  },
+  "6824833886": {
+    "released": "2026.11.12",
+    "developer": "cookapps",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/dd/6e/cfdd6eab-b962-37fe-cb52-5827189a0bf5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6761100469": {
+    "released": "2026.03.25",
+    "developer": "美玲 陆",
+    "country": "CN",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/fb/63/22fb63e2-7291-ad8c-598f-eea97c5c3d65/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6472396866": {
+    "released": "2025.12.10",
+    "developer": "NETEASE INTERACTIVE ENTERTAINMENT PTE. LTD",
+    "country": "CN",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/51/07/7a5107a1-5fa4-9ed7-86e9-2589bb0ed864/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6800226885": {
+    "released": "2026.10.14",
+    "developer": "Sunflower Network Technology Co., Limited",
+    "country": "HK",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/81/7e/c0817e7b-e1ef-b2e7-898f-bc91572fa257/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   }
 }
