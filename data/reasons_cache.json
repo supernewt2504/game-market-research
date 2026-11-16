@@ -75,13 +75,13 @@
     }
   },
   "638689075": {
-    "researchedAt": "2026-11-14T14:46:43.363Z",
+    "researchedAt": "2026-11-16T14:47:34.355Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "시즌·패스",
-      "short": "크리스마스 시즌 패스·카드 컬렉션 업데이트로 추정(미검증)",
-      "summary": "최신 한국어 기사는 찾지 못해 검증되지 않았습니다. 스토어 업데이트 내역 기준으로 알파인 패스와 크리스마스 패스를 통한 자원 획득, 크리스마스 카드 컬렉션, 마이크로프트·리처드·엘런 관련 신규 모험이 함께 추가되어 연말 시즌 콘텐츠가 매출 상승의 주된 요인으로 보입니다. 레가타 크리스마스 크루즈와 신규 건물 '바리스타 학교'도 복귀 및 지출 유도에 기여했을 것으로 추정되나, 매출 데이터로 확인된 내용은 아닙니다.",
+      "short": "크리스마스 시즌 패스·홀리데이 컬렉션 업데이트로 순위 상승 추정",
+      "summary": "한국어 기사는 찾지 못해 스토어 업데이트 내역을 근거로 판단했으며 검증되지 않은 추정입니다. 업데이트에는 알파인·크리스마스 패스로 자원을 얻는 시즌 기능, 홀리데이 카드 컬렉션 완성 보상, 크리스마스 테마 모험 및 레가타 시즌이 포함되어 있습니다. 연말 시즌 콘텐츠가 집중 출시되면서 매출 상승에 기여했을 가능성이 있으나, 이를 입증하는 매출 데이터는 확인하지 못했습니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU=w128",
       "screenshots": [
@@ -320,21 +320,25 @@
     }
   },
   "1128255542": {
-    "researchedAt": "2026-10-27T03:02:52.653Z",
-    "verified": true,
+    "researchedAt": "2026-11-16T14:46:53.905Z",
+    "verified": false,
     "data": {
-      "verified": true,
-      "category": "컨텐츠 업데이트",
-      "short": "10/14 풍요의 계절 업데이트·릴레이 보상 영향 추정",
-      "summary": "10월 14일 업데이트로 '풍요의 계절' 이벤트가 10월 14일부터 11월 3일까지 3주간 열렸고, 21일 동안 매일 오후 3시에 릴레이 보상이 지급되었습니다. 시련의 탑과 황금 슬라임 이벤트도 함께 재개되었고 레거시 월드에 진돗개 변신 카드가 추가되었습니다. 다만 해당 기사는 차트 순위 변동을 직접 다루지 않아, 순위 상승과의 연관은 시기상 추정입니다.",
+      "verified": false,
+      "category": "기타",
+      "short": "기사상 상위권 보도와 35위 차트 불일치, 상승 원인 미확정",
+      "summary": "찾은 2026년 11월 기사들은 리니지M이 앱스토어 1~3위권에 있었다고 보도하며, 대규모 업데이트 기대감, 이벤트와 상품 판매, 퍼플 자체 결제 효과를 순위 상승 배경으로 언급합니다. 다만 현재 35위로의 10계단 상승 자체를 다룬 기사는 찾지 못했고, 보도된 순위와 입력된 차트 수치가 맞지 않아 원인을 확정할 수 없습니다. 제공된 스토어 업데이트 내역(recentChanges)이 없어 추가 근거 확인이 필요합니다.",
       "articles": [
         {
-          "title": "풍요의 계절이 온다...리니지M, 3주간의 릴레이 보상 시작",
-          "url": "https://www.playforum.net/news/articleView.html?idxno=635581"
+          "title": "'매출 최상위' 리니지M, 장수 흥행 비결은 '소통'",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=310159"
         },
         {
-          "title": "[정보] 리니지M, 10월 3주차 '한정 · 주말 특별 제작' 정보",
-          "url": "https://www.inven.co.kr/webzine/news/?news=322413"
+          "title": "'리니지M' 장수 인기작 저력...국내 구글 매출 1위 기록",
+          "url": "https://www.techm.kr/news/articleView.html?idxno=156998"
+        },
+        {
+          "title": "리니지M 5주년 수상, 매출 2위 견고한 이유",
+          "url": "https://aboda.kr/entry/%EB%A6%AC%EB%8B%88%EC%A7%80m-5%EC%A3%BC%EB%85%84-%EC%88%98%EC%83%81-%EB%A7%A4%EC%B6%9C-2%EC%9C%84-%EA%B2%AC%EA%B3%A0%ED%95%9C-%EC%9D%B4%EC%9C%A0"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/MzMjZDpV2qLj34eMjWXBNSyOaSINWvqjWuzF7W0LiazKbWbqae230F0BwkATJl4eQd1a6S1Lp1SLeRn6tRUt=w128",
@@ -725,14 +729,19 @@
     }
   },
   "1471486284": {
-    "researchedAt": "2026-11-01T19:14:12.363Z",
-    "verified": false,
+    "researchedAt": "2026-11-16T14:47:28.860Z",
+    "verified": true,
     "data": {
-      "verified": false,
+      "verified": true,
       "category": "컨텐츠 업데이트",
-      "short": "레이크 레이스 이벤트·슬롯 신규 출시로 참여·매출 증가 추정",
-      "summary": "스토어 업데이트 내역에는 저녁 골든타임 레이크 레이스 1등 상금 이벤트, Lucky Pearls Paradise 슬롯 신규 출시, 일일 업무 보너스 코인 등 참여와 과금을 유도하는 콘텐츠가 담겨 있다. 이번 40계단 상승을 직접 다룬 기사는 찾지 못해 검증되지 않았다. 다만 2026년 3월 웹보드 게임 결제 한도 완화 이후 한게임 포커가 구글 플레이 매출 상위권에 오른 사례가 있어 배경 요인일 가능성은 있다.",
-      "articles": [],
+      "short": "길드전 대규모 개편(도시 16곳·주간 보상 3조 골드)",
+      "summary": "NHN은 2026년 11월 초 한게임포커의 길드전을 대규모로 개편했다. 점령 가능한 도시를 8곳에서 16곳으로 늘리고 주간 보상을 게임머니 3조 골드로 확대했으며, 출석과 게임 플레이로 모은 포인트를 투자하는 길드 스킬 12종을 추가했다. 다만 기사들은 이 개편이 매출 순위 상승으로 이어졌다고 직접 언급하지는 않으므로, 순위 상승과의 연관성은 추가 확인이 필요하다. 앱 스토어 업데이트 내역의 레이크 레이스 등 이벤트도 함께 고려할 만하다.",
+      "articles": [
+        {
+          "title": "NHN ‘한게임포커’, 길드전 대규모 개편",
+          "url": "https://www.ftoday.co.kr/news/articleView.html?idxno=368680"
+        }
+      ],
       "icon": "https://play-lh.googleusercontent.com/Imi0dOs8mMcOxNvc4MGXbfdG1QNKgE70v1DYU4GTIXPlbCy5RGoC-XjBRdEwvb-jDGXAXFj9j43c7flORYphv7I=w128",
       "screenshots": [
         "https://play-lh.googleusercontent.com/BXYiyHwZCYaoVodqUc_KFNESgte_4HCtyWDVhDfLEdxw9bSdZz-RimpKbOd-c6pVJWNGQPuacf1gY1Razh8J=w400",
@@ -765,6 +774,27 @@
       "videoImage": "https://play-lh.googleusercontent.com/IezSuMiicJVAWbnQs6s2GyBrQTH0YzIMIlkhsfrMU4-OlVng9iZsB3bwPFTHTGQfcTZ8YU6R6ZkNZFYac6YbNw=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.NHNEnt.MSudda&hl=ko&gl=kr",
       "recentChanges": "▶ 족보도 모르던 초짜가 타짜가 되기까지의 이야기! 타짜의 길 추가<br>▶ 보너스 피도 피잖여, 싹 다 내놔유! 큐라백작 한능청 등장!<br>▶ 할로윈 맞이! 유령 삥아리 한정 상품 출시!<br>▶ 초월 수호령 곡옥 교환 수량 밸런스 개선<br>▶ 일일목표 보상이 동호회 회장에서 나의 랭킹전 등급으로 변경<br>▶ 2장 섯다 20억 경기장 최소 입장 머니 조정<br>▶ 입장 머니 부족 시 자동 금고 출금 설정되는 금액 조정<br>▶ 로비 금고 출금 일 100회 초과 시 3% 수수료 적용<br>▶ 신규 캐릭터 나최고 상점 출시<br>▶ 기타 오류 수정 및 서비스 개선"
+    }
+  },
+  "1473903308": {
+    "researchedAt": "2026-11-16T14:46:20.108Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "스토어 업데이트 기반 추정, 기사 근거 미확인",
+      "summary": "검색으로 찾은 명일방주 관련 기사는 4주년, 6주년 등 과거 대형 업데이트를 다룬 것이었고, 현재 App Store 32위 신규 진입 원인을 직접 설명하는 최신 기사는 확인하지 못했습니다. 따라서 순위 상승 원인은 제공된 스토어 업데이트 내역(신규 이벤트 개방, 한국어 음성 업데이트, 안정성·텍스트 개선, UI 최적화)에 근거한 추정입니다. 특히 한국어 음성 추가는 신규 유입을 유도할 수 있는 요소이나, 실제 순위 변동 원인으로 확정할 근거는 없습니다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/fhgbWvrtqYEYlJiRI2Bk-__-4p2dx4VPVI-LZZ0Dz7sUWnw5EIu3g8Pitr6qmLRzI8yog8PJvFnm97GA0jg=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/qilCsKwbwyza3EuP5UVtASxyG0HAn7s7-nrMBwy5pTvrkwsWObMN4OxFXea8j-gzd2ISy-4vLDIYehBehY2ZUQ=w400",
+        "https://play-lh.googleusercontent.com/b3CmUgCOE39Jc9v5sEHgZHhT4E4m8K8JXEGBnmt70fUXlW1g3mU3l12D66Exr6PGf79TfwfdmtSgbg0r-2VsxbM=w400",
+        "https://play-lh.googleusercontent.com/74LJP5007euS1TjBDkHoNYwwjtJ-oX2E6EpiWdF2RZ3s0leGj162cwmt1IJ0J4YNxD7ycyaBafoyJ9PNV0QA5w=w400",
+        "https://play-lh.googleusercontent.com/p44iZAwSZWqyyGqykgGV25JTDFT0_qXkBoabDdM_VaX-H62awQDX5hEg__P_SBAxp6mn4BeGZp5yE1u5r2NO_g=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.YoStarKR.Arknights&hl=ko&gl=kr",
+      "recentChanges": "- 신규 이벤트 개방 <br>- 한국어 음성 업데이트 <br>- 안정성 개선&amp;텍스트 표기 개선 <br>- UI 화면 최적화"
     }
   },
   "1474589366": {
@@ -960,13 +990,13 @@
     }
   },
   "1521236603": {
-    "researchedAt": "2026-11-09T14:47:03.033Z",
+    "researchedAt": "2026-11-16T14:46:42.567Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "기타",
-      "short": "구체적 원인 미확인, 스토어 업데이트 내역만 확인됨",
-      "summary": "검색으로 찾은 한국어 기사 중 이번 12계단 상승을 직접 다룬 자료는 없었다. 최근 업데이트 내역은 게임 개선과 버그 수정을 알리는 일반 공지뿐이라 구체적인 이벤트나 콘텐츠를 특정할 수 없다. 확인된 자료는 2024년 상반기 LiveOps 이벤트 증가 분석 등 과거 성과 중심이므로, 이번 순위 변동의 원인으로 단정하기 어렵다.",
+      "short": "최근 업데이트 내역만으로는 원인 특정 불가, 기존 성장 추세 참고",
+      "summary": "최신 한국어 기사는 찾지 못했다. 스토어 업데이트 내역은 일반적인 개선·버그 수정 안내 문구뿐이라 이번 13계단 상승의 구체적 원인을 특정할 수 없다. 검색된 자료는 모두 수년 전 분석으로, Moon Active 인수 이후 UA 투자 확대와 높은 ARPDAU가 장기 성장의 배경이었다고 설명하지만 이번 순위 변동과 직접 연결되는 자료는 없다. 따라서 신규 이벤트나 콜라보 등 단기 요인은 확인되지 않았으며, 추가 확인이 필요하다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/_YoJBEqLA6qZ0xiulFJWKfubaZmxzyphcW4BwMIXFapkO3ifyuVsnMaLkWQClMPuUnahVtIAtyU_baUHLOdP2A=w128",
       "screenshots": [
@@ -1954,13 +1984,13 @@
     }
   },
   "6475757306": {
-    "researchedAt": "2026-11-08T14:47:03.397Z",
+    "researchedAt": "2026-11-16T14:47:20.041Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "신규 레벨·캐릭터·기능 업데이트가 순위 상승 추정 근거",
-      "summary": "순위 상승 원인을 직접 다룬 최신 한국어 기사는 찾지 못했다. 스토어 업데이트 내역에 따르면 신규 레벨, 신규 디즈니 캐릭터, 신규 기능 추가와 성능 개선이 포함되어 있어, 이것이 순위 상승의 계기였을 가능성이 있다. 다만 이는 업데이트 내용에 근거한 추정이며, 매출 순위 변동의 정확한 원인이나 마케팅 효과는 확인되지 않았다.",
+      "short": "신규 레벨·디즈니 캐릭터·기능 추가 업데이트로 6계단 상승 추정",
+      "summary": "검색으로는 이 게임의 순위 상승을 직접 다룬 최신 한국어 기사를 찾지 못했습니다. 제공된 스토어 업데이트 내역에는 새 레벨 추가, 새로운 디즈니 캐릭터 잠금 해제, 새로운 디즈니 기능 추가, 성능 개선이 적혀 있어 콘텐츠 업데이트가 상승 원인일 가능성이 있습니다. 다만 이는 업데이트 내역에 근거한 추정이므로 확정된 원인으로 보기 어렵고, 같은 기간의 프로모션이나 매출 이벤트 여부는 확인되지 않았습니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/BpyKPyeCiAoCtYP23WtOoHW1G_4IAGUyk4G6V_5YNmXomuBwNC5ZnSq5OfxejW-Ufuukma8-UYZirB2wz3m8UnM=w128",
       "screenshots": [
@@ -2059,13 +2089,13 @@
     }
   },
   "6756989323": {
-    "researchedAt": "2026-11-09T14:47:16.393Z",
+    "researchedAt": "2026-11-16T14:46:25.902Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "기타",
-      "short": "최신 원인 기사 미확인, 스토어 업데이트는 'New Update.'만 표기",
-      "summary": "현재 40위 상승의 직접 원인을 설명하는 최신 한국어 기사는 찾지 못했다. 스토어 최근 업데이트 내역이 'New Update.'로만 되어 있어 구체적인 이벤트나 콘텐츠 내용을 특정할 수 없다. 검색된 자료는 2026년 3월 글로벌 매출 성장 순위 등 과거 실적 위주이므로, 이번 8계단 상승은 추가 확인이 필요하다.",
+      "short": "원인 미확인: 스토어 업데이트 내역에 구체 내용 없음",
+      "summary": "최신 한국어 기사에서 이번 21계단 상승의 직접적인 원인을 확인하지 못했습니다. 제공된 스토어 업데이트 내역은 'New Update.'뿐이라 어떤 콘텐츠가 추가됐는지 알 수 없습니다. 검색된 자료 중 게임의 매출 성과를 다룬 것은 2026년 3월 기준 글로벌 순위 자료뿐이어서 현재 순위 상승과 직접 연결되지 않습니다. 따라서 상승 원인은 추가 확인이 필요합니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP=w128",
       "screenshots": [
@@ -2146,13 +2176,13 @@
     }
   },
   "6448786147": {
-    "researchedAt": "2026-11-13T14:46:24.245Z",
+    "researchedAt": "2026-11-16T14:46:31.302Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "기타",
-      "short": "기사 미확인, 최근 업데이트는 버그 수정뿐이라 상승 원인 불명확",
-      "summary": "최신 한국어 기사에서 이 게임의 App Store 매출 순위 상승을 설명하는 내용을 찾지 못했습니다. 검색된 자료는 이벤트 진행 방식과 나무위키 등 일반 정보에 그쳤습니다. 제공된 스토어 업데이트 내역은 연맹 스타 파티 비정상 소멸 문제를 고친 버그 수정뿐이어서, 이것이 8계단 상승의 직접 원인이라고 보기는 어렵습니다. 따라서 상승 원인은 확인되지 않았으며, 매출 이벤트나 신규 콘텐츠 여부는 추가 확인이 필요합니다.",
+      "short": "최신 상승 기사 미확인, 버그 수정 업데이트만 확인됨",
+      "summary": "이번 검색에서는 현재 App Store 매출 18계단 상승(30위)의 원인을 직접 다룬 최신 한국어 기사를 찾지 못했다. 확인된 스토어 최근 업데이트는 특수 상황에서 연맹 스타 파티가 비정상 소멸하는 문제를 고친 버그 수정뿐이며, 이는 매출 상승을 설명하는 콘텐츠나 이벤트가 아니다. 따라서 상승 원인은 확정할 수 없고, 신규 이벤트나 프로모션 여부는 추가 확인이 필요하다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc=w128",
       "screenshots": [
@@ -2167,13 +2197,13 @@
     }
   },
   "6767834940": {
-    "researchedAt": "2026-11-06T14:47:59.043Z",
+    "researchedAt": "2026-11-16T14:47:15.557Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "마차 보상 일괄 수령 업데이트 추정, 기사 미확인",
-      "summary": "검색으로는 탑 로드의 순위 상승을 다룬 최신 한국어 기사를 찾지 못했다. 스토어 최근 업데이트 내역에는 마차 보상을 운행 완료한 모든 마차 기준으로 한 번에 받을 수 있게 한 편의 기능 개선과 일부 건물 설명문 조정이 있어, 이것이 상승 요인일 가능성은 있다. 다만 이는 업데이트 내역에 근거한 추정이며 매출 증가의 직접 원인으로 확인된 것은 아니다.",
+      "short": "신하·국왕 칭송·항해선 시스템 추가 및 자동 번역 기능 업데이트 (스토어 기준)",
+      "summary": "탑 로드 관련 한국어 기사를 검색했으나 게임과 직접 관련된 기사를 찾지 못했습니다. 따라서 스토어 최근 업데이트 내역을 근거로 판단하며, 신하 시스템·국왕 칭송 기능·항해선 기능 추가와 채팅창에서 설정 가능한 자동 번역 기능이 신규 유저 유입이나 기존 유저 복귀를 이끌었을 가능성이 있습니다. 다만 이는 추정이며 매출 순위 상승의 정확한 원인은 확인되지 않았습니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/F9Nk01jBia2OZFGndBuTP-rJ-ThbicTHpxJj3iZIk-M1-V8qFhVuVQWYAG_zCuggkiRXHrfqyU5XwZPhAJyAfA=w128",
       "screenshots": [
@@ -2184,7 +2214,7 @@
       ],
       "video": null,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.gamespark.topking.gp&hl=ko&gl=kr",
-      "recentChanges": "마차 보상 수령 시, 운행 완료한 모든 마차의 보상 일괄 수령.<br>일부 건물의 설명문 조정. 건물 주요 기능 위주로 작성."
+      "recentChanges": "[신하] 시스템 추가.<br>[국왕 칭송] 기능 추가.<br>[항해선] 기능 추가.<br>자동 번역 기능 추가. 채팅창에서 활성화 여부 설정 가능."
     }
   },
   "6739554056": {
@@ -2735,21 +2765,25 @@
     }
   },
   "6504389641": {
-    "researchedAt": "2026-11-04T20:58:13.350Z",
+    "researchedAt": "2026-11-16T14:47:05.411Z",
     "verified": true,
     "data": {
       "verified": true,
       "category": "컨텐츠 업데이트",
-      "short": "길드 성물 방어전 등 업데이트 후 매출 상위권 유지",
-      "summary": "8월 26일 출시 후 두 달째에도 매출 상위권을 유지하고 있으며, 10월에는 모바일인덱스 집계 월간 매출 1위를 기록했다. 10월 28일 최대 60명이 협동해 성물 3개를 지키는 길드 콘텐츠 '성물 방어전'이 추가되고 참여 보상 이벤트가 함께 시작되면서 순위 상승의 계기가 된 것으로 보인다. 다만 확보한 기사에서는 앱스토어 매출 10계단 상승이나 현재 10위라는 수치를 확인하지 못했고, 한 기사는 앱스토어 17위로 보도해 차트 수치는 추가 확인이 필요하다.",
+      "short": "요새전 신규 길드전 추가 + 출시 100일 전야제 이벤트",
+      "summary": "에이버튼이 개발하고 컴투스가 퍼블리싱한 이 게임에 공성전 입찰에서 탈락한 길드끼리 겨루는 신규 길드 콘텐츠 '요새전'이 추가됐다. 요새전은 길드 두 곳씩 최대 세 그룹으로 나뉘어 중앙 점령석을 파괴하고 거점을 지키며 점수를 겨루는 1대1 점령전이며, 시즌 누적 세금의 일부가 상금으로 지급된다. 여기에 12월 3일 출시 100일을 앞둔 전야제 이벤트(출석·미션 보상)가 함께 열려 복귀와 신규 유입을 자극한 것으로 보인다. 스토어 업데이트 내역의 '아디톤 요새전' 추가와 같은 업데이트로 확인된다.",
       "articles": [
         {
-          "title": "컴투스 '제우스' 10월 매출 정상, '도깨비의세계' 주간 3주 연속 선두",
-          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=61997"
+          "title": "'제우스: 오만의 신', 100일 앞두고 신규 길드 콘텐츠 '요새전' 추가",
+          "url": "https://www.thisisgame.com/articles/432519"
         },
         {
-          "title": "서머너즈 워·야구 이어 '제우스'…컴투스, 주력 라인업 넓힌다",
-          "url": "https://zdnet.co.kr/view/?no=20261029225904"
+          "title": "제우스, 100일 기념일 ‘요새전’과 함께 즐긴다",
+          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112983"
+        },
+        {
+          "title": "컴투스, ‘제우스: 오만의 신’ 100일 기념 전야제…‘요새전’ 신규 도입",
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=152877"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/Cn3mFHKMLbpjEBSZGiCKysZpRKXYNm5CH4vGFBLUMpWtZ7gk_2ONDoqAfJ6OIh_V-Lm3d8uZOmzKoAFdQxW4=w128",
@@ -2761,7 +2795,7 @@
       ],
       "video": null,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.com2us.es.android.google.kr.normal&hl=ko&gl=kr",
-      "recentChanges": "[신규 콘텐츠]<br>- 길드 레이드 신규 보스 &#39;메데이아&#39; 등장<br><br>[콘텐츠 확장 / 개선]<br>- &#39;신석의 서 4장&#39; 추가<br>- 에테리온 및 신석 프리셋 추가<br>- 성장도 변화 이력 확인 기능 추가<br><br>[버그 수정 및 개선]<br>- 일부 기기에서 게임이 종료되던 현상 수정<br>- 모바일 그래픽 품질 및 게임 안정성 개선<br>- 기타 확인된 오류 및 UI 표기 수정<br><br>여러분의 많은 관심과 기대 부탁드립니다."
+      "recentChanges": "[신규 콘텐츠]<br>- &#39;아디톤 요새전&#39; 추가<br><br>[콘텐츠 확장 / 개선]<br>- 길드 레이드 &#39;메데이아&#39; 난이도 및 보상 조정<br>- AI 모드 편의 기능 개선<br>- 길드 분배 기록 상세 정보 추가<br><br>[버그 수정 및 개선]<br>- 일부 상황에서 게임이 종료되던 현상 수정<br>- 공성전 일부 위치에서 공격이 되지 않던 현상 수정<br>- 기타 확인된 오류 및 UI 표기 수정<br><br>여러분의 많은 관심과 기대 부탁드립니다."
     }
   },
   "6758975161": {
@@ -3016,47 +3050,14 @@
     }
   },
   "6764201639": {
-    "researchedAt": "2026-10-30T13:03:49.169Z",
-    "verified": true,
+    "researchedAt": "2026-11-16T14:46:37.050Z",
+    "verified": false,
     "data": {
-      "verified": true,
+      "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "넵튠 퍼블리싱 전환 후 탐험 콘텐츠·BM 추가로 매출 급증",
-      "summary": "넵튠이 6월부터 퍼블리싱을 맡아 후반 콘텐츠 '탐험', 신규 수익 모델, 애드테크 기법을 더했고, 이후 일 매출이 초기 약 700만 원에서 최대 3억 5천만 원 수준으로 올랐다고 회사가 밝혔다. 해외 마케팅 확대로 9월 기준 전체 매출의 75%가 해외에서 나왔고, 미국 일평균 매출은 마케팅 확대 전보다 최대 16배 늘었다. 기사들은 넵튠 발표 자료를 근거로 하며, 스토어의 '새로운 스킨 출시'는 순위 상승 원인으로 언급되지 않았다.",
-      "articles": [
-        {
-          "title": "넵튠 방치형 RPG ‘총잡이 고양이’, 4개월만에 누적매출 200억원 - 파이낸셜투데이",
-          "url": "https://www.ftoday.co.kr/news/articleView.html?idxno=367037"
-        },
-        {
-          "title": "넵튠 ‘총잡이 고양이’ 누적 매출 200억원 돌파 - 스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610121015003/"
-        },
-        {
-          "title": "넵튠, 퍼블리싱 게임 '총잡이 고양이' 매출 200억 돌파 - 데일리한국",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1413613"
-        },
-        {
-          "title": "넵튠 '총잡이 고양이', 출시 4개월 만에 매출 200억 돌파 - 아이뉴스24",
-          "url": "https://m.inews24.com/v/2013727"
-        },
-        {
-          "title": "\"방치형 장르 통했다\" 넵튠 '총잡이 고양이' 누적 매출 200억 돌파 - SR타임스",
-          "url": "http://www.srtimes.kr/news/articleView.html?idxno=214502"
-        },
-        {
-          "title": "넵튠 유통작 '총잡이 고양이', 출시 4개월 만에 매출 200억 넘겨 - 비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449061"
-        },
-        {
-          "title": "출시 4개월 만에 매출 200억 원… K-인디 '총잡이 고양이'의 놀라운 반전 - 인디게임닷컴",
-          "url": "https://indiegame.com/archives/37194"
-        },
-        {
-          "title": "'총잡이 고양이', 출시 4개월 만에 매출 200억 돌파…글로벌 시장 공략 - 네이트 스포츠",
-          "url": "https://sports.news.nate.com/view/20261015n04508"
-        }
-      ],
+      "short": "생선 Y·YY·YYY 및 다이버 스킨 추가로 18계단 상승 추정",
+      "summary": "최신 한국어 기사에서 App Store 매출 순위 상승 원인을 직접 다룬 보도는 찾지 못했다. 검색된 기사는 위챗 미니게임 공급 소식과 방치형 RPG 순위 목록이었고, 매출 차트 변동과의 연결은 확인되지 않았다. 따라서 제공된 스토어 업데이트 내역(Y·YY·YYY 생선 추가, 다이버 스킨 추가)을 근거로 컨텐츠 업데이트에 따른 상승으로 추정하며, 기사로 검증되지는 않았다.",
+      "articles": [],
       "icon": "https://play-lh.googleusercontent.com/DP5-B3_N_pnc3SvmC2jXR61qDewhniXTQrIzhLKdVLkmLDcx8FtIi7Eh16KM59HhAHA3bTb0tDk0YP7WMFpUTWc=w128",
       "screenshots": [
         "https://play-lh.googleusercontent.com/LDP744xW6cG3H19mP-LwheLAL8auUHMRSOnyMW_UEO5b0Si4c_hDiO3SjFXG9fFderaSs8NRSPBLCeEzQp8gDA=w400",
@@ -3067,7 +3068,7 @@
       "video": "https://www.youtube.com/watch?v=om7pvunb_1I",
       "videoImage": "https://play-lh.googleusercontent.com/Jp7W0r2Zm_QeWNuiig3v6YFM8ZM7tU_ztZf149IDMyLaH597Ra4yH35Pdvb-9K6ovZp3PkCmipt5RXz5juZ1itE=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.Chodun.CatGunner&hl=ko&gl=kr",
-      "recentChanges": "새로운 스킨 출시!"
+      "recentChanges": "- Y, YY, YYY 생선 추가<br>- 다이버 스킨 추가"
     }
   },
   "6740838442": {
@@ -3848,13 +3849,13 @@
     }
   },
   "6471045672": {
-    "researchedAt": "2026-11-14T14:47:16.088Z",
+    "researchedAt": "2026-11-16T14:46:59.216Z",
     "verified": false,
     "data": {
       "verified": false,
-      "category": "기타",
-      "short": "앱스토어 매출 6계단 상승, 원인 기사 미확인(v67.0.0 업데이트 추정)",
-      "summary": "이번 6계단 상승의 직접 원인을 다룬 최신 한국어 기사를 찾지 못했다. 검색된 게임포커스 기사들은 이 게임이 순위권에 있었다는 내용만 담고 있고 이번 상승과의 연결이 확인되지 않는다. 스토어 업데이트 내역은 release 2328(67.0.0) 한 건뿐이며 변경 내용이 기록되어 있지 않아 콘텐츠 성격을 특정할 수 없다. 따라서 상승 원인은 검증되지 않았으며, 해당 업데이트의 세부 내용 확인이 필요하다.",
+      "category": "컨텐츠 업데이트",
+      "short": "68.0.0 업데이트 추정, 기사 근거 없어 미확인",
+      "summary": "관련 기사에서는 이 게임이 매출 순위 상위권에 머물러 있다는 내용만 확인되었고, 8계단 상승의 직접 원인을 설명한 기사는 찾지 못했습니다. 스토어 업데이트 내역에는 release 2358 (68.0.0) 한 건만 기록되어 있어 이 버전 업데이트가 상승과 관련되었을 가능성이 있으나 세부 내용은 확인되지 않았습니다. 따라서 원인은 추정이며, 업데이트 내용과 해당 기간의 매출 이벤트 여부를 추가로 확인할 필요가 있습니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/_L5SoFZJC3Pe1J_2ONXjZlVkl7_flPQwFCIW297Y6j0EIDDprMRVq9_JV_zfT0ZYyWeHQEeP2exXFgoCFxanIVU=w128",
       "screenshots": [
@@ -3865,7 +3866,7 @@
       ],
       "video": null,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.fatmerge.global&hl=ko&gl=kr",
-      "recentChanges": "release 2328 (67.0.0)"
+      "recentChanges": "release 2358 (68.0.0)"
     }
   },
   "com.miHoYo.GenshinImpact": {
@@ -4570,13 +4571,13 @@
     }
   },
   "com.lycq.kr.and": {
-    "researchedAt": "2026-11-15T14:46:37.504Z",
+    "researchedAt": "2026-11-16T14:47:10.662Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "기타",
-      "short": "기사 미확인, 9월 말 출시 예정작의 신규 진입 효과로 추정(검증 필요)",
-      "summary": "검색된 한국어 기사는 모두 위메이드 자회사 전기아이피가 서비스하는 PC 온라인 '미르의 전설2'(2026 환영의 세계 이벤트, 승룡서버 등)에 관한 것이라 모바일 '미르의 전설2: 레볼루션'의 순위 변동 원인을 확인하지 못했습니다. 스토어 사전예약 페이지에는 2026년 9월 말 출시 예정이며 퍼블리셔가 MIAO PLAY ENTERTAINMENT NETWORK LIMITED로 적혀 있어, 입력된 개발사(Xsoga Game)와도 일치하지 않습니다. 따라서 신규 출시 효과가 17계단 상승의 원인일 가능성이 있으나 추측에 그치므로, 해당 앱의 스토어 업데이트 내역(recentChanges)이나 출시·이벤트 기사로 검증이 필요합니다.",
+      "short": "검색된 기사 없음, 원인 미확인(recentChanges 미제공)",
+      "summary": "검색 결과에서 미르의 전설2: 레볼루션(Xsoga Game)의 Google 매출 순위 6계단 상승을 직접 설명하는 기사를 찾지 못했습니다. 검색된 '레볼루션' 관련 기사는 넷마블 형제작의 업데이트 역주행을 다룬 것으로 대상 게임 및 개발사와 일치하지 않아 근거로 쓰지 않았습니다. 제공된 recentChanges 데이터가 없어 상승 원인은 추측하지 않았으며, 스토어 업데이트 내역 확인이 필요합니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/gqKZIBDTE-FutPcl0yO1sKRUV1VroQ-ri1L7MUyFd_c4V4CBBRMwvWlLl7880JCSFwPntfjz12wfdAfA9oE8YJ4=w128",
       "screenshots": [

@@ -786,7 +786,7 @@
   "com.mocacorp.tile": {
     "released": "2025.12.07",
     "developer": "Moca",
-    "country": null,
+    "country": "KR",
     "icon": "https://play-lh.googleusercontent.com/4vtYbxhpBkAdG2x78QEytu0AZkw14qdoJAht2WtWo1apxr6bsCWRdTaZth3i-XdVaSkenE1oUHbs9bmiOA5HcA=w48",
     "source": "google"
   },
@@ -828,7 +828,7 @@
   "com.mocacorp.sudoku": {
     "released": "2024.07.22",
     "developer": "Moca",
-    "country": null,
+    "country": "KR",
     "icon": "https://play-lh.googleusercontent.com/9cEFqaBMBa3iHmJc-wRM_0AhKjQTq7QFU187q0IRev0Bpumdj5O6LKr5FtnLgqPo0yDsmxXJNSj8RIzIFVcCsrs=w48",
     "source": "google"
   },
@@ -7019,7 +7019,7 @@
   "com.mocacorp.block": {
     "released": "2024.09.07",
     "developer": "Moca",
-    "country": null,
+    "country": "KR",
     "icon": "https://play-lh.googleusercontent.com/f38cbsDeAlQbuGwOTlI0f1QyIdX6wiCCIJeEV7IaszpfrLC_ZgCuZAkWOmB0IJSvQ9uKMk_vyysVdjsOUdMf=w48",
     "source": "google"
   },
@@ -8521,8 +8521,8 @@
   "one:유비군단키우기삼국지군단서바이벌": {
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/12/SE202610060040287300070797/0001012464/ko/img/original/0001012464_20261112000540.png",
     "released": "2026.11.11",
-    "developer": "",
-    "country": null,
+    "developer": "플라잉모몽가",
+    "country": "KR",
     "source": "kr-onestore",
     "title": "유비군단 키우기 : 삼국지 군단 서바이벌"
   },
@@ -8727,5 +8727,121 @@
     "appId": "com.chaloapps.roosterrudy",
     "source": "kr-google-match",
     "title": "Chicken Gun 닭"
+  },
+  "com.qookkagames.codekite.gp.hk": {
+    "released": "2023.03.23",
+    "developer": "QOOKKA GAMES",
+    "country": "CN",
+    "icon": "https://play-lh.googleusercontent.com/Q_UYKLuPI1Wx7b9F8D0AZlqyoCXEZzNYNZpmuaPs8faj7om9WljRrJq_aYKsQ-JwaDOYVRBMSbYv0g1Ll0Epgg=w48",
+    "source": "google"
+  },
+  "com.rotatelab.cubeblast": {
+    "released": "2026.01.16",
+    "developer": "Rotatelab Yazilim ve Bilisim A.S.",
+    "country": "TR",
+    "icon": "https://play-lh.googleusercontent.com/OxZ_l4qJpJOVmuCiGAXBXSMA5EyJZsjik90OkXbbXCQjDW7ho99Rr2f7YjWxjidw1VTdM22d3XtUbTqV6eegxuc=w48",
+    "source": "google"
+  },
+  "pixelora.flow.pixel.art.snake.puzzle.game": {
+    "released": "2026.10.21",
+    "developer": "HappyTapLand",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/talFKGFkFpNylWfct4zKT2ZBqqcoj2MpdAmMGnJDmzzymduE2syzb1aVMrMsIley_PPfGXDKB_xbTAPYqMpjvw=w48",
+    "source": "google"
+  },
+  "com.q1.breakbricks": {
+    "released": "2018.10.26",
+    "developer": "FunSpace",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/wDaJHuW0pBCZroxi-79ZGvD-S8q1gqtFG8SYT1EGg37wqxxM-wBZQw0XAMy0YuAyXY7vgd2kgrsjt2WzFQVo8w=w48",
+    "source": "google"
+  },
+  "com.qookkagame.sgzzlb.gp.kr": {
+    "released": "2021.02.22",
+    "developer": "QOOKKA GAMES",
+    "country": "CN",
+    "icon": "https://play-lh.googleusercontent.com/kimpPr9QPMtL8fa-vsn3baNKIjutXCprwCfAajBnkaIHU34p7xQYzYaXfN137DFu_43qkuWxjTYqDOMun_02=w48",
+    "source": "google"
+  },
+  "com.ht2.stick.hero": {
+    "released": "2022.08.25",
+    "developer": "Unicorn Studio Official",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/IZ1IcGi7nwda91vxxNmiJpaee9Ui6SNtTdDLFknalsPfLhsriCf82XfsNg-yC9nzPmUBfgstVLpBy3AbSh_w=w48",
+    "source": "google"
+  },
+  "6805769847": {
+    "released": "2026.11.16",
+    "developer": "Standegg",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/fd/3a/a4fd3a78-6149-f984-aa8f-64ed2558df97/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6829970428": {
+    "released": "2026.11.13",
+    "developer": "Peb.inc",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/19/2b/6b192bcd-f9da-da86-39c8-07ed4d8fc738/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "one:에보니왕의귀환evonytheking": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202404/23/SE201602140238062270008713/0000758142/ko/img/original/0000758142_DP000101_20240423202356.png",
+    "released": "2021.10.19",
+    "developer": "TG Inc",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "에보니: 왕의 귀환 (Evony: The King"
+  },
+  "one:파이널삼국지2풍성한신규서버헤트키": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202507/10/SE201506040825362880006245/0000752745/ko/img/original/0000752745_20250710114857.png",
+    "released": "2021.04.21",
+    "developer": "(주)게임펍",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "파이널삼국지2: 풍성한 신규서버 헤트 키"
+  },
+  "one:풋볼마스터2세계정상에도전하라": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202509/02/SE202109241516523740056882/0000758625/ko/img/original/0000758625_20250902162635.png",
+    "released": "2021.10.29",
+    "developer": "GALA SPORTS",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "풋볼 마스터 2-세계 정상에 도전하라"
+  },
+  "one:갓오브하이스쿨태고신선택권증정": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/20/SE201801171121427500021033/0000751404/ko/img/original/0000751404_20261020094607.png",
+    "released": "2020.11.30",
+    "developer": "WONCOMZ.INC",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "갓오브하이스쿨-태고신 선택권 증정"
+  },
+  "one:섹스타닷넷더무비이제는9영상의": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202606/05/SE202307251506337130062051/0001006409/ko/img/original/0001006409_20260605204405.png",
+    "released": "2026.08.28",
+    "developer": "adultfactory19",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "섹스타닷넷 더 무비: 이제는 9영상의"
+  },
+  "one:legendsreborn07f": {
+    "icon": "https://play-lh.googleusercontent.com/LbUIZKnQUPt3MvFLoVLOLE4sx9THRwq9NwCRQE-BZdfHpFwEM5Rrj6Dj8YoXQuf57AKQ6iJ-7AtkQaQGsPMJAQ=w48",
+    "developer": "ACE GAME INTERNATIONAL LIMITED",
+    "country": "HK",
+    "released": "2025.11.13",
+    "url": "https://play.google.com/store/apps/details?id=com.Knight.GrandQuest&hl=ko&gl=kr",
+    "appId": "com.Knight.GrandQuest",
+    "source": "kr-google-match",
+    "title": "Legends Reborn: 마지막 전투"
+  },
+  "one:manfardalamanca": {
+    "icon": "https://play-lh.googleusercontent.com/ZetYNkN0E2oDBDmV2PYDmbEX09puaea52lpxhECMNwajknlcTHzFBydparLdVvf405h-eMAYJnyyRtotW8I0dA=w48",
+    "developer": "B1 Digital",
+    "country": null,
+    "released": "2025.05.15",
+    "url": "https://play.google.com/store/apps/details?id=com.b1.hiltondalaman&hl=ko&gl=kr",
+    "appId": "com.b1.hiltondalaman",
+    "source": "kr-google-match",
+    "title": "Dalaman Sarigerme Resort&Golf"
   }
 }
