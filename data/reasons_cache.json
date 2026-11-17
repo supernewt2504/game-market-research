@@ -31,13 +31,13 @@
     }
   },
   "529479190": {
-    "researchedAt": "2026-11-01T19:13:54.973Z",
+    "researchedAt": "2026-11-17T03:13:45.580Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "장인 추천·메뉴 개편 등 최신 업데이트 영향 추정(미검증)",
-      "summary": "검색으로는 이 게임의 App Store 매출 신규 진입(35위)을 직접 다룬 최신 한국어 기사를 찾지 못했다. 따라서 제공된 스토어 업데이트 내역을 근거로 판단하면, 장인 추천 기능 리뉴얼과 전투 메뉴·플레이어 프로필·클랜 채팅 개편, 편의 기능 개선이 주요 변화다. 다만 이것이 순위 상승의 원인이라는 직접 근거는 없으므로 추정으로만 본다.",
+      "short": "마을회관 19 업데이트 출시로 신규 방어시설·스쿼드 추가, 순위 상승",
+      "summary": "11월 업데이트로 마을회관 19레벨이 공개되며 스파이키 타워와 파이어크래커 타워 같은 신규 방어시설이 추가됐다. 마을회관 8레벨부터 열리는 스쿼드 배치와 19레벨 스쿼드 업그레이드, 새로운 마법의 간식과 이모티콘도 함께 들어왔다. 한국어 기사에서는 이번 업데이트를 다룬 최신 보도를 찾지 못했고, 확인된 자료는 영문 매체와 Supercell 공식 릴리스 노트 기반이라 순위 상승 원인은 스토어 업데이트 내역을 근거로 한 추정이다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/sFmWfYbYp_2ea7VRMTnwd3gjIBrPGXHj_d_ab1_k1q1p2OMk4riGMF1vqxdhONOtTYOt_BVpk7a4AYcKU68LNGQ=w128",
       "screenshots": [
@@ -49,7 +49,7 @@
       "video": "https://www.youtube.com/embed/GGaujJ9bu0I?vq=large&rel=0&autohide=1&showinfo=0",
       "videoImage": "https://play-lh.googleusercontent.com/5-VS5wLKQ5D4OIZ8kHJs1ss8bu0xdrRvIkZFdfyUX-mLqZb7a6Qo3RSbMF88lYP5xCTlNYCsxpBvO2lQtJOpuw=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans&hl=ko&gl=kr",
-      "recentChanges": "그동안 장인이 바빴습니다.<br><br>·  장인 추천 기능 리뉴얼: 필터를 사용하고, 카테고리를 탐색하며, 새로워진 장인 메뉴를 통해 마을 업그레이드를 손쉽게 해내세요! <br><br>·  메뉴 변경 사항: 전투 메뉴, 플레이어 프로필, 클랜 채팅에 신기능이 추가되어 마을 운영이 그 어느 때보다 편리하고 즐거워집니다.<br><br>·  편의 사항 개선: 최신 업데이트로 다양한 편의 사항 개선이 이루어졌습니다."
+      "recentChanges": "마을회관 19가 부릅니다!<br><br>·  거침없는 당당함: 마을회관 19레벨은 가능성으로 가득합니다! 외관과 마을회관을 방어할 유닛을 선택하세요.<br><br>·  스쿼드: 마을회관 8레벨부터 배치 가능한 유닛 무리를 잠금 해제하고, 19레벨에서 고유 능력을 가진 스쿼드로 업그레이드하세요.<br><br>·  신규 방어시설: 스파이키 타워와 로켓병 타워가 적을 찌르고 불태웁니다!<br><br>·  이모티콘 및 신규 마법의 간식: 이모티콘으로 나를 표현하고 마법의 간식 4종을 맛보세요!"
     }
   },
   "553834731": {
@@ -868,13 +868,13 @@
     }
   },
   "1507872328": {
-    "researchedAt": "2026-11-13T14:46:50.239Z",
+    "researchedAt": "2026-11-17T03:13:50.637Z",
     "verified": false,
     "data": {
       "verified": false,
-      "category": "매출 이벤트",
-      "short": "제9회 홀덤 마스터스 진행 중, 원인은 추정(미확인)",
-      "summary": "스토어 업데이트 내역은 버그 수정과 UI/UX 최적화뿐이라 순위 상승을 설명하지 못한다. 제9회 홀덤 마스터스(총상금 24억 원, 2026년 10월 2일~12월 13일)가 WPL 후원으로 진행 중이며, 온라인 새틀라이트 참여가 매출 상승의 유력 후보로 보인다. 다만 이를 순위 상승과 직접 연결한 기사는 찾지 못해 추정에 머문다.",
+      "category": "기타",
+      "short": "스토어 업데이트는 버그·UI 최적화뿐, 상승 원인 미확인",
+      "summary": "검색에서 WPL의 12계단 순위 상승 원인을 다룬 최신 한국어 기사는 찾지 못했다. 스토어 최근 업데이트 내역은 버그 수정과 UI/UX 최적화뿐이어서 신규 콘텐츠나 이벤트 근거가 되지 않는다. 따라서 상승 원인은 확인되지 않았으며, 매출 이벤트나 콜라보 여부는 추가 자료로 검증이 필요하다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/QQVS3cmt_fMF91ecz8fHExUP_VJUty-9dCmA7sOZQR3086-4nD-2ANOA2cOkFeiHt5eFW55CZJGpiaO_BahNZA=w128",
       "screenshots": [
@@ -2441,13 +2441,13 @@
     }
   },
   "6753862216": {
-    "researchedAt": "2026-11-10T14:47:19.868Z",
+    "researchedAt": "2026-11-17T03:13:56.007Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "신규 레벨·스토리 추가 및 버그 수정 업데이트가 순위 상승과 시기적으로 맞물림",
-      "summary": "최근 스토어 업데이트에서 새 레벨과 새 스토리 챕터가 추가되었고, 버그 수정과 성능 개선도 함께 이루어졌습니다. 앱 스토어 설명에는 대규모 이벤트와 어버이날 관련 패스 등 특별 콘텐츠도 소개되어 있습니다. 다만 순위 상승을 직접 다룬 한국어 기사는 찾지 못해, 확인되지 않은 추정 수준의 판단입니다.",
+      "short": "신규 레벨·스토리 추가 업데이트로 순위 상승 추정(미검증)",
+      "summary": "검색으로는 이 게임의 매출 순위 상승을 직접 다룬 한국어 기사를 찾지 못했다. 스토어 업데이트 내역에 새로운 레벨과 새로운 스토리 챕터 추가, 버그 수정 및 성능 개선이 담겨 있어 콘텐츠 업데이트가 상승 요인일 가능성이 있다. 다만 같은 문구가 여러 버전에 반복되어 있어 이번 상승을 이 업데이트만으로 확정할 수는 없다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/y0kOATNKVF67UuEBd6CbSczEm9VugaSiWgz0uGyPBBH6OfYRgFVUM0x2W7vj-fTWcGfpIz5tolxsOX5c3e0hJg=w128",
       "screenshots": [

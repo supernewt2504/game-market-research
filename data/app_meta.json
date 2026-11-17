@@ -1431,6 +1431,7 @@
     "released": "2025.10.16",
     "developer": "CrazyLabs LTD",
     "country": "IL",
+    "icon": "https://play-lh.googleusercontent.com/jiKsZESD_FX4mVtPEmErwm9-abDZcF2FVNq1KR-D7zOlYTmRljgI_sGhmWA4TrRJzxdad21WBkyfFK3j0ihfV5A=w48",
     "source": "google"
   },
   "com.tricky.brain.annoying.puzzle.prank.master": {
@@ -8773,7 +8774,7 @@
   "6805769847": {
     "released": "2026.11.16",
     "developer": "Standegg",
-    "country": null,
+    "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/fd/3a/a4fd3a78-6149-f984-aa8f-64ed2558df97/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -8843,5 +8844,26 @@
     "appId": "com.b1.hiltondalaman",
     "source": "kr-google-match",
     "title": "Dalaman Sarigerme Resort&Golf"
+  },
+  "com.nebula.ropesort": {
+    "released": "2026.10.21",
+    "developer": "Nebula  Studio",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/jGXjZMOCbrRhnOy5rER0uYJH4zePKjIHxmmV7zhJ0Wd3JH2pXSqaL57lAPi5FI66p_YUlCxvqGtk9SoTcf5W=w48",
+    "source": "google"
+  },
+  "com.standegg.teamdefense": {
+    "released": "2026.10.30",
+    "developer": "StandEgg Co., Ltd.",
+    "country": "KR",
+    "icon": "https://play-lh.googleusercontent.com/P-C7n0SM3bt7TfZLCVLhD3ZGz67dYw65BfT_WoTpsvergxrwdbi6zCjLImLBIyaWQIgCJwSpkkGQkucQdQCX=w48",
+    "source": "google"
+  },
+  "com.yg.mini.games": {
+    "released": "2023.09.28",
+    "developer": "SUPERIOR  STUDIO",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/svuPSiGNjjZAjMZolPgPTI2VBMWUxksxnE_2_if58hKp10IP9yBB8JyXXx-e_RXNfuGSUbIxy-gI-NOc3nGQJg=w48",
+    "source": "google"
   }
 }
