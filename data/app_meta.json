@@ -244,6 +244,13 @@
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/1c/e9/6e1ce91e-b8da-7e46-0b88-1e87661193ec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
+  "1241893973": {
+    "released": "2017.11.20",
+    "developer": "Netmarble Corporation",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/d6/25/fed625ae-9cff-0331-677c-a7fec399d042/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+    "source": "apple"
+  },
   "1273957743": {
     "released": "2018.08.01",
     "developer": "NEXON Company",
@@ -368,6 +375,13 @@
     "developer": "Com2uS Corp.",
     "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ae/00/f9ae00da-b031-6e83-77f6-cd14b457aae3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "1462642534": {
+    "released": "2019.10.24",
+    "developer": "Jakub Kadlec",
+    "country": "CZ",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/12/e1/c912e1d6-69dd-50ad-0d2b-338d60718562/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
   "1465731199": {
@@ -571,6 +585,13 @@
     "developer": "Jongchan Yoon",
     "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/f1/22/9df12215-d558-0242-b647-e6876f0c4a30/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "1552206075": {
+    "released": "2023.03.14",
+    "developer": "IGG SINGAPORE PTE. LTD.",
+    "country": "CN",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/39/f2/3539f255-bfef-bfd0-4872-a23324dbfcd0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
   "1554247785": {
@@ -7048,7 +7069,7 @@
   "com.tomato.and.ssbhckr": {
     "released": "2026.11.04",
     "developer": "Luminora Interactive Group Limited",
-    "country": null,
+    "country": "HK",
     "icon": "https://play-lh.googleusercontent.com/0DdqysGwpVGPeszyvAdaP-ihVxcAEjfGRyFTutrEqlApU2m4Ky5CI0ugMqS9B6lFJ_eKO6Hpvzyw-EDezDY998g=w48",
     "source": "google"
   },
@@ -7259,7 +7280,7 @@
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202502/05/SE202402211547335310063457/0000779997/ko/img/original/0000779997_DP000101_20250205112550.png",
     "released": "2025.01.20",
     "developer": "Apollo Technology Co.,Ltd",
-    "country": null,
+    "country": "CN",
     "source": "kr-onestore",
     "title": "나 혼자 만렙 삼국"
   },
@@ -9104,5 +9125,175 @@
     "appId": "com.superbox.aos.brickbreaker",
     "source": "kr-google-match",
     "title": "벽돌깨기왕 : 우주의무법자"
+  },
+  "piggy.escape.jam.farm.puzzle.game": {
+    "released": "2026.03.29",
+    "developer": "Astrasen Global",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/IGeRKQKvF1gidEZYqA8oJnFkbl0MOsjrU_cksk3SKBslYl7LxPo8gCeCLb8lvLn6EfB1aMCQoHv6Et8IpQMJ4A=w48",
+    "source": "google"
+  },
+  "com.rabbithole.cardofdemonslayer": {
+    "released": "2026.11.11",
+    "developer": "CookApps",
+    "country": "KR",
+    "icon": "https://play-lh.googleusercontent.com/RpeQuybAK1btuXM8AOALcpdIV8w0F42Bjc1i5AamNnI2hhdMpQeWIbK0TlxYDYeqaPFLeN3Vb40aUKTqbERq=w48",
+    "source": "google"
+  },
+  "com.niyaim.gp.sweetspot.find": {
+    "released": "2026.10.10",
+    "developer": "Questverse Play",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/XLgzknxHRnibae6LYwAIY1SO0oYM6f2KPCch4q88-lmOef97hVmtvbAclhW4kjhd4l9U2JvBIYs_Fo5NX2HRzA=w48",
+    "source": "google"
+  },
+  "com.YoStarKR.MahjongSoul": {
+    "released": "2023.03.21",
+    "developer": "Yostar Limited.",
+    "country": "JP",
+    "icon": "https://play-lh.googleusercontent.com/58OMjHdJO91jepPVficmQYxhLTI4A82gZj2AqYFLODmIV6ZpruzfAeXdb_xukt28B89cOhjS9Vy4bb1XP5IZA9E=w48",
+    "source": "google"
+  },
+  "6788287421": {
+    "released": "2026.11.19",
+    "developer": "Neptune Company",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/cc/10/5fcc1036-f8e5-2718-0d66-687e2dddfd3c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6475353695": {
+    "released": "2024.04.22",
+    "developer": "kikike Corp.",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/98/35/989835f9-ba9a-a6e5-2f1f-57e171d0200d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6738703497": {
+    "released": "2026.03.12",
+    "developer": "Devolver",
+    "country": "US",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/af/4c/7eaf4c8e-bf9f-00c2-2dac-e827623ca8a0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6759962259": {
+    "released": "2026.09.16",
+    "developer": "Mintrocket",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/ab/c7/7fabc7d4-6217-3e71-7490-522418572831/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "one:픽셀히어로2024뽑무료증정": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202304/26/SE201912311413594350050114/0000767740/ko/img/original/0000767740_DP000101_20230426122158.jpg",
+    "released": "2023.06.06",
+    "developer": "Ujoy Games",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "픽셀 히어로 - 2024뽑 무료 증정"
+  },
+  "one:sos스테이트오브서바이벌": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202403/17/SE202108261510110180056618/0000750286/ko/img/original/0000750286_DP000101_20240317013921.png",
+    "released": "2020.11.10",
+    "developer": "FunPlus International AG",
+    "country": "CN",
+    "source": "kr-onestore",
+    "title": "S.O.S:스테이트 오브 서바이벌"
+  },
+  "one:더가디언즈": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202610/19/SE201509241610123810007355/0001010058/ko/img/original/0001010058_20261019162048.jpg",
+    "released": "2026.11.18",
+    "developer": "VALOFE Co.,Ltd",
+    "country": "JP",
+    "source": "kr-onestore",
+    "title": "더가디언즈"
+  },
+  "one:재배소년": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/02/SE201406301030143550001822/0000670345/ko/img/original/0000670345_20260702104318.png",
+    "released": "2014.08.25",
+    "developer": "OWLOGUE",
+    "country": "JP",
+    "source": "kr-onestore",
+    "title": "재배소년"
+  },
+  "one:아크오리진": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202611/18/SE202608251050462170070105/0001011399/ko/img/original/0001011399_20261118160740.jpg",
+    "released": "2026.11.18",
+    "developer": "GM 712",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "아크 : 오리진"
+  },
+  "one:hazinetheorigin": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/201808/02/SE201807141408337620028477/0000732268/img/original/0000732268_DP000101_20180802213408.png",
+    "released": "2018.08.04",
+    "developer": "JAEMIMARU CO., LTD",
+    "country": "JP",
+    "source": "kr-onestore",
+    "title": "HAZINE The Origin"
+  },
+  "one:최애는템빨": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/18/SE202610082247582580070850/0001010140/ko/img/original/0001010140_202610182152090.png",
+    "released": "2026.11.18",
+    "developer": "artgraph",
+    "country": "JP",
+    "source": "kr-onestore",
+    "title": "최애는 템빨"
+  },
+  "gal:조선협객전2m": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202510/16/SE201601141758498030008456/0000777654/ko/img/original/0000777654_20251016103732.png",
+    "released": "2024.11.23",
+    "developer": "Smartnow",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "조선협객전2M"
+  },
+  "one:21eee1lastsheltersurvival": {
+    "icon": "https://play-lh.googleusercontent.com/bCUKlHtllYdlK5A9FT3nIo_LxoapkzO2jeyEwrRnZZNvD1stuB-6JATy86hORqWR6qqfS-5FtzXh4ERasBf_sQ=w48",
+    "developer": "LAST ORIGIN STUDIO LIMITED",
+    "country": null,
+    "released": "2026.08.12",
+    "url": "https://play.google.com/store/apps/details?id=com.more.lastshelter.gp&hl=ko&gl=kr",
+    "appId": "com.more.lastshelter.gp",
+    "source": "kr-google-match",
+    "title": "Last Shelter: War Z"
+  },
+  "one:legendsreborndet": {
+    "icon": "https://play-lh.googleusercontent.com/LbUIZKnQUPt3MvFLoVLOLE4sx9THRwq9NwCRQE-BZdfHpFwEM5Rrj6Dj8YoXQuf57AKQ6iJ-7AtkQaQGsPMJAQ=w48",
+    "developer": "ACE GAME INTERNATIONAL LIMITED",
+    "country": "HK",
+    "released": "2025.11.13",
+    "url": "https://play.google.com/store/apps/details?id=com.Knight.GrandQuest&hl=ko&gl=kr",
+    "appId": "com.Knight.GrandQuest",
+    "source": "kr-google-match",
+    "title": "Legends Reborn: 마지막 전투"
+  },
+  "one:nba2kmobile77121": {
+    "icon": "https://play-lh.googleusercontent.com/zPiD-p3erN8ug8IxSFzj1-miTd_LJYdXF0ioHoy62uRLMgLuu4V0ggxAGTWTn0TewD8XC3LIY6ggIjokmiqE=w48",
+    "developer": "2K, Inc. - a Take-Two Interactive affiliate",
+    "country": "US",
+    "released": "2019.04.17",
+    "url": "https://play.google.com/store/apps/details?id=com.catdaddy.nba2km&hl=ko&gl=kr",
+    "appId": "com.catdaddy.nba2km",
+    "source": "kr-google-match",
+    "title": "NBA 2K Mobile - 모바일 농구 게임"
+  },
+  "gal:비트클래시": {
+    "icon": "https://play-lh.googleusercontent.com/btGHb9bLQZAliZ3CYtKUUQHH8vcBqK_-Bt8OSImSTC_cxsykmDRtOe9HAA8VJ0x3C0oM82JZmLHgQco9TgCGFw=w48",
+    "developer": "mobirix",
+    "country": "KR",
+    "released": "2025.11.04",
+    "url": "https://play.google.com/store/apps/details?id=com.mobirix.ldmbt&hl=ko&gl=kr",
+    "appId": "com.mobirix.ldmbt",
+    "source": "kr-google-match",
+    "title": "비트 클래시"
+  },
+  "gal:thesurvivalhuntergames2": {
+    "icon": "https://play-lh.googleusercontent.com/Au5ptbMqrh3Y4YtDkj1fOjXpx-5HCHkxNnn7D87wzlABcWRqRbOEwi09uE6cPXfGx_Dc4a_6Ik5rLXGHPJZwMg=w48",
+    "developer": "Aeria Canada",
+    "country": "CA",
+    "released": "2014.07.09",
+    "url": "https://play.google.com/store/apps/details?id=com.freegamesstudio.thesurvivalhuntergames2&hl=ko&gl=kr",
+    "appId": "com.freegamesstudio.thesurvivalhuntergames2",
+    "source": "kr-google-match",
+    "title": "The Survival Hunter Games 2"
   }
 }

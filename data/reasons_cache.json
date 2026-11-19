@@ -451,13 +451,13 @@
     }
   },
   "1229016807": {
-    "researchedAt": "2026-11-18T14:47:06.698Z",
+    "researchedAt": "2026-11-19T14:47:16.140Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "경쟁전 개편·신규 브롤러 루비와 레이 등 업데이트 70 효과 추정",
-      "summary": "검색으로는 이번 순위 상승을 직접 다룬 최신 한국어 기사를 찾지 못했고, 확인된 기사는 과거 업데이트 관련 내용이다. 따라서 스토어 업데이트 내역을 근거로 판단하면, 2026년 11월~12월 업데이트 70(경쟁전 초기화 및 브롤리데이)이 상승 원인으로 보인다. 이 업데이트에는 솔로 플레이어용 경쟁전 개선, 신규 브롤러 루비와 레이, 선더 프로그, 추가 핀 슬롯, 신규 게임 모드, 브롤 패스 시즌 56·57이 포함된다. 다만 매출 순위 변화와의 인과관계는 기사로 검증되지 않았으므로 추정이다.",
+      "short": "경쟁전 개편·신규 브롤러·시즌 패스 업데이트로 매출 순위 상승 추정",
+      "summary": "최근 스토어 업데이트 내역에는 경쟁전 초기화와 개편, 신규 브롤러 루비와 레이, 선더 프로그 추가, 브롤 패스 시즌 56·57이 포함되어 있다. 이 변화가 이용자 결제를 늘렸을 가능성이 있으나, 이번 순위 상승을 직접 다룬 최신 기사는 찾지 못했다. 검색된 기사는 2024년 11월 업데이트에 관한 것이라 현재 상승 원인을 입증하지 못하므로 verified=false로 둔다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/c0hXyphuxh-gpnhSJGZV1I0IpWbq9IdEc1pautS7SmHlXNBrCff7bMqK-u63pJdfP3KJoxamG7W1dRMKr7ZzWKs=w128",
       "screenshots": [
@@ -470,6 +470,28 @@
       "videoImage": "https://play-lh.googleusercontent.com/kWuokvcqtXLOPDmYTdT-zFSldQF5E4NPPTv8oHNI1amJHgYS9oL9A_n2i4cQZhYOszQvtM1tqiaaPqMrjNb0=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=ko&gl=kr",
       "recentChanges": "업데이트 70: 경쟁전 초기화 및 브롤리데이<br>2026년 11월~12월<br>∙ 솔로 플레이어를 위해 정교해진 경쟁전, 신규 꾸미기 아이템, 개선된 매칭 및 픽/밴 옵션<br>∙ 신규 브롤러! 함께할 때 더 강력한 왕족 커플, 루비와 레이!<br>∙ 충격적인 공연을 선보이는 파충류 마법사 트리오, 선더 프로그!<br>∙ 추가 핀 슬롯, 신규 게임 모드, 하이퍼차지, 버피 및 그 외 다수!<br>∙ 브롤 패스 시즌 56: 브롤 바이스<br>∙ 브롤 패스 시즌 57: 브롤리데이"
+    }
+  },
+  "1241893973": {
+    "researchedAt": "2026-11-19T14:46:36.894Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "복각 료마 이벤트·순령의 축제 11탄 픽업 집중으로 신규 진입",
+      "summary": "검색된 한국어 기사 중 11월 앱스토어 순위 변동의 원인을 직접 다룬 기사는 확인되지 않았다. 스토어 업데이트 내역 기준으로는 11/5~11/26 복각 구다구다 료마위기일발 이벤트와 여러 픽업(이즈모노 오쿠니, 사카모토 료마, 타카스기 신사쿠), 순령의 축제 11탄 및 쯩 자매·타케다 신겐 픽업, 캐스터 픽업 소환 2탄이 동시에 진행 중이다. 이 같은 픽업·복각 이벤트 집중이 신규 진입의 요인으로 추정되나, 기사로 확인된 사실이 아니므로 verified는 false로 둔다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/HA3nOzVN1Osr5sN0rGbHBRPr59r5PJ3kYWOwb9xzXjReoIOTNEuvr_oubfKLf8zCeG_V4tPFSApmeF7rDnqO_Tk=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/jI4Idng3gj5XYd7bik9w_9lqEGfBGsT3Sk6G0jkMRHIpRCuJ8JgrL8XXeIZbkM82oGKRPgETuUYcC1y-Ip_rDg=w400",
+        "https://play-lh.googleusercontent.com/rhWIE1gi0VMh1vgRbBhjKeZo3wQKOt__-TfX4CQSl3MKDDOszbtMOpmLnof1jwAuNYdhJCpicdsJEJ5v1dTL-w=w400",
+        "https://play-lh.googleusercontent.com/C4F2BUm7CHeMNFyOdVRlq0Yfu9AZ2F0slJX4pWaW4_OP8ZwxQX0mjRza-1Qi1oLJGJyzc2RM9HTZ-RmDiMFoJdY=w400",
+        "https://play-lh.googleusercontent.com/cOMsHc-LUehx2s1wiYu_0JO2UaUaBEY2oExpJcjwAukfjZQlZ2NaPsfYy69Lm3G_bJZKl5onDsVycaKuDoaBic8=w400"
+      ],
+      "video": "https://www.youtube.com/embed/EHdjxFNNt8M?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/MZ12HbpffvEIuhNjU0m4W50FK9rM9_nYQ7YQElREelW8cDr7JBYlJc5iW6ja4R3KryEqeQe5-kiWJ689ysq8Ag=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.netmarble.fgok&hl=ko&gl=kr",
+      "recentChanges": "[진행 중인 이벤트]<br>- 복각 구다구다 료마위기일발 이벤트 (11/5~11/26)<br>- 복각 구다구다 료마위기일발 이즈모노 오쿠니 픽업 (11/5~11/26)<br>- 복각 구다구다 료마위기일발 사카모토 료마 픽업 (11/11~11/26)<br>- 복각 구다구다 료마위기일발 타카스기 신사쿠 픽업 (11/14~11/26)<br>- 캐스터 픽업 소환 2탄 (11/6~11/14)<br>- 순령의 축제 11탄 (11/6~11/20)<br>- 순령의 축제 11탄 쯩 자매 픽업 (11/6~11/13)<br>- 순령의 축제 11탄 타케다 신겐 픽업 (11/8~11/15)<br>- 주장Ⅳ 개막 직전 캠페인 2탄 (11/7~12/7)"
     }
   },
   "1273957743": {
@@ -492,6 +514,28 @@
       "videoImage": "https://play-lh.googleusercontent.com/P2Io6JTXtk3_V3EuGlSMrs4BBpoGDvqc4Z1T43asdOYRxCN7BpMo-IfNma_PZxeG2OqB9AtU7ZeNgPTQGFu-zQ=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.nexon.fo4m&hl=ko&gl=kr",
       "recentChanges": "1. 버그 수정"
+    }
+  },
+  "1347780764": {
+    "researchedAt": "2026-11-19T14:46:44.731Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "기타",
+      "short": "최신 기사 미확인, 스토어 내역은 타 게임 자료로 보임",
+      "summary": "현재 44위 신규 진입의 원인을 뒷받침하는 최신 한국어 기사를 찾지 못해 verified를 false로 두었습니다. 검색에서 확인된 자료는 2024년 8월 '페르소나5' 콜라보 복각 효과로 순위가 오른 사례와 2024년 11월 글로벌 매출 성장 보도뿐이며, 현재 시점의 원인으로 보기 어렵습니다. 제공된 recentChanges 내용(드레이크 알, 용의 성소, 올드 화이트 채집, 무기·방어구 밸런스)은 Albion Online 업데이트와 일치하고 제5인격과 무관해 근거로 사용하지 않았습니다. 제5인격의 실제 업데이트 내역을 다시 확인한 뒤 판단하는 것이 필요합니다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/aD5_k-I2kBPCp_rfpVgTComICbSXH6VBDjQFYek_JeZ_1jDgSAMSNn7Cow4ZsiZ1bEL_-nOOh62Oo_J9B4dMIoc=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/1kyOOvOMFM7apTWyK7FwbwcB_dFgeZIT5p0iXpAwFU3S06ZLEyaYZeCSOpshG4DGdx53_TpmLqm0dOxFJapw2Q=w400",
+        "https://play-lh.googleusercontent.com/BHDbDjAggH2WT81bMsK95OCJUlAOSaaZaBv6y_cG2389N9HBZcFK1ddaZUfg2YT70UgP1RvPuA9a0tfAUJoxHgs=w400",
+        "https://play-lh.googleusercontent.com/SnkMW4oQVFWwJfTD3lpNouI_r3ztSUhvZxcxesmlerKnsNHxs6X8RAOAeNGbQdZStLq7PgUKJI5sl2aD0c2N=w400",
+        "https://play-lh.googleusercontent.com/mgs2QcsivzvOTC8_zg9NBBRkbaUDLF_Y9xIWVXBfoqQqIdGAUqZWum6BvElEy4VCM5U5lMlp-i9FKhZpybtsUSU=w400"
+      ],
+      "video": "https://www.youtube.com/embed/YM3c90leQFU?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/PI-sjuw1sLQ07Hr8nDa2vOs4Q3W-JOm63N1K2u1Ld-ib1Gl5jBIE6vaS7lASafKHb0yUAtsbn5NlSbFTZA576fQ=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.albiononline&hl=ko&gl=kr",
+      "recentChanges": "- 불꽃날개 드레이크 알의 드롭 확률을 조정하여 더 어려운 도전에 도전하는 그룹이 더 큰 보상을 얻을 수 있도록 개선했습니다<br>- 용의 성소에서 화살표 표식의 가독성을 개선했습니다<br>- 모바일에서 터치 인식, 장비 확인, 미니맵 핑, 올드 화이트 채집과 관련된 문제를 수정했습니다<br>- 여러 무기 및 방어구 계열의 밸런스를 조정했습니다<br>전체 변경 사항은 공식 웹사이트에서 확인하세요: https://albiononline.com/changelog"
     }
   },
   "1366526331": {
@@ -1069,25 +1113,25 @@
     }
   },
   "1585915174": {
-    "researchedAt": "2026-11-05T02:18:25.294Z",
+    "researchedAt": "2026-11-19T14:47:27.856Z",
     "verified": true,
     "data": {
       "verified": true,
       "category": "컨텐츠 업데이트",
-      "short": "4주년 대형 업데이트, 신규 니케 마리안: 퀸 등 공개",
-      "summary": "레벨 인피니트는 10월 29일 4주년 대규모 업데이트를 실시해 메인 스토리 49·50챕터와 풀 보이스 스토리 이벤트 'MARIA-n'을 열었다. 신규 SSR 니케 마리안: 퀸, 홍련: 신살, 라푼젤: 생츄어리가 추가되고 한정 코스튬과 디오라마 로비도 함께 공개됐다. 보도에 따르면 업데이트 후 한국과 일본 매출 1위를 기록했고, 무신사 협업과 오프라인 행사 등 오프라인 확장도 병행됐다.",
+      "short": "4주년 업데이트(마리안: 퀸·MARIA-n) 효과로 국내 앱스토어 매출 상승",
+      "summary": "10월 29일 진행된 4주년 대규모 업데이트 직후 한국 앱스토어 매출 1위에 올랐고, 같은 날 일본과 대만에서는 2위를 기록했다. 업데이트에는 메인 스토리 49·50챕터, 신규 SSR 마리안: 퀸 및 홍련: 신살, 풀 보이스 이벤트 MARIA-n이 포함됐다. 다만 검색된 기사들은 매출 1위 성과를 확인해 주지만, 현재 3위까지 10계단 오른 구체적 순위 변동 기록은 찾지 못했다.",
       "articles": [
         {
-          "title": "승리의 여신: 니케, 세계 도심서 4주년 축제",
-          "url": "https://www.inven.co.kr/webzine/news/?news=322864"
+          "title": "'승리의 여신: 니케', 4주년 업데이트 직후 국내 앱스토어 매출 1위 기록",
+          "url": "https://zdnet.co.kr/view/?no=20261029174322"
         },
         {
-          "title": "승리의 여신: 니케, 4주년 대규모 업데이트 '마리안 : 퀸' 등장",
-          "url": "https://www.gameinsight.co.kr/news/articleView.html?idxno=36918"
+          "title": "[니케] 스토리만 봐도 매출 오를 만하네",
+          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112622"
         },
         {
-          "title": "'퀸'으로 돌아온 마리안, '승리의 여신: 니케' 4주년 업데이트",
-          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=319565"
+          "title": "4주년에 글로벌 '들썩'...'승리의 여신: 니케' 한국·대만 매출 1위",
+          "url": "https://www.playforum.net/news/articleView.html?idxno=635730"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/hXb0wwJYOJ7GwnzP29SbOIlDGSXWn7yOwgXnn4OBt1nfNgMpvcmSfwnNpeJ8B4n3AP73kyxeXnHTdhddfR6huw=w128",
@@ -1222,6 +1266,52 @@
       "videoImage": "https://play-lh.googleusercontent.com/5ECVvow-b3SIMuNZa9RWCN0-jZOYHJOYp6JndiPy6nyLk_hVTxvWLaUEeB-P9fEsmsX4yBePJTNcVXs_7FQwVkg=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.zy.wqmt.global&hl=ko&gl=kr",
       "recentChanges": "버그 수정 및 안정성 개선"
+    }
+  },
+  "1616108452": {
+    "researchedAt": "2026-11-19T14:46:52.065Z",
+    "verified": true,
+    "data": {
+      "verified": true,
+      "category": "컨텐츠 업데이트",
+      "short": "10/16 신규 육성 시나리오 '무인도' 공개 및 캠페인 진행",
+      "summary": "카카오게임즈는 10월 16일 신규 육성 시나리오 '무인도에 어서오세요 -DESIGN YOUR ISLAND-'를 추가했으며, 무인도를 개척해 시설을 짓는 방식으로 육성 방향을 이용자가 정하는 구조다. 공개 기념으로 서포트 카드 무료 획득 기회, 로그인 보상 쥬얼, 육성 보상 2배 및 TP 소비 절반 등의 이벤트가 함께 열렸다. 기사에서는 순위 변동을 직접 언급하지 않으므로, 신규 진입 원인은 이 업데이트 시점과 캠페인 시기가 겹친다는 점에서 추정한 것이다.",
+      "articles": [
+        {
+          "title": "우마무스메 프리티 더비, 무인도 육성 시나리오 추가 (인벤)",
+          "url": "https://www.inven.co.kr/webzine/news/?news=322224"
+        },
+        {
+          "title": "‘우마무스메 프리티 더비’ 신규 육성 시나리오 업데이트 (아이러브PC방)",
+          "url": "https://www.ilovepcbang.com/news/articleView.html?idxno=202573"
+        },
+        {
+          "title": "[10월 16일] ‘우마무스메’, 신규 육성 시나리오 업데이트 등 게임 업계 핫클립 (게임플)",
+          "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216717"
+        },
+        {
+          "title": "카카오게임즈, 우마무스메 '신규 육성 시나리오' 업데이트 (SR타임스)",
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=215012"
+        },
+        {
+          "title": "카카오게임즈 '우마무스메 프리티 더비' 16일 신규 육성 시나리오 업데이트 진행 (마일드경제)",
+          "url": "https://www.todaymild.com/news/articleView.html?idxno=39934"
+        },
+        {
+          "title": "우마무스메 프리티 더비, 신규 육성 시나리오 업데이트 (베타뉴스)",
+          "url": "https://www.betanews.net/article/view/beta202610160119"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/ogMI7CQqrnr3Lh-ec8Au3jPSsMxzrg1gyNYDyCon46fPS-EZPMzQEsHFNHMtEiYtbwseXdGGFBMM67e011i3=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/hFJwAkU3-rqeQ5lwhBMoXNmO2E09uk884wkr-gJjXkvm0yOwjzdLGsqHh-bpMWsB4TLInEfInFktfrf03Aid-Q=w400",
+        "https://play-lh.googleusercontent.com/NcPIPZeRHn4TDlCBb_RMe6wEF9yoNrU6XQwC99l7OdjIDlePzhWRtB0PvzWkjFkRQ28mOJ4deeSvMgTTL7SieQ=w400",
+        "https://play-lh.googleusercontent.com/RExdntIVmpaJX1P9mJ3X7ZsPJJFQkJnYFPYXD510Lt_wfK9rUlP9w2hU9E1exUrkTq_mnoZWv9sne0xnLRZtI3k=w400",
+        "https://play-lh.googleusercontent.com/7UjrUa9t4vXI25Mc6pQ1m7dxLhaC0hamM6y9NV8BF8P2QVFkYKQ93D5rfLnME4ffwe7f2L-8E4OgOyULSz9-Ug=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.kakaogames.umamusume&hl=ko&gl=kr",
+      "recentChanges": "신규 육성 시나리오 업데이트"
     }
   },
   "1623318294": {
@@ -1895,34 +1985,25 @@
     }
   },
   "com.percent.aos.cooptd": {
-    "researchedAt": "2026-11-06T14:48:06.583Z",
-    "verified": true,
+    "researchedAt": "2026-11-19T14:47:20.485Z",
+    "verified": false,
     "data": {
-      "verified": true,
-      "category": "컨텐츠 업데이트",
-      "short": "2주년 업데이트: 신규 초마신 카이저 무료 지급, 첫 PvP 추가",
-      "summary": "슈퍼매직은 서비스 2주년을 맞아 신규 초마신 카이저를 모든 이용자에게 무료로 지급하고, 협타디 최초의 1:1 대전 모드인 카이저의 결투장을 열었다. 할로윈 테마의 기념 이벤트(쿠폰 보상, 35종 마물 스킨 수집, 황금 호박 케이크 월드 이벤트, 빙고)도 함께 진행됐다. 이 업데이트 발표 후 7시간 만에 애플 앱스토어 매출 1위에 올랐다는 보도가 있어, 신규 콘텐츠와 무료 보상이 매출 순위 상승의 주된 요인으로 보인다. 다만 조사 차트는 Google 매출이므로 같은 흐름이 구글 플레이에서도 이어졌는지는 기사만으로 확인되지 않는다.",
-      "articles": [
-        {
-          "title": "슈퍼매직, '협타디' 서비스 2주년 기념 업데이트... 신규 초마신 캐릭터 '카이저' 무료 지급 (게임포커스)",
-          "url": "https://gamefocus.co.kr/detail.php?number=179995"
-        },
-        {
-          "title": "'협타디', 2주년 기념 업데이트 7시간 만에 애플 앱스토어 매출 1위 (네이트 뉴스)",
-          "url": "https://m.news.nate.com/view/20261022n40437"
-        }
-      ],
-      "icon": "https://play-lh.googleusercontent.com/UWC5wo-EWlf1LnrUd8xld2m_F0TcDy0krpbPPyu77jzX3VllvX-tFJy5ysNfqZ6dZosZ-QCwv5JUJYVzV6_Z=w128",
+      "verified": false,
+      "category": "매출 이벤트",
+      "short": "블랙프라이데이 이벤트·신규 초마신 카이저·시즌패스 업데이트 영향 추정",
+      "summary": "이 게임과 직접 관련된 최신 한국어 기사는 찾지 못했다. 스토어 최근 업데이트 내역에는 블랙 프라이데이 이벤트, 신규 초마신 '카이저' 출시, 복귀 유저 대상 성장 이벤트, 전설급 스킨과 보상이 담긴 시즌패스 시작이 포함되어 있다. 매출 차트 13계단 상승은 이 중 연말 할인 이벤트와 시즌패스 판매가 결제 매출을 끌어올린 것으로 추정되지만, 기사로 확인된 사실이 아니므로 추측에 가깝다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY=w128",
       "screenshots": [
-        "https://play-lh.googleusercontent.com/zLGCM9l4giXspHtl_LfIVQOguF7j7Gog6ujVyPJ1kP6rVclAs9O3juUpC8T36BC7sqhbDNPZamdwP3lKYoOYww=w400",
-        "https://play-lh.googleusercontent.com/YMEpWLOh4cFZSDmU0Xznxx4uaItV04JWf2_TnFJ_diyPKXxw0FeL-_3rtTxgcY9tybf2yTvNGcg07DEWK43oOA=w400",
-        "https://play-lh.googleusercontent.com/fESqtXNidWgiKQI4uSB1YjrAqJ3DQYLtHI6M8dcgQAnGHU1hXKoUnPb5XpDb4EJnd5DrW8l9Jy1YWHnbys30rQ=w400",
-        "https://play-lh.googleusercontent.com/x03T74s_9jJd4DFFhy6r3Zv19ryEZ1t5r2nss53BaSF1LqKq2cL0QVeYglIEQ-C6gyCLEtBS6NVh-pnmqGh08f8=w400"
+        "https://play-lh.googleusercontent.com/x03T74s_9jJd4DFFhy6r3Zv19ryEZ1t5r2nss53BaSF1LqKq2cL0QVeYglIEQ-C6gyCLEtBS6NVh-pnmqGh08f8=w400",
+        "https://play-lh.googleusercontent.com/uzNAL8snzn_bXIbaDWX256dE2xqcadrdLfty-HKP00DaMHdKVb-epEmEnlMhfohFzRWbFfWEI4a4eWQcQLgbDA=w400",
+        "https://play-lh.googleusercontent.com/bYRkf3zY7hkC2hfrWSZo8SSUqERS-4cappNzAfv79KeoG4UEIjDeZoQdHU-L730hDQ7QAyDFLs3KhKlZEA2x=w400",
+        "https://play-lh.googleusercontent.com/uslSKjT8QUlZLD-DjI7R1gClTo222rmuEkWOqYLXSy4h1sWp_Z3E_YnM_bmPTGFYLB5F2Wo1nx1vTkeUuP58=w400"
       ],
       "video": "https://www.youtube.com/embed/4ueLURPE224?vq=large&rel=0&autohide=1&showinfo=0",
-      "videoImage": "https://play-lh.googleusercontent.com/aUB8YetgQWdsibzopVy6bL3P9fkUAWlGHeUn65b8eoxr8RhygbYgUrMQCh4GCvujMbJxBpyoISiTXblXaqXrTw=w480",
+      "videoImage": "https://play-lh.googleusercontent.com/wXDS4A3UXQtl9L6V38NBsUMB_mc34WWZBXJ1fFgyYbCTSmW7kztTQwFlZoqS6mX7BNCB8kedMIGXbJ7Ik5rK=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.percent.aos.cooptd&hl=ko&gl=kr",
-      "recentChanges": "지금 이 순간, 협타디 2주년 이벤트 시작!<br>■ 2주년 이벤트와 카이저의 결투장 PVP 업데이트<br>■ 거인 확정 등장! 개편된 거인 침공 시작<br>■ 신규 초마신 강림 그리고 해방! 「카이저」<br>■ 슈퍼 점핑! 성장과 복귀의 기회는 지금!<br>■ 전설급 신규 스킨과 보상 가득한 시즌패스 시작!"
+      "recentChanges": "인간들을 막아라! &#39;협동타워디펜스&#39;를 시작하세요!<br>■ 절호의 찬스! 블랙 프라이데이 이벤트 시작!<br>■ 신규 초마신 강림 그리고 해방! 「카이저」<br>■ 슈퍼 점핑! 성장과 복귀의 기회는 지금!<br>■ 전설급 신규 스킨과 보상 가득한 시즌패스 시작!"
     }
   },
   "com.nexon.mdnf": {
@@ -2586,13 +2667,13 @@
     }
   },
   "com.s01.global": {
-    "researchedAt": "2026-10-27T19:42:18.809Z",
+    "researchedAt": "2026-11-19T14:47:45.568Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "연맹 안전 채집 포인트 및 장비 재료 교환 추가로 순위 상승 추정",
-      "summary": "검색으로는 로드러쉬의 순위 상승을 다룬 최신 한국어 기사를 찾지 못했습니다. 스토어 업데이트 내역에 따르면 연맹원이 공격받지 않고 자원을 채집할 수 있는 연맹 안전 채집 포인트와, 영주가 남는 재료를 장비 및 보석 아이템으로 바꿀 수 있는 기능이 새로 추가되었습니다. 두 기능 모두 제국이 일정 진도에 도달하면 해제되므로, 신규 콘텐츠 공개에 따른 이용자 유입이 상승의 원인일 가능성이 있으나 이는 추정입니다.",
+      "short": "연맹 안전 채집·장비 재료 교환 추가로 상승 추정",
+      "summary": "로드러쉬 관련 한국어 기사를 찾지 못해 검증되지 않았습니다. 스토어 최근 업데이트 내역에 따르면 제국 진도 달성 시 해제되는 '연맹 안전 채집 포인트'가 신규 추가되어 연맹 멤버가 공격 없이 자원을 채집할 수 있게 되었습니다. 또한 '영주 장비 및 영주 보석 재료 교환' 기능이 추가되어 남는 재료를 장비·보석 아이템으로 바꿀 수 있게 되었습니다. 이 콘텐츠 추가가 Google 매출 순위 5계단 상승의 원인일 가능성이 있으나, 기사로 확인되지 않은 추정입니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/4_JTVfSvadb3P01izF2fL47w183NO4oqje4gtwZIKf05-iCu9SI7ldG8vYfGZFpbN_-wXMWVexolzqqZqzJKWg=w128",
       "screenshots": [
@@ -3208,58 +3289,37 @@
     }
   },
   "6499562253": {
-    "researchedAt": "2026-11-06T14:47:09.407Z",
+    "researchedAt": "2026-11-19T14:47:05.342Z",
     "verified": true,
     "data": {
       "verified": true,
       "category": "콜라보",
-      "short": "0.5주년 리센느 콜라보 사전예약·11/19 업데이트 발표 효과로 추정",
-      "summary": "하이브로는 서비스 0.5주년을 맞아 걸그룹 리센느를 전속 모델로 발탁하고 11월 19일 스페셜 콜라보 업데이트를 예고했다. 사전예약 참여자에게는 리센느 드래곤 5종 중 1종을 고를 수 있는 상자와 코스튬·칭호 등 한정 아이템을 주며, 11월 12일~18일 출석 이벤트와 친구 초대 보상도 함께 진행된다. 다만 기사들은 순위 상승과의 직접적 인과관계를 명시하지 않으므로, 사전예약과 이벤트 발표에 따른 관심 증가가 앱스토어 매출 순위 상승의 원인으로 보는 것은 추정이다. 스토어 업데이트 내역(1.0.25)은 버그 수정과 안정성 개선만 담고 있어 순위 상승 요인으로는 부차적이다.",
+      "short": "0.5주년 리센느 콜라보 업데이트·사전예약 보상 효과",
+      "summary": "하이브로는 서비스 0.5주년을 맞아 걸그룹 리센느를 전속 모델로 삼고, 11월 19일 콜라보 업데이트에 앞서 사전예약을 받았습니다. 리센느 멤버를 모티브로 한 신규 드래곤 5종과 응원 머리띠, 응원봉 등 한정 아이템이 제공되며, 업데이트 이후에도 드래곤 뽑기와 광장 OX 퀴즈 등 참여 이벤트가 이어집니다. 기사에는 순위 변화가 직접 언급되지 않아, 72계단 상승은 콜라보 업데이트 시점과 맞물린 것으로 추정되는 수준입니다. 스토어 1.0.28 업데이트(버그 수정·안정성 개선)는 순위 상승의 주된 원인으로 보기 어렵습니다.",
       "articles": [
         {
-          "title": "드래곤빌리지3, 걸그룹 리센느와 0.5주년 기념 콜라보레이션 실시 - Businesskorea",
-          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280698"
-        },
-        {
-          "title": "하이브로 ‘드래곤빌리지3’, 걸그룹 리센느 컬래버 앞두고 사전예약 - 서울경제TV",
-          "url": "https://www.sentv.co.kr/article/view/sentv202611060135"
-        },
-        {
-          "title": "하이브로, ‘드래곤빌리지3’ 서비스 0.5주년 맞아 리센느와 협업…19일 업데이트 - 스타데일리뉴스",
-          "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=601586"
-        },
-        {
-          "title": "하이브로, ‘드래곤빌리지3’ 리센느 콜라보 사전예약부터 출석 이벤트까지 진행 - 스포츠월드",
-          "url": "https://www.sportsworldi.com/newsView/20261106511365?OutUrl=google"
-        },
-        {
-          "title": "하이브로, ‘드래곤빌리지3’ 리센느 협업…5종 드래곤 추가 - 지피코리아",
-          "url": "https://www.gpkorea.com/news/articleView.html?idxno=148369"
-        },
-        {
-          "title": "하이브로, '드래곤빌리지3' 0.5주년 기념 리센느와 콜라보...사전예약 시작 - 데일리안",
+          "title": "하이브로, '드래곤빌리지3' 0.5주년 기념 리센느와 콜라보...사전예약 시작",
           "url": "https://www.dailian.co.kr/news/view/1711821/%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A1%9C-%EB%93%9C%EB%9E%98%EA%B3%A4%EB%B9%8C%EB%A6%AC%EC%A7%803-05%EC%A3%BC%EB%85%84-%EA%B8%B0%EB%85%90-2026"
         },
         {
-          "title": "드래곤빌리지3, 리센느 콜라보 사전예약 시작 - 인벤",
-          "url": "https://www.inven.co.kr/webzine/news/?news=323084"
+          "title": "‘드래곤빌리지3’ 걸그룹 ‘리센느’ 협업 업데이트",
+          "url": "https://www.ilovepcbang.com/news/articleView.html?idxno=203527"
         },
         {
-          "title": "하이브로, 리센느(RESCENE)와 ‘드래곤빌리지3’ 스페셜 콜라보레이션 진행 - 시선뉴스",
-          "url": "https://www.sisunnews.co.kr/news/articleView.html?idxno=249235"
+          "title": "드래곤빌리지3, 걸그룹 리센느와 0.5주년 기념 콜라보레이션 실시",
+          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280698"
         }
       ],
-      "icon": "https://play-lh.googleusercontent.com/Ub7Hbq1LusnGf9lR0Spth7mxCzByqE22z9MEBwK--PP1fuh96JazHOboiMADc7Yl1drd8axAa0kOoUyTDy0v=w128",
+      "icon": "https://play-lh.googleusercontent.com/chM0jgd0k1tQys2Ve76otE1weI-MVH5JExhV040UAXXYqsNNgXJkfKGnGwFF8Q0jpV2c-WFn3RyyUrrQ1VY2ZA=w128",
       "screenshots": [
-        "https://play-lh.googleusercontent.com/xcwnNjakzRwUaGCXhAY8869MokDSLOF_GUdhYWBbqgXDPnpbnlCyCNe7wQ2D8F60-knY5mGwhUn6v2ZpTWKXJQ=w400",
-        "https://play-lh.googleusercontent.com/IxOQN1LUBThsz9oMpFLDbvpcJr3gIqzkCQLxc7djGUVyS4CktyCQYpreX9ypKhPzB4VIFD85balLpnFGRuHmZw=w400",
-        "https://play-lh.googleusercontent.com/jzqTUTIMYGbxYXB4e5uwEVhfOgA9wSS_0iEbOZPpxNy48kkv86Cz9PzjctSTjlAmKEB2BBSmja_CpEIrH8l7QA=w400",
-        "https://play-lh.googleusercontent.com/HcmJZtodRcf8nN05FsfEOewTmf9C95vo3QoEP1Xfi1gDXj2M6Cvuti5JtlfY9QmbgWhl_yCwYA0WtJaULG0UX9Q=w400"
+        "https://play-lh.googleusercontent.com/Tr-5FoEUnH6DKQ8ximhP5JMZ-zHl5cHe6Y2JHq2QvfPIO-SpbfLPolPpHeI8paDZUNGMtWycALQ4JzautoDA=w400",
+        "https://play-lh.googleusercontent.com/biB55K6bN_wnODapwbWkowUqdjW22rjFrDDtd10nvnUEP43PxyG6d2Y-f_vjsqbfNGvfL80bBvTC78HZypehwto=w400",
+        "https://play-lh.googleusercontent.com/U-9MwplHOs-u7JO3rRG5zZndKp1qYElc98yn4uGcp8t-Yjra8dV3ncIQ4BYKSWM0xf_Z-HGli6x2QV1rN1iLvw=w400",
+        "https://play-lh.googleusercontent.com/UjDG6hCiM7odfnAN0Nzx2c22SlWJ7YjdUgPJFwz4fwmJw1EEiWAEOr6ZE3R9pl2bWxo2pcx7EgQoxJO-v7r8v8Q=w400"
       ],
-      "video": "https://www.youtube.com/embed/C5jIQF1EJn0?vq=large&rel=0&autohide=1&showinfo=0",
-      "videoImage": "https://play-lh.googleusercontent.com/eP27IC4f4qDHwK5_pEe9Xqagrn_7ZlW6_lUQav3GgaoKU9ProGOdML1HDdi40n7B1lASls-03bOG5u5n9bwssw=w480",
+      "video": null,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.highbrow.games.dvo&hl=ko&gl=kr",
-      "recentChanges": "[1.0.25]<br>드래곤과 함께하는 모험이 더 쾌적해지도록 버그를 수정하고 게임 안정성을 개선했습니다.<br>"
+      "recentChanges": "[1.0.28]<br>드래곤과 함께하는 모험이 더 쾌적해지도록 버그를 수정하고 게임 안정성을 개선했습니다.<br>"
     }
   },
   "6780387121": {
@@ -4104,38 +4164,30 @@
     }
   },
   "6503702666": {
-    "researchedAt": "2026-11-06T14:47:31.228Z",
+    "researchedAt": "2026-11-19T14:47:11.024Z",
     "verified": true,
     "data": {
       "verified": true,
       "category": "컨텐츠 업데이트",
-      "short": "2주년 업데이트, 신규 초마신 카이저·첫 PvP 추가로 앱스토어 매출 1위",
-      "summary": "슈퍼매직은 서비스 2주년을 맞아 신규 초마신 카이저와 게임 최초의 1:1 대전 모드 '카이저의 결투장'을 추가하고 11월 19일까지 기념 이벤트를 진행했다. 모든 이용자에게 카이저를 무료로 지급해 육성 재화로 키울 수 있게 한 점과 35종 핼러윈 스킨 수집 보상이 주요 유인으로 소개됐다. 이 업데이트 이후 7시간 만에 애플 앱스토어 매출 1위를 기록해, 이번 17위 부근 순위 상승의 직접적 계기로 보인다.",
+      "short": "2주년 업데이트(신규 캐릭터·PvP·스킨) 직후 애플 매출 1위 달성",
+      "summary": "슈퍼매직은 서비스 2주년을 맞아 신규 캐릭터와 첫 PvP 대전 모드를 추가했고, 35종의 스킨을 모을수록 단계별 보상을 주는 콘텐츠도 함께 내놓았습니다. 이 업데이트에 대한 이용자 반응이 좋아 협타디는 업데이트 후 7시간 만에 애플 앱스토어 매출 1위에 올랐습니다. 스토어 내역의 블랙 프라이데이 이벤트·신규 초마신·시즌패스 등 후속 콘텐츠도 같은 흐름을 이어가는 요인으로 볼 수 있습니다.",
       "articles": [
         {
-          "title": "'협타디', 2주년 기념 업데이트 7시간 만에 애플 앱스토어 매출 1위 \"예상치 못한 큰 성과\"",
+          "title": "'협타디', 2주년 기념 업데이트 7시간 만에 애플 앱스토어 매출 1위 \"예상치 못한 큰 성과\" : 네이트 뉴스",
           "url": "https://m.news.nate.com/view/20261022n40437"
-        },
-        {
-          "title": "2주년 맞은 협동 타워 디펜스, 신캐 '카이저'와 PvP 추가",
-          "url": "https://www.gamemeca.com/en/view.php?gid=1782211"
-        },
-        {
-          "title": "슈퍼매직, '협타디' 서비스 2주년 기념 업데이트... 신규 초마신 캐릭터 '카이저' 무료 지급",
-          "url": "https://gamefocus.co.kr/detail.php?number=179995"
         }
       ],
-      "icon": "https://play-lh.googleusercontent.com/UWC5wo-EWlf1LnrUd8xld2m_F0TcDy0krpbPPyu77jzX3VllvX-tFJy5ysNfqZ6dZosZ-QCwv5JUJYVzV6_Z=w128",
+      "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY=w128",
       "screenshots": [
-        "https://play-lh.googleusercontent.com/zLGCM9l4giXspHtl_LfIVQOguF7j7Gog6ujVyPJ1kP6rVclAs9O3juUpC8T36BC7sqhbDNPZamdwP3lKYoOYww=w400",
-        "https://play-lh.googleusercontent.com/YMEpWLOh4cFZSDmU0Xznxx4uaItV04JWf2_TnFJ_diyPKXxw0FeL-_3rtTxgcY9tybf2yTvNGcg07DEWK43oOA=w400",
-        "https://play-lh.googleusercontent.com/fESqtXNidWgiKQI4uSB1YjrAqJ3DQYLtHI6M8dcgQAnGHU1hXKoUnPb5XpDb4EJnd5DrW8l9Jy1YWHnbys30rQ=w400",
-        "https://play-lh.googleusercontent.com/x03T74s_9jJd4DFFhy6r3Zv19ryEZ1t5r2nss53BaSF1LqKq2cL0QVeYglIEQ-C6gyCLEtBS6NVh-pnmqGh08f8=w400"
+        "https://play-lh.googleusercontent.com/x03T74s_9jJd4DFFhy6r3Zv19ryEZ1t5r2nss53BaSF1LqKq2cL0QVeYglIEQ-C6gyCLEtBS6NVh-pnmqGh08f8=w400",
+        "https://play-lh.googleusercontent.com/uzNAL8snzn_bXIbaDWX256dE2xqcadrdLfty-HKP00DaMHdKVb-epEmEnlMhfohFzRWbFfWEI4a4eWQcQLgbDA=w400",
+        "https://play-lh.googleusercontent.com/bYRkf3zY7hkC2hfrWSZo8SSUqERS-4cappNzAfv79KeoG4UEIjDeZoQdHU-L730hDQ7QAyDFLs3KhKlZEA2x=w400",
+        "https://play-lh.googleusercontent.com/uslSKjT8QUlZLD-DjI7R1gClTo222rmuEkWOqYLXSy4h1sWp_Z3E_YnM_bmPTGFYLB5F2Wo1nx1vTkeUuP58=w400"
       ],
       "video": "https://www.youtube.com/embed/4ueLURPE224?vq=large&rel=0&autohide=1&showinfo=0",
-      "videoImage": "https://play-lh.googleusercontent.com/aUB8YetgQWdsibzopVy6bL3P9fkUAWlGHeUn65b8eoxr8RhygbYgUrMQCh4GCvujMbJxBpyoISiTXblXaqXrTw=w480",
+      "videoImage": "https://play-lh.googleusercontent.com/wXDS4A3UXQtl9L6V38NBsUMB_mc34WWZBXJ1fFgyYbCTSmW7kztTQwFlZoqS6mX7BNCB8kedMIGXbJ7Ik5rK=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.percent.aos.cooptd&hl=ko&gl=kr",
-      "recentChanges": "지금 이 순간, 협타디 2주년 이벤트 시작!<br>■ 2주년 이벤트와 카이저의 결투장 PVP 업데이트<br>■ 거인 확정 등장! 개편된 거인 침공 시작<br>■ 신규 초마신 강림 그리고 해방! 「카이저」<br>■ 슈퍼 점핑! 성장과 복귀의 기회는 지금!<br>■ 전설급 신규 스킨과 보상 가득한 시즌패스 시작!"
+      "recentChanges": "인간들을 막아라! &#39;협동타워디펜스&#39;를 시작하세요!<br>■ 절호의 찬스! 블랙 프라이데이 이벤트 시작!<br>■ 신규 초마신 강림 그리고 해방! 「카이저」<br>■ 슈퍼 점핑! 성장과 복귀의 기회는 지금!<br>■ 전설급 신규 스킨과 보상 가득한 시즌패스 시작!"
     }
   },
   "com.riotgames.league.wildrift": {
@@ -4267,13 +4319,13 @@
     }
   },
   "com.playrix.homescapes": {
-    "researchedAt": "2026-11-09T14:47:21.887Z",
+    "researchedAt": "2026-11-19T14:47:50.820Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "파라오의 보물 이벤트 업데이트로 순위 상승 추정(기사 미확인)",
-      "summary": "이번 순위 상승을 직접 다룬 최신 한국어 기사는 찾지 못했다. 스토어 최근 업데이트 내역에는 '파라오의 보물' 이벤트가 있으며, 레이첼·에디슨과 함께 파라오의 무덤을 탐험하고 퍼즐을 풀어 보상을 받는 내용이다. 따라서 신규 이벤트 콘텐츠가 유저 복귀와 매출을 끌어올렸을 가능성이 있으나, 이는 업데이트 내역에 근거한 추정이며 매출 데이터로 확인된 원인은 아니다. 검색에서 나온 기사들은 과거 흥행이나 추석 연휴 매출을 다룬 것이라 이번 7계단 상승의 근거로 쓰지 않았다.",
+      "short": "사막 고대 도시 이벤트·아파트 챕터 추가, 순위 상승 추정(미검증)",
+      "summary": "스토어 업데이트 내역에는 사막에서 고대 도시를 찾는 '모래 속에서 길을 잃다' 이벤트와 패트릭·리사 아파트 리모델링 두 반쪽 챕터가 포함되어 있다. 이러한 신규 콘텐츠와 이벤트 보상이 5계단 상승의 배경일 가능성이 있다. 다만 검색에서 순위 변동을 직접 다룬 최신 한국어 기사는 찾지 못했으므로, 원인은 스토어 내역에 근거한 추정이다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/98F-rCvO3NbMvijqi_bRDAt4x9y3sBbTffMFxK0iOn8W0SlFqs7BkmKE9UsqgPH07yDNj2B2IrKeoYGjvGGYcHU=w128",
       "screenshots": [
@@ -4285,7 +4337,7 @@
       "video": "https://www.youtube.com/embed/R_Frh_KE_V0?vq=large&rel=0&autohide=1&showinfo=0",
       "videoImage": "https://play-lh.googleusercontent.com/Hua5u5TeUkEwHyzmGzUbumsMLY42RH8cDLQkEza45wgoGctLCXW-3guHvlAgF1MgMJNbFp_JLzL5Vg50vbvkerk=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.playrix.homescapes&hl=ko&gl=kr",
-      "recentChanges": "파라오의 보물<br>• 레이첼, 에디슨과 함께 발길이 닿지 않은 파라오의 무덤을 탐험하세요!<br>• 퍼즐을 풀고, 함정을 피해 고대 유물을 찾으세요!<br>• 이벤트를 완료하고 값진 보상을 받으세요!"
+      "recentChanges": "모래 속에서 길을 잃다<br>• 레이첼을 도와 사막에서 고대 도시를 찾으세요!<br>• 위험한 유적에서 빠져나갈 길을 찾고 모래 폭풍 속에서 살아남으세요!<br>• 이벤트를 완료하고 값진 보상을 받으세요!<br> <br>그 밖에도<br>• 이어지는 두 반쪽 이야기! 패트릭과 리사의 아파트 리모델링을 완료하세요!"
     }
   },
   "6752886832": {
@@ -4657,13 +4709,13 @@
     }
   },
   "com.nexon.bluearchive": {
-    "researchedAt": "2026-11-18T14:47:41.837Z",
+    "researchedAt": "2026-11-19T14:47:34.381Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "매출 이벤트",
-      "short": "페스 3성 선택권·수영복 픽업·3성 확률 2배로 매출 상승 추정",
-      "summary": "검색된 기사는 2023~2026년 초 시점의 블루 아카이브 매출 1위 소식뿐이어서 이번 순위 변동(11/10~11/23 기간)을 직접 다룬 기사는 찾지 못했다. 따라서 스토어 업데이트 내역을 근거로 판단하면, 11/10부터 시작된 '페스 3성 학생 선택권'과 마코토·사츠키 수영복 픽업, 무료 모집 200회 이벤트가 상승의 주된 요인으로 보인다. 11/17부터는 이로하·이부키 수영복 픽업과 3성 학생 그룹 획득 확률 합산 수치 2배 증가가 추가되어 매출 유인이 한층 커진 것으로 추정된다.",
+      "short": "3성 선택권·픽업·3성 확률 2배로 매출 상승 추정",
+      "summary": "검색으로는 2026년 11월 Google 매출 순위 상승을 직접 다룬 최신 한국어 기사를 찾지 못했다. 따라서 제공된 스토어 업데이트 내역을 근거로 추정하면, 11/10~12/7 기간의 '페스 3성 학생 선택권'과 마코토·사츠키 수영복 픽업, 무료 모집 200회 이벤트가 신규 결제 유도 요인으로 보인다. 이후 11/17부터 이로하·이부키 수영복 픽업과 3성 학생 그룹 획득 확률 합산 수치 2배 증가가 이어져 매출 흐름을 뒷받침했을 가능성이 있다. 다만 이는 업데이트 내역에 기반한 추측이며 실제 매출 기여도는 확인되지 않았다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/GnRkc6gDw7cPYrK1AvQNy7S_R4B7Atq6ncuJGf14CGaG0K8j_ayp0jrkIzuIfMHjP2Mb6ku5yeph3hHA6MLt7b0=w128",
       "screenshots": [
@@ -4676,6 +4728,87 @@
       "videoImage": "https://play-lh.googleusercontent.com/k3Mzcr0G38bhgsliRSk3TMH--PmiDjIMCPqzlh0y_Y6zcy26QXdyjFJdiJn5nQuvoR8V-s6xxkW8ije3VrAz=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.nexon.bluearchive&hl=ko&gl=kr",
       "recentChanges": "1. 마코토(수영복), 사츠키(수영복) 픽업 추가 (11/10~11/16)<br>2. 무료 모집 &#39;200회&#39; 이벤트 진행 (11/10~11/16)<br>3. [특별] 페스 3성 학생 선택권 (11/10~12/7)<br>4. 메인 스토리 Vol.1 - 불꽃과 그림자 편 (11/10~)<br>5. 메인 스토리 1부 최종편 1장~4장 한국어 더빙 추가 (11/10~)<br>6. 이벤트 스토리 - 출항! 만마선 마코토 의장님의 화려한 피서 추가 (11/10~11/23)<br>7. 제약해제결전 세트의 분노(경장갑) 진행 (11/11~12/7)<br>8. 총력전 예로니무스(시가전) 진행 (11/17~11/23)<br>9. 이로하(수영복), 이부키(수영복) 픽업 추가 (11/17~11/23)<br>10. 3성 학생 그룹의 획득 확률 합산 수치 2배 증가 (11/17~11/23)"
+    }
+  },
+  "6499011827": {
+    "researchedAt": "2026-11-19T14:46:29.857Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "신규 버전 이벤트·신규 인형 추가로 신규 진입(36위)",
+      "summary": "검색으로 찾은 기사들은 2024년 12월 국내 출시 당시의 매출 순위를 다루고 있어, 현재 App Store 36위 신규 진입의 원인을 직접 설명하지 못합니다. 따라서 이 판단은 스토어 최근 업데이트 내역에 근거한 추정이며 검증되지 않았습니다. 업데이트 내역에는 신규 버전 이벤트 개방, 신규 인형 등장, 인형 결약과 도약키 추가, 지난 이벤트 스토리의 상시화가 포함되어 있어 이것이 신규 진입의 유력한 배경으로 보입니다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/N0Cq4MZ9VszB5TH_Wq229R62IuSVn1LfWwB3uhdjb0J_fsRn2hfHWc8XOEH7kAUs7Hg4SB2HLl_LEOj17YkwNQ=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/tyAoa4fs3TXb8MWYiIfKzYxj7UkOrWTqHj3vrFbjZkC04MwSmnbaSaDyzJfxPESg8EDWYwF-pPmu3Fp9U_8KRx8=w400",
+        "https://play-lh.googleusercontent.com/OHhTzXUqc0HVhkB96HVTL-lGX7esV-n99V61PE32VOkAkA-o-ePmiZkQe6FHnZjTrJJsxWJSEOnYgcM1wHWaqQ=w400",
+        "https://play-lh.googleusercontent.com/cykjhMRQhgz2dqkxnSJZR2KpTxtx9cqt369PlPJd0vjE15TLNJsJbcg9QdlbcDbC352Jy3eJypXD1Zli9qlb0w=w400",
+        "https://play-lh.googleusercontent.com/3nWAdBP44a4ColdvJyd-Q1MOZLDzCUoS-bYOTGfC18YMBW70OureNQWrilW6lwgG7PhbL3CX1g9_XsklIEiZ=w400"
+      ],
+      "video": "https://www.youtube.com/embed/vaJ5UuFUaZk?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/4n1pzeWFXXEdHplUBwLCLEDI_KUUGf4_MPw0YquvPpZb5hwmjoemQdzrFlFC6jjr6yST28wkb0fsl6o-eBSpaw=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.haoplay.game.and.exilium&hl=ko&gl=kr",
+      "recentChanges": "[업데이트 안내]<br>신규 이벤트 오픈, 신규 인형 등장!<br>지금 바로 접속하셔서 풍성한 보상을 받아가세요!<br><br>[업데이트 내용]<br>1. 신규 버전 이벤트가 개방됩니다. 스토리를 감상하고 이벤트에 참여해서 「붕괴결정 샤드」, 「지정 액세스 권한」, 「베이직 정보 코어」등 다양한 보상을 받아가세요!<br>2. [활동층] 신규 콘텐츠가 지속적으로 추가됩니다. 더 많은 인형, 장식품, 상호작용 스토리 등을 기대해 주세요!<br>3. 인형 결약 &amp; 도약키 추가<br>4. [지난 이벤트]에 스토리 추가 상시화"
+    }
+  },
+  "6754373623": {
+    "researchedAt": "2026-11-19T14:46:58.076Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "인챈트·Nightmare 난이도·신규 영웅 추가 등 콘텐츠 확장으로 신규 진입 추정",
+      "summary": "이 게임에 대해 검색된 최신 한국어 기사는 찾지 못했다. 검색 결과에 나온 기사는 컴투스홀딩스의 '소울 스트라이크'와 관련된 것으로, 이 게임(Ryong Game의 소울 헌터 키우기)과는 다른 작품이라 근거로 쓰지 않았다. 따라서 제공된 스토어 업데이트 내역을 근거로 판단했으며, 인챈트 콘텐츠, 보스전 Nightmare 난이도, 심연 침공 및 봉인석 강화 콘텐츠, 신규 스킬·영웅 3종 추가가 최근 신규 진입의 유력한 원인으로 보인다. 다만 매출 이벤트나 프로모션 여부는 확인되지 않아 추측에 머문다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/PTFRuu4EyoYWZ5PNkJD3Z_SUxnByiFYYwFky5xxUzchwfuUfDs7hBveh7ru10kzhZrEGsebUvpGzSB1F5s2T1Xc=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/1JK019XsGE5YyvKa79iL2168qVT_3gNTxgeIiY7AORN8-rjo6Ic4Z0XJ7LJ9wPGAcpINlbX9yZGFx_DeVwGF_y0=w400",
+        "https://play-lh.googleusercontent.com/Mv5roHhWwjAm2l4JoYohyiMeAlPpAIiUFSI6Lq8Jpypg9pNCjKLh9YaRmWRPo-h9V4Y0tCgFomjC_yg0iASbrg=w400",
+        "https://play-lh.googleusercontent.com/2zIEbM0vIMLOlq4n-2YzPX4M5muBTXI3KZlo66vs988e7nmcUl4T5GTmVGsrVyD21OzRcgvwvku5vZ0NRjg3YQ=w400",
+        "https://play-lh.googleusercontent.com/j2Caofp0IzxjldB7AZyPEae-mM-X_LOR-flYGSlYdTaHWjp-DurLmqHlpB0KlMBflTGT6goIzkgL1g7GoK4SJw=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.ryonggame.soulhunteridle&hl=ko&gl=kr",
+      "recentChanges": "오류 수정<br>1.인챈트 컨텐츠 추가 <br>2.보스전 Nightmare 난이도 추가 <br>3.심연 침공 및 봉인석 강화 컨텐츠 추가 <br>4.신규 이벤트 추가 <br>5.신규 스킬 및 영웅 3종 추가 <br>6.컨텐츠 확장"
+    }
+  },
+  "com.mrtgd2kr.google": {
+    "researchedAt": "2026-11-19T14:47:40.494Z",
+    "verified": true,
+    "data": {
+      "verified": true,
+      "category": "신규 오픈",
+      "short": "9월 18일 정식 출시 + 사전예약자 777뽑기 등 출시 보상",
+      "summary": "조이 게임즈가 9월 18일 모바일 로그라이크 슈팅 디펜스 RPG '후더덕 서바이벌'을 정식 출시하며 상승 동력이 생겼다. 전작 '감자슉슈슉'의 후속작이라는 기대감 위에 김기방 홍보모델 발탁이 더해졌다. 사전예약자에게는 777회 뽑기, 한정 스킨, 에픽 개틀링 건 등 보상이 지급되어 초기 유입과 매출을 끌어올린 것으로 보인다. 다만 출시가 약 두 달 전이라 현재 6계단 상승은 출시 이후의 후속 이벤트 효과일 가능성도 함께 고려해야 한다.",
+      "articles": [
+        {
+          "title": "조이 게임즈, 모바일 신작 '후더덕 서바이벌' 정식 출시",
+          "url": "https://www.thisisgame.com/articles/430166"
+        },
+        {
+          "title": "조이게임즈, 로그라이크 디펜스 RPG '후더덕 서바이벌' 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321145"
+        },
+        {
+          "title": "모바일 로그라이크 슈팅 디펜스 RPG ‘후더덕 서바이벌’ 정식 출시",
+          "url": "https://www.bodnara.co.kr/bbs/article.html?num=214525"
+        },
+        {
+          "title": "조이게임즈, 모바일 디펜스 게임 '후더덕 서바이벌' 정식 출시",
+          "url": "https://www.ipnn.co.kr/news/articleView.html?idxno=417615"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/rDbVN_XC0pxpQMgTMRD9n7et-PpV5PFfF-jS86jBpkKkiSx2kPrvN65t_XlY5V4sHQvbL1RxT05eMJIXksDXoA=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/-8wpvcAqPqRUZOCKfP_etnZU9btAY4P3dhiSPcPnI8veV0c9LTFtEotpmZNpoWRi-q01553owOOclsTP_DbS6w=w400",
+        "https://play-lh.googleusercontent.com/CLGhoJkhqD5LpjPQtfkLW2y44meM_2qoiEOB4_Hf7nR5E49RYq1OnI7zbFDu5Yhr2ZadytdejyG-TtHto5iz=w400",
+        "https://play-lh.googleusercontent.com/6hEZAQ1PuR_qU7sWxRI4aGjZzMu01RM1HwdqHkjEceU6pv6vopp7TXZ8H19IDW3I5jwzZeMj5d0yBZRV6zRnxvI=w400",
+        "https://play-lh.googleusercontent.com/yOUOYR1jhEAXxB3IOFHpy67KzMfZdDkVB5cHg7mTqCk3sC_UWbmIUpYkInZmtzwBBotka5pqs5QLBb7xUkxc3qA=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.mrtgd2kr.google&hl=ko&gl=kr",
+      "recentChanges": ""
     }
   }
 }
