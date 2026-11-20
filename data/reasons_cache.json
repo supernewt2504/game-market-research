@@ -74,16 +74,38 @@
       "recentChanges": "캔디크러쉬사가에서 즐거운 시간 보내고 계신가요? 게임이 매주 새롭게 업데이트되니, 잊지 말고 최신 버전을 다운로드해서 새로운 기능과 레벨을 만나보세요!<br><br>게임이 처음이라면 수줍어하지 말고 즐기세요! <br><br>쉬다 돌아왔나요? 잘 왔어요! <br><br>함께 즐겨봐요!"
     }
   },
-  "638689075": {
-    "researchedAt": "2026-11-16T14:47:34.355Z",
+  "588637521": {
+    "researchedAt": "2026-11-20T14:46:26.706Z",
     "verified": false,
     "data": {
       "verified": false,
-      "category": "시즌·패스",
-      "short": "크리스마스 시즌 패스·홀리데이 컬렉션 업데이트로 순위 상승 추정",
-      "summary": "한국어 기사는 찾지 못해 스토어 업데이트 내역을 근거로 판단했으며 검증되지 않은 추정입니다. 업데이트에는 알파인·크리스마스 패스로 자원을 얻는 시즌 기능, 홀리데이 카드 컬렉션 완성 보상, 크리스마스 테마 모험 및 레가타 시즌이 포함되어 있습니다. 연말 시즌 콘텐츠가 집중 출시되면서 매출 상승에 기여했을 가능성이 있으나, 이를 입증하는 매출 데이터는 확인하지 못했습니다.",
+      "category": "컨텐츠 업데이트",
+      "short": "Ver23.4.0 업데이트(고속 모드·신규 각성)로 신규 진입 추정",
+      "summary": "검색으로는 현재 순위 변동을 직접 다룬 최신 한국어 기사를 찾지 못했다. 검색된 기사들은 2013~2015년 당시의 흥행 기록이어서 이번 신규 진입의 근거로 쓸 수 없다. 따라서 스토어 업데이트 내역인 Ver23.4.0을 근거로 보면, 배틀 속도 향상과 고속 모드 추가, 신규 각성 추가, 일부 각성 효과 조정이 유저 복귀와 신규 유입을 이끈 것으로 추정된다. 다만 이는 업데이트 내용에 기반한 추정이므로 실제 원인은 추가 확인이 필요하다.",
       "articles": [],
-      "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU=w128",
+      "icon": "https://play-lh.googleusercontent.com/t70uE_YeQkZ_080ReFVUETvtJKpOi9HutRCASqVzOOZZw5SJsquEUWD0pi7nPchfbPE6ere8onuflQfF_r8wBfc=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/4K7AI2PpsTxPYxKLN4_hI5kZOHapwNNGuGuTHZ1YZwD2Rnvbb4Q_vuqZxkUB4xRgoK3iJAkQ0QbkyAE9WO7xgQ=w400",
+        "https://play-lh.googleusercontent.com/09dfK8N_4PkbdGG2MGArkwCxAEsmTpTEhrytXcMCa_Ggqi6xiZsbeSJbn_iGE4SYjmbbwpTlKY9sDRl9hXgEdw=w400",
+        "https://play-lh.googleusercontent.com/8CEQD_yplF55gCOp2LrpAY1lj4Tm9XRXu_Hdna6s00PL3UYqE28hvadIXgX7OZ6Ef58qcac-XhDuh6gVaYq03g=w400",
+        "https://play-lh.googleusercontent.com/e8RK5mr1RapfTwRgFweRcbJpT_k5l-UB3FuCrwqqJ7JRLgAq99i-Y2-SBFzGP-9h_aDSPiGtyR-aODbEHy5Q=w400"
+      ],
+      "video": "https://www.youtube.com/embed/JejYIdDLcso?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/lQGGwUJRUYYf5uSkXp32bM3irSxiseiEW6WjHAYET26VL9OJIEE0w09b7pUjY8SEDIa6-Q7imfSNM-BgEktge2o=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=jp.gungho.padKO&hl=ko&gl=kr",
+      "recentChanges": "◇◆Ver23.4.0 업데이트 정보◆◇<br><br>◆배틀 속도가 향상됩니다. 또한 [고속 모드]가 추가됩니다.<br>◆[초절 콤보 강화] 등 신규 각성이 추가됩니다.<br>◆일부 각성 스킬, 잠재 각성 스킬의 효과가 조정됩니다.<br>◆던전 BGM 변경 방식에 [랜덤] 재생이 추가됩니다.<br><br>◆기타 버그 및 설명문 수정"
+    }
+  },
+  "638689075": {
+    "researchedAt": "2026-11-20T14:48:16.202Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "크리스마스 컬렉션·시즌 패스·신규 모험 업데이트로 연말 매출 상승 추정",
+      "summary": "검색으로는 순위 상승 원인을 다룬 한국어 기사를 찾지 못했다. 스토어 업데이트 내역에 따르면 크리스마스 카드 컬렉션 완성 보상과 알파인·크리스마스 패스 등 시즌 콘텐츠가 추가됐다. 마이크로프트·리처드·엘런이 등장하는 신규 모험, 새 레가타 시즌, 바리스타 학교 건물도 포함되어 연말 이용자 유입과 과금을 늘렸을 것으로 추정된다. 다만 이는 업데이트 내역에 근거한 추정이며 매출 수치로 확인된 사실은 아니다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/bVg7mo4Mdc1bq882a-q3SxgiWKIiRLsW1MdYcwXvtLEDlXrKorLm3p8kHB2MUJhWL5tjVk6_-_I2DOAIwmR2EA=w128",
       "screenshots": [
         "https://play-lh.googleusercontent.com/BGhGK1nmLzW-MbLgWMleTP0163b-uW4TsgyZKaI3WSH9IYhSqK7wdGwE4flo33Cq_bnykwIvd6PkuwlMHjH-=w400",
         "https://play-lh.googleusercontent.com/WHhdGo32kpK51pu_afNQsSX1DgluAK8NxTyZQV8vgnJxYfktFGjKWVFsvOe2wXXXNk7WzaHxjw3A812jgkzzvQ=w400",
@@ -97,13 +119,13 @@
     }
   },
   "848091833": {
-    "researchedAt": "2026-11-11T14:46:30.764Z",
+    "researchedAt": "2026-11-20T14:46:31.377Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "보물 게이지·진화/본능 추가 등 대형 업데이트로 신규 진입 추정",
-      "summary": "스토어 업데이트 내역에 따르면 보물 게이지 기능이 새로 들어가 가득 찬 게이지로 최고급 보물을 확정 획득할 수 있게 됐다. 일부 캐릭터에 제3·제4 진화 형태와 본능·초본능이 추가됐고, 레전드 스토리에는 새 맵과 고난도 스테이지 해방이 더해졌다. 이런 대규모 콘텐츠 업데이트가 매출 상위권 신규 진입의 원인으로 보이나, 현재 24위 진입을 직접 다룬 최신 기사는 찾지 못해 추정에 해당한다.",
+      "short": "보물 게이지·진화/본능 추가 등 대형 업데이트로 순위 상승 추정",
+      "summary": "검색으로는 이번 66계단 상승을 직접 다룬 최신 한국어 기사를 찾지 못했다. 스토어 업데이트 내역상 보물 게이지 기능, 일부 캐릭터의 제3·제4 형태와 본능·초본능 추가, 레전드 스토리 신규 맵과 고난도 스테이지 해방, 유저 랭크 보상과 냥콤보 추가가 포함되어 있다. 이러한 콘텐츠 업데이트가 신규 유입과 과금 증가를 이끌었을 가능성이 높으나, 기사로 확인되지 않은 추정이므로 검증되지 않은 판단이다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/rGpOjeQ_xeWTj-PZCZ1URVchLJf0SujnvO-UV7H4qqY5bfpusJoDYYPlYa2kC7VPm74P-JgzjihhnI469HGnjGE=w128",
       "screenshots": [
@@ -298,13 +320,13 @@
     }
   },
   "1117270703": {
-    "researchedAt": "2026-11-12T14:47:01.542Z",
+    "researchedAt": "2026-11-20T14:47:34.457Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "기타",
-      "short": "11월 5일 블랙프라이데이 캠페인 추정, 기사 미확인",
-      "summary": "한국어 기사에서 이번 42계단 상승의 직접 원인을 확인하지 못했습니다. 스토어 최근 업데이트 내역은 '버그를 수정했습니다'뿐이라 매출 상승을 설명하지 못합니다. 검색된 자료 중 가장 가까운 것은 11월 5일 점검 후 블랙프라이데이 이벤트와 세일이 시작됐다는 영문 보도와, 같은 날 공식 캠페인 페이지의 로그인 보상 및 POTW 캠페인입니다. 다만 이것이 순위 급등과 연결된다는 근거는 없으므로 추측이며, 매출 상승의 실제 원인은 추가 확인이 필요합니다.",
+      "short": "원인 미확인: 스토어 내역은 버그 수정뿐, 기사 미발견",
+      "summary": "한국어 기사에서 이번 순위 상승(16계단, 현재 26위)의 원인을 확인하지 못했습니다. 근거는 스토어 최근 업데이트 내역(버그 수정)뿐이라 매출 이벤트나 콜라보 등 구체적 원인은 확정할 수 없습니다. 검색에서 나온 기사는 일본어 기사이거나 과거 시점의 순위 기사여서 이번 상승과 직접 연결되지 않아 제외했습니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/jn-jaGEFUPiu0dBP9O6PjiRk-BCwFFLm0RdeOjLH-qLYjhHJlzNBMgl3Sah24htajj67_fdve-DzGsqmMUx1tqQ=w128",
       "screenshots": [
@@ -539,33 +561,25 @@
     }
   },
   "1366526331": {
-    "researchedAt": "2026-11-13T14:46:04.196Z",
+    "researchedAt": "2026-11-20T14:47:14.372Z",
     "verified": true,
     "data": {
       "verified": true,
       "category": "컨텐츠 업데이트",
-      "short": "11월 업데이트로 아스가르드 테마 모드·한정 낚시 콘텐츠 추가",
-      "summary": "크래프톤은 11월 업데이트로 북유럽 신화 콘셉트의 신규 테마 모드 '아스가르드'를 에란겔·비켄디·리빅 맵에 공개했고, 고대 괴수·탈 것·룬 스킬 등이 더해졌습니다. 같은 업데이트에 기간 한정 낚시 콘텐츠와 회복 아이템·총기 밸런스 조정도 포함됐습니다. 기사들은 업데이트 내용을 확인해 주지만, 이것이 28계단 순위 상승의 직접 원인이라는 내용은 기사에 없으므로 순위와의 연결은 업데이트 시점을 근거로 한 추정입니다.",
+      "short": "11월 업데이트 아스가르드 모드·클래식 개편으로 매출 순위 반등 추정",
+      "summary": "크래프톤은 11월 12일 업데이트로 북유럽 신화를 배경으로 한 테마 모드 '아스가르드'를 에란겔·비켄디·리빅 맵에 공개했습니다. 함께 룬 스킬, 오로라 비경, 한정 낚시 콘텐츠가 들어갔고, 클래식 모드에서는 회복 아이템 무게 조정과 주요 총기 밸런스 개편이 이뤄졌습니다. 기사들은 업데이트 내용을 확인해 주지만 순위 상승과의 인과관계는 직접 밝히지 않으므로, 30계단 상승은 업데이트 시점과 맞물린 것으로 보는 추정입니다.",
       "articles": [
         {
-          "title": "크래프톤 '배그 모바일'서 새 모드 선봬",
-          "url": "https://www.tgdaily.co.kr/news/articleView.html?idxno=407968"
+          "title": "크래프톤 '배틀그라운드 모바일', 북유럽 신화 테마 ‘아스가르드’ 업데이트",
+          "url": "https://www.thedailypost.kr/news/articleView.html?idxno=116892"
         },
         {
-          "title": "총 들고 아스가르드로... 배그 모바일, 이번엔 북유럽 신화다",
-          "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325508"
+          "title": "크래프톤 배틀그라운드 모바일, 11월 업데이트로 신규 테마 모드 ‘아스가르드’ 공개",
+          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1023551"
         },
         {
-          "title": "크래프톤, 배그 모바일에 북유럽 신화 입힌다…‘아스가르드’ 공개",
-          "url": "https://www.mydaily.co.kr/page/view/2026111215272519193"
-        },
-        {
-          "title": "‘배틀그라운드 모바일’, 신규 전장 ‘아스가르드’ 등장",
-          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=310280"
-        },
-        {
-          "title": "배틀그라운드 모바일, 북유럽 신화 입힌 ‘아스가르드’ 추가",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=563370"
+          "title": "배틀그라운드 모바일, 11월 업데이트…신규 테마 ‘아스가르드’ 공개",
+          "url": "https://www.pointe.co.kr/news/articleView.html?idxno=87668"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/U2YTTx2h3VNUL5bjl5yAUG0WMsqdZxRAb2UMZ8vT2Waw67oASbDAnbBB_29H45BVCjO-Jn_MlAFedT8KEj7T=w128",
@@ -717,14 +731,31 @@
     }
   },
   "1466736988": {
-    "researchedAt": "2026-11-12T14:46:47.293Z",
-    "verified": false,
+    "researchedAt": "2026-11-20T14:47:08.122Z",
+    "verified": true,
     "data": {
-      "verified": false,
+      "verified": true,
       "category": "컨텐츠 업데이트",
-      "short": "S42 비밀화원 테마 업데이트(신규 캐릭터·카트·판타지 가든)로 상승 추정",
-      "summary": "이번 순위 상승은 S42 비밀화원 테마 업데이트의 영향으로 추정된다. 스토어 업데이트 내역에는 신규 레이스 카트 [백기사 아니스 & 흑기사 크로코], 신규 캐릭터 [마카롱 & 하트퀸 미즈 로두마니], 신규 콘텐츠 [판타지 가든]이 포함되어 있다. 다만 이번 업데이트를 직접 다룬 최신 한국어 기사는 찾지 못했고, 검색된 기사는 2022년 사례뿐이어서 현재 48계단 상승의 직접 근거로 쓰기 어렵다.",
-      "articles": [],
+      "short": "S42 비밀화원 업데이트(11/12)로 하이라이트 카트·신규 캐릭터 추가, 순위 상승 시점과 맞물림",
+      "summary": "넥슨은 11월 12일 시즌 42 '비밀화원' 업데이트를 적용해 백기사 아니스·흑기사 크로코 등 하이라이트 카트와 신규 캐릭터, 펫, 미니 러쉬팜 '판타지 가든'을 추가했다. 기사들은 업데이트 직후 이벤트 보상(시즌 코인, 로즈게이트 번호판 등)과 판타지 가든 운영 기간(2027년 1월 6일까지)을 함께 소개했다. 다만 기사들은 매출 순위 상승 수치를 직접 언급하지 않으므로, 32계단 상승의 원인으로 이 업데이트를 꼽는 것은 업데이트 시점과 콘텐츠 규모를 근거로 한 추정이다.",
+      "articles": [
+        {
+          "title": "카트라이더 러쉬플러스, 시즌 42 '비밀화원' 업데이트 (인벤)",
+          "url": "https://www.inven.co.kr/webzine/news/?news=323298"
+        },
+        {
+          "title": "카트라이더 러쉬플러스, 시즌 42 '비밀화원' 업데이트 (게임메카)",
+          "url": "https://www.gamemeca.com/view.php?gid=1783399"
+        },
+        {
+          "title": "'카트라이더 러쉬플러스', 백기사·흑기사 하이라이트 카트 등장 (디스이즈게임)",
+          "url": "https://www.thisisgame.com/articles/432645"
+        },
+        {
+          "title": "넥슨 '카트라이더 러쉬플러스' 시즌 42 '비밀화원' 업데이트 (포인트데일리)",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325743"
+        }
+      ],
       "icon": "https://play-lh.googleusercontent.com/RrpE9xexrHMDDOY6iel-UPFl-N8J-kL0wmbd1rYCP7Boq8_dPtnasme48dw7Ma1k2GYDsvmSuHqWeMCY_TqVCw=w128",
       "screenshots": [
         "https://play-lh.googleusercontent.com/ElaW6fkSQigctVCUVkw_fIwdGXHt1nPGP5RMLL1G6YUnqwmPmF7AQs7C9b_83it5yTdcFXwAF77PIwFMCf69XYE=w400",
@@ -890,13 +921,13 @@
     }
   },
   "1480616990": {
-    "researchedAt": "2026-11-04T20:57:50.164Z",
+    "researchedAt": "2026-11-20T14:46:37.771Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "7.3 패치(스포트라이트)·신규 챔피언·신규 모드로 순위 급등 추정",
-      "summary": "스토어 업데이트 내역 기준으로, 9월 시작된 7.3 패치 '스포트라이트'가 순위 상승의 가장 유력한 원인으로 보입니다. 이 패치에는 신규 챔피언 3종(흐웨이, 사일러스, 렉사이), 커뮤니티 크리에이터 행사 '스매쉬', 3대3대3대3 신규 모드, 신규 증강 등이 포함됐습니다. 다만 이번 상승을 직접 다룬 최신 한국어 기사는 찾지 못했고, 검색된 기사들은 2022~2023년 매출 기록과 팝업 소식이라 이번 85계단 상승과 직접 연결되지 않아 검증되지 않은 추정입니다.",
+      "short": "7.3 패치(신규 챔피언 흐웨이·사일러스, 신규 모드) 영향 추정",
+      "summary": "최근 기사 검색에서는 이번 순위 상승을 직접 다룬 최신 한국어 기사를 찾지 못했습니다. 제공된 스토어 업데이트 내역을 근거로 보면, 7.3 패치의 신규 챔피언 흐웨이와 사일러스, 3대3 신규 모드, 신규 증강 등 콘텐츠 추가가 신규 유입과 매출 상승의 원인일 가능성이 있습니다. 다만 검색된 게임 순위 페이지에서는 앱스토어 기준 45위(전일 대비 8계단 하락)로 나타나 15위 수치와 차이가 있어, 차트 기준 시점과 집계 방식을 확인할 필요가 있습니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/7-kbcpgrCOE1mleJ9g0d61sJeoqKcQRIj4iFvJ8DjPlRIfocOWfOQsXzKWw2I5oHySVdbjR2fvzfCCz1FYQ-RQ=w128",
       "screenshots": [
@@ -1147,6 +1178,27 @@
       "recentChanges": "《승리의 여신: 니케》 4주년 MARIA-n 버전을 지금 플레이하실 수 있습니다!<br><br>[신규 니케]<br>SSR - 마리안 : 퀸<br>SSR - 홍련 : 신살<br>SSR - 라푼젤 : 생츄어리<br><br>[신규 이벤트]<br>4주년 풀 보이스 스토리 이벤트 : MARIA-n<br>미니 게임：FADING AFFECTION<br>VOLT TRIP<br><br>[신규 코스튬]<br>스노우 화이트 : 헤비암즈 - 라크리모사<br>마리안 : 퀸 - 라스트 어펙션<br>나유타 - 삼독<br>네온 : 비전 아이 - 디어 그레이스<br><br>[기타]<br>메인 챕터 49, 50 업데이트<br>스킬 초기화 한정 오픈<br>챔피언 아레나 정식 오픈<br>디오라마 로비 추가<br><br>[개선 사항]<br>* 버그 수정 및 개선 사항과 관련된 자세한 내용은 게임 내 공지를 확인하여 주시기 바랍니다."
     }
   },
+  "1598881852": {
+    "researchedAt": "2026-11-20T14:46:21.937Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "v6.4.0 업데이트 예고로 생일 이벤트·커스텀 룸 등 신규 콘텐츠 공개",
+      "summary": "검색으로는 이 게임의 App Store 신규 진입 원인을 직접 다룬 최신 한국어 기사를 찾지 못했습니다. 스토어 업데이트 내역에 따르면 v6.4.0에서 캐릭터 생일·기념일 이벤트, 커스텀 룸, 에어리어 아이템 최대 레벨 확장(Lv.16~20, 신규 아이템 '꿈의 오브' 필요)과 각종 밸런스 조정이 예정되어 있습니다. 신규 콘텐츠 공개와 상한 상향이 매출 상위권 진입의 배경일 가능성이 있으나, 이는 추정이며 실제 매출 데이터로 확인되지 않았습니다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/nM_bMwQmt0epELSrXmA57q5NHesrR_Nj_bt5-IV34cwNk3DFtWLQM7WCxZ6tyIrbXu_3gDyPxK1-h87s78aq=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/7HC3zPnHwbdPeUD4WUyz91To6k4DlxSWEYOGAxFjzsAFJAMmK7thSv1E10Ae5bcD7E2yEBM9MpU6tRUjzH9qjXo=w400",
+        "https://play-lh.googleusercontent.com/nWoREeXU48BThe-2Zm1c5N9ROshXXDrhCYwJTdFQVzQSblodMfohlwDOrcD0L8DwwUkzNAyZ4h5Minf4cxPmew=w400",
+        "https://play-lh.googleusercontent.com/pGD99k6bZVD1owzybW34s8bMVkkBwU8We3p3XTZTejUoFcofoY6VJe3LgEvqKUoXFX-HgZN1ct1yTLCTkeyUUg=w400",
+        "https://play-lh.googleusercontent.com/MRQZFvIWKcTlreG_p_NmD66JNUjryqFHWZNBckJhXWGkUGGYSX25m_GtJ_jykAkWfzlVJHRLG3-Tp3YQwgdmQA=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.pjsekai.kr&hl=ko&gl=kr",
+      "recentChanges": "&#39;v6.4.0&#39; 업데이트에서는 캐릭터 생일&amp;기념일 이벤트, 커스텀 룸 등 신규 기능이 추가됩니다. 또한 각종 상한 상향 및 밸런스 조정 등의 업데이트도 진행될 예정입니다.<br>■ 생일 및 기념일 이벤트 개최!<br>마이세카이에서 각 캐릭터의 생일과 기념일 축하 파티를 여는 새로운 이벤트가 개최됩니다!<br>■ 커스텀 룸<br>자유롭게 설정한 라이브 규칙으로 플레이할 수 있는 &#39;커스텀 룸&#39;이 업데이트됩니다. 커스텀 룸 설정은 룸 작성 시 및 룸 모집 중에 방장이 설정할 수 있습니다.<br><br>■ 에어리어 아이템의 최대 레벨 확장<br>에어리어 아이템의 최대 레벨이 확장됩니다. 이후 Lv.16~20까지 육성이 가능합니다.<br>또한 Lv.16 이상으로 육성하려면 신규 아이템 &#39;꿈의 오브&#39;가 필요합니다. &#39;꿈의 오브&#39;는 총 6종류로, 에어리어 아이템에 따라 필요한 오브 종류가 다릅니다.<br>각 오브는 이벤트 랭킹 보상으로 획득할 수 있으며, 변환 머신에서도 획득할 수 있습니다.<br>■ 각종 밸런스 조정 진행"
+    }
+  },
   "1599719154": {
     "researchedAt": "2026-11-11T14:47:06.621Z",
     "verified": false,
@@ -1226,15 +1278,15 @@
     }
   },
   "1606549505": {
-    "researchedAt": "2026-11-14T14:46:50.026Z",
+    "researchedAt": "2026-11-20T14:48:11.083Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "신규 레벨 100개·온실 지역·메달 미션·주간 목표 추가 업데이트",
-      "summary": "스토어 업데이트 내역에 따르면 새 레벨 100개, 온실이라는 신규 지역, 메달 미션(보상으로 아바타 지급), 주간 목표 이벤트가 추가되었습니다. 이 콘텐츠 업데이트가 이번 8계단 상승의 직접 원인으로 보이지만, 최신 한국어 기사에서 이를 확인하지 못했습니다. 검색된 기사들은 2025년 드림 게임즈의 WAU·매출 순위 기사이며, 현재 App Store 순위 상승 원인을 다루지 않아 근거로 쓰지 않았습니다.",
+      "short": "2주년 기념 업데이트·신규 레벨 100개·체스 정원 추가로 순위 상승 추정",
+      "summary": "검색으로는 이번 순위 상승을 직접 다룬 최신 한국어 기사를 찾지 못했습니다. 스토어 업데이트 내역에 따르면 신규 레벨 100개, 신규 아이템 '수정', 새 적 '슬라임', 새 구역 '체스 정원'이 추가되었고 2주년 기념 선물도 제공됩니다. 이러한 대규모 콘텐츠 업데이트와 기념 이벤트가 App Store 매출 상위권 상승의 원인일 가능성이 있으나, 확인된 근거가 없으므로 추정입니다.",
       "articles": [],
-      "icon": "https://play-lh.googleusercontent.com/0UmRCEO6t2-Aniw-04PKgk4s--BZwSez11_Je2ktqSKQxOy77KzLEZZ8omjl8ioqR7M5qaZbJZB0oNf0tmTz=w128",
+      "icon": "https://play-lh.googleusercontent.com/rebIi7rCFacazMU6uBVIe7iKUEmxDfSpE_izjgMYUMhdOEautp-IexJ4FS-j35MWAZYCitxH-kXSvgR2fm0k=w128",
       "screenshots": [
         "https://play-lh.googleusercontent.com/5AkH8KGipbqb1LbyV7jZ15eVvYA7FlWpJaYaFVpehYLAoGk7c7oS6eYyLeZQUFcG19WDkpKWbxZfUjsIjcEh=w400",
         "https://play-lh.googleusercontent.com/iyZdOv8IvqTkZ_-j03bHWFKC3LS7OebGWRCGO5xEjpsf5awjVqONyN7AHPvlCNaONLHl8tQ1cki_Am_N5-qbnlU=w400",
@@ -1243,7 +1295,7 @@
       ],
       "video": null,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=ko&gl=kr",
-      "recentChanges": "화려한 신규 업데이트를 기대하세요!<br>• 새로운 레벨 100개를 만나 보세요! 재미있고 신나는 도전을 즐겨 보세요!<br>• 새로운 지역, 온실을 탐험하세요! 왕국을 확장해 가며 새로운 장소들을 확인해 보세요!<br>• 새로운 도전, 메달 미션에서 메달 사냥을 시작해 보세요! 각 미션을 당당하게 완료하고, 보상으로 특별한 아바타를 획득하세요!<br>• 새로운 이벤트인 주간 목표에서 모든 기회를 놓치지 마세요! 경로를 따라 깃펜을 모아 매일 보상을 잠금 해제하세요!<br>지금 로얄 킹덤을 플레이하세요!"
+      "recentChanges": "반짝반짝한 신규 업데이트를 맞이할 준비를 하세요!<br>• 새로운 레벨 100개를 만나 보세요! 재미있고 신나는 도전을 즐겨 보세요!<br>• 최신 아이템인 수정을 잠금 해제하세요! 반짝이는 수정이 갈라지며 나타나는 꿈처럼 빛나는 모습을 감상해 보세요!<br>• 새로운 적, &#39;슬라임&#39;을 물리치세요! 작은 덩어리가 꾸물거리며 움직이기 시작하면 갑옷의 성능이 향상됩니다!<br>• 새로운 구역, 체스 정원을 탐험하세요! 왕국을 확장해 가며 새로운 장소들을 확인해 보세요!<br>• 로얄 킹덤 2주년을 축하하세요! 기념일을 축하하는 특별한 선물을 드립니다!<br>지금 로얄 킹덤을 플레이하세요!<br>"
     }
   },
   "1606685106": {
@@ -1526,13 +1578,13 @@
     }
   },
   "6482291732": {
-    "researchedAt": "2026-11-02T22:56:21.780Z",
+    "researchedAt": "2026-11-20T14:47:51.209Z",
     "verified": false,
     "data": {
       "verified": false,
-      "category": "컨텐츠 업데이트",
-      "short": "할로윈 축제·릴레이 디펜스 신규 콘텐츠로 순위 상승 추정",
-      "summary": "최신 한국어 기사에서 이번 5계단 상승의 직접 원인을 확인하지 못했습니다. 검색된 기사는 2025년 6월 주간 순위 등 다른 시점의 내용이라 근거로 쓰지 않았습니다. 따라서 스토어 업데이트 내역을 근거로 추정하면, 할로윈 축제(플링코·할로윈 한정 스킨)와 신규 모드 '릴레이 디펜스' 등 컨텐츠 업데이트가 상승 요인일 가능성이 있습니다. 대전 모드 리뉴얼은 예고 단계라 이번 상승과의 직접 연관은 확인되지 않았습니다.",
+      "category": "매출 이벤트",
+      "short": "블랙 프라이데이 이벤트 시작으로 매출 9계단 상승, 현재 1위(기사 미확인)",
+      "summary": "검색된 기사는 2024~2025년 보도로, 이번 9계단 상승과 현재 1위 기록을 직접 설명하지 않아 verified=false로 둔다. 스토어 업데이트 내역상 블랙 프라이데이 할인 상품·스킨·매일 받는 선물이 시작된 점이 매출 상승의 가장 유력한 원인으로 보이며, 한계 돌파 기념 이벤트(한정 스킨·전용 소환 이펙트)도 함께 작용했을 가능성이 있다. 다만 이는 업데이트 내역에 근거한 추정이므로 실제 원인은 매출 데이터 확인이 필요하다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/iUpY19F2MUcMI3-bImwZu1fg23o1LJjoo3FY-9R2jxj-SC-9R_gPXBw4tF0LJcFWPFvNPWa6w13D86QiglCG3A=w128",
       "screenshots": [
@@ -1544,7 +1596,7 @@
       "video": "https://www.youtube.com/embed/HwgaDIsxnm8?vq=large&rel=0&autohide=1&showinfo=0",
       "videoImage": "https://play-lh.googleusercontent.com/HpHINXkyIXVqlF5X2o64Tg2qZcBvt0eG-B08SFjCkpG77nwXVCElVKOC98fVg00rh5O9VRXRDaBADugkI9mq=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.percent.aos.luckydefense&hl=ko&gl=kr",
-      "recentChanges": "■ 특별 이벤트 ‘할로윈 축제’ 시작!<br>• 어디로 떨어질지 모르는 행운! 플링코부터 할로윈 한정 스킨까지!<br>■ 차례로 막아라! ‘릴레이 디펜스’ 등장!<br>■ 대전 모드 리뉴얼 예고!<br>■ 편의성 개선 및 버그 수정"
+      "recentChanges": "■ 불멸 영웅 ‘아이엠 미야옹’의 한계 돌파가 추가됩니다!<br>* 한계 돌파 기념 이벤트에서 한정 스킨과 전용 소환 이펙트를 만나보세요.<br>■ 블랙 프라이데이 시작! 다양한 상품과 스킨, 매일 받는 선물이 찾아옵니다.<br>■ 편의성 개선 및 버그 수정"
     }
   },
   "6759914688": {
@@ -1985,13 +2037,13 @@
     }
   },
   "com.percent.aos.cooptd": {
-    "researchedAt": "2026-11-19T14:47:20.485Z",
+    "researchedAt": "2026-11-20T14:47:44.677Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "매출 이벤트",
-      "short": "블랙프라이데이 이벤트·신규 초마신 카이저·시즌패스 업데이트 영향 추정",
-      "summary": "이 게임과 직접 관련된 최신 한국어 기사는 찾지 못했다. 스토어 최근 업데이트 내역에는 블랙 프라이데이 이벤트, 신규 초마신 '카이저' 출시, 복귀 유저 대상 성장 이벤트, 전설급 스킨과 보상이 담긴 시즌패스 시작이 포함되어 있다. 매출 차트 13계단 상승은 이 중 연말 할인 이벤트와 시즌패스 판매가 결제 매출을 끌어올린 것으로 추정되지만, 기사로 확인된 사실이 아니므로 추측에 가깝다.",
+      "short": "블프 이벤트·신규 초마신·시즌패스 동시 진행이 매출 순위 상승 추정",
+      "summary": "검색에서는 이 게임의 Google 매출 순위 상승을 직접 다룬 기사를 찾지 못했습니다. 검색된 자료는 게임 소개와 공략 위주였습니다. 스토어 업데이트 내역에 따르면 블랙프라이데이 이벤트, 신규 초마신 '카이저' 출시, 복귀 유저 대상 성장 혜택, 전설급 스킨이 포함된 시즌패스가 함께 시작되었습니다. 이 요소들이 동시에 진행되며 결제 유입이 늘어 매출 순위가 오른 것으로 추정되지만, 이는 업데이트 내역에 근거한 판단이며 실제 매출 지표로 확인되지는 않았습니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/vTxEJvWJq3cIbideJTNd9ZAYolS4ll7hUlMT3piDAsP6y84EPI-k1tPpoALoCwvmbJMn3LBW-sjzhHpERqfY=w128",
       "screenshots": [
@@ -2540,13 +2592,13 @@
     }
   },
   "6753862216": {
-    "researchedAt": "2026-11-17T03:13:56.007Z",
+    "researchedAt": "2026-11-20T14:47:39.664Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
       "short": "신규 레벨·스토리 추가 업데이트로 순위 상승 추정(미검증)",
-      "summary": "검색으로는 이 게임의 매출 순위 상승을 직접 다룬 한국어 기사를 찾지 못했다. 스토어 업데이트 내역에 새로운 레벨과 새로운 스토리 챕터 추가, 버그 수정 및 성능 개선이 담겨 있어 콘텐츠 업데이트가 상승 요인일 가능성이 있다. 다만 같은 문구가 여러 버전에 반복되어 있어 이번 상승을 이 업데이트만으로 확정할 수는 없다.",
+      "summary": "최신 한국어 기사는 찾지 못했고, 확인된 근거는 스토어 업데이트 내역뿐입니다. 해당 내역에는 새 레벨(재료 합성·손님 응대), 새 스토리 챕터, 버그 수정 및 성능 개선이 담겨 있어 컨텐츠 업데이트가 상승 요인일 가능성이 있습니다. 다만 매출 순위 상승의 직접 원인은 기사나 공식 발표로 확인되지 않았으므로 추정으로만 봐야 합니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/y0kOATNKVF67UuEBd6CbSczEm9VugaSiWgz0uGyPBBH6OfYRgFVUM0x2W7vj-fTWcGfpIz5tolxsOX5c3e0hJg=w128",
       "screenshots": [
@@ -2562,25 +2614,21 @@
     }
   },
   "6760822948": {
-    "researchedAt": "2026-11-15T14:46:27.879Z",
+    "researchedAt": "2026-11-20T14:46:53.353Z",
     "verified": false,
     "data": {
       "verified": false,
-      "category": "컨텐츠 업데이트",
-      "short": "한국 정식 출시 홍보 후 최근 이벤트·콘텐츠 추가로 순위 반등 추정",
-      "summary": "한국 정식 서비스를 앞두고 공효진을 뮤즈로 내세운 홍보와 서울 지하철 옥외광고가 진행됐다는 보도가 확인된다. 다만 검색된 기사들은 48계단 상승의 직접 원인을 다루지 않아 순위 변동과의 인과관계는 확인되지 않았다. 앱스토어 버전 기록에는 최근 새 콘텐츠와 이벤트를 추가했다는 업데이트가 이어져 있어, 이것이 상승 요인일 가능성이 있으나 추정이다.",
+      "category": "신규 오픈",
+      "short": "한국 정식 출시 앞둔 OOH 마케팅 영향 추정(미확인)",
+      "summary": "뉴스와이어 등 보도에 따르면 북미·유럽 가드닝 1위 게임인 이 작품이 한국 정식 서비스를 앞두고 서울 지하철 옥외광고 등 대규모 마케팅을 벌이고 있다. 다만 확인된 기사는 대부분 약 200일 전 출시 전 홍보 내용이어서, 현재 34위로 42계단 오른 시점과 직접 연결되는 기사는 찾지 못했다. 따라서 한국 출시와 마케팅이 순위 상승의 원인이라는 판단은 추정이며, 정확한 원인은 스토어 업데이트 내역(recentChanges) 등으로 추가 확인이 필요하다.",
       "articles": [
         {
-          "title": "북미·유럽 석권한 가드닝 1위 게임 ‘더 코지 플로리스트’ 한국 공식 상륙",
-          "url": "https://www.newswire.co.kr/newsRead.php?no=1033180"
+          "title": "북미·유럽 1위 가드닝 게임 ‘더 코지 플로리스트’ 한국 상륙 - 한빛일보",
+          "url": "https://www.hanbitdaily.com/news/428191"
         },
         {
-          "title": "‘더 코지 플로리스트’, 서울 도심 물들인다… 지하철 OOH 본격 가동 및 ‘리얼 배송’ 시스템으로 국내 유저 정조준",
+          "title": "‘더 코지 플로리스트’, 서울 도심 물들인다… 지하철 OOH 본격 가동 - 뉴스와이어",
           "url": "https://www.newswire.co.kr/newsRead.php?no=1033686"
-        },
-        {
-          "title": "공효진 앞세운 ‘더 코지 플로리스트’ 출격",
-          "url": "https://www.newsphere.kr/news/articleView.html?idxno=1151"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/2w-_mDOdOXeohTF2upTwGmliD0hnzFTM9RmHOyyFNZaLD96zU8-9fFvoWH_tiSsGWMcwt14xcjOFNpk1rUp_=w128",
@@ -3497,32 +3545,23 @@
     }
   },
   "com.haoplay.game.and.exilium": {
-    "researchedAt": "2026-10-31T18:47:46.322Z",
+    "researchedAt": "2026-11-20T14:47:20.374Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "10/29 테마 이벤트 '꿈속의 네버랜드' 개방, 순위 16계단 상승 시기와 맞물림",
-      "summary": "10월 29일 점검 후 테마 이벤트 [꿈속의 네버랜드]와 [테미스의 대국], [지정 발주], [군비 강화] 등 기간 한정 이벤트가 한꺼번에 추가되었고, 이 업데이트 시점과 순위 상승 시기가 맞물린다. 다만 찾은 기사는 업데이트와 이벤트 내용을 다룰 뿐 매출 순위 상승의 원인을 직접 분석하지 않았다. 따라서 콘텐츠 업데이트가 가장 유력한 원인으로 보이지만 검증된 인과관계로 확정할 수는 없다.",
-      "articles": [
-        {
-          "title": "[소녀전선2: 망명] 이벤트 PV [꿈속의 네버랜드] - 모바일 게임 정보",
-          "url": "https://bbs.ruliweb.com/news/board/320108/read/2296440"
-        },
-        {
-          "title": "[한섭] 10월 29일 클라이언트 강제 업데이트 안내 - 소녀전선2: 망명 채널",
-          "url": "https://arca.live/b/gilrsfrontline2exili/187294499"
-        }
-      ],
+      "short": "신규 버전 이벤트·신규 인형·활동층 콘텐츠 추가로 추정",
+      "summary": "스토어 업데이트 내역에는 신규 버전 이벤트, 신규 인형, 활동층 신규 콘텐츠, 인형 결약과 도약키 추가, 지난 이벤트 스토리 상시화가 포함되어 있어 이것이 36위 상승의 원인으로 추정됩니다. 검색된 한국어 기사는 2024년 말 출시 흥행과 2025년 초 앱스토어 1위 보도 등 과거 자료뿐이어서, 이번 29계단 상승을 직접 확인하지 못했습니다. 한 기사에는 활동층 과금 논란으로 유저 이탈과 매출 감소가 있었다는 내용도 있어 현재 상승과의 관계는 불확실합니다.",
+      "articles": [],
       "icon": "https://play-lh.googleusercontent.com/N0Cq4MZ9VszB5TH_Wq229R62IuSVn1LfWwB3uhdjb0J_fsRn2hfHWc8XOEH7kAUs7Hg4SB2HLl_LEOj17YkwNQ=w128",
       "screenshots": [
-        "https://play-lh.googleusercontent.com/dgrcJcj1-91QvmTTqq6VvSLC-K0hfnsUp8W4JWrW2q1bDFq_0Zn4IXGESlNhAeqeo8_1nlOcJ4k8wBbhD-og0qc=w400",
-        "https://play-lh.googleusercontent.com/g3Q8Pexgj4HatpiMsHz27ElHrknlMpLOPLjZHUc6X3-DkVETTMGwsr-7lymQdnTkz0w7jDLz9o4SPAiktIhL4zY=w400",
-        "https://play-lh.googleusercontent.com/6eAiZqnDAz5_WZrUZkInQzttG7MQpfEa7ZXA8rijCKlxL8Lg3LE14BtrMBpMkOJFW1b-PXtNQKjvi2dFe6fn=w400",
-        "https://play-lh.googleusercontent.com/uF55DLbQeWFl-nSnLgkjbi6BjzZm4g4D0v5Ua66iP-j2YsWuuDykEdkj472SBH1lYDAKo-pHTiO1ctCdqdeJHQ=w400"
+        "https://play-lh.googleusercontent.com/tyAoa4fs3TXb8MWYiIfKzYxj7UkOrWTqHj3vrFbjZkC04MwSmnbaSaDyzJfxPESg8EDWYwF-pPmu3Fp9U_8KRx8=w400",
+        "https://play-lh.googleusercontent.com/OHhTzXUqc0HVhkB96HVTL-lGX7esV-n99V61PE32VOkAkA-o-ePmiZkQe6FHnZjTrJJsxWJSEOnYgcM1wHWaqQ=w400",
+        "https://play-lh.googleusercontent.com/cykjhMRQhgz2dqkxnSJZR2KpTxtx9cqt369PlPJd0vjE15TLNJsJbcg9QdlbcDbC352Jy3eJypXD1Zli9qlb0w=w400",
+        "https://play-lh.googleusercontent.com/3nWAdBP44a4ColdvJyd-Q1MOZLDzCUoS-bYOTGfC18YMBW70OureNQWrilW6lwgG7PhbL3CX1g9_XsklIEiZ=w400"
       ],
       "video": "https://www.youtube.com/embed/vaJ5UuFUaZk?vq=large&rel=0&autohide=1&showinfo=0",
-      "videoImage": "https://play-lh.googleusercontent.com/p7zZCWX3QIm7tiU7useYyiEgK-_v4Jkk44FjCnOKVtGxDTrY-eiqi5uApY1S-10QfBVSpTGDivAed9Ohe_Vm=w480",
+      "videoImage": "https://play-lh.googleusercontent.com/4n1pzeWFXXEdHplUBwLCLEDI_KUUGf4_MPw0YquvPpZb5hwmjoemQdzrFlFC6jjr6yST28wkb0fsl6o-eBSpaw=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.haoplay.game.and.exilium&hl=ko&gl=kr",
       "recentChanges": "[업데이트 안내]<br>신규 이벤트 오픈, 신규 인형 등장!<br>지금 바로 접속하셔서 풍성한 보상을 받아가세요!<br><br>[업데이트 내용]<br>1. 신규 버전 이벤트가 개방됩니다. 스토리를 감상하고 이벤트에 참여해서 「붕괴결정 샤드」, 「지정 액세스 권한」, 「베이직 정보 코어」등 다양한 보상을 받아가세요!<br>2. [활동층] 신규 콘텐츠가 지속적으로 추가됩니다. 더 많은 인형, 장식품, 상호작용 스토리 등을 기대해 주세요!<br>3. 인형 결약 &amp; 도약키 추가<br>4. [지난 이벤트]에 스토리 추가 상시화"
     }
@@ -4048,25 +4087,25 @@
     }
   },
   "6749251466": {
-    "researchedAt": "2026-11-13T14:46:18.995Z",
+    "researchedAt": "2026-11-20T14:48:00.245Z",
     "verified": true,
     "data": {
       "verified": true,
       "category": "컨텐츠 업데이트",
-      "short": "최근 업데이트 후 매출 순위 회복, 디지털 서커스 콜라보 효과 언급",
-      "summary": "기사들은 쿠키런: 크럼블이 최근 업데이트 이후 국내 앱스토어 매출 순위를 다시 끌어올렸다고 전합니다. 업데이트의 핵심으로는 어메이징 디지털 서커스 콜라보 던전과 신규 스테이지가 공식 X 계정에서 소개되었습니다. 다만 기사의 3위 재진입 기록은 기사 작성 시점 기준이며, 현재 47위와는 집계 시점이 다를 수 있습니다.",
+      "short": "업데이트 후 앱스토어 매출 3위 재진입(기사 기준)",
+      "summary": "출시 한 달 만에 누적 매출 200억 원과 이용자 250만 명을 넘긴 뒤, 27일 업데이트(신규 쿠키와 길드 토벌전 추가, 메인 스테이지 확장) 이후 국내 앱스토어 매출 순위가 2위로 올랐다는 보도가 있다. 이후 기사에서는 매출 3위로 재진입했다고 전해진다. 다만 기사에 나온 업데이트 내용은 제공된 스토어 내역(달빛술사·바다요정 쿠키, 부스러기 쟁탈전, 용병단 훈련)과 달라서 동일 업데이트인지는 확인되지 않았고, 현재 12위 순위와 기사 시점의 순위도 직접 대조하지 못했다.",
       "articles": [
+        {
+          "title": "데브시스터즈, 쿠키런: 크럼블 흥행에 3분기 흑자 전환",
+          "url": "https://www.dailian.co.kr/news/view/1713048/%EB%8D%B0%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0%EC%A6%88-%EC%BF%A0%ED%82%A4%EB%9F%B0-%ED%81%AC%EB%9F%BC%EB%B8%94-%ED%9D%A5%ED%96%89-3%EB%B6%84-2026"
+        },
         {
           "title": "데브시스터즈, 쿠키런 신작 힘입어 흑자 전환",
           "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112961"
         },
         {
-          "title": "3분기 흑자 전환 성공한 데브시스터즈, 글로벌 시장 확대는 지속",
-          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62153"
-        },
-        {
-          "title": "'쿠키런: 크럼블'·'쿠키런 클래식'이 힘냈다…데브시스터즈, 3분기 영업이익 흑자 전환",
-          "url": "https://m.news.nate.com/view/20261110n25883"
+          "title": "데브시스터즈 쿠키런: 크럼블, 누적 매출 200억 원 돌파",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=307820"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/J2vWNQT3sCqTzkmkSMVcq8y-X3V4LXv7Z_mL95REkMSiLMkzteR3TRzF2j3CyV1fENiJ3CTy-AcAjN5lA1Tlpg=w128",
@@ -4078,7 +4117,7 @@
       ],
       "video": null,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.devsisters.cc&hl=ko&gl=kr",
-      "recentChanges": "- 어메이징 디지털 서커스 콜라보 쿠키가 추가되었습니다.<br>- 레디베리 쿠키가 추가되었습니다.<br>- 일일던전 레벨이 확장되었습니다."
+      "recentChanges": "- 달빛술사 쿠키, 바다요정 쿠키 외 신규 쿠키 3종이 추가되었습니다.<br>- 부스러기 쟁탈전이 추가되었습니다.<br>- 용병단 훈련이 추가되었습니다."
     }
   },
   "com.supercell.brawlstars": {
@@ -4213,13 +4252,13 @@
     }
   },
   "6443755785": {
-    "researchedAt": "2026-11-06T14:48:20.128Z",
+    "researchedAt": "2026-11-20T14:48:05.306Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "주간 신규 장소·이벤트 추가로 순위 5계단 상승 추정(기사 미확인)",
-      "summary": "검색으로는 이번 순위 상승을 직접 다룬 최신 한국어 기사를 찾지 못했습니다. 스토어 업데이트 내역에는 매주 새 장소와 주간 이벤트를 추가한다는 내용과 버그 수정·기능 추가가 적혀 있어, 이것이 상승 요인일 가능성이 있습니다. 다만 이는 업데이트 내역에 근거한 추정이며, 매출 이벤트나 신규 진입 등 다른 원인은 확인되지 않았습니다.",
+      "short": "주간 신규 지역·이벤트 추가로 콘텐츠 갱신 중",
+      "summary": "검색으로 순위 상승을 직접 설명하는 최신 한국어 기사는 찾지 못했다. 스토어 업데이트 내역을 보면 매주 새 지역과 주간 이벤트를 추가하는 운영이 이어지고 있어, 이 콘텐츠 갱신이 매출 상승의 배경일 가능성이 있다. 다만 이는 업데이트 내역에 기반한 추정이며, 매출 지표나 이벤트 성과 데이터로 검증이 필요하다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/8nrl-23VkfKxd9HoGpSBaxz0oK3c6hpsFGPwMIyOP94CIndFH8teUUi8ULDr0UHqtVRBJOpHDTdMHvEVE7XjbA=w128",
       "screenshots": [
@@ -4809,6 +4848,97 @@
       "video": null,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.mrtgd2kr.google&hl=ko&gl=kr",
       "recentChanges": ""
+    }
+  },
+  "com.devsisters.cc": {
+    "researchedAt": "2026-11-20T14:46:45.276Z",
+    "verified": true,
+    "data": {
+      "verified": true,
+      "category": "컨텐츠 업데이트",
+      "short": "8/27 신규 쿠키·길드 토벌전 업데이트 후 매출 순위 반등",
+      "summary": "8월 27일 브라이트시커 쿠키 등 신규 쿠키 추가, 길드 토벌전 도입, 메인 스테이지 확장 업데이트 이후 국내 앱스토어 실시간 매출 순위가 2위까지 올랐다는 보도가 있다. 이후 한 기사에서는 최근 업데이트 이후 국내 애플 매출 순위가 3위에 재진입했다고 전했다. 출시 한 달 만의 누적 매출 200억 원 돌파와 월간 체류 시간 30% 증가도 함께 언급되며, 이는 신작 초기 흥행이 업데이트로 이어진 흐름으로 해석된다. 다만 기사에서 언급된 업데이트 내용(신규 쿠키, 길드 토벌전)과 스토어 내역(신규 쿠키 3종, 부스러기 쟁탈전, 용병단 훈련)은 일부 달라 기사 기준 업데이트를 중심으로 판단했다.",
+      "articles": [
+        {
+          "title": "데브시스터즈 '쿠키런: 크럼블', 출시 한 달 만에 누적 매출 200억 돌파",
+          "url": "https://www.insight.co.kr/news/570763"
+        },
+        {
+          "title": "'쿠키런 IP 확장 통했다!... 데브시스터즈, 3분기 영업익 72억 흑자 전환",
+          "url": "https://www.insight.co.kr/news/581369"
+        },
+        {
+          "title": "'쿠키런:크럼블'로 숨 돌린 데브시스터즈, 3분기 반등 시험대",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=673118"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/J2vWNQT3sCqTzkmkSMVcq8y-X3V4LXv7Z_mL95REkMSiLMkzteR3TRzF2j3CyV1fENiJ3CTy-AcAjN5lA1Tlpg=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/aF9pKQBZHHZW8C_oDKSSjTKwot4OBB7XbgTFrmcmPne7sscMdGh6_SsOGS9DglYIRnUnl_5ZaDay7AGm8o04_w=w400",
+        "https://play-lh.googleusercontent.com/QgxHMUqtHRCfyN50oEHX-ufwjHiSN8uZDza7PFwJlFx6JeO5_2YCkFPNW9IRsvogo52dI4DCk76UKWtfUrPA=w400",
+        "https://play-lh.googleusercontent.com/oywPWXq_T1TZdwQuTdQp1Hbu4Hn1olS9LdeAPwtNkY0d8VvcNSS83B8xqA-ucDcaWgF-VDUww0un56eIjcxdjxg=w400",
+        "https://play-lh.googleusercontent.com/j5dPDTHeBJVUYFnfgZ-mj72PtujqfhEfrRymapD1x74JwBJHjN5sXf_lmkSSn-6_94uxdiJC9v8d_QGwjCsUkhk=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.devsisters.cc&hl=ko&gl=kr",
+      "recentChanges": "- 달빛술사 쿠키, 바다요정 쿠키 외 신규 쿠키 3종이 추가되었습니다.<br>- 부스러기 쟁탈전이 추가되었습니다.<br>- 용병단 훈련이 추가되었습니다."
+    }
+  },
+  "com.highbrow.games.dvo": {
+    "researchedAt": "2026-11-20T14:47:00.109Z",
+    "verified": true,
+    "data": {
+      "verified": true,
+      "category": "콜라보",
+      "short": "0.5주년 리센느 콜라보로 전용 드래곤 5종·이벤트 추가",
+      "summary": "하이브로가 드래곤빌리지3 0.5주년을 맞아 전속 모델 리센느와 협업한 업데이트를 11월 19일에 진행했다. 멤버 5명의 속성을 반영한 리센느 드래곤 5종과 멤버별 칭호가 추가되었고, 사전예약 보상과 12월 17일까지 열리는 콜라보 드래곤 뽑기로 획득할 수 있다. 광장은 콘서트장 콘셉트로 바뀌었고 '드래곤 무대', 실시간 OX 퀴즈, 스페셜 에피소드 등 한정 콘텐츠와 기념 이벤트가 함께 열려 신규 유입과 복귀 유저를 끌어올린 것으로 보인다. 다만 기사에는 매출 순위와의 직접적 인과관계가 명시되어 있지는 않아, 순위 상승은 이 업데이트 시점과 맞물린 것으로 해석하는 것이 적절하다.",
+      "articles": [
+        {
+          "title": "리센느, '드래곤빌리지3'와 스페셜 콜라보...멤버별 캐릭터 등장",
+          "url": "https://www.dailian.co.kr/news/view/1717678/%EB%A6%AC%EC%84%BC%EB%8A%90-%EB%93%9C%EB%9E%98%EA%B3%A4%EB%B9%8C%EB%A6%AC%EC%A7%803-%EC%8A%A4%ED%8E%98%EC%85%9C-%EC%BD%9C%EB%9D%BC%EB%B3%B4%EB%A9%A4-2026"
+        },
+        {
+          "title": "드래곤빌리지3, 리센느 콜라보 드래곤 5종 추가",
+          "url": "https://www.inven.co.kr/webzine/news/?news=323602"
+        },
+        {
+          "title": "'드래곤빌리지3' 사전예약 호응 속 리센느 컬래버 선봬",
+          "url": "https://tgdaily.co.kr/news/articleView.html?idxno=408102"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/chM0jgd0k1tQys2Ve76otE1weI-MVH5JExhV040UAXXYqsNNgXJkfKGnGwFF8Q0jpV2c-WFn3RyyUrrQ1VY2ZA=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/Tr-5FoEUnH6DKQ8ximhP5JMZ-zHl5cHe6Y2JHq2QvfPIO-SpbfLPolPpHeI8paDZUNGMtWycALQ4JzautoDA=w400",
+        "https://play-lh.googleusercontent.com/biB55K6bN_wnODapwbWkowUqdjW22rjFrDDtd10nvnUEP43PxyG6d2Y-f_vjsqbfNGvfL80bBvTC78HZypehwto=w400",
+        "https://play-lh.googleusercontent.com/U-9MwplHOs-u7JO3rRG5zZndKp1qYElc98yn4uGcp8t-Yjra8dV3ncIQ4BYKSWM0xf_Z-HGli6x2QV1rN1iLvw=w400",
+        "https://play-lh.googleusercontent.com/UjDG6hCiM7odfnAN0Nzx2c22SlWJ7YjdUgPJFwz4fwmJw1EEiWAEOr6ZE3R9pl2bWxo2pcx7EgQoxJO-v7r8v8Q=w400"
+      ],
+      "video": "https://www.youtube.com/embed/egYB2Cnq0jI?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/iGt2-elnD-YHamp6StnP3qFFs9PgMJ_iDhEx0SUeLHZ2NGGGUj9td64L4s0HHcHeN9Lzc_DJJPsY7_uVmcJB=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.highbrow.games.dvo&hl=ko&gl=kr",
+      "recentChanges": "[1.0.29]<br>드래곤과 함께하는 모험이 더 쾌적해지도록 버그를 수정하고 게임 안정성을 개선했습니다."
+    }
+  },
+  "com.YoStarKR.MahjongSoul": {
+    "researchedAt": "2026-11-20T14:47:26.399Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "기타",
+      "short": "기사 미확인; 스토어 내역은 안정성 패치뿐이라 원인 불명",
+      "summary": "순위 상승을 설명하는 최신 한국어 기사는 찾지 못했다. 공식 사이트와 X 계정에는 2026년 9월과 11월 무점검 업데이트, 8월 해변 팝업스토어 이벤트, 6월 아카기 콜라보 대회 등 공지가 있으나, 이것이 이번 17계단 상승과 직접 연결된다는 근거는 없다. 제공된 최근 업데이트 내역은 '안정성 및 성능 최적화'뿐이어서 매출 순위 상승의 명확한 원인은 확인되지 않았다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/58OMjHdJO91jepPVficmQYxhLTI4A82gZj2AqYFLODmIV6ZpruzfAeXdb_xukt28B89cOhjS9Vy4bb1XP5IZA9E=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/_epykoTumf4WU9gG58WZKXiIpDGQPTlY4X9AQ-yrQP-PJs3hXKcRT1OF9EijWC6TIQAPzLA_oFo_iTRnyZ00Kyo=w400",
+        "https://play-lh.googleusercontent.com/mVsrc4dcTE0RqQP5GsaVXTw-s80BZsgfaaE92jwrIDKk-MvYXQzmzhCwURgHmYXirah5lksQkbsD7qnn-bAWpkU=w400",
+        "https://play-lh.googleusercontent.com/Nm20_mqcYVWa4m21Cx2jIHSXzYbQikSnSARfNU5Dtdg_YV1jBnqvQIzcQbhaVvjSDVxd_9X3Vg6gIvEcJsoukwE=w400",
+        "https://play-lh.googleusercontent.com/eL2VTO8sEuOINJfaFblme9I9zHXEdudTMhKscPwyWygJTC2IrZeWBfXjC6mxOlSn_JjTKv1fH8NWlxPnzEbm=w400"
+      ],
+      "video": "https://www.youtube.com/embed/eL6IdVZk7Uo?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/B4uihDduORb_L7icPYyue-Ang6_Rz-y_uLtBnTPQT1frkWLJeT2peQ23hAnR9F01oJnWhV1DgCpplgGVl_FG3A=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.YoStarKR.MahjongSoul&hl=ko&gl=kr",
+      "recentChanges": "안정성 및 성능 최적화"
     }
   }
 }

@@ -27,6 +27,13 @@
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/09/85/4609855b-e862-83c5-210b-d49a62882c66/AppIconV1-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
+  "588637521": {
+    "released": "2013.01.21",
+    "developer": "GungHo Online Entertainment, Inc.",
+    "country": "JP",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/fb/d4/d3fbd4e5-c866-da1b-df55-66455db6488c/AppIcon_ko-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
   "608808713": {
     "released": "2013.04.01",
     "developer": "Devsisters",
@@ -9178,7 +9185,7 @@
   "6759962259": {
     "released": "2026.09.16",
     "developer": "Mintrocket",
-    "country": null,
+    "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/ab/c7/7fabc7d4-6217-3e71-7490-522418572831/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -9295,5 +9302,149 @@
     "appId": "com.freegamesstudio.thesurvivalhuntergames2",
     "source": "kr-google-match",
     "title": "The Survival Hunter Games 2"
+  },
+  "com.netmarble.fgok": {
+    "released": "2017.11.20",
+    "developer": "Netmarble",
+    "country": "KR",
+    "icon": "https://play-lh.googleusercontent.com/HA3nOzVN1Osr5sN0rGbHBRPr59r5PJ3kYWOwb9xzXjReoIOTNEuvr_oubfKLf8zCeG_V4tPFSApmeF7rDnqO_Tk=w48",
+    "source": "google"
+  },
+  "com.playhardlab.monmonmasters.rpg.battle.monster.pvp.raid": {
+    "released": "2026.05.25",
+    "developer": "PLAYHARD STUDIO",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/kPBvsEcDpcKZQb901kvSicdpFzH7ThjAeTyRNGQSTi8HybWzry5OwqDEVOLZPtXPnxM-bVNgAhR9Gn29XHIqGw=w48",
+    "source": "google"
+  },
+  "com.mainquest.sgidle": {
+    "released": "2026.11.09",
+    "developer": "MainQuest",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/sPZse-gzBfAa-ZqpFi-GVoenTANq6iOeNjOJSitBOTxg-bvIsdByw4_75ToqAkjcqsgzeF50QtZ1i5NM4m-ipqA=w48",
+    "source": "google"
+  },
+  "com.heli.monsters": {
+    "released": "2022.09.01",
+    "developer": "SayGames Ltd",
+    "country": "CY",
+    "icon": "https://play-lh.googleusercontent.com/z-DKVV9xHXNukwr8zG7_xzvgLbbWv27ShNAZ3XH4KIV8FXEBsWpQhVNvl8-BT4zgjB5ti-CIXVF10WYpHUTaNQ=w48",
+    "source": "google"
+  },
+  "com.igg.android.doomsdaylastsurvivors": {
+    "released": "2023.03.14",
+    "developer": "IGG.COM",
+    "country": "CN",
+    "icon": "https://play-lh.googleusercontent.com/132WBBnm91gLg1eqP7T9aM_PK48ulCbl1dpzNp4WYZAN4z_WwuxIwMwhPgGgFqVOC6L1YfLHsblpdF5wO89PEpI=w48",
+    "source": "google"
+  },
+  "6673894896": {
+    "released": "2026.11.20",
+    "developer": "NEXON Company",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/8c/bc/738cbcec-9bb4-69bf-58c6-9b690bdc491d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6760277702": {
+    "released": "2026.05.27",
+    "developer": "PLAYHARD",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/1b/61/2b1b611d-828f-195f-2847-4eeb4ad5876f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6815579896": {
+    "released": "2026.11.18",
+    "developer": "Pong Studio",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/90/dc/e690dc38-5b25-c7df-76cc-f9f68cd3b530/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "one:막다보니천하통일": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/16/IF1424000861920140306115233/0001008733/ko/img/original/0001008733_20260916112314.png",
+    "released": "2026.11.19",
+    "developer": "Neptune Company",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "막다보니 천하통일"
+  },
+  "one:수련의강호2": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/15/SE202609081741500770070337/0001009250/ko/img/original/0001009250_20260915181631.png",
+    "released": "2026.11.19",
+    "developer": "FUN GAMES STUDIO",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "수련의 강호 2"
+  },
+  "one:드래곤라이즈국산파밍rpg": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/14/SE202402131451385390063392/0001004267/ko/img/original/0001004267_20261114154328.png",
+    "released": "2026.02.07",
+    "developer": "STORMRISE Inc",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "드래곤 라이즈: 국산 파밍 RPG"
+  },
+  "gal:레조넌스": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202509/29/SE201912311413594350050114/0000778075/ko/img/original/0000778075_20250929195054.png",
+    "released": "2025.02.13",
+    "developer": "Ujoy Games Limited",
+    "country": "HK",
+    "source": "kr-onestore",
+    "title": "레조넌스"
+  },
+  "gal:묵청대도깨어난사북성": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202510/23/SE202206221858338670059372/0000776143/ko/img/original/0000776143_20251023145827.png",
+    "released": "2024.07.24",
+    "developer": "HK ZHILI YAOAN LIMITED",
+    "country": "HK",
+    "source": "kr-onestore",
+    "title": "묵청대도: 깨어난 사북성"
+  },
+  "gal:루미나세라피아": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/13/SE202608201451188450070045/0001008976/ko/img/original/0001008976_20261013180749.png",
+    "released": "2026.10.26",
+    "developer": "PENGTAI INTERACTIVE ADVERTISING CO.,LTD",
+    "country": "CN",
+    "source": "kr-onestore",
+    "title": "루미나: 세라피아"
+  },
+  "one:2ae2elastsheltersurvival": {
+    "icon": "https://play-lh.googleusercontent.com/bCUKlHtllYdlK5A9FT3nIo_LxoapkzO2jeyEwrRnZZNvD1stuB-6JATy86hORqWR6qqfS-5FtzXh4ERasBf_sQ=w48",
+    "developer": "LAST ORIGIN STUDIO LIMITED",
+    "country": null,
+    "released": "2026.08.12",
+    "url": "https://play.google.com/store/apps/details?id=com.more.lastshelter.gp&hl=ko&gl=kr",
+    "appId": "com.more.lastshelter.gp",
+    "source": "kr-google-match",
+    "title": "Last Shelter: War Z"
+  },
+  "one:legendsreborndif": {
+    "icon": "https://play-lh.googleusercontent.com/LbUIZKnQUPt3MvFLoVLOLE4sx9THRwq9NwCRQE-BZdfHpFwEM5Rrj6Dj8YoXQuf57AKQ6iJ-7AtkQaQGsPMJAQ=w48",
+    "developer": "ACE GAME INTERNATIONAL LIMITED",
+    "country": "HK",
+    "released": "2025.11.13",
+    "url": "https://play.google.com/store/apps/details?id=com.Knight.GrandQuest&hl=ko&gl=kr",
+    "appId": "com.Knight.GrandQuest",
+    "source": "kr-google-match",
+    "title": "Legends Reborn: 마지막 전투"
+  },
+  "one:nba2kmobile57712": {
+    "icon": "https://play-lh.googleusercontent.com/zPiD-p3erN8ug8IxSFzj1-miTd_LJYdXF0ioHoy62uRLMgLuu4V0ggxAGTWTn0TewD8XC3LIY6ggIjokmiqE=w48",
+    "developer": "2K, Inc. - a Take-Two Interactive affiliate",
+    "country": "US",
+    "released": "2019.04.17",
+    "url": "https://play.google.com/store/apps/details?id=com.catdaddy.nba2km&hl=ko&gl=kr",
+    "appId": "com.catdaddy.nba2km",
+    "source": "kr-google-match",
+    "title": "NBA 2K Mobile - 모바일 농구 게임"
+  },
+  "gal:도미네이션즈": {
+    "icon": "https://play-lh.googleusercontent.com/ITQ5aTqSpZuCJ37VL8d3bx5RE8vq_UnQN-h4LShNAD6GbGw7abWSJ_8yBEQzaQtzWRwhOp99wrlvjdUxABEqdQ=w48",
+    "developer": "Big Huge Games.",
+    "country": "US",
+    "released": "2015.08.25",
+    "url": "https://play.google.com/store/apps/details?id=com.nexon.dominations.asia.g&hl=ko&gl=kr",
+    "appId": "com.nexon.dominations.asia.g",
+    "source": "kr-google-match",
+    "title": "도미네이션즈"
   }
 }
