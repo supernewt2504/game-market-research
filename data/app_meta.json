@@ -300,6 +300,13 @@
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/b8/06/06b80694-d4ff-a00e-1e22-9aafd5dd6e2e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
+  "1358222641": {
+    "released": "2018.05.31",
+    "developer": "Bandai Namco Entertainment Inc.",
+    "country": "JP",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/d8/23/cfd82328-b684-41ae-2a49-9910f12c732a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
   "1366526331": {
     "released": "2018.05.15",
     "developer": "KRAFTON Inc",
@@ -613,6 +620,13 @@
     "developer": "Gaggle Studios, Inc.",
     "country": "CA",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/98/9d/bb989d20-d341-52dc-ac38-0f4ad2fe61a8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "1562817072": {
+    "released": "2021.05.12",
+    "developer": "Voodoo",
+    "country": "FR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/c1/6b/f5c16bad-fb7c-9087-a981-7fc2c8a50604/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
   "1571873795": {
@@ -9446,5 +9460,167 @@
     "appId": "com.nexon.dominations.asia.g",
     "source": "kr-google-match",
     "title": "도미네이션즈"
+  },
+  "com.pongvn.tg": {
+    "released": "2026.11.07",
+    "developer": "Pong Studio Co., Ltd.",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/U5YSaxOKEHEpl2a8xzeCBhyuP2OT2iqMfTp50k3LgP4syfTGjwuO00Y-xU2W7Io2rvygVJ_JLnt8xfF0Fb3yGg=w48",
+    "source": "google"
+  },
+  "com.dragonheart.spearknightrpg2": {
+    "released": "2026.11.09",
+    "developer": "DragonHeart",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/FmnTukBFA3DDMfbLVwt9SuXrSEawSefBy3FxqafcVYkgesXSS7MOkIBqMQ-b5MYlW-9W_nULihBPrOd8gsSkPg=w48",
+    "source": "google"
+  },
+  "com.gtgames.girl": {
+    "released": "2026.07.06",
+    "developer": "GT Games Korea",
+    "country": "KR",
+    "icon": "https://play-lh.googleusercontent.com/Rt-ahwYOrrTsVk7OAo7y0ZpsejTPTzBhXswg-uwl5kQWdlngcqHUF4HYHsN2D06_EVeyO-3CIJe7AVa-yBQjPg=w48",
+    "source": "google"
+  },
+  "com.nexon.overgeared": {
+    "released": "2026.10.19",
+    "developer": "NEXON Company",
+    "country": "KR",
+    "icon": "https://play-lh.googleusercontent.com/jNivD4knkGvjNEsD8m_FINuY6vc8rdEPSTIpfdJ0xBtkTXvO1-Xo2LBgfnnL83Aa54RHuiL6OiylXkCAh1Navw=w48",
+    "source": "google"
+  },
+  "6778730598": {
+    "released": "2026.07.02",
+    "developer": "NTRILLGAMES Corp.",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/38/04/b3380444-eced-1376-0584-e54d17fda4c1/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6831317859": {
+    "released": "2026.11.18",
+    "developer": "Circle Games",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/95/d3/4195d307-6317-8089-982d-cc3761415973/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6778697840": {
+    "released": "2026.07.02",
+    "developer": "Teamsparta Inc.",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/8a/2f/8e8a2f77-50d1-8dbf-ab50-60a5f12de8b6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6451399876": {
+    "released": "2025.04.21",
+    "developer": "Level Infinite",
+    "country": "SG",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/f9/6a/55f96ae1-f8b1-ffe5-0ae2-123c3da1979e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "one:더킹오브파이터즈98um온라인": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/20/IF1424000490520140213190609/0000693566/ko/img/original/0000693566_20261120115214.png",
+    "released": "2015.11.17",
+    "developer": "핑커팁스 엔터테인먼트",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "더 킹 오브 파이터즈'98 UM온라인"
+  },
+  "one:천상비m": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202510/16/IF1423501814720130923140945/0000764544/ko/img/original/0000764544_20251016134754.png",
+    "released": "2022.11.23",
+    "developer": "(주)세시소프트",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "천상비M"
+  },
+  "one:에버크라운하드코어rpg": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/22/SE202606151748008720069310/0001011000/ko/img/original/0001011000_20261022115145.png",
+    "released": "2026.11.20",
+    "developer": "Guangzhou Mengzhong E**•",
+    "country": "CN",
+    "source": "kr-onestore",
+    "title": "에버크라운 하드코어 RPG"
+  },
+  "one:나혼자만렙키우기": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/05/SE202506261557124690066786/0001012057/ko/img/original/0001012057_202611051630440.png",
+    "released": "2026.11.19",
+    "developer": "Punchline Games Co., Ltd",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "나 혼자 만렙 키우기"
+  },
+  "one:숲의소환단방치형판타지수집rpc": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/28/SE202507311214219820066984/0001009277/ko/img/original/0001009277_20260928174934.png",
+    "released": "2026.10.30",
+    "developer": "Theplayplus",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "숲의 소환단:방치형 판타지 수집 RPC"
+  },
+  "gal:갓오하체인지방치형키우기rpg": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/21/SE201801171121427500021033/0001003574/ko/img/original/0001003574_20261021083210.png",
+    "released": "2026.03.25",
+    "developer": "ⓒ WONCOMZ Corp",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "갓오하 체인지 : 방치형 키우기 RPG"
+  },
+  "gal:삼국블레이드": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202601/27/SE202010191054390090053562/0000751797/ko/img/original/0000751797_20260127140026.png",
+    "released": "2021.01.27",
+    "developer": "VALOFE Co.,Ltd",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "삼국블레이드"
+  },
+  "one:legendsreborn1f": {
+    "icon": "https://play-lh.googleusercontent.com/LbUIZKnQUPt3MvFLoVLOLE4sx9THRwq9NwCRQE-BZdfHpFwEM5Rrj6Dj8YoXQuf57AKQ6iJ-7AtkQaQGsPMJAQ=w48",
+    "developer": "ACE GAME INTERNATIONAL LIMITED",
+    "country": "HK",
+    "released": "2025.11.13",
+    "url": "https://play.google.com/store/apps/details?id=com.Knight.GrandQuest&hl=ko&gl=kr",
+    "appId": "com.Knight.GrandQuest",
+    "source": "kr-google-match",
+    "title": "Legends Reborn: 마지막 전투"
+  },
+  "one:2aewelastsheltersurvival": {
+    "icon": "https://play-lh.googleusercontent.com/bCUKlHtllYdlK5A9FT3nIo_LxoapkzO2jeyEwrRnZZNvD1stuB-6JATy86hORqWR6qqfS-5FtzXh4ERasBf_sQ=w48",
+    "developer": "LAST ORIGIN STUDIO LIMITED",
+    "country": null,
+    "released": "2026.08.12",
+    "url": "https://play.google.com/store/apps/details?id=com.more.lastshelter.gp&hl=ko&gl=kr",
+    "appId": "com.more.lastshelter.gp",
+    "source": "kr-google-match",
+    "title": "Last Shelter: War Z"
+  },
+  "one:nba2kmobile772": {
+    "icon": "https://play-lh.googleusercontent.com/zPiD-p3erN8ug8IxSFzj1-miTd_LJYdXF0ioHoy62uRLMgLuu4V0ggxAGTWTn0TewD8XC3LIY6ggIjokmiqE=w48",
+    "developer": "2K, Inc. - a Take-Two Interactive affiliate",
+    "country": "US",
+    "released": "2019.04.17",
+    "url": "https://play.google.com/store/apps/details?id=com.catdaddy.nba2km&hl=ko&gl=kr",
+    "appId": "com.catdaddy.nba2km",
+    "source": "kr-google-match",
+    "title": "NBA 2K Mobile - 모바일 농구 게임"
+  },
+  "one:2026ie07go": {
+    "icon": "https://play-lh.googleusercontent.com/v0Nji6tO-ydbvsajPiXFsYLB0SwcBL12ZpWmah_3_yQCjobcH7VT0BsPn7AdhMsJPHX9efsxTgBezNlchwcuEQ=w48",
+    "developer": "7Go App",
+    "country": null,
+    "released": "2026.02.09",
+    "url": "https://play.google.com/store/apps/details?id=com.go7app.shop&hl=ko&gl=kr",
+    "appId": "com.go7app.shop",
+    "source": "kr-google-match",
+    "title": "7 GO"
+  },
+  "gal:삼국지디펜스m수집형rpg": {
+    "icon": "https://play-lh.googleusercontent.com/4q1JC-lqKrokTjfOARKSr8jRhePK0q_dVJHdHiUdsHLSRvZMzkzIcUqK7VU04h-yfDK_UiQ4o68n_jVqU4-5uKs=w48",
+    "developer": "Morefun Technology Limited",
+    "country": "KR",
+    "released": "2019.07.15",
+    "url": "https://play.google.com/store/apps/details?id=com.epc.tfsgzhw&hl=ko&gl=kr",
+    "appId": "com.epc.tfsgzhw",
+    "source": "kr-google-match",
+    "title": "삼국지 디펜스M"
   }
 }
