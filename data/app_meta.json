@@ -8946,7 +8946,7 @@
   "6827963577": {
     "released": "2026.11.16",
     "developer": "MIN KIM",
-    "country": null,
+    "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/59/ec/9d59ec9f-4fea-e990-960c-861f46f28638/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -8960,7 +8960,7 @@
   "6797521877": {
     "released": "2026.08.05",
     "developer": "Byeongjin Lee",
-    "country": null,
+    "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/31/20/d13120d1-3f58-c5a8-54d9-78e0b3e9856a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -9622,5 +9622,107 @@
     "appId": "com.epc.tfsgzhw",
     "source": "kr-google-match",
     "title": "삼국지 디펜스M"
+  },
+  "com.kakaogames.aaw": {
+    "released": "2025.10.07",
+    "developer": "Kakao Games Corp.",
+    "country": "KR",
+    "icon": "https://play-lh.googleusercontent.com/SQ2uUMPJ8hZwuJ5Yo0-Y9wG1b-yvCn0IQKDBf3gqcveW9RKOV-GaCSyHP0x7VqadLaflX0JuQK9wd2qbrO_hVQ=w48",
+    "source": "google"
+  },
+  "bus.traffic.fever.jam.puzzle.busgo": {
+    "released": "2026.05.12",
+    "developer": "PopStoneGameTechnologyLimited-Shooting",
+    "country": "HK",
+    "icon": "https://play-lh.googleusercontent.com/SCXa4Z-BnHoox-hvatLHfYM4GtZqPXnwCJn2ogOGBEZEPb_d8j2Ck935u70_yjnEkGBlYEQouDIuFj_o5nzoOw=w48",
+    "source": "google"
+  },
+  "com.puzzle.cargame.busjam.trafficjam": {
+    "released": "2025.12.31",
+    "developer": "Shoyo Mobi Tech Limited-Marble",
+    "country": "HK",
+    "icon": "https://play-lh.googleusercontent.com/vGQ0lNvjaKA1qU86dsK_9XVLyRQ1cHqWC3hAguesfbVjygwKc--oryFGCHrpeznK-BbV4VHE3VlGXQHdHHkKsA=w48",
+    "source": "google"
+  },
+  "com.neptune.tkdefense": {
+    "released": "2026.11.18",
+    "developer": "Neptune Corp.",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/zhQ3jO6P2UARQp3OtcH3xKMRtJnIOLelgY8GcTasfEIHV8RSUvK1XgQNIWPaGZF1ZN6l3SKOLBK7Hl69sbOllQ=w48",
+    "source": "google"
+  },
+  "one:총기시대잃어버린대륙": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202303/11/SE201602140238062270008713/0000740610/ko/img/original/0000740610_DP000101_20230311232635.png",
+    "released": "2019.05.30",
+    "developer": "FunPlus Interational AG",
+    "country": "CN",
+    "source": "kr-onestore",
+    "title": "총기시대: 잃어버린 대륙"
+  },
+  "one:이스6아크오리진": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/21/SE202608251050462170070105/0001011399/ko/img/original/0001011399_20261121113309.png",
+    "released": "2026.11.18",
+    "developer": "GM 게임",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "이스 6 : 아크 오리진"
+  },
+  "one:헌팅라이벌즈사격게임과동물사냥": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/09/SE201602140238062270008713/0001010177/ko/img/original/0001010177_20261009202101.png",
+    "released": "2026.11.19",
+    "developer": "MY. GAMES",
+    "country": "RU",
+    "source": "kr-onestore",
+    "title": "헌팅 라이벌즈: 사격게임과 동물사냥"
+  },
+  "one:한게임포커7포커0": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202007/21/IF1424000464120140212155903/0000749741/img/original/0000749741_DP000101_20200721170218.png",
+    "released": "2020.08.19",
+    "developer": "NHN Corp",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "한게임포커 for OneStore - 7포커, 0"
+  },
+  "one:삼국지타이쿤": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202610/05/SE202608172104527230069999/0001009971/ko/img/original/0001009971_20261005145149.png",
+    "released": "2026.10.12",
+    "developer": "SOLOFORGE",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "삼국지 타이쿤"
+  },
+  "gal:천상비m": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202510/16/IF1423501814720130923140945/0000764544/ko/img/original/0000764544_20251016134754.png",
+    "released": "2022.11.23",
+    "developer": "ⓒ NEOWIZ",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "천상비M"
+  },
+  "gal:감자슉슈슉3333뽑기증정": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202408/16/SE202305191649311540061664/0000777172/ko/img/original/0000777172_DP000101_20240816151523.jpg",
+    "released": "2024.09.05",
+    "developer": "JOY MOBILE NETWORK PTE LTD",
+    "country": "SG",
+    "source": "kr-onestore",
+    "title": "감자슉슈슉 - 3333뽑기 증정"
+  },
+  "gal:유령기사키우기1024뽑기증정": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202311/06/SE202309271516074980062485/0000772405/ko/img/original/0000772405_DP000101_20231106161857.png",
+    "released": "2023.12.13",
+    "developer": "Ingrid Corporation",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "유령기사 키우기 - 1024 뽑기 증정"
+  },
+  "one:legendsreborndieme": {
+    "icon": "https://play-lh.googleusercontent.com/LbUIZKnQUPt3MvFLoVLOLE4sx9THRwq9NwCRQE-BZdfHpFwEM5Rrj6Dj8YoXQuf57AKQ6iJ-7AtkQaQGsPMJAQ=w48",
+    "developer": "ACE GAME INTERNATIONAL LIMITED",
+    "country": "HK",
+    "released": "2025.11.13",
+    "url": "https://play.google.com/store/apps/details?id=com.Knight.GrandQuest&hl=ko&gl=kr",
+    "appId": "com.Knight.GrandQuest",
+    "source": "kr-google-match",
+    "title": "Legends Reborn: 마지막 전투"
   }
 }
