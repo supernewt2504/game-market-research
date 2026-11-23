@@ -315,13 +315,13 @@
     }
   },
   "1117270703": {
-    "researchedAt": "2026-11-20T14:47:34.457Z",
+    "researchedAt": "2026-11-23T14:46:22.069Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "기타",
-      "short": "원인 미확인: 스토어 내역은 버그 수정뿐, 기사 미발견",
-      "summary": "한국어 기사에서 이번 순위 상승(16계단, 현재 26위)의 원인을 확인하지 못했습니다. 근거는 스토어 최근 업데이트 내역(버그 수정)뿐이라 매출 이벤트나 콜라보 등 구체적 원인은 확정할 수 없습니다. 검색에서 나온 기사는 일본어 기사이거나 과거 시점의 순위 기사여서 이번 상승과 직접 연결되지 않아 제외했습니다.",
+      "short": "스토어 업데이트는 버그 수정뿐, 상승 원인 기사 미확인",
+      "summary": "이번 상승 원인을 다룬 최신 한국어 기사를 찾지 못했습니다. 제공된 스토어 최근 업데이트 내역은 버그 수정뿐이어서 직접적인 원인으로 보기 어렵습니다. 검색된 gamebiz 기사들은 6~8월 매출 순위를 다룬 것이라 이번 상승과 직접 연결되지 않습니다. 2026년 11월 초부터 블랙프라이데이 관련 캠페인과 선수 팩 출시가 예고됐다는 해외 보도가 있어 이벤트 효과일 가능성은 있으나, 이는 추정이며 매출 이벤트 공지 등으로 확인이 필요합니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/jn-jaGEFUPiu0dBP9O6PjiRk-BCwFFLm0RdeOjLH-qLYjhHJlzNBMgl3Sah24htajj67_fdve-DzGsqmMUx1tqQ=w128",
       "screenshots": [
@@ -337,25 +337,25 @@
     }
   },
   "1128255542": {
-    "researchedAt": "2026-11-16T14:46:53.905Z",
-    "verified": false,
+    "researchedAt": "2026-11-23T14:46:29.707Z",
+    "verified": true,
     "data": {
-      "verified": false,
-      "category": "기타",
-      "short": "기사상 상위권 보도와 35위 차트 불일치, 상승 원인 미확정",
-      "summary": "찾은 2026년 11월 기사들은 리니지M이 앱스토어 1~3위권에 있었다고 보도하며, 대규모 업데이트 기대감, 이벤트와 상품 판매, 퍼플 자체 결제 효과를 순위 상승 배경으로 언급합니다. 다만 현재 35위로의 10계단 상승 자체를 다룬 기사는 찾지 못했고, 보도된 순위와 입력된 차트 수치가 맞지 않아 원인을 확정할 수 없습니다. 제공된 스토어 업데이트 내역(recentChanges)이 없어 추가 근거 확인이 필요합니다.",
+      "verified": true,
+      "category": "컨텐츠 업데이트",
+      "short": "9/9 THE GOLDEN AGE 업데이트·신서버 오픈 효과로 매출 상승",
+      "summary": "9월 9일 'THE GOLDEN AGE' 대규모 업데이트를 앞두고 리부트 월드 신서버 '기란'·'하이네' 오픈, '투사' 클래스 리부트, 혈맹 레이드 리뉴얼 등이 예고되며 매출 순위가 올랐다는 보도가 있다. 업데이트 전 사전 이벤트와 신규 상품 추가가 매출 상승으로 이어졌다는 분석도 나왔다. 다만 기사들은 44위라는 구체적 순위 변동을 직접 다루지 않아, 18계단 상승 수치는 차트 데이터 기준으로 보는 것이 적절하다.",
       "articles": [
         {
-          "title": "'매출 최상위' 리니지M, 장수 흥행 비결은 '소통'",
-          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=310159"
+          "title": "솔·제우스 등 MMORPG 3강 속 ‘리니지M’ 매출 2위 ‘건재’",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=308031"
         },
         {
-          "title": "'리니지M' 장수 인기작 저력...국내 구글 매출 1위 기록",
-          "url": "https://www.techm.kr/news/articleView.html?idxno=156998"
+          "title": "[주간 모바일 순위] 상승세 이어간 리니지M-메이플 키우기",
+          "url": "https://www.betanews.net/article/view/beta202609070003"
         },
         {
-          "title": "리니지M 5주년 수상, 매출 2위 견고한 이유",
-          "url": "https://aboda.kr/entry/%EB%A6%AC%EB%8B%88%EC%A7%80m-5%EC%A3%BC%EB%85%84-%EC%88%98%EC%83%81-%EB%A7%A4%EC%B6%9C-2%EC%9C%84-%EA%B2%AC%EA%B3%A0%ED%95%9C-%EC%9D%B4%EC%9C%A0"
+          "title": "[차트픽] 엔씨 ‘리니지M’, 구글 매출 2위로 상승…양대 마켓 최상위권",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309960"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/MzMjZDpV2qLj34eMjWXBNSyOaSINWvqjWuzF7W0LiazKbWbqae230F0BwkATJl4eQd1a6S1Lp1SLeRn6tRUt=w128",
@@ -825,14 +825,39 @@
     }
   },
   "1471942989": {
-    "researchedAt": "2026-11-07T14:46:47.662Z",
-    "verified": false,
+    "researchedAt": "2026-11-23T14:47:15.676Z",
+    "verified": true,
     "data": {
-      "verified": false,
+      "verified": true,
       "category": "컨텐츠 업데이트",
-      "short": "타짜의 길·신규 캐릭터·할로윈 한정 상품 추가 후 5계단 상승(기사 미확인)",
-      "summary": "검색된 기사는 2024년 출시 이후의 누적 매출 성과와 젊은 층 공략을 다룰 뿐, 이번 5계단 상승의 원인을 직접 설명하지 않아 검증되지 않았습니다. 스토어 업데이트 내역에는 신규 모드 '타짜의 길', 신규 캐릭터 '나최고' 상점 출시, 할로윈 한정 상품, 일일목표 보상 변경 등 콘텐츠 변화가 포함되어 있어 이것이 상승 요인일 가능성이 있습니다. 다만 매출 데이터와의 직접적 인과관계는 확인되지 않았으므로 추정으로 보아야 합니다.",
-      "articles": [],
+      "short": "타짜의 길에 주간 랭킹 콘텐츠 '칭호전' 신설, 기념 이벤트 병행",
+      "summary": "NHN은 '타짜의 길'에 매주 순위를 겨루는 신규 경쟁 콘텐츠 '칭호전'을 추가했고, 승리의 여신·배짱의 화신·베팅의 신 3개 부문에서 시즌 종료 후 특별 능력 칭호와 수호령P를 나눠 준다. 참여 조건은 챕터 2 메인 에피소드 3 완료이며, 중위 50% 이내 참여자에게도 수호령P가 지급된다. 12월 27일까지 '칭호전에 도전하라!' 이벤트로 곡옥·게임머니 등 기본 보상과 최대 100억 쩐 추첨 기회를 함께 제공해 신규 유입과 복귀를 유도한 것으로 보인다.",
+      "articles": [
+        {
+          "title": "한게임 섯다&맞고, 주간 경쟁 칭호전 추가",
+          "url": "https://www.inven.co.kr/webzine/news/?news=323703"
+        },
+        {
+          "title": "'한게임 섯다&맞고', 주간 랭킹 '칭호전' 도입…최대 100억 쩐 추첨",
+          "url": "https://www.thisisgame.com/articles/433158"
+        },
+        {
+          "title": "NHN '한게임 섯다&맞고', 주간 랭킹 콘텐츠 '칭호전' 추가 - ZDNet korea",
+          "url": "https://zdnet.co.kr/view/?no=20261123134450"
+        },
+        {
+          "title": "NHN '한게임 섯다&맞고', 주간 랭킹 콘텐츠 '칭호전' 추가 < 게임 < 뉴스 < 기사본문 - 경향게임스",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=310604"
+        },
+        {
+          "title": "NHN '한게임 섯다&맞고', 주간 랭킹 경쟁 콘텐츠 '칭호전' 추가 < 보도자료 < 게임 < 산업 < 기사본문 - 파이낸셜투데이",
+          "url": "https://www.ftoday.co.kr/news/articleView.html?idxno=370316"
+        },
+        {
+          "title": "NHN '한게임 섯다&맞고', 주간 랭킹 경쟁 '칭호전' 오픈…특별 능력 칭호 부여 < game.web3 일반 < Game·Web3 < 기사본문 - 데일리포스트",
+          "url": "https://www.thedailypost.kr/news/articleView.html?idxno=117182"
+        }
+      ],
       "icon": "https://play-lh.googleusercontent.com/CqdDCCaoUKuuANbhIfbCWehb2UTPN6YPbucx6KUzurF6WebH10KPaG46AG-fBCl9w1hAnOqbr2psIJtQFoUOaHw=w128",
       "screenshots": [
         "https://play-lh.googleusercontent.com/i3kjXoGH98sN_1aiGkkONgyiPouI-e-8IIuFxMH_2XqzdrLwnepRR0W6xQ78h3cnHM9NFS7WzBx3zu0DCYNc=w400",
@@ -843,7 +868,7 @@
       "video": "https://www.youtube.com/embed/jvCh1Wh8jpk?vq=large&rel=0&autohide=1&showinfo=0",
       "videoImage": "https://play-lh.googleusercontent.com/IezSuMiicJVAWbnQs6s2GyBrQTH0YzIMIlkhsfrMU4-OlVng9iZsB3bwPFTHTGQfcTZ8YU6R6ZkNZFYac6YbNw=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.NHNEnt.MSudda&hl=ko&gl=kr",
-      "recentChanges": "▶ 족보도 모르던 초짜가 타짜가 되기까지의 이야기! 타짜의 길 추가<br>▶ 보너스 피도 피잖여, 싹 다 내놔유! 큐라백작 한능청 등장!<br>▶ 할로윈 맞이! 유령 삥아리 한정 상품 출시!<br>▶ 초월 수호령 곡옥 교환 수량 밸런스 개선<br>▶ 일일목표 보상이 동호회 회장에서 나의 랭킹전 등급으로 변경<br>▶ 2장 섯다 20억 경기장 최소 입장 머니 조정<br>▶ 입장 머니 부족 시 자동 금고 출금 설정되는 금액 조정<br>▶ 로비 금고 출금 일 100회 초과 시 3% 수수료 적용<br>▶ 신규 캐릭터 나최고 상점 출시<br>▶ 기타 오류 수정 및 서비스 개선"
+      "recentChanges": "■ 김장 판도 큰 판도 끝내주는 손맛 김치명인 나퉁명 등장!<br>■ 매주 능력이 포함된 칭호를 건 경쟁이 시작된다! 타짜의 길 칭호전 업데이트<br>■ 칭호전 오픈을 기념하여 누적 참여에 따른 보상 지급 이벤트 오픈<br>■ 커뮤니티 패가 오픈되는 순간 색다른 배짱 판이 열린다! 홀덤섯다 배짱승부 추가<br>■ 25년 생 한정 캐릭터가 돌아온다! 타짜 상점 및 랜덤박스 리스트 업데이트<br>■ 수호령 쌈짓돈 적립금 &amp; 당첨 정보를 한눈에! 수호령 쌈짓돈 개선<br>■ 타짜의 길 편의 기능 개선<br>■ 구글 레벨업 프로그램 업데이트<br>■ 기타 오류 수정 및 서비스 개선"
     }
   },
   "1473903308": {
@@ -1059,13 +1084,13 @@
     }
   },
   "1521236603": {
-    "researchedAt": "2026-11-16T14:46:42.567Z",
+    "researchedAt": "2026-11-23T14:46:47.739Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "기타",
-      "short": "최근 업데이트 내역만으로는 원인 특정 불가, 기존 성장 추세 참고",
-      "summary": "최신 한국어 기사는 찾지 못했다. 스토어 업데이트 내역은 일반적인 개선·버그 수정 안내 문구뿐이라 이번 13계단 상승의 구체적 원인을 특정할 수 없다. 검색된 자료는 모두 수년 전 분석으로, Moon Active 인수 이후 UA 투자 확대와 높은 ARPDAU가 장기 성장의 배경이었다고 설명하지만 이번 순위 변동과 직접 연결되는 자료는 없다. 따라서 신규 이벤트나 콜라보 등 단기 요인은 확인되지 않았으며, 추가 확인이 필요하다.",
+      "short": "한국어 기사 미확인, 스토어 업데이트 근거로만 판단",
+      "summary": "한국어 기사 검색에서 13계단 상승의 직접 원인을 다룬 기사는 찾지 못했다. 스토어 최근 업데이트 내역은 버그 수정과 전반적 개선만 언급하는 일반 문구여서 구체적인 이벤트나 신규 콘텐츠를 특정할 수 없다. 검색된 자료에는 2026년 11월 기준 매월 에너지 링크 배포 빈도 증가, 최신 버전 2.12.1761 등 단편적 정보만 있어 순위 변동과의 인과관계는 확정할 수 없다. 따라서 원인은 추정 단계이며, 정확한 판단을 위해서는 기간 내 이벤트·프로모션 공지나 앱 분석 데이터 확인이 필요하다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/_YoJBEqLA6qZ0xiulFJWKfubaZmxzyphcW4BwMIXFapkO3ifyuVsnMaLkWQClMPuUnahVtIAtyU_baUHLOdP2A=w128",
       "screenshots": [
@@ -1103,13 +1128,13 @@
     }
   },
   "1571873795": {
-    "researchedAt": "2026-11-18T14:46:47.803Z",
+    "researchedAt": "2026-11-23T14:47:28.072Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "매출 이벤트",
-      "short": "3성 학생 선택권·픽업 추가·3성 확률 2배로 뽑기 수요 집중",
-      "summary": "검색에서 찾은 한국어 기사는 2024~2026년 초의 다른 페스 시즌 기사뿐이라 이번 11월 순위 상승을 직접 다룬 기사가 없었습니다. 그래서 스토어 업데이트 내역을 근거로 판단하면, 11/10부터 시작된 '3성 학생 선택권'과 마코토·사츠키 수영복 픽업, 무료 모집 200회 이벤트가 상승의 중심으로 보입니다. 이후 11/17에는 이로하·이부키 수영복 픽업과 3성 학생 그룹 획득 확률 합산 2배 증가가 이어져 매출을 끌어올린 것으로 추정됩니다(추정이므로 verified=false).",
+      "short": "페스 3성 선택권·확률 2배 등 픽업 이벤트로 매출 상승 추정",
+      "summary": "검색에서는 이번 기간(11/10~11/23)의 블루 아카이브 매출 순위 상승을 직접 다룬 최신 한국어 기사를 찾지 못했다. 스토어 업데이트 내역 기준으로는 11/10부터 '[특별] 페스 3성 학생 선택권'과 마코토·사츠키 수영복 픽업, 무료 모집 200회 이벤트가 시작됐다. 이후 11/17부터는 이로하·이부키 수영복 픽업과 3성 학생 그룹 획득 확률 합산 수치 2배 증가가 더해져, 이것이 6계단 상승의 원인으로 추정된다(기사 근거 없음).",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/2Va8nfkK6S1TNOf8d4Eqa2TB-8hVq_VvZ278Alldh6ce99yI97D08H_7_2iYx4mKqQeqrJNXM8dtH0_DGhXZtg=w128",
       "screenshots": [
@@ -2242,13 +2267,13 @@
     }
   },
   "6756989323": {
-    "researchedAt": "2026-11-21T14:47:08.882Z",
+    "researchedAt": "2026-11-23T14:46:34.692Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "기타",
-      "short": "11계단 상승 원인 미확인, 스토어 업데이트 'New Update'만 확인됨",
-      "summary": "검색된 한국어 기사는 3월 글로벌 매출 성과나 순위 현황을 다룰 뿐, 이번 App Store 매출 11계단 상승의 직접적 원인을 설명하지 않았다. 스토어 최근 업데이트 내역도 'New Update.'뿐이라 구체적인 이벤트나 콘텐츠를 특정할 수 없다. 따라서 원인은 확정하지 못했으며, 상승 시점의 이벤트·업데이트 상세를 추가로 확인해야 한다.",
+      "short": "기사 미확인, 스토어 업데이트 내용 불명확해 원인 추정 보류",
+      "summary": "17계단 상승의 직접 원인을 다룬 최신 한국어 기사는 검색되지 않았다. 제공된 스토어 업데이트 내역은 'New Update.'뿐이라 구체적인 이벤트나 콘텐츠를 확인할 수 없다. 따라서 신규 오픈, 콜라보, 매출 이벤트 중 어느 원인인지 확정할 근거가 부족하며, 추가 확인이 필요하다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP=w128",
       "screenshots": [
@@ -2307,35 +2332,35 @@
     }
   },
   "6618142292": {
-    "researchedAt": "2026-11-08T14:46:52.373Z",
+    "researchedAt": "2026-11-23T14:47:02.956Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "신규 지역·요리 추가 업데이트로 순위 5계단 상승(기사 미확인)",
-      "summary": "검색에서는 이 게임의 순위 상승을 직접 다룬 최신 한국어 기사를 찾지 못했다. App Store 버전 기록에는 신규 요리, 신규 지역 추가와 문제 수정이 담긴 최신 업데이트(1.44.1)가 나와 있다. Google Play 페이지에도 2026년 11월 3일자 업데이트로 신규 요리·재료, 신규 지역, 버그 수정이 소개되어 있어, 이 콘텐츠 업데이트가 최근 매출 순위 상승의 유력한 배경으로 보인다. 다만 이는 스토어 업데이트 내역에 근거한 추정이며 순위 변동의 직접적 원인으로 확인된 것은 아니다.",
+      "short": "신규 요리·신규 지역 추가 업데이트 후 순위 상승(기사 미확인)",
+      "summary": "검색으로는 이번 순위 상승을 직접 다룬 최신 한국어 기사를 찾지 못했다. 제공된 스토어 업데이트 내역에 신규 요리, 신규 지역 추가와 버그 수정이 담겨 있어, 이 콘텐츠 업데이트가 매출 상승의 유력한 배경으로 보인다. 다만 이는 추정이며 순위 변동의 정확한 원인이라고 확정할 근거는 부족하다.",
       "articles": [],
-      "icon": "https://play-lh.googleusercontent.com/eAeYjdl3YeCgqPktbVbMp5APjT1QaCwI1dNEnTXoM2bmcx1KJykj7GDTFuPwIYara9BItd22stpDtydbyenrbg=w128",
+      "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg=w128",
       "screenshots": [
-        "https://play-lh.googleusercontent.com/a7sDWhMjAf-1kqo4_CJ3wlljIniO9J13mehNjXgF5WDzGC2gXbqhCxpgRMAvDramnVjCHagoQvue6HC3kkZi=w400",
-        "https://play-lh.googleusercontent.com/eefaeKy-p2qTUhfaT0LwotN9ANX_DO14bzpvjscSQ-48_z6aRF_zKCmX-gHPPEqMelfPfv2vVjZ03RHYLpuYCw=w400",
-        "https://play-lh.googleusercontent.com/fFex91x5-WO_qgaX_5ZenRiRsQOdNoGREXhtWywt6f0pP9bpAJY1FGInaz9tdMofSnW2Sw0vpp2-ATFEhf-i=w400",
-        "https://play-lh.googleusercontent.com/fZrvsN8lkYB6VPNe5zKwdJe98OWqPECyuc7a-Mm7hLW3IDJtZfr0OA9beZJBxY2oLKQo9g4qgsYQ9Us-q5mmiw=w400"
+        "https://play-lh.googleusercontent.com/Hre6jQuJQP_MWviZUP3CR8A5vrYjEjO3quBgJI2QARLMgRhcXrhrUAHTPD0FO_Ma7sAhwdgvgT_sjNbRiHt9vA=w400",
+        "https://play-lh.googleusercontent.com/54TLYBbWevQAdO14Baj6mF_K9BwIwxc3lZdec4-ENE0e7LsaY7mpNWKXA49nxSv-ZWfEDt26opGVIQEMKfLRfw=w400",
+        "https://play-lh.googleusercontent.com/LK3_Slg2_VSF3Do5M9kHQ6GDqjJuP61Eb84oI4XDa1UgH3bgvmhjIKy4FVizAEujKxkj8182fe5LeUcoQOfp=w400",
+        "https://play-lh.googleusercontent.com/CRCXkpbHgRRrdjzZiCFHgSqBCnNNzFi9T6_nmtzQ3suN4v2_hR6gX84MY1yUXsx-iTfJPniBUjzZJfGXMb65aw=w400"
       ],
-      "video": "https://www.youtube.com/embed/Mvd8yCzLLKc?vq=large&rel=0&autohide=1&showinfo=0",
-      "videoImage": "https://play-lh.googleusercontent.com/qyu7yRExNjiWG1EWJLsnZBypEXrVux2HMRVb-ct6CEE1YxdXiEUf2ahWbcv899S3XWvNq0Fs4JIxg4CAPxL6vA=w480",
-      "storeUrl": "https://play.google.com/store/apps/details?id=com.merge.cooking.theme.restaurant.food&hl=ko&gl=kr",
-      "recentChanges": "돌아오신 것을 환영합니다, 셰프님!<br>새 버전의 머지 쿠킹이 출시되었습니다!<br>더 나은 사용자 경험을 위해, 저희는 게임 성능 최적화와 흥미로운 콘텐츠 제공에 힘쓰고 있습니다.<br>게임 플레이 동안 즐거움이 가득하길 바랍니다!<br>게임에 처음 오셨나요? 걱정하지 마세요. 각 단계별 설명을 통해 안내하겠습니다. 저희와 함께 즐겨봐요!"
+      "video": "https://www.youtube.com/embed/J_sky_sDYNE?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/wck34bRsgqkmwNTDk2FVzkLuqlMDk1WJnUTwzMu2mxeRGnqOy5O8bMcPh5dBVHTIdR01fLdVwvlM7ZKiSMhx=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.cola.game&hl=ko&gl=kr",
+      "recentChanges": "신규 콘텐츠<br>레스토랑을 운영할 준비 되셨나요? 과거 그 어느 때보다 멋진 최신 업데이트가 출시되었습니다!<br>신규 요리: 각종 신선한 식재료와 음식을 마음껏 즐겨보세요!<br>신규 지역: 탐색하고 리모델링할 수 있는 새로운 지역이 추가되었습니다!<br>문제 수정: 여러 골치 아픈 문제를 수정했습니다!"
     }
   },
   "6448786147": {
-    "researchedAt": "2026-11-18T14:47:31.566Z",
+    "researchedAt": "2026-11-23T14:47:08.649Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "기타",
-      "short": "특수 열쇠 연동 추가 업데이트 외 상승 원인 미확인",
-      "summary": "검색된 한국어 기사들은 이 게임의 과거 매출 1위 기록(2024~2025년)을 다루고 있을 뿐, 이번 7계단 상승(현재 29위)의 원인을 설명하는 기사는 찾지 못했다. 스토어 업데이트 내역에 따르면 [특수 열쇠] 연동 방식이 신규 추가되었고 [계정] 화면에서 특수 열쇠 확인과 패스키 관리가 가능해졌다. 다만 이 로그인 방식 추가가 순위 상승으로 이어졌는지는 확인되지 않았으므로 추측으로 판단하지 않고 미검증으로 둔다.",
+      "short": "특수 열쇠 연동 신규 추가가 원인으로 추정, 기사 미확인",
+      "summary": "최신 한국어 기사에서 이번 7계단 상승의 직접 원인을 확인하지 못했다. 검색된 기사는 대부분 수백 일 전의 매출 1위 기록을 다뤄 현재 33위 상승과 맞지 않는다. 스토어 업데이트 내역에 있는 '특수 열쇠' 연동 방식 신규 추가와 계정 화면의 특수 열쇠·패스키 관리 기능을 근거로 추정할 수 있으나, 이것이 매출 상승으로 이어졌다는 증거는 없어 확정할 수 없다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc=w128",
       "screenshots": [
@@ -2350,13 +2375,13 @@
     }
   },
   "6767834940": {
-    "researchedAt": "2026-11-16T14:47:15.557Z",
+    "researchedAt": "2026-11-23T14:46:57.897Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "신하·국왕 칭송·항해선 시스템 추가 및 자동 번역 기능 업데이트 (스토어 기준)",
-      "summary": "탑 로드 관련 한국어 기사를 검색했으나 게임과 직접 관련된 기사를 찾지 못했습니다. 따라서 스토어 최근 업데이트 내역을 근거로 판단하며, 신하 시스템·국왕 칭송 기능·항해선 기능 추가와 채팅창에서 설정 가능한 자동 번역 기능이 신규 유저 유입이나 기존 유저 복귀를 이끌었을 가능성이 있습니다. 다만 이는 추정이며 매출 순위 상승의 정확한 원인은 확인되지 않았습니다.",
+      "short": "그리핀 육성→공성 병기 시스템 개편이 상승 요인으로 추정",
+      "summary": "탑 로드의 상승 원인을 직접 설명한 기사는 찾지 못했다. 한 주간 매출 순위 기사는 탑 로드가 순위권에 있었다는 사실만 전할 뿐 상승 이유는 다루지 않았다. 따라서 스토어 업데이트 내역인 그리핀 육성 시스템을 공성 병기 시스템으로 개편한 변경을 근거로 한 추정이며, 검증되지 않았다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/F9Nk01jBia2OZFGndBuTP-rJ-ThbicTHpxJj3iZIk-M1-V8qFhVuVQWYAG_zCuggkiRXHrfqyU5XwZPhAJyAfA=w128",
       "screenshots": [
@@ -2367,17 +2392,17 @@
       ],
       "video": null,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.gamespark.topking.gp&hl=ko&gl=kr",
-      "recentChanges": "[신하] 시스템 추가.<br>[국왕 칭송] 기능 추가.<br>[항해선] 기능 추가.<br>자동 번역 기능 추가. 채팅창에서 활성화 여부 설정 가능."
+      "recentChanges": "[그리핀 육성] 시스템을 [공성 병기] 시스템으로 개편! (자세한 내용은 [공성 병기 시스템 설명] 우편을 확인해 주세요)"
     }
   },
   "6739554056": {
-    "researchedAt": "2026-11-18T14:47:20.227Z",
+    "researchedAt": "2026-11-23T14:46:41.467Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "낚시 선수권 대회 최적화 업데이트로 이벤트 참여 편의 개선",
-      "summary": "스토어 업데이트 내역에 따르면 낚시 선수권 대회에 해초 도감이 추가되고, 왕국 진행도 달성 시 배수 낚시 10배 옵션과 최고 레벨 낚시 도구가 자동 적용된다. 또한 이번 임무 기능과 보상 일괄 수령 기능이 추가되어 이벤트 참여 편의가 높아졌다. 다만 순위 상승을 직접 설명하는 기사는 찾지 못해, 이 업데이트 내역을 근거로 한 추정이며 검증되지 않았다.",
+      "short": "낚시 선수권 최적화·보상 일괄수령 업데이트 후 상승 추정",
+      "summary": "이번 순위 상승은 기사로 확인되지 않았고, 스토어 업데이트 내역을 근거로 한 추정이다. 업데이트에는 낚시 선수권 대회의 해초 도감 추가, 왕국 진행도 달성 시 배수 낚시 10배 옵션 추가, 낚시 도구 레벨 자동 상승이 포함되어 이벤트 참여 효율이 높아졌다. 또한 이벤트 임무와 보상 일괄 수령 기능이 더해져 이벤트 기간 과금 동기를 자극했을 가능성이 있다. 다만 검색된 기사들은 이 업데이트와 매출 순위 변화의 인과관계를 직접 다루지 않아 추정 단계로 둔다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq=w128",
       "screenshots": [
@@ -3903,44 +3928,40 @@
     }
   },
   "6739616715": {
-    "researchedAt": "2026-11-02T22:55:38.781Z",
+    "researchedAt": "2026-11-23T14:47:22.185Z",
     "verified": true,
     "data": {
       "verified": true,
-      "category": "컨텐츠 업데이트",
-      "short": "파티 퀘스트 보상 상향·신규 유물 업데이트로 매출 상승",
-      "summary": "모바일인덱스 집계에 따르면 메이플 키우기는 신규 유물 시스템과 파티 퀘스트 '버닝' 업데이트, 성장 부스팅 프로모션이 맞물리며 양대 마켓 매출 1위를 되찾았다. 파티 퀘스트 보상 배율을 크게 올려 초중반 육성 장벽을 낮췄고, 자동 매칭 시스템이 신규·라이트 이용자의 상위 챕터 진입을 도왔다. 다만 기사에 이터니티 신규 무기 등급은 언급되지 않아, 스토어 업데이트 내역 중 파티 퀘스트 관련 변경이 핵심 원인으로 보인다. 기사 기준 순위(1위)와 현재 3위 표기는 집계 시점 차이로 보인다.",
+      "category": "매출 이벤트",
+      "short": "1주년 기념 '메키 살롱' 이벤트로 매출 순위 급상승",
+      "summary": "11월 5일 시작된 1주년 기념 이벤트 '메키 살롱'이 매출 상승의 주요 요인으로 보도됐습니다. 보도에 따르면 국내 구글 플레이 매출 순위가 14위에서 5위로 올랐습니다. 다만 해당 기사는 구글 플레이 기준이며, 앱스토어 2위 상승을 직접 다루지는 않아 앱스토어 순위는 스토어 업데이트 내역을 근거로 한 추정입니다.",
       "articles": [
         {
-          "title": "'신규 유물+파퀘 버닝' 쌍끌이…'메이플 키우기', 양대 마켓 매출 1위 복귀",
-          "url": "https://m.news.nate.com/view/20260819n30265"
-        },
-        {
-          "title": "[주간 모바일 순위] 메이플 키우기, 매출 2위 기록하며 변함없는 인기",
-          "url": "https://www.betanews.net/article/view/beta202606010001"
+          "title": "'니케'부터 '메키'까지, 국산 게임 구글 매출 톱5 싹쓸이 (월요신문)",
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=320232"
         }
       ],
-      "icon": "https://play-lh.googleusercontent.com/VKzgyaBMxhdjOfgfRuJobcjnMkoWVxB9KCQpoPOcb0S4lltYv55Zi2fClECBPWMaAzm74buXQW7X6CO344sD=w128",
+      "icon": "https://play-lh.googleusercontent.com/EO2u_JvGn1YuXioUaHYVWjrSJCaJ6JlZNZElDnVM9rAeciG6FRoOos1QSKMsO1BbyBUdeoV7yHkARDfO7VHjPg=w128",
       "screenshots": [
+        "https://play-lh.googleusercontent.com/PUC6rDC6-JbPCUjxcRsLpdgXTqazoUKQoD-YucrG1Kid4kPGFcdftNY7Zj_HHZnsxZ79wGxqDMq_yf3-znayMKw=w400",
         "https://play-lh.googleusercontent.com/qe_F3ls6BqRZCTnSD4GansDVWWQQaBFxT2qeAPzQ9QqWzpQegVax202jMrX6dfVRtj_RzOwbzQeQbJ-krs1dxg=w400",
         "https://play-lh.googleusercontent.com/I6ESYxAo_QQbQpJpc9LAzxjoHHSOMQTjPVCCpYb6SAXam7f4ejoHvX_uWhyKhDGr52UYhDmZYAYBGEBtnByMHg=w400",
-        "https://play-lh.googleusercontent.com/VZwg0rP4PegO7QOp0NCkZUApbj0kKMegaazHzeb2YFyRu6JIKy5jdoIWSpMjxzK-_QVpYzNyz88fVr9joN_Sy8U=w400",
-        "https://play-lh.googleusercontent.com/JiQYQBTu4_TG95pXvU5EiZO_pUsIXDReTqfdEyV6u5_v-njuVrszOnj0dAN45bk_zNfmiBpdSx1eCJWGh3z-4w=w400"
+        "https://play-lh.googleusercontent.com/VZwg0rP4PegO7QOp0NCkZUApbj0kKMegaazHzeb2YFyRu6JIKy5jdoIWSpMjxzK-_QVpYzNyz88fVr9joN_Sy8U=w400"
       ],
-      "video": "https://www.youtube.com/embed/Y0Np0N3_VZE?vq=large&rel=0&autohide=1&showinfo=0",
-      "videoImage": "https://play-lh.googleusercontent.com/Jo4gkaVFj-Ufo9PBYMLphDymrlTqWJId5BMNsDhvNFu355B4bLUDzjKf2OzVJiUUA2xT4Vno80v-Yo09L-9URg0=w480",
+      "video": "https://www.youtube.com/embed/anHHH1IWwVo?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/VDgurWgGqbrY5PDaRVAb2aZ9IOIdPztcfPQV81iZAktqspfoe8-k5AWK7Uw2kQRiOrBRkF5aD641QfGvHgp4ag=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.nexon.ma&hl=ko&gl=kr",
-      "recentChanges": "▶ 신규 무기 등급 &#39;이터니티&#39; 추가<br>▶ 파티 퀘스트 신규 난이도 추가<br>▶ 신규 이벤트 추가<br>▶ 편의성 개선"
+      "recentChanges": "▶ 1주년 기념 이벤트 진행<br>▶ 신규 유저 성장 챌린지 진행<br>▶ 신규 직업 &#39;소울마스터&#39;, &#39;플레임위자드&#39; 추가<br>▶ 길드 시스템 개편"
     }
   },
   "6755455500": {
-    "researchedAt": "2026-11-15T14:46:53.709Z",
+    "researchedAt": "2026-11-23T14:46:53.051Z",
     "verified": false,
     "data": {
       "verified": false,
-      "category": "시즌·패스",
-      "short": "블프 패스 시작(11/6) 및 77화 업데이트 영향 추정",
-      "summary": "관련 한국어 기사를 찾지 못해 스토어 업데이트 내역을 근거로 판단했습니다. 11월 6일 시작된 블랙프라이데이 패스(전용 보상·챌린지)와 77화 공개가 App Store 매출 상승 시점과 맞물린 것으로 보입니다. 다만 이는 추정이며, 실제 매출 상승 원인은 확인되지 않았습니다.",
+      "category": "컨텐츠 업데이트",
+      "short": "78챕터 공개와 추수감사절·겨울 이벤트 예고가 상승 요인으로 추정",
+      "summary": "검색에서는 이 게임의 순위 상승을 직접 다룬 한국어 기사를 찾지 못했다. 스토어 업데이트 내역에 따르면 78챕터가 새로 열렸고, 11월 24일 추수감사절 디너 파티와 12월 2일 크리스마스 드레스 도전 및 겨울 스포티 콘텐츠가 예고되어 있다. 이러한 신규 스토리·이벤트 콘텐츠가 매출 상승에 영향을 준 것으로 보이나, 기사로 확인되지 않은 추정이므로 verified는 false로 둔다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw=w128",
       "screenshots": [
@@ -3951,7 +3972,7 @@
       ],
       "video": null,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.hollywood.merge&hl=ko&gl=kr",
-      "recentChanges": "지금 업데이트하고 새로운 기능을 만나보세요!<br>- 77챕터 전격 오픈! 카메라 뒤, 보이지 않는 암투<br>- 11월 6일 블프 패스가 시작되며 전용 보상과 챌린지가 함께 찾아옵니다.<br>- 11월 8일 경쾌한 리듬 이벤트에 참여하여 함께 가볍게 움직여 보세요!<br>- 11월 16일, 따뜻한 가을 모임이 시작돼요! 친구와의 약속에 함께해요!"
+      "recentChanges": "지금 업데이트하고 새로운 기능을 만나보세요!<br>- 78챕터 전격 오픈! 아름다운 풍경 뒤에 숨겨진 균열<br>- 12월 2일 새로운 영광의 도전 오픈! 크리스마스 드레스를 해제해 보세요!<br>- 11월 24일 오픈하는 추수감사절 디너 파티에서 맛있는 만찬을 즐겨보세요!<br>- 눈꽃이 흩날려요! 12월 2일부터 겨울 스포티를 함께 즐겨보세요!"
     }
   },
   "com.ncsoft.lineagem": {

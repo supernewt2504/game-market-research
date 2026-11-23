@@ -8778,7 +8778,7 @@
   "gal:chickengun": {
     "icon": "https://play-lh.googleusercontent.com/D7c1PhY_Ii28LwtSHlCAiHAfSXMb4EI5fE0Pu80EChZ3aK6jzyY6RFcJCYfvBPm8PbRMmbUNyGcLNCyZN2m6DXY=w48",
     "developer": "ChaloApps",
-    "country": null,
+    "country": "IN",
     "released": "2019.02.19",
     "url": "https://play.google.com/store/apps/details?id=com.chaloapps.roosterrudy&hl=ko&gl=kr",
     "appId": "com.chaloapps.roosterrudy",
@@ -9724,5 +9724,155 @@
     "appId": "com.Knight.GrandQuest",
     "source": "kr-google-match",
     "title": "Legends Reborn: 마지막 전투"
+  },
+  "find.tidy.house.sort.puzzle.game": {
+    "released": "2026.11.12",
+    "developer": "Shycheese",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/WHoD2Ww9t52Ioot6KVn3W7EM21D-TrIS2P0G-Hj6NnXGIn1VLe_N_Rn517GfPxnlgaNqQ13niMzeq3jCoehSag=w48",
+    "source": "google"
+  },
+  "com.CircleGames.TidyRoom": {
+    "released": "2026.11.16",
+    "developer": "Circle Games Teknoloji A.Ş.",
+    "country": "TR",
+    "icon": "https://play-lh.googleusercontent.com/M4aXiHtd0q_GWpqXwBhYwsY3KakFAtGP6Sd4Yu9NBmVhjWL9GZ4T4jG8cppqtPmtg8F8N1KQebQvIymfGbYzZg=w48",
+    "source": "google"
+  },
+  "com.xd.xdtglobal.gp": {
+    "released": "2025.12.23",
+    "developer": "XD (HK) Limited",
+    "country": "CN",
+    "icon": "https://play-lh.googleusercontent.com/FtZNAkKn4faEpRU4UjtRRUk-aQP5zwiN1Kg4FzAcQBN7S8-PfDo7ODxmjaPlMu3HOFJ6-1WhzXxwKA6q1bOw=w48",
+    "source": "google"
+  },
+  "6566177585": {
+    "released": "2024.11.05",
+    "developer": "Punchline Games Co., Ltd.",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/9a/1e/e69a1e8e-9404-8e0c-b979-6cfe5624afcb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6818465459": {
+    "released": "2026.11.17",
+    "developer": "SayGames LTD",
+    "country": "CY",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/2a/6f/042a6fa1-9f6a-2640-bf3f-ce91b71f83ae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6829605223": {
+    "released": "2026.11.18",
+    "developer": "Shycheese",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/37/7f/4c377f3e-ef3f-8f02-f56c-a1831f87fa88/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6801039859": {
+    "released": "2026.08.20",
+    "developer": "SmallStep Dev Team",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/b2/03/73b203fa-44f7-451f-67bf-198934d91828/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6503089848": {
+    "released": "2024.06.11",
+    "developer": "Rivvy Games Oy",
+    "country": "FI",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/59/b9/cb59b927-18b0-d78c-7534-d08024626309/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "one:한게임로얄홀덤": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202509/19/IF1423400704020110531171530/0000765288/ko/img/original/0000765288_20250919183515.png",
+    "released": "2023.01.26",
+    "developer": "hangame",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "한게임 로얄홀덤"
+  },
+  "one:섹스타닷넷더무비이제는1": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202606/05/SE202307251506337130062051/0001006409/ko/img/original/0001006409_20260605204405.png",
+    "released": "2026.08.28",
+    "developer": "adultfactory19",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "섹스타닷넷 더 무비 : 이제는 1"
+  },
+  "one:섹스타매치지루할틈없는리얼야한": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/22/SE202307251506337130062051/0001006315/ko/img/original/0001006315_20260722145957.png",
+    "released": "2026.07.24",
+    "developer": "adultfactory19",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "섹스타매치 : 지루할 틈 없는 리얼 야한"
+  },
+  "one:3d운전게임": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202008/28/SE202008282057006310052734/0000750628/img/original/0000750628_DP000101_20200828210347.png",
+    "released": "2020.08.31",
+    "developer": "kimtom06",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "3D운전게임"
+  },
+  "gal:더워킹데드서바이버즈": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202202/22/IF1423503515920140107191554/0000755523/img/original/0000755523_DP000101_20220222115921.jpg",
+    "released": "2021.07.15",
+    "developer": "Galaxy Play Technology Limited",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "더 워킹데드: 서바이버즈"
+  },
+  "gal:dressupgirllifegamefashionprincessmakeovergames": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202212/15/SE201706152125396990015829/0000766700/ko/img/original/0000766700_DP000101_20221215205322.png",
+    "released": "2022.12.16",
+    "developer": "Yang Wang",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "Dress Up Girl Life Game - Fashion Princess Makeover Games"
+  },
+  "gal:에코칼립스진홍의서약": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202502/13/SE201901162315329710037206/0000774534/ko/img/original/0000774534_DP000101_20250213193518.jpg",
+    "released": "2024.06.04",
+    "developer": "YOOZOO. ALL RIGHT SRESERVED",
+    "country": "CN",
+    "source": "kr-onestore",
+    "title": "에코칼립스: 진홍의 서약"
+  },
+  "gal:carracinggamestopspeedextremestuntdrivingstreetcarracingracingincarcarracinggameextremecardriftrace3d": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202512/18/SE202512160013073230067821/0001003593/en/img/original/0001003593_20251218172202.png",
+    "released": "2025.12.18",
+    "developer": "KIBET LANGAT",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "Car Racing Games, Top Speed, extreme stunt driving, Street car racing, Racing in Car, Car Racing Game: Extreme Car Drift Race 3D"
+  },
+  "one:nba2kmobile77719": {
+    "icon": "https://play-lh.googleusercontent.com/zPiD-p3erN8ug8IxSFzj1-miTd_LJYdXF0ioHoy62uRLMgLuu4V0ggxAGTWTn0TewD8XC3LIY6ggIjokmiqE=w48",
+    "developer": "2K, Inc. - a Take-Two Interactive affiliate",
+    "country": "US",
+    "released": "2019.04.17",
+    "url": "https://play.google.com/store/apps/details?id=com.catdaddy.nba2km&hl=ko&gl=kr",
+    "appId": "com.catdaddy.nba2km",
+    "source": "kr-google-match",
+    "title": "NBA 2K Mobile - 모바일 농구 게임"
+  },
+  "gal:stealncatchthememe": {
+    "icon": "https://play-lh.googleusercontent.com/I_qENAVThevOF7U3U82umbasDQ1sSgm5whbS6k1gnPJYdfTWQSb_yuejZMgDOSPWEhXA4r-0pJLvnnA8z8sp8w=w48",
+    "developer": "West Road Garage",
+    "country": null,
+    "released": "2025.09.11",
+    "url": "https://play.google.com/store/apps/details?id=com.westroad.steal.it&hl=ko&gl=kr",
+    "appId": "com.westroad.steal.it",
+    "source": "kr-google-match",
+    "title": "Steal n Catch the Meme Monster"
+  },
+  "gal:highschoolgirlsimulatorvirtuallifegames": {
+    "icon": "https://play-lh.googleusercontent.com/VJmKoYqxpySuGbaYYUokXyq3joJMxT9g_8B6TUhDTpyZGs7Y06DeERB7KeGTLbMkbNtak1KobkhuPCJOtDARCQ=w48",
+    "developer": "Meromsoft",
+    "country": null,
+    "released": "2017.03.16",
+    "url": "https://play.google.com/store/apps/details?id=com.Meromsoft.SchoolGirlsSimulator&hl=ko&gl=kr",
+    "appId": "com.Meromsoft.SchoolGirlsSimulator",
+    "source": "kr-google-match",
+    "title": "School Girls Simulator"
   }
 }
