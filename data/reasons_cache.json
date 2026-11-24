@@ -1084,13 +1084,13 @@
     }
   },
   "1521236603": {
-    "researchedAt": "2026-11-23T14:46:47.739Z",
+    "researchedAt": "2026-11-24T03:04:47.301Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "기타",
-      "short": "한국어 기사 미확인, 스토어 업데이트 근거로만 판단",
-      "summary": "한국어 기사 검색에서 13계단 상승의 직접 원인을 다룬 기사는 찾지 못했다. 스토어 최근 업데이트 내역은 버그 수정과 전반적 개선만 언급하는 일반 문구여서 구체적인 이벤트나 신규 콘텐츠를 특정할 수 없다. 검색된 자료에는 2026년 11월 기준 매월 에너지 링크 배포 빈도 증가, 최신 버전 2.12.1761 등 단편적 정보만 있어 순위 변동과의 인과관계는 확정할 수 없다. 따라서 원인은 추정 단계이며, 정확한 판단을 위해서는 기간 내 이벤트·프로모션 공지나 앱 분석 데이터 확인이 필요하다.",
+      "short": "순위 상승 원인 기사 미확인, 업데이트 내역은 일반 문구",
+      "summary": "검색으로 찾은 한국어 기사 중 Travel Town의 App Store 매출 순위 상승 원인을 직접 다룬 기사는 없었습니다. 스토어 최근 업데이트 내역은 버그 수정과 게임 개선을 알리는 일반적인 안내문이라 특정 이벤트나 콘텐츠를 근거로 삼기 어렵습니다. 따라서 6계단 상승의 원인은 확인되지 않은 상태이며, 확인되지 않은 추정을 근거로 분류하지 않았습니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/_YoJBEqLA6qZ0xiulFJWKfubaZmxzyphcW4BwMIXFapkO3ifyuVsnMaLkWQClMPuUnahVtIAtyU_baUHLOdP2A=w128",
       "screenshots": [
@@ -1128,13 +1128,13 @@
     }
   },
   "1571873795": {
-    "researchedAt": "2026-11-23T14:47:28.072Z",
+    "researchedAt": "2026-11-24T03:04:54.381Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "매출 이벤트",
-      "short": "페스 3성 선택권·확률 2배 등 픽업 이벤트로 매출 상승 추정",
-      "summary": "검색에서는 이번 기간(11/10~11/23)의 블루 아카이브 매출 순위 상승을 직접 다룬 최신 한국어 기사를 찾지 못했다. 스토어 업데이트 내역 기준으로는 11/10부터 '[특별] 페스 3성 학생 선택권'과 마코토·사츠키 수영복 픽업, 무료 모집 200회 이벤트가 시작됐다. 이후 11/17부터는 이로하·이부키 수영복 픽업과 3성 학생 그룹 획득 확률 합산 수치 2배 증가가 더해져, 이것이 6계단 상승의 원인으로 추정된다(기사 근거 없음).",
+      "short": "3성 선택권·픽업·3성 확률 2배로 매출 순위 상승 추정",
+      "summary": "검색된 최신 한국어 기사 중 이번 기간(11/10~11/23)의 순위 상승을 직접 다룬 기사는 없었다. 스토어 업데이트 내역상 [특별] 페스 3성 학생 선택권, 수영복 픽업, 무료 모집 200회 이벤트가 겹쳐 있고, 11/17부터 3성 학생 그룹 획득 확률 합산 수치가 2배로 늘어나 과금 유인이 커진 것으로 보인다. 다만 이는 업데이트 내역에 근거한 추정이며 실제 매출 집계 기사로 확인되지 않았다. 참고로 과거 기사들은 페스·대규모 업데이트 시기마다 블루 아카이브가 매출 상위권에 오른다고 보도했지만 이는 이번 건의 직접 근거가 아니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/2Va8nfkK6S1TNOf8d4Eqa2TB-8hVq_VvZ278Alldh6ce99yI97D08H_7_2iYx4mKqQeqrJNXM8dtH0_DGhXZtg=w128",
       "screenshots": [
@@ -1444,13 +1444,13 @@
     }
   },
   "1643509748": {
-    "researchedAt": "2026-11-22T14:46:16.381Z",
+    "researchedAt": "2026-11-24T03:04:59.474Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "기타",
-      "short": "검증 기사 없음; 스토어 일반 업데이트 공지만 확인",
-      "summary": "한국어 기사에서 순위 상승 원인을 다룬 보도를 찾지 못했습니다. 제공된 스토어 업데이트 내역에는 새 버전 출시, 성능 최적화, 콘텐츠 제공 같은 일반적인 문구만 있고 구체적인 신규 콘텐츠나 이벤트가 적혀 있지 않습니다. 검색된 자료에서도 1.65.0 및 1.66.0 등 최근 버전 업데이트가 확인되지만 매출 순위와 직접 연결되는 근거는 없어, 상승 원인은 확정할 수 없습니다.",
+      "short": "스토어 업데이트 공지만 확인, 순위 상승 원인 미확인",
+      "summary": "검색에서는 이 게임의 순위 상승을 직접 다룬 최신 한국어 기사를 찾지 못했다. 제공된 최근 업데이트 내역은 새 버전 출시와 성능 최적화, 콘텐츠 개선을 언급하는 일반적인 문구뿐이라 특정 신규 콘텐츠나 이벤트를 확인할 수 없다. 따라서 5계단 상승의 구체적 원인은 확정하지 못했으며, 업데이트에 따른 일반적 노출 증가로 추정만 가능하다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/eAeYjdl3YeCgqPktbVbMp5APjT1QaCwI1dNEnTXoM2bmcx1KJykj7GDTFuPwIYara9BItd22stpDtydbyenrbg=w128",
       "screenshots": [
@@ -2567,23 +2567,14 @@
     }
   },
   "6443477650": {
-    "researchedAt": "2026-10-31T18:48:00.305Z",
-    "verified": true,
+    "researchedAt": "2026-11-24T03:04:30.147Z",
+    "verified": false,
     "data": {
-      "verified": true,
+      "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "HPT 대회 확대와 10월 업데이트(레이크백·토너먼트 개편)가 상승 요인으로 추정",
-      "summary": "2026년 9월 말 개최된 제6회 HPT는 총상금 22억 원 규모로, 로얄홀덤 기반 온라인 새틀라이트와 오프라인 본선으로 진행됐다. 10월 업데이트에서는 홀덤·오마하 레이크백과 토너먼트 타임칩 등이 추가되어 이용자 유입 요인이 됐을 것으로 보인다. 다만 기사에는 순위 상승과의 직접적 인과관계가 명시되어 있지 않아, 대회 규모 확대와 업데이트가 매출 순위 상승에 기여했다는 판단은 추정이다.",
-      "articles": [
-        {
-          "title": "상금 22억 규모, 한게임 로얄홀덤 대회 제6회 HPT 개최",
-          "url": "https://www.gamemeca.com/view.php?gid=1780835"
-        },
-        {
-          "title": "한게임 로얄홀덤 대회에 총 상금 22억 원 걸렸다",
-          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=111711"
-        }
-      ],
+      "short": "레이크백 잭팟·스마트 베팅 등 신규 기능 추가로 순위 상승",
+      "summary": "최근 스토어 업데이트 내역에 레이크백 잭팟, 스마트 베팅, 홀덤/오마하 채널 타임칩, 대회 사이드 이벤트 기록 표시, 가위바위보 판수 이벤트가 추가됐습니다. 검색으로 찾은 기사는 2025년 9월 '한게임 더블에이 포커'의 '한게임 로얄홀덤' 리뉴얼과 HPT 새틀라이트 대회 연계 소식뿐이며, 이번 17계단 상승 시점의 원인을 직접 설명하지 않아 검증되지 않았습니다. 따라서 순위 상승은 업데이트 내역을 근거로 한 추정이며, 매출 이벤트(가위바위보 판수 이벤트 등)의 실제 효과는 확인이 필요합니다.",
+      "articles": [],
       "icon": "https://play-lh.googleusercontent.com/XHtjYtNFcuJriJ9NiA_X_U6mGQDeViNj-sz0zheNPE4YpByJxXSH5b7JblGVfN7aVyPhdOt1rfIuYetBwTyx=w128",
       "screenshots": [
         "https://play-lh.googleusercontent.com/PAYY8q8lNNcrYS9RWgtFtVdKTXROeFwQ99-2xTk2QFq4B9SeAwYntCSJQ6cqrzAmnMzlwX13OBlyS3chZcro3y0=w400",
@@ -2593,7 +2584,7 @@
       ],
       "video": null,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.nhn.AApoker&hl=ko&gl=kr",
-      "recentChanges": "홀덤/오마하 레이크백 추가<br>오마하 레이크 레이스 추가<br>토너먼트 타임칩 추가<br>토너먼트 핸드 포 핸드 적용 확대<br>가위바위보 판수 이벤트 추가<br>기타 버그 수정 및 성능 개선"
+      "recentChanges": "레이크백 잭팟 추가<br>스마트 베팅 추가<br>홀덤/오마하 채널 타임칩 추가<br>대회 이력 &gt; 사이드 이벤트 기록 표시 추가<br>가위바위보 판수 이벤트 추가<br>기타 버그 수정 및 성능 개선"
     }
   },
   "6479595079": {
@@ -4310,19 +4301,14 @@
     }
   },
   "6776891493": {
-    "researchedAt": "2026-11-08T14:46:30.308Z",
-    "verified": true,
+    "researchedAt": "2026-11-24T03:04:42.048Z",
+    "verified": false,
     "data": {
-      "verified": true,
-      "category": "신규 오픈",
-      "short": "2026.10.30 정식 출시 후 길드·아레나 등 업데이트 반영",
-      "summary": "운영팀 공지에 따르면 드래곤 나이트 키우기는 2026년 10월 30일 정식 출시되었습니다. 스토어 업데이트 내역에는 길드 시스템, 아레나 시스템, 신규 스킬·영웅, 이벤트, 컨텐츠 확장이 포함되어 있어 출시 직후 신규 유입과 매출 증가가 순위 상승의 주된 원인으로 보입니다. 다만 찾은 기사는 출시 사실만 다루고 App Store 매출 순위는 언급하지 않으므로, 8계단 상승과의 직접 연결은 간접 근거에 기반한 해석입니다.",
-      "articles": [
-        {
-          "title": "[드래곤나이트키우기] 정식 출시 안내 - 모바일 게임 정보",
-          "url": "https://bbs.ruliweb.com/news/board/320108/read/2296452"
-        }
-      ],
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "신규 보스·축제·방치 이벤트 업데이트 추정(기사 미확인)",
+      "summary": "검색으로는 이 게임의 순위 상승을 직접 다룬 최신 한국어 기사를 찾지 못했습니다. 스토어 최근 업데이트 내역에는 축복 시스템, 신규 보스 3종, 단풍 축제 및 방치 이벤트, 스테이지·콘텐츠 확장이 포함되어 있어 이러한 콘텐츠 업데이트가 순위 상승의 원인일 가능성이 있습니다. 다만 이는 업데이트 내역에 근거한 추정이며, 매출 증가의 구체적 원인은 확인되지 않았습니다.",
+      "articles": [],
       "icon": "https://play-lh.googleusercontent.com/kT-XLUyO3crdy2KpBXK9wDkrw-o_LtxMTUZ-udm0mqrJ0yRhRxwWhfY0vUEFtb8JLp8GcpX1DG3WGWp5psVwsFE=w128",
       "screenshots": [
         "https://play-lh.googleusercontent.com/sVX8o6ifaxxLaTZeSGe-Sko7yJmk_fJ8CfL94pX7gFgyQpdI-g21JtusgpE70awC98hbbu4gTVmNd0URj1DBDQ=w400",
@@ -4333,7 +4319,7 @@
       "video": "https://www.youtube.com/embed/iBxXsj4fbR0?vq=large&rel=0&autohide=1&showinfo=0",
       "videoImage": "https://play-lh.googleusercontent.com/sX3TSxQek4nZPbmqzcH_dwV3Fj_nbKjgfpwpsj_GIvT0vTsjfalg1cM3DMzIoFHXUjMWxZQVp1FA2FUxgSgA=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.ryonggame.dragonknightidle&hl=ko&gl=kr",
-      "recentChanges": "길드 검색 오류 수정<br>----------------------------<br>1.길드 시스템 추가<br>2.아레나 시스템 추가<br>3.신규 스킬,영웅 추가<br>4.이벤트 추가<br>5.컨텐츠 확장<br>6.길드 검색 오류 수정<br>"
+      "recentChanges": "오류 수정<br>-----------------------------------<br>1.축복 시스템 추가<br>2.신규 보스 3종 추가<br>3.단풍 축제 이벤트 추가<br>4.방치 이벤트 추가<br>5.스테이지,컨텐츠 확장<br>6.버그 수정, 최적화"
     }
   },
   "com.zjcs.android.kr": {
@@ -4594,23 +4580,28 @@
     }
   },
   "6761901736": {
-    "researchedAt": "2026-11-14T14:46:12.334Z",
+    "researchedAt": "2026-11-24T03:04:36.920Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "기타",
-      "short": "원인 미확인: 관련 기사 없음, 스토어 정보로만 추정",
-      "summary": "검색으로는 iOS 매출 순위 상승을 직접 설명하는 한국어 기사를 찾지 못했습니다. 확인된 기사는 위메이드가 운영하는 PC 온라인 버전의 중레벨 성장 업데이트와 2026년 로드맵에 관한 것이라 이 모바일 레볼루션의 순위 변동과는 다른 게임입니다. 구글 플레이 스토어 소개에는 접속 시 다이아 지급, 초반 고속 성장, 24시간 AI 자동 사냥 등 혜택이 적혀 있으나 시점이 확인되지 않아 상승 원인으로 단정할 수 없으며, 스토어 업데이트 내역(recentChanges)은 입력에 포함되지 않아 근거로 쓰지 못했습니다.",
-      "articles": [],
+      "short": "App Store 6계단 상승 원인 미확인(추가 근거 필요)",
+      "summary": "최신 한국어 기사에서 이 게임의 App Store 6계단 상승 원인을 확인하지 못했다. 검색된 11월 3주차 구글 매출 순위 기사에는 이 게임이 구글 매출 12위에 올랐다는 내용만 있고, 블랙프라이데이 이벤트 효과는 다른 게임 사례에 해당한다. 제공된 스토어 업데이트 내역(recentChanges)도 없어 콘텐츠·이벤트 원인을 특정할 수 없으므로 추가 확인이 필요하다.",
+      "articles": [
+        {
+          "title": "[월요게임순위] 11월 3주차, '운빨존많겜' 구글 매출 톱5 복귀",
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=320935"
+        }
+      ],
       "icon": "https://play-lh.googleusercontent.com/gqKZIBDTE-FutPcl0yO1sKRUV1VroQ-ri1L7MUyFd_c4V4CBBRMwvWlLl7880JCSFwPntfjz12wfdAfA9oE8YJ4=w128",
       "screenshots": [
-        "https://play-lh.googleusercontent.com/w8d6_LgldXhi6NJUZybexf0vgwqKY4uV5qdneOCRB4-69ro3f92uyU_LXb5uXfUKrUcdwPZJ6SVXm48H-4aBQvs=w400",
-        "https://play-lh.googleusercontent.com/Aa895A2sVJoqC0lXOe-PYg8O4r8qlYP2XJmRUI8TVBE6nhxQBLDgZFJHyfGGyH24e2fesWP4uRt7rRkodOMhwQ=w400",
-        "https://play-lh.googleusercontent.com/FuRzu_NyXiDuhFhLhzCtJFHPKg-M00SiqmbYpG5dKqR1hjhTZ-R8EelzEFKh3PMHGlH7RUzDoVFADVSrwBaG=w400",
-        "https://play-lh.googleusercontent.com/juh3OXcsgXZH3mDIjkkrNP-1apu-Lju5uN1y7a5n8HHjlX6W0mgw4hyuCJUFEwOgApxI-SIurfOs8CRUgmdx=w400"
+        "https://play-lh.googleusercontent.com/swTtZ_P6DtLJUz6uJkoM92GkhQsbIi2dAUxTULdglFjJlgdlLKV3rS2dyxvFeuxAfhhluRxzcvMpAGDguPs9fw=w400",
+        "https://play-lh.googleusercontent.com/FV3KKw1POlQZtMYE4w-JWQRNiWKUDJIsEYq4WWB_SohSWIrfKC13DMUT8kZXp6KpaT9jxqFrXGc61vQbTP-hbg=w400",
+        "https://play-lh.googleusercontent.com/ui2diXxHTYU6t8xRh0Q2tKZHxmjEeyiM5CuCbMBRcoqitVdwxAnEpCrEMYN_zOP205L0aXPUEK_tnWI5kY-seA=w400",
+        "https://play-lh.googleusercontent.com/nI_jlXje6mN-v0yo2Ou7Rh7V_dOs7XndmvnpeEmx53PuJGNJCXRnD0SRyIEktDRzOgLSYWWWKiEEzXUEIPQC=w400"
       ],
       "video": "https://www.youtube.com/embed/-SCKrFoUqnY?vq=large&rel=0&autohide=1&showinfo=0",
-      "videoImage": "https://play-lh.googleusercontent.com/7KMA1XDLd5WGqDaM7ss4B4K_JT9ma2X9T8-AEkb6bVl5AX23Dmgs60NOt2_k9g-ryTqMxGcNPH2G76jGcVTQ=w480",
+      "videoImage": "https://play-lh.googleusercontent.com/7DqPIACb0eCxhPUlubDwouUu0w6_edtQ6rbJZ28ib-4v-j_HrFEExKJNxeYhVJ7CRyMkOp78T117E797JGxwBQ=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.lycq.kr.and&hl=ko&gl=kr",
       "recentChanges": ""
     }

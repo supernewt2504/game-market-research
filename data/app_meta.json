@@ -1234,7 +1234,7 @@
   "com.leap.searchit": {
     "released": "2025.12.19",
     "developer": "Leap Game Studios",
-    "country": null,
+    "country": "US",
     "icon": "https://play-lh.googleusercontent.com/r_IudrF3BQ4A_Uc5AelS8ujBKI_DF3uEjlA3Q0APQyR_RDaKLQeZJGJCntGBJUhS_3SSuhM4ZWrMNaG0Ta5_=w48",
     "source": "google"
   },
@@ -9663,7 +9663,7 @@
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/21/SE202608251050462170070105/0001011399/ko/img/original/0001011399_20261121113309.png",
     "released": "2026.11.18",
     "developer": "GM 게임",
-    "country": null,
+    "country": "KR",
     "source": "kr-onestore",
     "title": "이스 6 : 아크 오리진"
   },
@@ -9841,7 +9841,7 @@
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202512/18/SE202512160013073230067821/0001003593/en/img/original/0001003593_20251218172202.png",
     "released": "2025.12.18",
     "developer": "KIBET LANGAT",
-    "country": null,
+    "country": "KE",
     "source": "kr-onestore",
     "title": "Car Racing Games, Top Speed, extreme stunt driving, Street car racing, Racing in Car, Car Racing Game: Extreme Car Drift Race 3D"
   },
@@ -9874,5 +9874,47 @@
     "appId": "com.Meromsoft.SchoolGirlsSimulator",
     "source": "kr-google-match",
     "title": "School Girls Simulator"
+  },
+  "line.tangle.twist.away.puzzle": {
+    "released": "2026.10.08",
+    "developer": "Shycheese",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/ev4qfNoOz3xFHRxHqBfbuG0_Ri8EWnV9H2ZEKnmyW-QK-o_fmhjDOHENmxSPlx9yy-xjsAViTRDDf7xu8po28Po=w48",
+    "source": "google"
+  },
+  "triple.sorting.bubble.fish.match": {
+    "released": "2026.03.26",
+    "developer": "Shycheese",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/SfY77oa8dhBnAY4fXIJoie0-OClLOkmJFj0PFAC7c2lhZKXu8pyk-8AWgAS3ZiLCkWW9BQyvkULIQvnpfmlfew=w48",
+    "source": "google"
+  },
+  "com.multicastgames.butcher": {
+    "released": "2025.10.20",
+    "developer": "MULTICAST GAMES",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/M-UK0n-uJBVdk-DNQHbo1-3epaTzVjWeynD-sfo_lJ56i-zpOYVDF9vX78UPrfgfTI0AMiSzIiB_Z3hGoZtFlA=w48",
+    "source": "google"
+  },
+  "com.microdose.balljam": {
+    "released": "2025.10.27",
+    "developer": "VOODOO",
+    "country": "FR",
+    "icon": "https://play-lh.googleusercontent.com/DzzfHWQLIXW7ypgHzM4YVzeDs3Yt5DyULs1J_F5qFimZ5zEXdzdtx1IsGe3S8HklJhqfElIGX3kybaneWPbWSQ=w48",
+    "source": "google"
+  },
+  "group.theorigin.themaxlevelreturner": {
+    "released": "2024.10.31",
+    "developer": "Punchline Games Co., Ltd.",
+    "country": "KR",
+    "icon": "https://play-lh.googleusercontent.com/KEpVB7Gj5xlgVMfSumuCDSTR2sFWN1u9JtNIOJLKApkMqxp0qGqKHP_McJo42f-qzFWfuD0fbmjG7S56_jB5qf4=w48",
+    "source": "google"
+  },
+  "6766870875": {
+    "released": "2026.05.07",
+    "developer": "Ji Woong Jung",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/9d/88/1b9d8856-fd06-fc9a-d9c0-2bd364afb3c8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
   }
 }
