@@ -111,6 +111,13 @@
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/72/9c/bc729c26-9778-99b1-7406-eef3a1c6d4f8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
+  "955705796": {
+    "released": "2015.04.29",
+    "developer": "Netmarble Corporation",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/a1/8e/81a18ea2-568c-2483-5357-19cc8daf8b6f/AppIcon2-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
   "963067330": {
     "released": "2016.10.26",
     "developer": "Devsisters",
@@ -7454,7 +7461,7 @@
   "com.qoni.guesstheiranswer": {
     "released": "2021.01.29",
     "developer": "TapNation",
-    "country": null,
+    "country": "DK",
     "icon": "https://play-lh.googleusercontent.com/kv6EDR6dr68_OVcYpZ1Yly7YhiZ89uu71Q6SENfPpiNRdDOGPIePSa_RxLHTQs01CJSCxbQ39Cz9Mz3IsS7o5wc=w48",
     "source": "google"
   },
@@ -8176,7 +8183,7 @@
   "gal:icecreamrolldessertgames": {
     "icon": "https://play-lh.googleusercontent.com/oEZqWTtgoepGQdycafejFek6eAxHwGSIadC6sq101vXguSf_wFsiFrvwJnxGrZ5yL5sYn8Q0siPCFbOz1HGMNug=w48",
     "developer": "TapNation",
-    "country": null,
+    "country": "DK",
     "released": "2020.01.03",
     "url": "https://play.google.com/store/apps/details?id=com.RedLineGames.Game49&hl=ko&gl=kr",
     "appId": "com.RedLineGames.Game49",
@@ -9915,6 +9922,62 @@
     "developer": "Ji Woong Jung",
     "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/9d/88/1b9d8856-fd06-fc9a-d9c0-2bd364afb3c8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "com.TeamSparta.CSD": {
+    "released": "2026.08.25",
+    "developer": "Teamsparta Inc.",
+    "country": "KR",
+    "icon": "https://play-lh.googleusercontent.com/FJkT0EJ0UxS2x6hnd4erCFWgM7eui4zQcHvhMRa3exp05_ZUIeLHksBEGOtwrSPN0Mk1axtN4pzVPnG8XJSp=w48",
+    "source": "google"
+  },
+  "com.matchingtiles.puzzle.triple.game": {
+    "released": "2025.03.23",
+    "developer": "Lynn Mobile Puzzle Games",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/emUA7sEYtKbiI9Wgc_RLmRaTutrDFW8O4_QnR2pkTHFG4x5VxNjqn5Vc1U_9PFjf-PoF9Bw8toj1icUsMkh8=w48",
+    "source": "google"
+  },
+  "arrow.cube.escape3d": {
+    "released": "2026.05.14",
+    "developer": "Iridium Mobile Team",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/ruF4jALNPkr0zQnzdgIlICFLiwzdzJOgnza8C1Dqn2-ZXYHCPk479infzYu9I_uBOFoV4-8wXA9himszh0yF=w48",
+    "source": "google"
+  },
+  "com.ea.gp.fifaultimate": {
+    "released": "2016.09.21",
+    "developer": "ELECTRONIC ARTS",
+    "country": "US",
+    "icon": "https://play-lh.googleusercontent.com/xUtrF2Fij5yTQvbg-yvvjTc0XVX1MtV8To0nVfqIuMl-r39jtLUwBflnsUVm2rVEBtlt8E2TPawGnsUo5rMY=w48",
+    "source": "google"
+  },
+  "6795757139": {
+    "released": "2026.11.24",
+    "developer": "MGAME Corp.",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/69/1d/a7691d06-f345-b376-19ef-4ab70a98700e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6754899430": {
+    "released": "2026.11.24",
+    "developer": "NEXON Company",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/46/ee/b146ee5d-03be-78d3-b02e-4fbd32b1e053/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6833913632": {
+    "released": "2026.11.16",
+    "developer": "Avalon Entertainment Co., Limited",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/e4/75/73e4755e-2cec-b40f-be31-8a305968dbc0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6755183085": {
+    "released": "2025.11.21",
+    "developer": "Combo Games",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/6e/e9/c66ee9d1-50ee-777a-ed52-30467a2dabad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   }
 }

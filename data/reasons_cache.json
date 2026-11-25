@@ -799,19 +799,14 @@
     }
   },
   "1471486284": {
-    "researchedAt": "2026-11-16T14:47:28.860Z",
-    "verified": true,
+    "researchedAt": "2026-11-25T03:47:54.278Z",
+    "verified": false,
     "data": {
-      "verified": true,
+      "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "길드전 대규모 개편(도시 16곳·주간 보상 3조 골드)",
-      "summary": "NHN은 2026년 11월 초 한게임포커의 길드전을 대규모로 개편했다. 점령 가능한 도시를 8곳에서 16곳으로 늘리고 주간 보상을 게임머니 3조 골드로 확대했으며, 출석과 게임 플레이로 모은 포인트를 투자하는 길드 스킬 12종을 추가했다. 다만 기사들은 이 개편이 매출 순위 상승으로 이어졌다고 직접 언급하지는 않으므로, 순위 상승과의 연관성은 추가 확인이 필요하다. 앱 스토어 업데이트 내역의 레이크 레이스 등 이벤트도 함께 고려할 만하다.",
-      "articles": [
-        {
-          "title": "NHN ‘한게임포커’, 길드전 대규모 개편",
-          "url": "https://www.ftoday.co.kr/news/articleView.html?idxno=368680"
-        }
-      ],
+      "short": "신규 슬롯 출시와 콘텐츠 업데이트로 매출 10계단 상승",
+      "summary": "최근 스토어 업데이트에는 신규 슬롯 '제우스의 리스핀' 출시와 명산 정복 콘텐츠 관련 소식이 포함되어 있어, 이용자 유입과 결제를 자극했을 가능성이 있습니다. 다만 현재 앱스토어 10계단 상승 시점을 직접 다룬 최신 한국어 기사는 찾지 못했습니다. 검색된 기사들은 2026년 3월 웹보드 규제 완화 효과나 과거 매출 순위 변화를 다룬 것이라 이번 상승 원인으로 확정할 근거가 되지 않아 verified=false로 둡니다.",
+      "articles": [],
       "icon": "https://play-lh.googleusercontent.com/Imi0dOs8mMcOxNvc4MGXbfdG1QNKgE70v1DYU4GTIXPlbCy5RGoC-XjBRdEwvb-jDGXAXFj9j43c7flORYphv7I=w128",
       "screenshots": [
         "https://play-lh.googleusercontent.com/BXYiyHwZCYaoVodqUc_KFNESgte_4HCtyWDVhDfLEdxw9bSdZz-RimpKbOd-c6pVJWNGQPuacf1gY1Razh8J=w400",
@@ -821,7 +816,7 @@
       ],
       "video": null,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.nhnent.Qpoker&hl=ko&gl=kr",
-      "recentChanges": "[UPDATE]<br>■ 동화 속 하트 여왕님으로 변신한 메리가 여러분을 기다리고 있어요~<br>■ 저녁 8시~10시 골든타임 레이크 레이스에서 1등 상금을 차지하세요!<br>■ 다양한 잭팟의 환상적인 콜라보! Lucky Pearls Paradise 슬롯 신규 출시<br>■ 매일 코인 일일업무 달성하고 보너스 코인 받아가세요!<br>■ 슬롯 옵션 추가! 최대 10배속까지 빠르게 즐겨보세요~<br>■ 성능 및 서비스 개선"
+      "recentChanges": "[UPDATE]<br>■ 한계가 없는 명산 정복자 로즈의 다음 목적지는 어디일까요?<br>■ 신규 슬롯! 제우스의 리스핀으로 대박 당첨을 경험하세요!<br>■ 성능 및 서비스 개선"
     }
   },
   "1471942989": {
@@ -971,13 +966,13 @@
     }
   },
   "1507872328": {
-    "researchedAt": "2026-11-18T14:47:48.034Z",
+    "researchedAt": "2026-11-25T03:48:33.227Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "기타",
-      "short": "원인 미확인: 버그 수정 업데이트만 확인, 기사 없음",
-      "summary": "순위 상승을 설명하는 최신 한국어 기사는 검색되지 않았다. 스토어 최근 업데이트 내역은 버그 수정 및 UI/UX 최적화뿐이라 신규 콘텐츠나 이벤트 근거가 되지 않는다. 따라서 5계단 상승의 구체적 원인은 확인되지 않았으며, 추가 조사가 필요하다.",
+      "short": "원인 기사 미확인; 스토어 업데이트는 버그 수정 위주(추정 근거 약함)",
+      "summary": "순위 상승을 직접 설명하는 최신 한국어 기사를 찾지 못했다. 제공된 스토어 업데이트 내역은 버그 수정과 UI/UX 최적화뿐이라 순위 급상승의 직접 원인으로 보기 어렵다. 공식 홈페이지에 2026년 10월 16일자로 '2026 단풍 시리즈'(10/19~11/15)와 제9회 홀덤 마스터스(총상금 24억 GTD) 안내가 게시되어 있어 이벤트성 매출 증가 가능성이 있으나, 이를 순위 상승 원인으로 확인한 자료는 없어 추정에 그친다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/QQVS3cmt_fMF91ecz8fHExUP_VJUty-9dCmA7sOZQR3086-4nD-2ANOA2cOkFeiHt5eFW55CZJGpiaO_BahNZA=w128",
       "screenshots": [
@@ -2354,13 +2349,13 @@
     }
   },
   "6448786147": {
-    "researchedAt": "2026-11-23T14:47:08.649Z",
+    "researchedAt": "2026-11-25T03:48:25.921Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "기타",
-      "short": "특수 열쇠 연동 신규 추가가 원인으로 추정, 기사 미확인",
-      "summary": "최신 한국어 기사에서 이번 7계단 상승의 직접 원인을 확인하지 못했다. 검색된 기사는 대부분 수백 일 전의 매출 1위 기록을 다뤄 현재 33위 상승과 맞지 않는다. 스토어 업데이트 내역에 있는 '특수 열쇠' 연동 방식 신규 추가와 계정 화면의 특수 열쇠·패스키 관리 기능을 근거로 추정할 수 있으나, 이것이 매출 상승으로 이어졌다는 증거는 없어 확정할 수 없다.",
+      "short": "특수 열쇠 연동 추가, 순위 상승과 직접 인과 불명확",
+      "summary": "검색된 기사는 2024년 전후의 매출 1위 기록이나 광고 전략을 다루며, 이번 7계단 상승(현재 30위)을 설명하는 최신 기사는 찾지 못했다. 따라서 근거는 스토어 업데이트 내역뿐이며, 이번에 추가된 특수 열쇠 연동 방식과 계정 화면의 패스키 관리 기능이 매출 순위 상승을 이끌었다고 단정할 수 없다. 기록상 확인 가능한 신규 기능은 로그인·계정 관련 변경이므로 상승 원인은 추가 확인이 필요하다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc=w128",
       "screenshots": [
@@ -2375,13 +2370,13 @@
     }
   },
   "6767834940": {
-    "researchedAt": "2026-11-23T14:46:57.897Z",
+    "researchedAt": "2026-11-25T03:48:57.299Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "그리핀 육성→공성 병기 시스템 개편이 상승 요인으로 추정",
-      "summary": "탑 로드의 상승 원인을 직접 설명한 기사는 찾지 못했다. 한 주간 매출 순위 기사는 탑 로드가 순위권에 있었다는 사실만 전할 뿐 상승 이유는 다루지 않았다. 따라서 스토어 업데이트 내역인 그리핀 육성 시스템을 공성 병기 시스템으로 개편한 변경을 근거로 한 추정이며, 검증되지 않았다.",
+      "short": "공성 병기 시스템 개편 후 앱스토어 매출 순위 상승(추정)",
+      "summary": "검색으로 찾은 기사는 탑 로드의 앱스토어 매출 상승 원인을 설명하지 않아 verified를 false로 둡니다. 스토어 업데이트 내역에 따르면 [그리핀 육성] 시스템이 [공성 병기] 시스템으로 개편되었고, 이 개편이 상승 원인일 가능성이 있습니다. 다만 집계 사이트마다 변동폭이 다르고(앱스토어 ▲7, 제공값 ▲5), 기사에서 확인된 원인이 없어 추측에 가깝습니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/F9Nk01jBia2OZFGndBuTP-rJ-ThbicTHpxJj3iZIk-M1-V8qFhVuVQWYAG_zCuggkiRXHrfqyU5XwZPhAJyAfA=w128",
       "screenshots": [
@@ -2396,20 +2391,20 @@
     }
   },
   "6739554056": {
-    "researchedAt": "2026-11-23T14:46:41.467Z",
+    "researchedAt": "2026-11-25T03:48:13.881Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "낚시 선수권 최적화·보상 일괄수령 업데이트 후 상승 추정",
-      "summary": "이번 순위 상승은 기사로 확인되지 않았고, 스토어 업데이트 내역을 근거로 한 추정이다. 업데이트에는 낚시 선수권 대회의 해초 도감 추가, 왕국 진행도 달성 시 배수 낚시 10배 옵션 추가, 낚시 도구 레벨 자동 상승이 포함되어 이벤트 참여 효율이 높아졌다. 또한 이벤트 임무와 보상 일괄 수령 기능이 더해져 이벤트 기간 과금 동기를 자극했을 가능성이 있다. 다만 검색된 기사들은 이 업데이트와 매출 순위 변화의 인과관계를 직접 다루지 않아 추정 단계로 둔다.",
+      "short": "낚시 선수권 최적화·임무 추가로 이벤트 참여 효율 상승 추정",
+      "summary": "검색으로 찾은 기사들은 대부분 이 업데이트 이전의 매출 흐름을 다뤄, 이번 9계단 상승을 직접 설명하지 못했습니다. 스토어 업데이트 내역에 따르면 낚시 선수권 대회에 해초 도감과 배수 낚시 10배 옵션이 추가됐고, 기본 낚시 도구 레벨이 자동으로 최고치까지 오르며, 이벤트 낚시 포인트로 섬 장식품을 받는 임무 기능이 들어갔습니다. 이 변화들로 이벤트 참여 효율이 높아졌다는 점이 상승의 원인으로 추정되지만, 이는 업데이트 내역에 근거한 추정이며 매출 데이터로 확인되지 않았습니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq=w128",
       "screenshots": [
-        "https://play-lh.googleusercontent.com/jsLQX17UmadjCZC7RhmOqC3jkMleDYQS2N2tAD_O9oFJ_eYbqr-DByVz0Fu3QDvvJpd2x3AXqQl-r7opybblKqo=w400",
         "https://play-lh.googleusercontent.com/GxG9bAVKW5jfQyEp8LnsqOo1M9sDGfSQ5ZFhcLh1EZpgvKQYboGH9u3TPaQA5z_fJQDCoHS0ht-mSR2vl5Ck=w400",
         "https://play-lh.googleusercontent.com/FOaEE-Ke8y2ItmQMRJq-joWi1CFXD3X2dZ40JIu7uwBU0GFKVrVr1QfEAzQCckHupNdEZrNue1U2FduUwWshuA=w400",
-        "https://play-lh.googleusercontent.com/6iQATxeUe1cffqdhIt28WKt2ZuhUfGjTM6qRxLKOkZzlmS9nP8TYAtmChyn5CUq_NABs9nIIrdwEzY3ZMjWwrA=w400"
+        "https://play-lh.googleusercontent.com/6iQATxeUe1cffqdhIt28WKt2ZuhUfGjTM6qRxLKOkZzlmS9nP8TYAtmChyn5CUq_NABs9nIIrdwEzY3ZMjWwrA=w400",
+        "https://play-lh.googleusercontent.com/T8H6iS5LGRHcTxLXaO3IAKOJXQf8DZkEXg7LW7WOLHkynxkEs9dojBzitsFdLhK20YOrOA6KZeYrB_EVQG6wjw=w400"
       ],
       "video": null,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.run.tower.defense&hl=ko&gl=kr",
@@ -2567,13 +2562,13 @@
     }
   },
   "6443477650": {
-    "researchedAt": "2026-11-24T03:04:30.147Z",
+    "researchedAt": "2026-11-25T03:48:00.408Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "레이크백 잭팟·스마트 베팅 등 신규 기능 추가로 순위 상승",
-      "summary": "최근 스토어 업데이트 내역에 레이크백 잭팟, 스마트 베팅, 홀덤/오마하 채널 타임칩, 대회 사이드 이벤트 기록 표시, 가위바위보 판수 이벤트가 추가됐습니다. 검색으로 찾은 기사는 2025년 9월 '한게임 더블에이 포커'의 '한게임 로얄홀덤' 리뉴얼과 HPT 새틀라이트 대회 연계 소식뿐이며, 이번 17계단 상승 시점의 원인을 직접 설명하지 않아 검증되지 않았습니다. 따라서 순위 상승은 업데이트 내역을 근거로 한 추정이며, 매출 이벤트(가위바위보 판수 이벤트 등)의 실제 효과는 확인이 필요합니다.",
+      "short": "레이크백 잭팟·스마트 베팅 등 기능 추가로 순위 상승 추정",
+      "summary": "검색된 기사는 2025년 9월의 리뉴얼과 HPT 대회 관련 보도뿐이어서, 이번 10계단 상승의 직접 원인을 확인하지 못했습니다. 스토어 업데이트 내역에 따르면 레이크백 잭팟, 스마트 베팅, 홀덤/오마하 채널 타임칩, 가위바위보 판수 이벤트가 추가되어 콘텐츠 보강이 이루어진 것으로 보입니다. 다만 이는 업데이트 내역에 근거한 추정이며, 매출 이벤트 효과인지는 추가 확인이 필요합니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/XHtjYtNFcuJriJ9NiA_X_U6mGQDeViNj-sz0zheNPE4YpByJxXSH5b7JblGVfN7aVyPhdOt1rfIuYetBwTyx=w128",
       "screenshots": [
@@ -2610,13 +2605,13 @@
     }
   },
   "6753862216": {
-    "researchedAt": "2026-11-20T14:47:39.664Z",
+    "researchedAt": "2026-11-25T03:48:19.085Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "신규 레벨·스토리 추가 업데이트로 순위 상승 추정(미검증)",
-      "summary": "최신 한국어 기사는 찾지 못했고, 확인된 근거는 스토어 업데이트 내역뿐입니다. 해당 내역에는 새 레벨(재료 합성·손님 응대), 새 스토리 챕터, 버그 수정 및 성능 개선이 담겨 있어 컨텐츠 업데이트가 상승 요인일 가능성이 있습니다. 다만 매출 순위 상승의 직접 원인은 기사나 공식 발표로 확인되지 않았으므로 추정으로만 봐야 합니다.",
+      "short": "새 레벨·스토리 추가와 최적화 업데이트로 상승 추정",
+      "summary": "검색으로는 순위 상승 원인을 다룬 최신 한국어 기사를 찾지 못했습니다. 스토어 업데이트 내역에는 새 레벨(재료 합성과 손님 응대), 새 스토리 챕터, 버그 수정과 성능 개선이 포함되어 있어 이것이 상승 요인일 가능성이 있습니다. 다만 이는 업데이트 내역에 근거한 추정이며, 확인된 원인은 아닙니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/y0kOATNKVF67UuEBd6CbSczEm9VugaSiWgz0uGyPBBH6OfYRgFVUM0x2W7vj-fTWcGfpIz5tolxsOX5c3e0hJg=w128",
       "screenshots": [
@@ -2632,21 +2627,25 @@
     }
   },
   "6760822948": {
-    "researchedAt": "2026-11-20T14:46:53.353Z",
+    "researchedAt": "2026-11-25T03:48:09.212Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "신규 오픈",
-      "short": "한국 정식 출시 앞둔 OOH 마케팅 영향 추정(미확인)",
-      "summary": "뉴스와이어 등 보도에 따르면 북미·유럽 가드닝 1위 게임인 이 작품이 한국 정식 서비스를 앞두고 서울 지하철 옥외광고 등 대규모 마케팅을 벌이고 있다. 다만 확인된 기사는 대부분 약 200일 전 출시 전 홍보 내용이어서, 현재 34위로 42계단 오른 시점과 직접 연결되는 기사는 찾지 못했다. 따라서 한국 출시와 마케팅이 순위 상승의 원인이라는 판단은 추정이며, 정확한 원인은 스토어 업데이트 내역(recentChanges) 등으로 추가 확인이 필요하다.",
+      "short": "국내 정식 출시 홍보 및 최신 콘텐츠·이벤트 업데이트 추정",
+      "summary": "검색된 기사들은 북미·유럽에서 가드닝 1위를 기록한 이 게임의 한국 정식 서비스 진출과 대규모 마케팅을 다루고 있으나, 대부분 약 7개월 전 보도자료이며 현재 App Store 매출 순위 10계단 상승의 직접 원인이라고 확인하지는 못했습니다. 스토어 업데이트 내역에는 최신 버전(1.0.66)에서 새로운 게임 콘텐츠와 이벤트를 추가했다는 기록이 있어, 국내 출시 효과와 함께 신규 콘텐츠·이벤트가 순위 상승에 기여했을 가능성이 있는 것으로 추정됩니다. 다만 이는 기사로 검증되지 않은 추측이므로 verified는 false로 둡니다.",
       "articles": [
+        {
+          "title": "북미·유럽 석권한 가드닝 1위 게임 ‘더 코지 플로리스트’ 한국 공식 상륙 - 뉴스와이어",
+          "url": "https://www.newswire.co.kr/newsRead.php?no=1033180"
+        },
         {
           "title": "북미·유럽 1위 가드닝 게임 ‘더 코지 플로리스트’ 한국 상륙 - 한빛일보",
           "url": "https://www.hanbitdaily.com/news/428191"
         },
         {
-          "title": "‘더 코지 플로리스트’, 서울 도심 물들인다… 지하철 OOH 본격 가동 - 뉴스와이어",
-          "url": "https://www.newswire.co.kr/newsRead.php?no=1033686"
+          "title": "‘더 코지 플로리스트’, 서울 도심 물들인다… 지하철 OOH 본격 가동 및 ‘리얼 배송’ 시스템으로 국내 유저 정조준 - 투데이안",
+          "url": "https://press.todayan.com/newsRead.php?no=1033686"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/2w-_mDOdOXeohTF2upTwGmliD0hnzFTM9RmHOyyFNZaLD96zU8-9fFvoWH_tiSsGWMcwt14xcjOFNpk1rUp_=w128",
@@ -2733,13 +2732,13 @@
     }
   },
   "com.s01.global": {
-    "researchedAt": "2026-11-19T14:47:45.568Z",
+    "researchedAt": "2026-11-25T03:48:50.827Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "연맹 안전 채집·장비 재료 교환 추가로 상승 추정",
-      "summary": "로드러쉬 관련 한국어 기사를 찾지 못해 검증되지 않았습니다. 스토어 최근 업데이트 내역에 따르면 제국 진도 달성 시 해제되는 '연맹 안전 채집 포인트'가 신규 추가되어 연맹 멤버가 공격 없이 자원을 채집할 수 있게 되었습니다. 또한 '영주 장비 및 영주 보석 재료 교환' 기능이 추가되어 남는 재료를 장비·보석 아이템으로 바꿀 수 있게 되었습니다. 이 콘텐츠 추가가 Google 매출 순위 5계단 상승의 원인일 가능성이 있으나, 기사로 확인되지 않은 추정입니다.",
+      "short": "그룹 채팅 기능 개편과 Lv. 8 신규 괴수 추가 업데이트",
+      "summary": "검색으로 로드러쉬의 순위 상승을 다룬 최신 한국어 기사를 찾지 못했습니다. 스토어 업데이트 내역에 따르면 채팅 시스템이 전면 개편되어 그룹 채팅 투표, 방장 권한 이전, 초대 승인, 공지 기능과 타 제국 영주 채팅 시 제국 번호 표시가 추가되었습니다. 또한 제국이 필요 진행도에 도달하면 등장하는 신규 Lv. 8 괴수 뇌각 야수가 추가되어, 이 콘텐츠 업데이트가 매출 순위 상승의 원인일 가능성이 있으나 이는 추정이며 확인되지 않았습니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/4_JTVfSvadb3P01izF2fL47w183NO4oqje4gtwZIKf05-iCu9SI7ldG8vYfGZFpbN_-wXMWVexolzqqZqzJKWg=w128",
       "screenshots": [
@@ -2750,7 +2749,7 @@
       ],
       "video": null,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.s01.global&hl=ko&gl=kr",
-      "recentChanges": "[신규 콘텐츠]<br>1. 연맹 안전 채집 포인트<br>연맹 멤버에게 안전한 자원 채집 장소를 제공하는 신규 기능입니다. - 해제 조건: 제국이 일정 진도에 도달하면 해제됩니다.<br>- 채집 규칙: 배치 후 연맹 멤버는 공격받지 않고 자원을 채집할 수 있습니다. 각 멤버는 1개의 부대만 채집에 파견할 수 있습니다.<br>2. 영주 장비 및 영주 보석 재료 교환:<br>- 영주는 장비 화면에서 남는 재료를 장비 및 보석 관련 아이템으로 교환할 수 있습니다. 자원을 알뜰히 활용해 전투력을 높여 보세요! (제국이 일정 진도에 도달하면 해제됩니다.)"
+      "recentChanges": "[신규 콘텐츠]<br>1. 더욱 풍성한 소셜 경험을 위해 채팅 시스템을 전면 개편했습니다:<br>(1) 그룹 채팅에 투표 기능을 추가했습니다.<br>(2) 그룹 채팅 방장 권한 이전 기능을 추가했습니다.<br>(3) 그룹 채팅 초대 승인 기능을 추가했습니다.<br>(4) 그룹 채팅 공지 기능을 추가했습니다.<br>(5) 이제 다른 제국의 영주와 채팅할 때 이름 앞에 해당 영주의 제국 번호가 표시됩니다.<br>2. 신규 Lv. 8 괴수:<br>제국이 필요 진행도에 도달하면 강력한 신규 도전 상대인 Lv. 8 뇌각 야수가 출현합니다."
     }
   },
   "6748004690": {
@@ -4668,14 +4667,23 @@
     }
   },
   "6443575749": {
-    "researchedAt": "2026-11-13T14:46:32.569Z",
+    "researchedAt": "2026-11-25T03:48:46.314Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "기타",
-      "short": "최근 업데이트는 버그 수정뿐, 상승 원인 미확인",
-      "summary": "검색으로는 이 게임의 7계단 상승 원인을 직접 설명하는 최신 한국어 기사를 찾지 못했다. 제공된 스토어 업데이트 내역은 버그 수정과 안정성 강화만 담고 있어 매출 순위 급등을 설명하기에 근거가 약하다. 확인되지 않은 이벤트나 프로모션을 원인으로 단정할 수 없으므로 원인은 미확인으로 둔다.",
-      "articles": [],
+      "short": "최근 스토어 내역은 버그 수정뿐, 직접 근거 기사 미확인",
+      "summary": "이번 6계단 상승(현재 2위)을 직접 다룬 최신 한국어 기사는 찾지 못했다. 최근 스토어 업데이트는 버그 수정과 안정성 개선뿐이라 순위 상승의 직접 원인으로 보기 어렵다. 센서타워 2026년 4~6월 분석에서는 이벤트 운영과 라이브옵스, 'Treasure Hunter' 이벤트가 매출 상승 요인으로 언급되어 있으나, 이는 이번 차트 변동과 시점이 일치하는지 확인되지 않은 배경 정보다.",
+      "articles": [
+        {
+          "title": "센서타워 2026년 6월 전 세계 모바일 게임 매출 및 다운로드 순위 TOP 10",
+          "url": "https://sensortower.com/ko/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-june-2026-KR"
+        },
+        {
+          "title": "센서타워 2026년 4월 전 세계 모바일 게임 매출 및 다운로드 순위 TOP 10",
+          "url": "https://sensortower.com/ko/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-april-2026-KR"
+        }
+      ],
       "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ=w128",
       "screenshots": [
         "https://play-lh.googleusercontent.com/wgV7Vk8afyNQoKWmoPYdm8jQh68lr1sJeYKIzx30ajqntBX_eQE-gnF0IEQdUrbSqqwOMd36BebwI-CyGmkETj0=w400",
@@ -5023,6 +5031,27 @@
       "videoImage": "https://play-lh.googleusercontent.com/MZ12HbpffvEIuhNjU0m4W50FK9rM9_nYQ7YQElREelW8cDr7JBYlJc5iW6ja4R3KryEqeQe5-kiWJ689ysq8Ag=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.netmarble.fgok&hl=ko&gl=kr",
       "recentChanges": "[진행 중인 이벤트]<br>- 복각 구다구다 료마위기일발 이벤트 (11/5~11/26)<br>- 복각 구다구다 료마위기일발 이즈모노 오쿠니 픽업 (11/5~11/26)<br>- 복각 구다구다 료마위기일발 사카모토 료마 픽업 (11/11~11/26)<br>- 복각 구다구다 료마위기일발 타카스기 신사쿠 픽업 (11/14~11/26)<br>- 캐스터 픽업 소환 2탄 (11/6~11/14)<br>- 순령의 축제 11탄 (11/6~11/20)<br>- 순령의 축제 11탄 쯩 자매 픽업 (11/6~11/13)<br>- 순령의 축제 11탄 타케다 신겐 픽업 (11/8~11/15)<br>- 주장Ⅳ 개막 직전 캠페인 2탄 (11/7~12/7)"
+    }
+  },
+  "com.hollywood.merge": {
+    "researchedAt": "2026-11-25T03:48:37.735Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "78챕터 공개와 추수감사절·겨울 이벤트 시즌 콘텐츠 추가",
+      "summary": "한국어 기사에서는 할리우드 머지의 순위 상승 원인을 확인하지 못했다. 스토어 업데이트 내역에 따르면 78챕터가 새로 열렸고, 11월 24일 추수감사절 디너 파티와 12월 2일 크리스마스 도전 및 겨울 이벤트가 예고되어 있다. 이러한 신규 콘텐츠가 매출 상승의 배경일 수 있으나, 이는 업데이트 내역에 근거한 추정이며 매출 원인으로 확정된 것은 아니다.",
+      "articles": [],
+      "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/X5PllwwAMYMPHsUYM0770lBfDm12tyJrcueKmTZBs-4upwamZNAxTKpdNnLRTgDBjwJ0H04D1-Bija0FoJqzow=w400",
+        "https://play-lh.googleusercontent.com/jysFxq8I_K4YzJB6NW52dL4kOZrfU-dTRMqN6M43-09M0NI8TNN42H4bcalN-9zBRGlRTYSfe21jtqA3PiQ3Lw=w400",
+        "https://play-lh.googleusercontent.com/PegW3xASOHTOl1Gx_ZihRb5PdByhWTxge6f-kA29-SSIlFs_yO1BHNtP5T5jW5mWsQ7n-DccyYWLJ9bgvgd-Ktc=w400",
+        "https://play-lh.googleusercontent.com/BA0FBI-neLjUOGaGh525_nmjCQXSMSdspMa1kBkWvaCkdtBK0WxR7PrRIcwalk2roywjz-WGBooQLGY8fNm04us=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.hollywood.merge&hl=ko&gl=kr",
+      "recentChanges": "지금 업데이트하고 새로운 기능을 만나보세요!<br>- 78챕터 전격 오픈! 아름다운 풍경 뒤에 숨겨진 균열<br>- 12월 2일 새로운 영광의 도전 오픈! 크리스마스 드레스를 해제해 보세요!<br>- 11월 24일 오픈하는 추수감사절 디너 파티에서 맛있는 만찬을 즐겨보세요!<br>- 눈꽃이 흩날려요! 12월 2일부터 겨울 스포티를 함께 즐겨보세요!"
     }
   }
 }
