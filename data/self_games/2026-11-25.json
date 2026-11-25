@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-25",
+  "collected_at": "2026-11-25 09:00",
+  "source": "secretary-rankcheck",
+  "depth": {
+    "onestore_grossing": 498,
+    "onestore_popular": 502,
+    "galaxy_grossing": 100,
+    "galaxy_popular": 494
+  },
+  "games": {
+    "projectA": {
+      "onestore": {
+        "popular": 413,
+        "grossing": 321
+      },
+      "galaxy": {
+        "popular": null,
+        "grossing": null
+      }
+    },
+    "projectB": {
+      "onestore": {
+        "popular": null,
+        "grossing": 251
+      }
+    }
+  }
+}
