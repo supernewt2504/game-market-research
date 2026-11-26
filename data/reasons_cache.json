@@ -765,27 +765,14 @@
     }
   },
   "1470173983": {
-    "researchedAt": "2026-11-12T14:47:23.608Z",
-    "verified": true,
+    "researchedAt": "2026-11-26T03:13:17.578Z",
+    "verified": false,
     "data": {
-      "verified": true,
-      "category": "컨텐츠 업데이트",
-      "short": "11/11 1주년 업데이트(레벨 55·하우징 추가)로 매출 순위 반등 추정",
-      "summary": "11월 11일 출시 1주년 대규모 업데이트가 적용되며, 최고 레벨 상향과 엘테넨·모르헤임 2부 지역 확장이 함께 이뤄졌다. 여기에 생활 콘텐츠 하우징이 처음 도입되고, 원정·초월 신규 콘텐츠가 추가됐다. 기사들은 업데이트 내용만 보도하므로, 앱스토어 21계단 상승은 이 업데이트 시점과 맞물린 것으로 보이는 추정이다.",
-      "articles": [
-        {
-          "title": "아이온2 출시 1주년, 11일 챕터1 두 번째 업데이트…최고 레벨 55 상향·하우징 도입",
-          "url": "https://www.news33.net/news/articleView.html?idxno=119247"
-        },
-        {
-          "title": "‘아이온2’ 1주년 업데이트 계획 공개, 영지 꾸미는 ‘하우징’ 선봬",
-          "url": "https://www.ilovepcbang.com/news/articleView.html?idxno=203238"
-        },
-        {
-          "title": "[종목 브리핑] 엔씨, 아이온2 11일 레벨 55 상향",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=403443"
-        }
-      ],
+      "verified": false,
+      "category": "기타",
+      "short": "편의성 업데이트만 확인, 상승 원인 기사 미확인",
+      "summary": "검색된 한국어 기사는 2025년 11월 19일 정식 출시 직후의 앱스토어 매출 상승을 다루며, 현재(22위, 73계단 상승) 시점의 상승 원인을 직접 설명하지 않는다. 기사들은 출시 초기 앱스토어 매출 5~8위 진입과 PC 자체 결제 비중(90% 이상)이 앱마켓 순위에 반영되지 않는다는 점을 전한다. 스토어 최근 업데이트 내역은 11/25 '기타 편의성 개선'뿐이라 콘텐츠·이벤트성 상승 요인을 확인할 수 없으므로, 원인은 미확인 상태로 둔다.",
+      "articles": [],
       "icon": "https://play-lh.googleusercontent.com/aqqsbPuYk-dU9f0qnyEkHje_IIchFrOhDQfDXozQbD5_n_Hxi18ja4GyEbNYuFD9inoFBUYfZFWK4zSOjsy8Aw=w128",
       "screenshots": [
         "https://play-lh.googleusercontent.com/CMbUg4acR69ey_uoGbzPyDRQz-4M-dXL-a-eQkOTIBu76iTPboJFQxsonnFvPkx07L3ErUNi2ouDG8FF6qrY=w400",
@@ -795,7 +782,7 @@
       ],
       "video": null,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.ncsoft.aion2&hl=ko&gl=kr",
-      "recentChanges": "[11/11 업데이트]<br>- Chapter.1 두 번째 이야기: 빛과 장막의 경계<br>- 신규 지역 &#39;엘테넨&#39;, &#39;모르헤임&#39; part.2<br>- 신규 원정/초월 &#39;에라쿠스의 유적&#39;, &#39;광신의 우루구구 협곡&#39;<br>- 신규 콘텐츠 &#39;하우징&#39;<br>- 강화된 신규&amp;복귀 유저 혜택 &#39;성장 서포트 II&#39;"
+      "recentChanges": "[11/25 업데이트]<br>- 기타 편의성 개선"
     }
   },
   "1471486284": {
@@ -1040,29 +1027,25 @@
     }
   },
   "1520354659": {
-    "researchedAt": "2026-11-18T14:46:37.090Z",
-    "verified": true,
+    "researchedAt": "2026-11-26T03:12:48.534Z",
+    "verified": false,
     "data": {
-      "verified": true,
+      "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "5주년 업데이트(알케미스트·거점 점령전·스카디 서버) 효과",
-      "summary": "서비스 5주년 대규모 업데이트로 신규 전직 클래스 '알케미스트', PvP 콘텐츠 '월드 거점 점령전', 신규 서버 '스카디'가 추가되며 이용자 반응이 좋았던 것으로 보도됐다. 기사에 따르면 업데이트 직후 애플 앱스토어 매출 1위에 올랐고, 이후 구글플레이 매출 1위까지 기록했다. 다만 확인된 기사들은 5주년 업데이트 시기(2026년 6월 말 전후)의 성과를 다루고 있어, 현재 App Store 30위로 67계단 오른 시점과 정확히 일치하는지는 추가 확인이 필요하다. 스토어 최근 업데이트 내역의 편의성 기능 추가와 오류 수정은 기사에서 직접 언급되지 않았다.",
+      "short": "11/25 무한의 탑 개편·블프 이벤트 영향 추정(미확인)",
+      "summary": "검색된 기사들은 2026년 6월 서비스 5주년 업데이트(신규 전직 '알케미스트', 월드 거점 점령전, 신규 서버 '스카디')로 앱스토어 1위·구글 플레이 2위까지 오른 사례를 다룬다. 최근 11월 25일에는 '무한의 탑'을 전면 개편하고 블랙프라이데이 이벤트를 시작했다는 기사가 있지만, 이것이 현재 앱스토어 30위 신규 진입의 직접 원인이라고 설명한 기사는 찾지 못했다. 따라서 신규 진입 원인은 최근 업데이트·이벤트 시점과의 시기적 일치로 볼 수 있을 뿐 확인되지 않았다.",
       "articles": [
         {
-          "title": "서비스 5주년 '오딘: 발할라 라이징', 앱스토어 매출 1위 올라",
-          "url": "https://www.inven.co.kr/webzine/news/?news=317838"
+          "title": "'오딘' 출시 5주년 업데이트 효과로 구글플레이 매출 1위 탈환",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318366"
         },
         {
-          "title": "'오딘: 발할라 라이징', 구글 플레이 매출 순위 1위 기록",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318413"
+          "title": "오딘 발할라 라이징, 무한의 탑 전면 개편",
+          "url": "https://www.inven.co.kr/webzine/news/?news=323827"
         },
         {
-          "title": "5년 된 게임인데 또 1위…카카오게임즈 '오딘' 정상 탈환",
-          "url": "https://m.news.nate.com/view/20260713n20848"
-        },
-        {
-          "title": "애플 앱스토어 1위-구글플레이 5위, 오딘 5주년 업데이트로 매출 상승세",
-          "url": "https://www.betanews.net/article/view/beta202606250077"
+          "title": "카카오게임즈, ‘오딘: 발할라 라이징’ 5주년…양대 마켓 최상위권 탈환",
+          "url": "https://www.asiatime.co.kr/article/20260626500294"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/65JquVIM391Il8M5oXrUzwTOFvFn72Yef4EJGWLBp190MflgritBJqiMuSjoK_ZeA2jF53OV9rRNgAXRm8_scQ=w128",
@@ -1075,7 +1058,7 @@
       "video": "https://www.youtube.com/embed/MRghUoLn8X0?vq=large&rel=0&autohide=1&showinfo=0",
       "videoImage": "https://play-lh.googleusercontent.com/8kVZOwAUe4a6vFgzEo0yLtLrbQKQlD_G_Ph6NVKToE2UI3qd7zCKLII3DLtcgoUvZfle2GqoHEorJL_fUzDXRw=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.kakaogames.odin&hl=ko&gl=kr",
-      "recentChanges": "- 편의성 기능 추가<br>- 오류사항 수정 및 시스템 개선"
+      "recentChanges": "오류 수정 및 서비스 안정화"
     }
   },
   "1521236603": {
@@ -2433,33 +2416,25 @@
     }
   },
   "com.netmarble.sol": {
-    "researchedAt": "2026-10-27T03:00:52.823Z",
+    "researchedAt": "2026-11-26T03:14:07.589Z",
     "verified": true,
     "data": {
       "verified": true,
-      "category": "신규 오픈",
-      "short": "6/18 출시 후 양대마켓 매출 1위 달성, 신작 효과",
-      "summary": "넷마블 신작 MMORPG 솔: 인챈트는 2026년 6월 18일 출시 후 약 8시간 만에 애플 앱스토어 매출 1위에 올랐고, 약 22시간 만에 구글플레이에서도 1위를 기록했습니다. 이용자가 서버 운영에 참여하는 '신권' 시스템, 리니지M 개발진 출신이 주축인 알트나인의 개발, 출시 직후 신규 월드 추가와 보스 드롭률 상향 같은 이벤트가 초반 흥행 요인으로 꼽혔습니다. 여기에 통신 3사와 연계한 결제 할인 프로모션도 매출 순위를 끌어올린 변수로 언급됐습니다. 다만 기사에서 6계단 상승 자체를 직접 다룬 내용은 확인되지 않아, 순위 상승은 출시 효과와 신규 진입 흐름으로 해석했습니다.",
+      "category": "컨텐츠 업데이트",
+      "short": "11/25 대규모 업데이트로 신규 클래스 '랜서'·지역 '헬론드' 추가",
+      "summary": "넷마블은 11월 25일 'SOL: enchant'에 대규모 업데이트 'EPISODE 02. INFINITY'를 적용해 신규 지역 '헬론드'와 신규 클래스 '랜서'를 추가했다. 사전 등록 참여자에게는 영웅 영체 '샌디'와 재합성권 등을 보상으로 지급했고, 12월 2일에는 신규 서버 '인피니티'가 열릴 예정이다. 다만 검색된 기사들은 업데이트 내용만 다루며 순위 상승과의 직접적 인과관계를 밝히지는 않았으므로, 9계단 상승은 업데이트 시점과 맞물린 것으로 추정된다.",
       "articles": [
         {
-          "title": "넷마블 'SOL: enchant', 출시 첫날 양대 앱마켓 매출 1위",
-          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=872839"
+          "title": "솔: 인챈트, 신규 클래스 랜서·헬론드 추가",
+          "url": "https://www.inven.co.kr/webzine/news/?news=323802"
         },
         {
-          "title": "이유 있는 양대마켓 1위…넷마블 SOL:Enchant '신권'이 통했다",
-          "url": "https://www.coxnews.co.kr/news/articleView.html?idxno=5231"
+          "title": "넷마블 'SOL: enchant', 대규모 업데이트…신규 지역 헬론드·클래스 랜서 추가",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3763011"
         },
         {
-          "title": "넷마블 '솔: 인챈트', 하루 만에 양대마켓 1위…MMORPG 흥행 공식 다시 통했나",
-          "url": "https://m.news.nate.com/view/20260619n24660"
-        },
-        {
-          "title": "출시 하루도 안돼 양대마켓 매출 1위…'SOL: enchant', 시장 기대감 입증",
-          "url": "https://www.inven.co.kr/webzine/news/?news=317598"
-        },
-        {
-          "title": "'솔:인챈트' 양대마켓 상위권… 넷마블 하반기 기대",
-          "url": "https://www.ilovepc.co.kr/news/articleView.html?idxno=59836"
+          "title": "넷마블 '솔: 인챈트', '에피소드 2 인피니티' 대규모 업데이트 진행",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087885"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/eRGPrWXzheZvTiTRBDBuaysX8ptDH5xasKV8rzWmuEKA9WsXfftcybnz9zQB89Iiqx7WKa_naS_WK5DdT1KB=w128",
@@ -2472,7 +2447,7 @@
       "video": "https://www.youtube.com/embed/jRykO-HJfYM?vq=large&rel=0&autohide=1&showinfo=0",
       "videoImage": "https://play-lh.googleusercontent.com/6ofQa9bEo32HwiWemq43_oEC2Ql4ia54mhu_I5OX4tMUUWLGpmd4RiwJ_5bzoIS_3vKmJoMZ6XD5EqjJxunD=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.netmarble.sol&hl=ko&gl=kr",
-      "recentChanges": "- 신규 이벤트<br>- 편의성 개선<br>- 버그 수정"
+      "recentChanges": "- 신규 클래스 &#39;랜서&#39; 추가<br>- 신규 지역 &#39;헬론드&#39; 추가<br>- 편의성 개선<br>- 버그 수정"
     }
   },
   "com.project.idle.cd": {
@@ -2753,25 +2728,33 @@
     }
   },
   "6748004690": {
-    "researchedAt": "2026-11-18T14:47:00.260Z",
+    "researchedAt": "2026-11-26T03:12:40.645Z",
     "verified": true,
     "data": {
       "verified": true,
-      "category": "신규 오픈",
-      "short": "6월 18일 출시 후 22시간 만에 양대마켓 매출 1위",
-      "summary": "넷마블의 신작 MMORPG로, 6월 18일 낮 12시 정식 출시 후 약 8시간 만에 애플 앱스토어 매출 1위에 올랐고 이후 구글 플레이에서도 1위를 차지했습니다. 이용자가 서버 운영에 참여하는 '신권' 시스템과 리니지M 개발진 출신이 만든 개발사 알트나인의 이력이 초기 관심을 끌었다는 평가가 많습니다. 여기에 보스 드롭률 3배 상향 같은 출시 기념 이벤트와 통신 3사 결제 프로모션이 매출 순위를 밀어 올린 것으로 보입니다.",
+      "category": "컨텐츠 업데이트",
+      "short": "11/25 대규모 업데이트(랜서·헬론드) 적용 시점과 맞물려 신규 진입",
+      "summary": "넷마블은 11월 25일 대규모 업데이트 'EPISODE 02. INFINITY'를 적용해 마법사 도시 콘셉트의 신규 지역 헬론드와 창 무기 기반 신규 클래스 랜서를 공개했다. 헬론드에는 전용 보스 3종이 등장하고, 기존 캐릭터는 클래스 체인지로 랜서가 될 수 있다. 사전 등록자에게 영웅 영체 샌디 등 보상을 주었고, 12월 2일에는 신규 서버 인피니티가 열린다. 기사들은 업데이트 내용만 보도하며 순위 상승과의 직접적 인과는 밝히지 않아, 신규 진입 시점과 업데이트가 겹친다는 점에서 추정된 원인으로 봐야 한다.",
       "articles": [
         {
-          "title": "이유 있는 양대마켓 1위…넷마블 SOL:Enchant '신권'이 통했다",
-          "url": "https://www.coxnews.co.kr/news/articleView.html?idxno=5231"
+          "title": "넷마블, ‘솔: 인챈트’·‘신의 탑’·‘RF 온라인 넥스트’ 신규 콘텐츠 선봬",
+          "url": "https://www.thebigdata.co.kr/view.php?ud=2026112517044622110a47484cf8_23"
         },
         {
-          "title": "출시 첫날 양대 마켓 1위...넷마블 'SOL: enchant' 흥행 청신호",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=526966"
+          "title": "넷마블 ‘SOL: enchant’, 업데이트 통해 신규 클래스 ‘랜서’ 추가",
+          "url": "https://www.thedailypost.kr/news/articleView.html?idxno=117297"
         },
         {
-          "title": "출시 하루도 안돼 양대마켓 매출 1위…‘SOL: enchant’, 시장 기대감 입증",
-          "url": "https://www.inven.co.kr/webzine/news/?news=317598"
+          "title": "넷마블 ‘SOL: enchant’, 대규모 업데이트 실시…신규 지역·클래스 공개",
+          "url": "https://www.newsflix.co.kr/news/articleView.html?idxno=33296"
+        },
+        {
+          "title": "솔: 인챈트, 신규 클래스 랜서·헬론드 추가",
+          "url": "https://www.inven.co.kr/webzine/news/?news=323802"
+        },
+        {
+          "title": "넷마블 '솔: 인챈트', 클래스 '랜서'·신규 지역 '헬론드' 업데이트",
+          "url": "https://zdnet.co.kr/view/?no=20261125144427"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/eRGPrWXzheZvTiTRBDBuaysX8ptDH5xasKV8rzWmuEKA9WsXfftcybnz9zQB89Iiqx7WKa_naS_WK5DdT1KB=w128",
@@ -2784,7 +2767,7 @@
       "video": "https://www.youtube.com/embed/jRykO-HJfYM?vq=large&rel=0&autohide=1&showinfo=0",
       "videoImage": "https://play-lh.googleusercontent.com/6ofQa9bEo32HwiWemq43_oEC2Ql4ia54mhu_I5OX4tMUUWLGpmd4RiwJ_5bzoIS_3vKmJoMZ6XD5EqjJxunD=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.netmarble.sol&hl=ko&gl=kr",
-      "recentChanges": "- 신규 이벤트<br>- 편의성 개선<br>- 버그 수정"
+      "recentChanges": "- 신규 클래스 &#39;랜서&#39; 추가<br>- 신규 지역 &#39;헬론드&#39; 추가<br>- 편의성 개선<br>- 버그 수정"
     }
   },
   "6751222389": {
@@ -2861,29 +2844,53 @@
     }
   },
   "6745164499": {
-    "researchedAt": "2026-11-18T14:47:14.026Z",
+    "researchedAt": "2026-11-26T03:13:24.835Z",
     "verified": true,
     "data": {
       "verified": true,
       "category": "신규 오픈",
-      "short": "9/10 출시 후 애플·구글 매출 1위, 신작 효과로 상승",
-      "summary": "엔픽셀이 개발하고 스마일게이트가 서비스하는 이 MMORPG는 9월 10일 출시 직후 애플 앱스토어 매출 1위에 올랐고, 출시 5일째인 9월 15일 구글 플레이스토어에서도 1위를 기록했다. 기사들은 성소를 통한 소환권·성장 재화 획득과 접속하지 않아도 성장하는 AI 모드 같은 설계가 초반 흥행의 배경이라고 분석한다. 회사는 양대 마켓 1위를 기념해 10월 14일까지 접속 보상을 지급했으며, 기사에서 확인되는 상승 시점은 출시 직후이므로 현재 40위까지의 29계단 상승 폭 전체를 이 요인으로 단정하기는 어렵다.",
+      "short": "9월 10일 출시 후 5일 만에 iOS·구글 매출 1위 동시 달성",
+      "summary": "엔픽셀이 개발하고 스마일게이트가 퍼블리싱한 신작 MMORPG로, 9월 10일 출시 직후 애플 앱스토어 매출 1위에 올랐고 출시 닷새째인 9월 15일 구글 플레이 매출 1위도 차지했다. 성소에서 시간에 따라 소환권과 성장 재화를 얻는 구조와 접속하지 않아도 캐릭터가 성장하는 AI 모드가 이용자 선택을 끌어낸 것으로 보인다. 회사는 양대 마켓 1위를 기념해 10월 14일까지 골드와 성장 재화를 지급하는 보상 이벤트를 진행했고, 출시 직후 24개 서버가 모두 마감되는 등 이용자 몰림도 있었다.",
       "articles": [
-        {
-          "title": "스마일게이트 '이클립스', 구글·애플 매출 1위 휩쓴 비결 두 가지",
-          "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216482"
-        },
         {
           "title": "'이클립스: 더 어웨이크닝', 구글·애플 매출 1위 달성",
           "url": "https://www.inven.co.kr/webzine/news/?news=320901"
         },
         {
-          "title": "스마일게이트 '이클립스', 국내 양대 앱마켓 최고 매출 순위 1위 달성",
-          "url": "https://www.hankooki.com/news/articleView.html?idxno=343451"
+          "title": "‘이클립스’ 초반 흥행 질주…애플 이어 구글서도 매출 1위",
+          "url": "https://www.sportsworldi.com/newsView/20260915508159?OutUrl=google"
+        },
+        {
+          "title": "신작 MMORPG '이클립스', 양대 마켓 매출 1위",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321124"
+        },
+        {
+          "title": "스마일게이트 '이클립스', 매출 1위 휩쓴 비결 두 가지",
+          "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216482"
+        },
+        {
+          "title": "양대 마켓 1위 올라선 '이클립스', 빠른 라이브 소통·서버 증설로 흥행 가속",
+          "url": "https://www.playforum.net/news/articleView.html?idxno=635356"
+        },
+        {
+          "title": "스마일게이트 ‘이클립스’, 출시 5일 만에 양대 마켓 매출 정상",
+          "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=254627"
+        },
+        {
+          "title": "스마일게이트 ‘이클립스’, 초반 흥행 성공…출시 5일만에 양대 마켓 매출 1위",
+          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=89255"
+        },
+        {
+          "title": "스마일게이트 '이클립스', 구글-애플 양대 앱 마켓 매출 1위 달성",
+          "url": "https://thetracker.co.kr/View.aspx?No=4227918"
+        },
+        {
+          "title": "[투데이e코노믹] 스마일게이트 ‘이클립스’, 구글·애플 양대 마켓 매출 1위",
+          "url": "https://www.todayeconomic.com/news/article.html?no=32132"
         },
         {
           "title": "이클립스, 구글·애플 매출 동시 1위…스마일게이트 이용자 보상 나선다",
-          "url": "http://www.news33.net/news/articleView.html?idxno=118002"
+          "url": "https://www.news33.net/news/articleView.html?idxno=118002"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/JhepoyYDmabwj5ffSFC3cyfAdllyeIdHzSW5a3i_nlzsahXojL7S57JR1_RlYYkRh02OXzZM6K1s9KWnd-1Mpw=w128",
@@ -2933,25 +2940,17 @@
     }
   },
   "6504389641": {
-    "researchedAt": "2026-11-16T14:47:05.411Z",
+    "researchedAt": "2026-11-26T03:13:49.853Z",
     "verified": true,
     "data": {
       "verified": true,
       "category": "컨텐츠 업데이트",
-      "short": "요새전 신규 길드전 추가 + 출시 100일 전야제 이벤트",
-      "summary": "에이버튼이 개발하고 컴투스가 퍼블리싱한 이 게임에 공성전 입찰에서 탈락한 길드끼리 겨루는 신규 길드 콘텐츠 '요새전'이 추가됐다. 요새전은 길드 두 곳씩 최대 세 그룹으로 나뉘어 중앙 점령석을 파괴하고 거점을 지키며 점수를 겨루는 1대1 점령전이며, 시즌 누적 세금의 일부가 상금으로 지급된다. 여기에 12월 3일 출시 100일을 앞둔 전야제 이벤트(출석·미션 보상)가 함께 열려 복귀와 신규 유입을 자극한 것으로 보인다. 스토어 업데이트 내역의 '아디톤 요새전' 추가와 같은 업데이트로 확인된다.",
+      "short": "서비스 100일 페스타·길드 콘텐츠 추가로 매출 순위 반등",
+      "summary": "모바일인덱스 집계 기준으로 이 게임은 11월 초 3~4위권에서 14일부터 구글 플레이 매출 2위로 올라섰다. 상승의 중심에는 서비스 100일을 앞두고 11일 전야제로 시작된 '100일 페스타'와 출석·미션 이벤트가 있다. 같은 기사는 요새전과 신규 서버 휘페리온 등 길드 콘텐츠 일정도 상승 요인으로 꼽았다. 다만 이 기사는 구글 플레이 순위를 중심으로 다루며, 앱스토어 8위 기준의 상승 원인은 직접 확인되지 않았다.",
       "articles": [
         {
-          "title": "'제우스: 오만의 신', 100일 앞두고 신규 길드 콘텐츠 '요새전' 추가",
-          "url": "https://www.thisisgame.com/articles/432519"
-        },
-        {
-          "title": "제우스, 100일 기념일 ‘요새전’과 함께 즐긴다",
-          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112983"
-        },
-        {
-          "title": "컴투스, ‘제우스: 오만의 신’ 100일 기념 전야제…‘요새전’ 신규 도입",
-          "url": "https://www.ziksir.com/news/articleView.html?idxno=152877"
+          "title": "구글 플레이 스토어 매출 2위 제우스 오만의 신 100일 페스타 흥행",
+          "url": "https://www.sano.co.kr/%EA%B5%AC%EA%B8%80-%ED%94%8C%EB%A0%88%EC%9D%B4-%EC%8A%A4%ED%86%A0%EC%96%B4-%EB%A7%A4%EC%B6%9C-2%EC%9C%84-%EC%A0%9C%EC%9A%B0%EC%8A%A4-%EC%98%A4%EB%A7%8C%EC%9D%98-%EC%8B%A0-100%EC%9D%BC-%ED%8E%98"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/Cn3mFHKMLbpjEBSZGiCKysZpRKXYNm5CH4vGFBLUMpWtZ7gk_2ONDoqAfJ6OIh_V-Lm3d8uZOmzKoAFdQxW4=w128",
@@ -2961,39 +2960,36 @@
         "https://play-lh.googleusercontent.com/c5Tn2Wt6aS7TLGpvPwKf7lpBDI8iVUi50IYxmfG8aKawDTbEoGqkNjdbl-O3WylT2diQuyuZktXBp599O9I5WA=w400",
         "https://play-lh.googleusercontent.com/fdR-3a2EaERsE5G-b_TzMUCXDbWwFUvWJnBzFgaRTpnOCEfTcf7EHHrF--fPIxB1KmKD_At0-sVglVtEo0HqkZw=w400"
       ],
-      "video": null,
+      "video": "https://www.youtube.com/embed/7CChdbzWqyk?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/ao3XuPoyYHucR0I2z38AieWX6CDhjtz5jzET1UbPTnob_9WGgqN7IKCGqaEns0F9xYAlXboKMrOgLtjpyAMp=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.com2us.es.android.google.kr.normal&hl=ko&gl=kr",
-      "recentChanges": "[신규 콘텐츠]<br>- &#39;아디톤 요새전&#39; 추가<br><br>[콘텐츠 확장 / 개선]<br>- 길드 레이드 &#39;메데이아&#39; 난이도 및 보상 조정<br>- AI 모드 편의 기능 개선<br>- 길드 분배 기록 상세 정보 추가<br><br>[버그 수정 및 개선]<br>- 일부 상황에서 게임이 종료되던 현상 수정<br>- 공성전 일부 위치에서 공격이 되지 않던 현상 수정<br>- 기타 확인된 오류 및 UI 표기 수정<br><br>여러분의 많은 관심과 기대 부탁드립니다."
+      "recentChanges": "[콘텐츠 확장 / 개선]<br>- &#39;점령전&#39; 시즌 3 매칭 방식 및 규칙 개편<br>- 교단 상점 및 개인 상점 상품 개편<br>- 길드 콘텐츠 일정 및 딜 미터기 기록 확인 기능 추가<br>- 공격대 징집 가능 인원 확대<br><br>[버그 수정 및 개선]<br>- 일부 상황에서 게임이 종료되던 현상 수정<br>- 기타 확인된 오류 및 UI 표기 수정<br><br>여러분의 많은 관심과 기대 부탁드립니다."
     }
   },
   "6758975161": {
-    "researchedAt": "2026-11-11T14:47:59.735Z",
+    "researchedAt": "2026-11-26T03:14:13.452Z",
     "verified": true,
     "data": {
       "verified": true,
       "category": "컨텐츠 업데이트",
-      "short": "11/4 차원 점령전 추가 후 매출 순위 상승(추정)",
-      "summary": "카카오게임즈는 11월 4일 최대 9,000명이 참여하는 서버 대항전 '차원 점령전'과 미니게임 '경단 만들기', 꾸미기 요소 '방석 시스템'을 추가했다. 첫 프리시즌은 11월 7일부터 8일까지 세 차례 열렸고 별도 신청 없이 참여할 수 있으며, 서버 성과와 개인 기여도에 따라 보상이 지급된다. 다만 기사들은 앱스토어 매출 순위가 5계단 오른 시점과 이 업데이트를 직접 연결하지 않으므로, 순위 상승과의 인과관계는 업데이트 시점을 근거로 한 추정이다. 11월 10일 라이브 방송에서는 차원 점령전 개편과 신규 레이드 등 다음 업데이트 계획도 공개됐다.",
+      "short": "불가살이 레이드 추가·도술 시스템 개편 후 매출 상승",
+      "summary": "카카오게임즈는 18일 도술 시스템 개편 업데이트를 진행해 도술 강화 초기화와 돌파 단계 이전을 가능하게 했고, 기존 '백운' 레이드를 대체하는 '불가살이' 레이드를 추가했습니다. 이후 25일 정기 점검에서는 불가살이 레이드에 42만 전투력 구간을 신설해 성장 정체를 해소하려 했습니다. 기사에서 순위 변동을 직접 언급하지는 않았으므로, 매출 순위 상승은 이 콘텐츠 업데이트 시점과 맞물린 것으로 추정되며 인과관계는 확정되지 않았습니다.",
       "articles": [
         {
-          "title": "‘도깨비의세계’, 대규모 서버 대항전 ‘차원 점령전’ 업데이트",
-          "url": "https://www.koreadaily.com/article/20261104190507678"
+          "title": "카카오게임즈 도깨비의세계 도술 육성 부담 던다 \"초기화에 확정 성공까지\"",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=757710"
         },
         {
-          "title": "도깨비의세계, 9천명 규모 차원 점령전 추가",
-          "url": "https://www.inven.co.kr/webzine/news/?news=322956"
+          "title": "카카오게임즈 '도깨비의세계', 타바로 온천·8대8 눈싸움 예고",
+          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62562"
         },
         {
-          "title": "‘도깨비의세계’ 신규 대규모 서버 대항전 ‘차원 점령전’ 업데이트",
-          "url": "https://www.ilovepcbang.com/news/articleView.html?idxno=203065"
+          "title": "도깨비의세계 \"25만 넘어 30만·35만 시대\"",
+          "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4027926"
         },
         {
-          "title": "카카오게임즈 ‘도깨비의세계’, 돌파 천장·재료 환급으로 실패 부담 줄인다",
-          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62174"
-        },
-        {
-          "title": "도깨비의세계 \"제자리 사냥 사실상 삭제...대검 강타 조정\"",
-          "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216942"
+          "title": "[게임 Pcik] 카카오게임즈 '도깨비의세계', 도술 시스템 개편 적용 등",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1426567"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/PJFxzucCQHWQZBZnyvLp3IDp4G70W2o_AlXxVIRSn_pB66f-STd4yFDJNGJ5clJDKi9DK8jcn-D9Tq0L5pRz=w128",
@@ -3005,7 +3001,7 @@
       ],
       "video": null,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.kakaogames.dokkaebi&hl=ko&gl=kr",
-      "recentChanges": "신규 콘텐츠 &#39;차원 점령전&#39; 업데이트, 버그 수정"
+      "recentChanges": "신규 레이드 &#39;불가살이&#39; 업데이트, 버그 수정"
     }
   },
   "6793854765": {
@@ -3319,25 +3315,25 @@
     }
   },
   "com.kakaogames.odin": {
-    "researchedAt": "2026-10-30T19:46:04.306Z",
-    "verified": false,
+    "researchedAt": "2026-11-26T03:13:55.899Z",
+    "verified": true,
     "data": {
-      "verified": false,
+      "verified": true,
       "category": "컨텐츠 업데이트",
-      "short": "5주년 업데이트 여파, 현재 9계단 상승 원인은 미확인",
-      "summary": "찾은 기사들은 2026년 6월 24일 서비스 5주년 업데이트(알케미스트 클래스, 월드 거점 점령전, 신규 서버 스카디, 기념 출석 이벤트) 직후 애플 앱스토어 1위와 구글 플레이 2~3위권 진입, 이후 구글 1위 탈환을 다루고 있다. 다만 이 기사들은 현재 순위(15위)로 9계단 오른 시점의 원인을 직접 설명하지 않으며, 제공된 최근 업데이트(길드 쟁탈전 리뉴얼, 펫 장비 시스템)와도 일치하지 않는다. 따라서 현재 상승 원인은 확인되지 않았고, 스토어 업데이트 내역만으로는 길드 콘텐츠와 펫 장비 업데이트가 상승의 원인이라고 단정하기 어렵다. 기사 기준 과거 흥행 흐름을 참고용으로만 보고, 현 시점의 순위 변동은 추가 자료로 검증이 필요하다.",
+      "short": "11/25 무한의 탑 전면 개편·블랙프라이데이 이벤트 영향 추정",
+      "summary": "카카오게임즈는 11월 25일 '무한의 탑'을 전면 개편해 모든 층을 보스전으로 바꾸고 최고 층수를 확장했으며, 최대 4인 협력 도전을 도입했다. 같은 시점에 블랙프라이데이 7일 출석 이벤트(12월 23일까지)와 특별 미션·핫타임(12월 9일까지)을 열어 소환권과 펫 쿠폰 등을 지급했다. 기사에서 구글 매출 순위 상승과의 직접적 인과는 확인되지 않았으므로, 업데이트와 이벤트 시기를 근거로 한 추정이다.",
       "articles": [
         {
-          "title": "5주년 맞은 '오딘', 양대 앱마켓 매출 최상위권 재진입 : 네이트 뉴스",
-          "url": "https://m.news.nate.com/view/20260626n28856"
+          "title": "더 높은 곳으로, 오딘: 발할라 라이징 무한의 탑 전면 개편",
+          "url": "https://www.gamemeca.com/view.php?gid=1784163"
         },
         {
-          "title": "5년 된 게임인데 또 1위…카카오게임즈 '오딘' 정상 탈환 : 네이트 뉴스",
-          "url": "https://m.news.nate.com/view/20260713n20848"
+          "title": "오딘 발할라 라이징, 무한의 탑 전면 개편",
+          "url": "https://www.inven.co.kr/webzine/news/?news=323827"
         },
         {
-          "title": "'오딘' 출시 5주년 업데이트 효과로 구글플레이 매출 1위 탈환",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318366"
+          "title": "'오딘: 발할라 라이징', '무한의 탑' 전 층 보스전 개편…최종 보스 영겁의 오딘 등장",
+          "url": "https://m.news.nate.com/view/20261125n38845"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/65JquVIM391Il8M5oXrUzwTOFvFn72Yef4EJGWLBp190MflgritBJqiMuSjoK_ZeA2jF53OV9rRNgAXRm8_scQ=w128",
@@ -3350,7 +3346,7 @@
       "video": "https://www.youtube.com/embed/MRghUoLn8X0?vq=large&rel=0&autohide=1&showinfo=0",
       "videoImage": "https://play-lh.googleusercontent.com/8kVZOwAUe4a6vFgzEo0yLtLrbQKQlD_G_Ph6NVKToE2UI3qd7zCKLII3DLtcgoUvZfle2GqoHEorJL_fUzDXRw=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.kakaogames.odin&hl=ko&gl=kr",
-      "recentChanges": "- 길드 쟁탈전 리뉴얼<br>- 펫 장비 시스템 업데이트<br>- 편의성 기능 추가<br>- 오류사항 수정 및 시스템 개선"
+      "recentChanges": "오류 수정 및 서비스 안정화"
     }
   },
   "6499562253": {
@@ -3448,34 +3444,17 @@
     }
   },
   "com.ncsoft.lineagew": {
-    "researchedAt": "2026-10-30T19:46:26.893Z",
-    "verified": true,
+    "researchedAt": "2026-11-26T03:14:01.283Z",
+    "verified": false,
     "data": {
-      "verified": true,
-      "category": "컨텐츠 업데이트",
-      "short": "5주년 업데이트 사전예약·신규 월드 '아슈르' 공개(11/4 출시)",
-      "summary": "엔씨는 10월 28일 리니지W 출시 5주년 기념 업데이트를 11월 4일 진행한다고 발표하고 사전예약을 시작했다. 업데이트에는 신규 월드 '아슈르'와 시그니처 클래스 '무희'가 추가되며, 아슈르는 2주 안에 80레벨 달성이 가능한 부스팅 서버다. 사전예약 참여 쿠폰, 5주년 전야제 출석 이벤트, 경험치 증가 이벤트 등이 함께 진행된다. 다만 기사들은 매출 순위 상승과의 직접적인 인과를 명시하지 않아, 5계단 상승은 이 이벤트 시기와의 시점상 연관으로 해석해야 한다.",
-      "articles": [
-        {
-          "title": "[패치] 리니지W 5주년 이벤트 시작! 신규 클래스 '무희' 예고",
-          "url": "https://www.inven.co.kr/webzine/news/?news=322667"
-        },
-        {
-          "title": "엔씨 ‘리니지W’, 출시 5주년 업데이트 사전예약…신규 월드 ‘아슈르’ 오픈",
-          "url": "https://www.ziksir.com/news/articleView.html?idxno=151082"
-        },
-        {
-          "title": "엔씨, '리니지W' 출시 5주년 기념 업데이트",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7191035"
-        },
-        {
-          "title": "엔씨 리니지W, 5주년 사전예약 진행 [오늘의 게임 업데이트]",
-          "url": "https://www.sedaily.com/article/20107078"
-        }
-      ],
+      "verified": false,
+      "category": "기타",
+      "short": "편의 기능·버그 수정 업데이트, 상승 원인 기사 미확인",
+      "summary": "검색된 한국어 기사들은 리니지W의 대규모 업데이트(성기사 클래스, 리부트 월드 등)나 이벤트에 따른 과거 순위 반등을 다루지만, 현재 35위로 11계단 오른 시점과 일치하는 기사는 확인되지 않았다. 스토어 최근 업데이트 내역은 편의 기능 추가와 버그 수정이라는 일반적인 내용뿐이라 매출 상승의 구체적 원인을 특정하기 어렵다. 따라서 상승 원인은 추정에 그치며, 해당 기간의 이벤트나 업데이트 공지를 추가로 확인할 필요가 있다.",
+      "articles": [],
       "icon": "https://play-lh.googleusercontent.com/VvwlyO5rMOgeedcbDmvBQv-vDoCeHqxBdSHqTrA3xUZAEuRcAwTBznrJBwkj3_xvhUTkLJ4D98RT1fZTtu8W=w128",
       "screenshots": [
-        "https://play-lh.googleusercontent.com/U1O8QsSue-vDrfjwn-vNLJSJYN-2tNRKYMBQlyyrhEMokuBTDVO3oDqSvodRnygj5s98K3-lDIuVcBVHUEXs=w400",
+        "https://play-lh.googleusercontent.com/uzhj80_0QSx9vzxtLe9l0HjLbYJO0NBg3BGY7_XeRmuBLSgF8CW-Nz70NNctnugsY_UKwfjx2QOoP5lomgXXgUA=w400",
         "https://play-lh.googleusercontent.com/LJw6tll-VL6twR7imV_6tUg06z4eivE1l0R-4-Yy3qpwvgNxUNJ65hsAnqeavzLsznkuvXoV5pX5fW-deY0rFF0=w400",
         "https://play-lh.googleusercontent.com/8pxmv4vaimDN5hnhoHXqYSLUQcydEV-rzIlcT4O-gvd8Kk3_86hXC1Y3ROqWHVtwBskuFD9pRcZ71RVIA9ydNBY=w400",
         "https://play-lh.googleusercontent.com/l2ECmt9Af9fRYcMKGSQ6zXAOnxHX28j_dkBJWkxWuGBYtsnmdvR0pp87fNdoWl0k-QEf_4v96KFB6bWsKd4caQ=w400"
@@ -3855,14 +3834,27 @@
     }
   },
   "com.ncsoft.lineage2m19": {
-    "researchedAt": "2026-11-01T19:15:52.158Z",
-    "verified": false,
+    "researchedAt": "2026-11-26T03:13:43.256Z",
+    "verified": true,
     "data": {
-      "verified": false,
+      "verified": true,
       "category": "컨텐츠 업데이트",
-      "short": "리저브 월드 신화 아가시온 '발라카스'·신규 영지 추가로 매출 6계단 상승",
-      "summary": "스토어 업데이트 내역에 따르면 오리진 월드의 혈맹 균열 '여왕의 은신처' 심연 5구역 추가와 리저브 월드의 신화 아가시온 '발라카스', 인나드릴 영지 추가 오픈, 신화 스킬 '디그니티' 추가가 이뤄졌다. 여기에 핼러윈 페스티벌 시즌 위크와 일부 컨텐츠 보상 리뉴얼이 겹쳐 신규 콘텐츠 유입과 보상 매력이 순위 상승의 원인으로 추정된다. 다만 검색된 기사는 2025년 11월 6주년 업데이트를 다룬 것이라 이번 순위 변동과 시점이 맞지 않아 원인을 기사로 확인하지 못했다.",
-      "articles": [],
+      "short": "7주년 업데이트·신규 클래스 디스트로이어 추가로 매출 상승",
+      "summary": "엔씨는 서비스 7주년을 기념해 대규모 업데이트 'The breakthrough: 디스트로이어'를 25일 적용했으며, 핵심은 권갑을 쓰는 근거리 공격형 탱커 신규 클래스 디스트로이어다. 12월 9일까지 계정당 1회 무료 클래스 변경과 '프리 클래스 체인지' 이벤트, 마스터 영지 '슈트가르트' 추가가 함께 제공됐다. 기사들은 순위 상승을 직접 언급하지는 않으므로, 48위 상승은 이 업데이트와 신규 클래스 수요에 따른 것으로 추정된다.",
+      "articles": [
+        {
+          "title": "엔씨 ‘리니지2M’, 7주년 맞아 권갑 클래스 ‘디스트로이어’ 추가 - ZDNet korea",
+          "url": "https://zdnet.co.kr/view/?no=20261125150716"
+        },
+        {
+          "title": "[게임 Pick] 엔씨 '리니지2M', 7주년 기념 업데이트 적용 등 - 데일리한국",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1428982"
+        },
+        {
+          "title": "엔씨 리니지2M, 7주년 대규모 업데이트…신규 클래스·전장 추가 - 알파경제",
+          "url": "https://www.alphabiz.co.kr/news/articleView.html?idxno=200089"
+        }
+      ],
       "icon": "https://play-lh.googleusercontent.com/bh67_a9Z2UyAoJHcktORocXm_c25UcWz_diX4kuGbQ2W1tbWwzK1QqapGahZrlDmwWCAp-CFoy9NA2KMYojBAik=w128",
       "screenshots": [
         "https://play-lh.googleusercontent.com/cvvfsSWA0ZHjplb8TIeVuXherPJwrgYVX_w_OUhIRltXDk4ZXBGq-5275GOpXVu-a1p89wt0watwsw_KTJKX4Q=w400",
@@ -3872,7 +3864,7 @@
       ],
       "video": null,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.ncsoft.lineage2m19&hl=ko&gl=kr",
-      "recentChanges": "■ 공통<br>· 핼러윈 페스티벌 시즌 위크 시작<br><br>■ 오리진 월드<br>· 혈맹 균열 &#39;여왕의 은신처&#39; 심연 5구역 추가 및 리밸런싱<br><br>■ 리저브 월드<br>· 신화 아가시온 &#39;발라카스&#39; 및 신규 아가시온 추가<br>· 인나드릴 영지 지역 추가 오픈<br>· 신화 스킬 &#39;디그니티&#39; 추가<br>· 일부 컨텐츠 보상 리뉴얼"
+      "recentChanges": "■ 공통<br>· &#39;The breakthrough : 디스트로이어&#39; 업데이트<br>· 신규 클래스 디스트로이어 추가<br>· 프리 클래스 체인지 (디스트로이어)<br>· 신규 시스템 &#39;에테르 웨폰&#39; 및 &#39;무기 스킨&#39;<br>· 인벤토리 확장, 프리셋 시스템 개선, 아인하사드의 은총 최대치 개선<br><br>■ 오리진 월드<br>· 최초의 마스터 영지 &#39;슈트가르트&#39; 추가<br>· 유일 아가시온 기르타스 해방 2단계 추가<br>· 신규 탈 것 6종 추가<br><br>■ 리저브 월드<br>· 신화 탈 것 &#39;아우레우스&#39; 추가<br>· 아레나 던전 &#39;그레시아&#39; 추가<br><br>■ 라울, 데스나이트 서버<br>· 초월 신화 클래스 움브라, 케이오스, 아스트로, 네르갈 추가"
     }
   },
   "com.nhnent.Qpoker": {
@@ -4091,13 +4083,13 @@
     }
   },
   "6443468110": {
-    "researchedAt": "2026-11-06T14:46:23.894Z",
+    "researchedAt": "2026-11-26T03:13:31.085Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "신규 버전 출시 추정, 진입 원인 기사 미확인",
-      "summary": "검색으로 찾은 기사는 2024년 출시 초기 흥행이나 누적 매출 1조 원 돌파 등 게임의 전반적 성과를 다루며, 현재 25위 신규 진입의 직접 원인을 설명하지 않는다. 스토어 업데이트 내역에는 '신규 버전 출시!'만 기재되어 있어 신규 버전이 순위 상승의 원인인지 확인할 수 없다. 따라서 원인은 신규 버전 출시에 따른 컨텐츠 업데이트로 추정하되 검증되지 않았다.",
+      "short": "신규 버전 출시 추정, 최신 기사 미확인(52계단 상승)",
+      "summary": "검색으로는 현재 52계단 상승(31위)의 원인을 직접 다룬 최신 기사를 찾지 못했습니다. 확인된 자료는 2024년 글로벌 출시 흥행, 2025년 12월 'Sylus' 기간 한정 이벤트 및 확정 가챠 혜택에 따른 매출 급증 등 과거 사례뿐입니다. 스토어 최근 업데이트 내역이 '신규 버전 출시!'뿐이므로, 신규 버전 콘텐츠 공개에 따른 매출 반등으로 보는 것이 합리적이나 추정에 그칩니다. 정확한 원인은 공식 공지나 차트 이력으로 추가 확인이 필요합니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/5x2dfdcyMkHFW5RImP8BkNoQoWENWIvKwm2W2iRL8Adln7WLeJZi-JIr8kAJ0rUalVzA4qVS6WNpK7TjQa-3=w128",
       "screenshots": [
@@ -5052,6 +5044,210 @@
       "video": null,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.hollywood.merge&hl=ko&gl=kr",
       "recentChanges": "지금 업데이트하고 새로운 기능을 만나보세요!<br>- 78챕터 전격 오픈! 아름다운 풍경 뒤에 숨겨진 균열<br>- 12월 2일 새로운 영광의 도전 오픈! 크리스마스 드레스를 해제해 보세요!<br>- 11월 24일 오픈하는 추수감사절 디너 파티에서 맛있는 만찬을 즐겨보세요!<br>- 눈꽃이 흩날려요! 12월 2일부터 겨울 스포티를 함께 즐겨보세요!"
+    }
+  },
+  "com.nexon.overgeared": {
+    "researchedAt": "2026-11-26T03:12:33.335Z",
+    "verified": true,
+    "data": {
+      "verified": true,
+      "category": "신규 오픈",
+      "short": "14억 뷰 IP 기반 신작 출시, 론칭 이벤트 진행",
+      "summary": "넥슨이 그레이게임즈와 개발한 MMORPG로 11월 26일 0시에 한국·대만·홍콩·마카오에서 동시 출시됐고, 웹소설·웹툰 합산 14억 뷰의 원작 IP '템빨'을 기반으로 한다. 출시 직후 8주 미션 보상, 장비 강화 지원 미션(12월 9일까지), 카카오페이지 연계 추첨 이벤트, KT·LG유플러스 할인 등 신규 유입을 끌어들이는 프로모션이 함께 열렸다. 사전 다운로드와 사전 선점에서 일부 서버가 조기 마감된 점도 초기 관심을 보여주는 요인으로 보인다.",
+      "articles": [
+        {
+          "title": "넥슨, 웹툰·웹소설 기반 신작 '템빨: 오버기어드' 출시 - 이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2653121"
+        },
+        {
+          "title": "넥슨 '템빨: 오버기어드' 정식 출시…아시아 4개 지역 동시 서비스 - 파이낸셜투데이",
+          "url": "https://www.ftoday.co.kr/news/articleView.html?idxno=370581"
+        },
+        {
+          "title": "넥슨, 템빨: 오버기어드 PC·모바일 정식 출시 - 인벤",
+          "url": "https://www.inven.co.kr/webzine/news/?news=323863"
+        },
+        {
+          "title": "새로운 템의 영역, 넥슨 '템빨: 오버기어드' 정식 출시 - 게임메카",
+          "url": "https://www.gamemeca.com/view.php?gid=1784219"
+        },
+        {
+          "title": "게임으로 확장된 14억뷰 IP... 넥슨 '템빨: 오버기어드' 오늘 정식 출시 - 인사이트",
+          "url": "https://www.insight.co.kr/news/583639"
+        },
+        {
+          "title": "웹툰 속 '템빨' 직접 즐긴다…넥슨, 사전 다운로드 시작 - 네이트 뉴스",
+          "url": "https://m.news.nate.com/view/20261121n05384"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/jNivD4knkGvjNEsD8m_FINuY6vc8rdEPSTIpfdJ0xBtkTXvO1-Xo2LBgfnnL83Aa54RHuiL6OiylXkCAh1Navw=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/0oHsclDOBY-P8pU-OwopQ3-0yLZfeRuieHGr2HPh8Y4GRMCGzbD8UZ7Kac8C9Tc-VDXM24CKl4-hp6luVi_2=w400",
+        "https://play-lh.googleusercontent.com/5RlsrHzbNjiH2wY7MTA4LCA2zrBKcxfTw7n7oREQTiARtuITf7NwMB2qr03mgTBGsoKHCr3S7d5yZPaa_ygltA=w400",
+        "https://play-lh.googleusercontent.com/0mslLBnYd_SQ9MGDSrflB3GyXOknsJznc_UQoH8-Bx5XCFZB1BHkR4Abb8_W97NUnf8JDu14FAfGA7yzRPVXcw=w400",
+        "https://play-lh.googleusercontent.com/b_Q85SU2qwZrcwnPFITj8oWvkqlyS4ZWYcrgMMby29jcfJ1M3bu-Jt4xTh8XjtUjBx7OKToe63tQqL_ivwDHjQ=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.nexon.overgeared&hl=ko&gl=kr",
+      "recentChanges": ""
+    }
+  },
+  "6745081346": {
+    "researchedAt": "2026-11-26T03:12:55.240Z",
+    "verified": true,
+    "data": {
+      "verified": true,
+      "category": "신규 오픈",
+      "short": "11/21 글로벌 동시 출시, 사전예약 1,500만 명·출시 뽑기 혜택이 신규 진입 견인",
+      "summary": "뉴버스는 11월 21일 글로벌 200여 개 지역에 동시 출시했고, 출시 전 사전예약자가 1,500만 명을 넘었습니다. 출시 기념으로 최대 300회 뽑기와 한정 캐릭터(쿠로사키 이치고 만해) 80뽑기 확정 출현, 신규 유저 할인 카드풀 등 대규모 보상을 내걸어 초기 매출 유입이 집중된 것으로 보입니다. 다만 순위 상승 자체의 정량 지표(매출 수치)는 확인되지 않았습니다.",
+      "articles": [
+        {
+          "title": "뉴버스 ‘블리치: 소울 레조넌스’ 오늘(21일) 정식 서비스 시작",
+          "url": "https://m.ruliweb.com/news/read/218345"
+        },
+        {
+          "title": "모바일 3D 액션 RPG ‘블리치: 소울 레조넌스’, 론칭",
+          "url": "https://m.ruliweb.com/news/read/218299"
+        },
+        {
+          "title": "블리치 정식 라이선스 게임 '블리치: 소울 레조넌스', 21일 출시",
+          "url": "https://m.inven.co.kr/webzine/wznews.php?idx=311552&site=csgo"
+        },
+        {
+          "title": "모바일 액션 게임 '블리치: 소울 레조넌스' 출시",
+          "url": "https://v.daum.net/v/uwbXJ4XSig"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/8Fz2Cme1fI2vgiSLTlhxTVCWG26oeMaskeNkC6Q77hodZydfmbsjA46_uzguiZV7DFwKWCTAd06M7L3WR7l3=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/XoLpAJ1PPUrrZdGvhAZe29ls8YaP4YT473VIFxDl0tXR_Qi-XmH_Gmpret6sVNUGmcMVSx62htut28VAye4tDw=w400",
+        "https://play-lh.googleusercontent.com/V9OZWAiRT84FM4yg48T4HZDBlTUfCKOw0sO52LqcdnfoZEYIA_vguEiDqmgQ0zJAcduPacZZd_hH7dkoFd6DCw=w400",
+        "https://play-lh.googleusercontent.com/SSUVdTUzG8AP0XgfoR_eLY-sN4CMclZYzQpnfHys3zpvb9bgGKogV8FDKygQc7jsdC9trgCkVRcgc2nCgXRpcVA=w400",
+        "https://play-lh.googleusercontent.com/sm3ZIXQHF056wW0Ha5HcTozulZtNDknKfJhFVAhUi0m8e9dQcrHhxTGmKrDUgPKMHhRJq3JtB-zkPzPlEmp2W9o=w400"
+      ],
+      "video": "https://www.youtube.com/embed/kPXxUxx0thQ?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/Hz0gP5dCzVwGUJmFQkySFgrcdz8cpntVMK4hXCFqsJcpXK1OZt2_glOCE6pxqCxwoXUxv3g6DKNk88hbGHfKww=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.bladetw.bd&hl=ko&gl=kr",
+      "recentChanges": ""
+    }
+  },
+  "6752642477": {
+    "researchedAt": "2026-11-26T03:13:02.662Z",
+    "verified": true,
+    "data": {
+      "verified": true,
+      "category": "컨텐츠 업데이트",
+      "short": "11/25 신규 업데이트 '버섯 동산 대모험'·케르 합류로 신규 진입",
+      "summary": "11월 25일 신규 업데이트 '뜻밖의 만남, 버섯 동산 대모험'이 선보여졌고, 신규 오퍼레이터 케르를 중심으로 새 지역 '옛 댐', 공장 건설 콘텐츠, 멀티플레이 카드 게임이 추가됐다. 무료 오퍼레이터 미미노와 전용 무기 지급, 질베르타·로시 복각 픽업도 함께 진행돼 업데이트 시점의 매출 신규 진입과 맞물린 것으로 보인다. 다만 기사들은 업데이트 내용만 다루고 앱스토어 순위 변동과의 직접적 인과관계는 확인하지 않았으므로, 순위 상승 원인은 업데이트 효과로 추정된다.",
+      "articles": [
+        {
+          "title": "명일방주: 엔드필드, 25일 버섯 동산 모험 공개",
+          "url": "https://www.inven.co.kr/webzine/news/?news=323706"
+        },
+        {
+          "title": "'명일방주: 엔드필드', 25일 신규 오퍼레이터 '케르' 추가",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=310608"
+        },
+        {
+          "title": "'명일방주: 엔드필드', 신규 업데이트…케르 합류·공장 콘텐츠 확장",
+          "url": "http://www.efnews.co.kr/news/articleView.html?idxno=134224"
+        },
+        {
+          "title": "다시 케르의 모험, 명일방주: 엔드필드 25일 업데이트 예고",
+          "url": "https://www.gamemeca.com/view.php?gid=1783990"
+        },
+        {
+          "title": "명일방주: 엔드필드, 뜻밖의 만남 버섯 동산 대모험 업데이트 11월 25일 진행",
+          "url": "https://www.betanews.net/article/view/beta202611230030"
+        },
+        {
+          "title": "거대한 버섯 왕국으로 떠난다…'명일방주: 엔드필드', 25일 신규 업데이트",
+          "url": "https://www.newstap.co.kr/news/articleView.html?idxno=338302"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/l6FVNa293RykBWy88TqEhUakIcGSC8bRygSnKOBgztln48JX-WzMWnrBAETrKZsxDNC4HhwCsvfle_UI7rBE=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/JqBRY3Sucwv50UrGb93Y1XajBeZiSSA0Cu7_0tKPVcebdEwsRGULfWy_TCVEENL-AOznQZsmJG25vEs110yXWhE=w400",
+        "https://play-lh.googleusercontent.com/0ReXTJNDEModFMFq8hwth0vt1QBQvMU6ClPhh-Dsfbb81sHHoH_KUKtlIQ70vDsTMH-h15fpMUn7r9epdDEySA=w400",
+        "https://play-lh.googleusercontent.com/alaJ3WkdWMs8JMtR3cl9SP0h4bgIGoMn7qM1Ijf9wJZyqD-az97R2ST16kZKG6QtUDObk9k9orgT4P2qq6GOMnc=w400",
+        "https://play-lh.googleusercontent.com/gBpsuBXs9q_43ehBYzmQy9HBGNAjzYavzx3XtJ2r9SB5BNQdb-YnAyCTpMLKsRBHg2FcxBuwD3M6PSiih-Nt7Q=w400"
+      ],
+      "video": "https://www.youtube.com/embed/XRckJnHq7qk?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/cITk2B9L8_2gLJD8bTiRYaFpsfYeQz7B5m32enZSg7Uz6LyvOFvrafNowuelsGgqFxdpJrQokNo1rvynNjFV=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.gryphline.endfield.gp&hl=ko&gl=kr",
+      "recentChanges": "신규 버전 「뜻밖의 만남, 버섯 동산 대모험」 정식 업데이트<br><br>[신규 오퍼레이터] 6성 오퍼레이터 [케르], 5성 오퍼레이터 [미미노]<br>[신규 무기] 6성 무기 [달콤한 거래(장병기)], 6성 무기 [유성 돌격(장병기)], 5성 무기 [떠오르는 별(권총)]<br><br>※ 이번 업데이트의 자세한 버그 수정 및 최적화 내용은 관련 공식 공지를 확인해 주시기 바랍니다."
+    }
+  },
+  "6673894896": {
+    "researchedAt": "2026-11-26T03:13:10.717Z",
+    "verified": true,
+    "data": {
+      "verified": true,
+      "category": "신규 오픈",
+      "short": "11/26 정식 출시, 14억뷰 웹툰·웹소설 IP 기반 출시 이벤트 진행",
+      "summary": "그레이게임즈가 개발하고 넥슨이 퍼블리싱한 MMORPG가 11월 26일 0시 한국·대만·홍콩·마카오에서 정식 서비스를 시작해 매출 차트에 처음 진입했습니다. 카카오페이지 웹소설·웹툰 합산 14억 뷰의 IP '템빨'을 원작으로 해서 기존 원작 독자층의 초기 유입이 기대됩니다. 출시 기념 8주 미션, 12월 9일까지 이어지는 장비 강화 지원 미션, 카카오페이지 연계 추첨 이벤트 등이 함께 진행됩니다. 다만 같은 시기 국내 구글플레이 매출 상위권은 기존 경쟁작들이 차지하고 있어 상위 진입 여부는 추이를 더 지켜봐야 합니다.",
+      "articles": [
+        {
+          "title": "넥슨, 웹툰·웹소설 기반 신작 '템빨: 오버기어드' 출시 - 이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2653121"
+        },
+        {
+          "title": "넥슨 '템빨: 오버기어드' 출시..하반기 MMORPG 경쟁 합류 - 포쓰저널",
+          "url": "https://www.4th.kr/news/articleView.html?idxno=2122728"
+        },
+        {
+          "title": "새로운 템의 영역, 넥슨 '템빨: 오버기어드' 정식 출시 - 게임메카",
+          "url": "https://www.gamemeca.com/view.php?gid=1784219"
+        },
+        {
+          "title": "14억 뷰 '템빨', MMORPG로…넥슨 '오버기어드' 정식 출시 - EBN",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1733034"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/jNivD4knkGvjNEsD8m_FINuY6vc8rdEPSTIpfdJ0xBtkTXvO1-Xo2LBgfnnL83Aa54RHuiL6OiylXkCAh1Navw=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/0oHsclDOBY-P8pU-OwopQ3-0yLZfeRuieHGr2HPh8Y4GRMCGzbD8UZ7Kac8C9Tc-VDXM24CKl4-hp6luVi_2=w400",
+        "https://play-lh.googleusercontent.com/5RlsrHzbNjiH2wY7MTA4LCA2zrBKcxfTw7n7oREQTiARtuITf7NwMB2qr03mgTBGsoKHCr3S7d5yZPaa_ygltA=w400",
+        "https://play-lh.googleusercontent.com/0mslLBnYd_SQ9MGDSrflB3GyXOknsJznc_UQoH8-Bx5XCFZB1BHkR4Abb8_W97NUnf8JDu14FAfGA7yzRPVXcw=w400",
+        "https://play-lh.googleusercontent.com/b_Q85SU2qwZrcwnPFITj8oWvkqlyS4ZWYcrgMMby29jcfJ1M3bu-Jt4xTh8XjtUjBx7OKToe63tQqL_ivwDHjQ=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.nexon.overgeared&hl=ko&gl=kr",
+      "recentChanges": ""
+    }
+  },
+  "com.ncsoft.aion2": {
+    "researchedAt": "2026-11-26T03:13:38.022Z",
+    "verified": false,
+    "data": {
+      "verified": false,
+      "category": "컨텐츠 업데이트",
+      "short": "1주년 대형 업데이트(11/11) 전후 매출 반등 추정, 미확인",
+      "summary": "1주년 기념 업데이트가 11월 11일 적용되며 신규 지역, 던전, 하우징 등 콘텐츠가 추가됐다는 기사가 확인된다. 다만 검색된 기사 중 이번 구글 매출 35계단 상승을 직접 다룬 기사는 없어 순위 상승과의 인과관계는 확인되지 않았다. 스토어 최근 업데이트 내역은 11/25 편의성 개선뿐이라 근거가 약하므로, 1주년 업데이트 효과로 보는 판단은 추정으로 남겨둔다.",
+      "articles": [
+        {
+          "title": "아이온2 1주년 행사에 1만 명…11일 대규모 업데이트",
+          "url": "https://www.thisisgame.com/articles/432451"
+        },
+        {
+          "title": "아이온2, 1주년 오프라인 행사 통해 업데이트 로드맵 공개",
+          "url": "https://www.betanews.net/article/view/beta202611100070"
+        },
+        {
+          "title": "1주년 맞이한 아이온2, 수직과 수평으로 대폭 확장한다",
+          "url": "https://www.gamemeca.com/en/view.php?gid=1783197"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/aqqsbPuYk-dU9f0qnyEkHje_IIchFrOhDQfDXozQbD5_n_Hxi18ja4GyEbNYuFD9inoFBUYfZFWK4zSOjsy8Aw=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/CMbUg4acR69ey_uoGbzPyDRQz-4M-dXL-a-eQkOTIBu76iTPboJFQxsonnFvPkx07L3ErUNi2ouDG8FF6qrY=w400",
+        "https://play-lh.googleusercontent.com/JjZxHRS-J5ZDllPncE2uUVlxW4FgQmIZrLBmKmSL1fTCD4xIUO0AXSM3LmWNGdet0bUVyIMObMwiaMvHcnT_=w400",
+        "https://play-lh.googleusercontent.com/41HBX5bl1zRqnk-0nV03hRY5dOq-6zRgHH3Pd8oHzgT2wDJaHRoQlJ1T-4Xn_byLvIkHGwk0uEE7y9EMD4HqraA=w400",
+        "https://play-lh.googleusercontent.com/LcfTl0UYwKwm68XL0fLIOu2UpU0BvB69Ai-zWU6oyJtm0xGzoYKawzRdscrSX9UudU2zwkgELeqXEuiKz_xh4dM=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.ncsoft.aion2&hl=ko&gl=kr",
+      "recentChanges": "[11/25 업데이트]<br>- 기타 편의성 개선"
     }
   }
 }

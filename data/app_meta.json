@@ -279,6 +279,13 @@
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/a1/dd/d5a1dde1-7ebd-cb28-a1ae-1e6e5badd323/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
+  "1323002999": {
+    "released": "2018.02.27",
+    "developer": "Pearl Abyss Corp.",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/90/84/0e9084d5-a1ce-6967-b1de-220e8a40b444/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
   "1344700142": {
     "released": "2020.03.11",
     "developer": "Mattel Game Studios HK Limited",
@@ -9978,6 +9985,90 @@
     "developer": "Combo Games",
     "country": null,
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/6e/e9/c66ee9d1-50ee-777a-ed52-30467a2dabad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "com.playstrom.boarding.idle": {
+    "released": "2026.11.19",
+    "developer": "SayGames Ltd",
+    "country": "CY",
+    "icon": "https://play-lh.googleusercontent.com/Ouy0uoSvP8eF2saTjdGZDy1AntpOHCGYWcHAAWP0gc_v8WV5lrGsI8-7Edx6Y5iT8T2Lu7e-6j2HcOhgA0GMSg=w48",
+    "source": "google"
+  },
+  "com.bitodd.vortex": {
+    "released": "2026.02.26",
+    "developer": "BIT ODD",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/rJuHZVi35QDOCLhT3AhnpE9zXZzoTbiSo9SOpX0bU1wSJgwHMNBhi3at3nJWmUdUF6OZgYF-hzqxMuoossOtIc0=w48",
+    "source": "google"
+  },
+  "com.mgame.gsir": {
+    "released": "2026.11.23",
+    "developer": "Mgame",
+    "country": "KR",
+    "icon": "https://play-lh.googleusercontent.com/hCny6of9z8wDoop4zNR5srm4XYiEtBxz6hlKtMrMp09o9vna0H5OKYn0_9TpP_8Njn1VChP6VoEPom3_dzba=w48",
+    "source": "google"
+  },
+  "com.davestudio.mika": {
+    "released": "2026.10.25",
+    "developer": "Dave Studio",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/HKT2mW31eWwUwtkwHI7mnegc74sHZ9IPvF2pODcy_a5UTEJVNWR0Gy1Va-6wfA0MilMVrusbnV6R7i80ODcHCRU=w48",
+    "source": "google"
+  },
+  "com.bladetw.bd": {
+    "released": "2025.11.06",
+    "developer": "Nuverse Games",
+    "country": "SG",
+    "icon": "https://play-lh.googleusercontent.com/8Fz2Cme1fI2vgiSLTlhxTVCWG26oeMaskeNkC6Q77hodZydfmbsjA46_uzguiZV7DFwKWCTAd06M7L3WR7l3=w48",
+    "source": "google"
+  },
+  "com.yg.sf.minigames": {
+    "released": "2025.02.11",
+    "developer": "SUPERIOR  STUDIO",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/NBK0z8bPKQEb33B9sXZ1oMkivv27lnJkp0QPWk9Xx8kRNzFgPyJvEb7tiCpE7RnxEF5qjjLX50IgEP4freAu=w48",
+    "source": "google"
+  },
+  "com.nexon.azurpromilia": {
+    "released": "2026.11.11",
+    "developer": "NEXON Company",
+    "country": "KR",
+    "icon": "https://play-lh.googleusercontent.com/3RQcMLdaNzl3OpgQPr3cnwwbFeVyZq_iE3bmh7cs9f9YUZnl07MtWxCcKAsfRhrt47DFFAl1IQvyp2CRYIyN1cY=w48",
+    "source": "google"
+  },
+  "com.easybrain.arrow.puzzle.game": {
+    "released": "2026.01.09",
+    "developer": "Easybrain",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/b--9J_VPY-VBj6ZAYDkXBZIni5JSi44_tFOeJ_HW3uVnxw1XNIkUvHF8qT9V6aLzyK_W4U5EAlDoofjjOfqWXQ=w48",
+    "source": "google"
+  },
+  "6745321429": {
+    "released": "2026.11.25",
+    "developer": "BANDAI Co., Ltd.",
+    "country": "JP",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/13/77/4013775c-0838-aebd-96e7-0ffa712e5912/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6761039504": {
+    "released": "2026.11.25",
+    "developer": "Highbrow",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/75/dd/3175dd13-235a-aae6-c8d6-443443646270/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6834689285": {
+    "released": "2026.11.21",
+    "developer": "Sungwon Lee",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/b4/80/bfb480d2-5ee2-64e8-9aae-2e511481c17c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6754922071": {
+    "released": "2026.03.19",
+    "developer": "Tailormade Games",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/c5/33/7bc53358-324e-65e3-a53a-d97270b3119c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   }
 }
