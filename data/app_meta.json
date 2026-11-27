@@ -8306,7 +8306,7 @@
   "6744885861": {
     "released": "2025.09.09",
     "developer": "Archosaur Games",
-    "country": null,
+    "country": "CN",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/6c/c2/076cc2b9-7a90-a745-4211-7ce621a9ca26/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/100x100bb.jpg",
     "source": "apple"
   },
@@ -9478,7 +9478,7 @@
   "com.pongvn.tg": {
     "released": "2026.11.07",
     "developer": "Pong Studio Co., Ltd.",
-    "country": null,
+    "country": "KR",
     "icon": "https://play-lh.googleusercontent.com/U5YSaxOKEHEpl2a8xzeCBhyuP2OT2iqMfTp50k3LgP4syfTGjwuO00Y-xU2W7Io2rvygVJ_JLnt8xfF0Fb3yGg=w48",
     "source": "google"
   },
@@ -9882,7 +9882,7 @@
   "gal:highschoolgirlsimulatorvirtuallifegames": {
     "icon": "https://play-lh.googleusercontent.com/VJmKoYqxpySuGbaYYUokXyq3joJMxT9g_8B6TUhDTpyZGs7Y06DeERB7KeGTLbMkbNtak1KobkhuPCJOtDARCQ=w48",
     "developer": "Meromsoft",
-    "country": null,
+    "country": "KR",
     "released": "2017.03.16",
     "url": "https://play.google.com/store/apps/details?id=com.Meromsoft.SchoolGirlsSimulator&hl=ko&gl=kr",
     "appId": "com.Meromsoft.SchoolGirlsSimulator",
@@ -10069,6 +10069,132 @@
     "developer": "Tailormade Games",
     "country": null,
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/c5/33/7bc53358-324e-65e3-a53a-d97270b3119c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "com.sortingwater.game.android": {
+    "released": "2025.09.29",
+    "developer": "Shoyo Mobi Tech Limited",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/m00c5IxxT8kthS8kDuhg6nDQAODTskWhL6UKHrV9YY3NVBoAbe_V5Shva8-aKrKNjWRVpBGosUfhAvj6d3ev=w48",
+    "source": "google"
+  },
+  "com.moonactive.jellybusters": {
+    "released": "2026.01.26",
+    "developer": "Moon Active",
+    "country": "IL",
+    "icon": "https://play-lh.googleusercontent.com/xvryizEMjZtxeFR2ec01RfxhlQQUOqrP94P38He8Y6xfq8eTODMYNDWVdsd-EfcWtp5sA9e4Rx5M34e3ptSv7A=w48",
+    "source": "google"
+  },
+  "net.gameduo.el": {
+    "released": "2026.11.25",
+    "developer": "Gameduo",
+    "country": "KR",
+    "icon": "https://play-lh.googleusercontent.com/MMnwy9qXmwDWu4r9yVsbnoq3h5yyAkrZCIzhE_AugWoF-3EgsqnpmCU2pMFIS5ztETsQ-aJiCtCarQNOZIt9bQ=w48",
+    "source": "google"
+  },
+  "com.newleapsoft.zszz.g": {
+    "released": "2026.11.15",
+    "developer": "NEWLEAPSOFT",
+    "country": "KR",
+    "icon": "https://play-lh.googleusercontent.com/08aiZ7s7DgGAl5uIIVrH71fPoAqkLDdA3Ik9Mvz4aozxM-EGBgh9S-lcp-GydTkCBTisDI-T7nykAY3McaT3irM=w48",
+    "source": "google"
+  },
+  "com.highbrow.games.tkr": {
+    "released": "2026.11.23",
+    "developer": "highbrow",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/FUHZszP0mBzes3aDaZSdJP6pO6p-9wP-9J7WAxvqM1-9BRgJFWNdGTvLMshJ2ehFECuo8UGgHFfaNmcXlhLV9_o=w48",
+    "source": "google"
+  },
+  "com.Eclipse.Neuphoria": {
+    "released": "2025.08.28",
+    "developer": "AIMED",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/3b8UjwQWEKtOkO9FbxOnMmUWm2jrhlkUEL5twAuTCEp2m0QpXl6rvw4jpAC6G92cMwt_cJBn_NVLDCHnMAlFOQ=w48",
+    "source": "google"
+  },
+  "com.Garawell.LoopSort": {
+    "released": "2025.10.08",
+    "developer": "VOODOO",
+    "country": "FR",
+    "icon": "https://play-lh.googleusercontent.com/5wPzX6vBVV-kr4jknuW4ACmYrRgD5m2UwjXw9VFlWAhIsJ5k_8BND8m8NGUv6hOgPuXQzOmvNBQYKY-GWNfDxg=w48",
+    "source": "google"
+  },
+  "com.uc.gym.clicker": {
+    "released": "2024.02.15",
+    "developer": "Unicorn Studio Official",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/Vp-CEfjUHkl8wh6dkZYX028yjO4xpZr22PzE47YQNejWPjYlE_V0fc6vr_CxtRCRZ-7rFqHf0kBhq4oNpNSL=w48",
+    "source": "google"
+  },
+  "net.kernys.aooni": {
+    "released": "2014.03.23",
+    "developer": "AWESOMEPIECE",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/pcsb/AEecphb4IeAz_3qK2jAUC_18TFJA1LQEo7oC3D7VcRMB0maKKlo_Sr8RQVHJigOzRRUDtv-y1_FR82Lx-YxmYs9KksJD0wSI=w48",
+    "source": "google"
+  },
+  "com.nebula.splashbuster": {
+    "released": "2026.07.27",
+    "developer": "Nebula  Studio",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/jjosaZOyKGtjL6N--FRuGbNuaStI8iEYRAEj0G78I4OasXfvtZd2M0Sv5_xv8wqzctWA84WyK7MAAjG3AXoz=w48",
+    "source": "google"
+  },
+  "com.chess": {
+    "released": "2010.02.01",
+    "developer": "Chess.com",
+    "country": "US",
+    "icon": "https://play-lh.googleusercontent.com/JO7Z75U1oypXpNTAklroO5emKWePni0sK9zn1E_nRgqmbAHoMxz1oQHDfSTpcycdht92dTBejkpEDXttGeCWN74=w48",
+    "source": "google"
+  },
+  "6802933822": {
+    "released": "2026.11.25",
+    "developer": "Game Duo Co.,Ltd.",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/99/70/339970ab-19ab-367e-ed56-598753550525/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6824414587": {
+    "released": "2026.11.26",
+    "developer": "NEWLEAP SOFT",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/6b/b5/c76bb5c7-04ff-a171-eaeb-de5a5eabb458/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6816853767": {
+    "released": "2026.11.26",
+    "developer": "SKYWALK",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/fa/86/aefa8616-9018-e4e0-fc83-04143121eb0d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6805725616": {
+    "released": "2026.09.16",
+    "developer": "Shycheese",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/bc/78/59bc78ec-8a48-3525-2990-65a80b03ff48/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6835444082": {
+    "released": "2026.11.24",
+    "developer": "Game Duo Co.,Ltd.",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/89/73/4089737d-c356-fa9d-869c-756a8fdcd1f5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6474961936": {
+    "released": "2025.03.17",
+    "developer": "NETEASE INTERACTIVE ENTERTAINMENT PTE. LTD",
+    "country": "CN",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/70/c6/c170c63d-1bcc-055c-56bd-0ecf8fd12366/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6444598069": {
+    "released": "2023.04.26",
+    "developer": "Wemade Co., Ltd.",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/c0/c0/6cc0c0ed-c5cc-0dbb-10d1-2c4cd8cb661d/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/100x100bb.jpg",
     "source": "apple"
   }
 }
