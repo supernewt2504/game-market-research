@@ -1,12 +1,12 @@
 {
   "431946152": {
-    "researchedAt": "2026-11-21T14:47:04.297Z",
+    "researchedAt": "2026-11-28T14:47:34.430Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "기타",
-      "short": "앱스토어 11계단 상승, 확인된 원인 기사 없음(추정)",
-      "summary": "이번 순위 상승을 직접 설명하는 최신 한국어 기사는 찾지 못했다. 제공된 스토어 업데이트 내역은 버그 수정과 속도·안정성 개선이라는 일반적인 내용뿐이라 매출 급등의 직접 원인으로 보기 어렵다. 과거 기사에서는 어린이날, 겨울방학, 설 연휴처럼 아이들이 용돈이나 세뱃돈을 받는 시기에 로블록스 매출이 오른 사례가 확인되므로, 이번 상승도 시즌성 소비 증가일 가능성이 있으나 이는 추정이다.",
+      "short": "원인 미확인: 스토어 업데이트는 버그·성능 개선 위주라 순위 상승과 직접 연결되지 않음",
+      "summary": "검색으로는 현재 앱스토어 매출 9계단 상승의 원인을 직접 다룬 최신 한국어 기사를 찾지 못했다. 찾은 기사들은 어린이날(2024년 5월)이나 설 연휴(2024년 2월)처럼 과거 특정 시기의 매출 급증을 다루거나 사용자 수 중심 집계였다. 제공된 스토어 업데이트 내역은 정기 버그 수정과 속도·안정성 개선이라는 일반적인 내용뿐이라 상승 요인으로 보기 어렵다. 따라서 이번 상승은 원인이 확인되지 않은 상태로 두며, 일시적 이벤트나 결제 증가 여부는 추가 자료로 확인이 필요하다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE=w128",
       "screenshots": [
@@ -44,13 +44,13 @@
     }
   },
   "553834731": {
-    "researchedAt": "2026-11-22T14:46:29.414Z",
+    "researchedAt": "2026-11-28T14:46:57.906Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "기타",
-      "short": "기사 미확인, 주간 업데이트 기반 추정(근거 약함)",
-      "summary": "이번 순위 상승을 설명하는 최신 한국어 기사는 검색되지 않았다. 스토어 업데이트 문구는 게임이 매주 새 레벨과 기능을 추가한다는 일반적인 내용뿐이라 특정 이벤트나 신규 콘텐츠를 확인할 수 없다. 따라서 정기 업데이트에 따른 노출 증가로 추정할 수 있지만 검증되지 않은 가설이다.",
+      "short": "최근 기사 미확인, 스토어 문구 기준 판단 불가(추정)",
+      "summary": "이번 검색에서는 캔디크러쉬사가의 현재 App Store 매출 24계단 상승 원인을 직접 다룬 최신 한국어 기사를 찾지 못했습니다. 제공된 스토어 최근 업데이트 내역에는 매주 새로운 업데이트와 새 기능·레벨 안내, 복귀 유저 환영 문구만 있고 구체적인 이벤트, 콜라보, 신규 시즌 정보는 없습니다. 따라서 상승 원인은 확인되지 않았으며, 매출 이벤트나 콘텐츠 업데이트가 영향을 줬을 가능성은 있으나 근거가 없는 추측입니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI=w128",
       "screenshots": [
@@ -227,28 +227,20 @@
     }
   },
   "963067330": {
-    "researchedAt": "2026-11-10T14:47:44.275Z",
+    "researchedAt": "2026-11-28T14:47:27.211Z",
     "verified": true,
     "data": {
       "verified": true,
       "category": "컨텐츠 업데이트",
-      "short": "10주년 대규모 업데이트·이벤트와 마이쿠키 출시가 순위 반등 견인",
-      "summary": "데브시스터즈는 10주년을 맞아 이용자가 직접 만든 쿠키로 달리는 콘텐츠(마이쿠키)와 역대 에피소드를 모은 모드를 추가해 즐길 거리를 넓혔다. 업계 분석에서는 10주년 대규모 업데이트와 오프라인 행사 효과를 최근 순위 반등의 원인으로 꼽았다. 다만 해당 보도의 역주행 수치(구글 플레이 114위→31위)는 구글 플레이 기준이며, 애플 앱스토어에서는 10월 17일 70위에서 27일 7위까지 오른 것으로 전해졌다. 이번 변동(앱스토어 5계단 상승, 49위)은 같은 10주년 업데이트 흐름과 맞물린 것으로 보인다.",
+      "short": "10주년 대규모 업데이트·오프라인 행사로 순위 반등",
+      "summary": "더게임스데일리 보도에 따르면 10월 중순 앱스토어 70위에서 27일 7위까지 오르는 등 뚜렷한 반등이 있었고, 이는 서비스 10주년 대규모 업데이트와 오프라인 행사 효과로 분석됐다. 다만 이 기사는 10월 반등을 다루며, 현재 42위로 10계단 오른 순위 변동과 직접 일치하는지는 확인되지 않았다. 스토어 업데이트 내역의 크리스마스 테마 신규 펫·스킨, 신규유저 보상 이벤트, 팀파이트 시즌 등도 함께 순위를 받쳤을 가능성이 있다.",
       "articles": [
         {
-          "title": "'쿠키런: 오븐브레이크' 10주년 업데이트⋯직접 만든 쿠키로 달려",
-          "url": "https://www.etoday.co.kr/news/view/2640459"
-        },
-        {
-          "title": "데브 '쿠키런: 오븐 브레이크' 저력 여전하네~ 구글 매출 83계단 역주행 성공…시리즈 장기 흥행 기대감 커져",
+          "title": "데브 '쿠키런: 오븐 브레이크' 저력 여전하네~",
           "url": "https://www.tgdaily.co.kr/news/articleView.html?idxno=407774"
-        },
-        {
-          "title": "쿠키런 오븐브레이크 10주년, 4156억 벌었지만 \"매출보다 이용자 확대\"",
-          "url": "https://www.wikitree.co.kr/articles/1168932"
         }
       ],
-      "icon": "https://play-lh.googleusercontent.com/dlSJyyapJ336pDW4NKNS1hs9LFhjOj-KWW-HlZDowCgGpEb51kYFLiuJIr9BVDJH5NNMfjXNAamysOebRCMFfdc=w128",
+      "icon": "https://play-lh.googleusercontent.com/NfelwGUZT0yWICcL-w3p_3NuV_BoOXSo6E4296iz1CqK2K8Bpmx8IjS-X9gp3Q7tVdIxA7BtzAdKygiIP0h-MA=w128",
       "screenshots": [
         "https://play-lh.googleusercontent.com/Qd329g09OpiQmskDTi2FaU2E_464utVt-3W7szXRm_J8IkQT-XmQCP05tQzWP0yEcL-kFsWPbUfNy0crUuWYmQ=w400",
         "https://play-lh.googleusercontent.com/2-AU9Wf1Y9kW0jxOD3XdKoBpa7QQHBCwig-H74jQCZhuKIj2bL03fvpuZii62N3nM_ax-ptGqFl_g-pS4xJQ6w=w400",
@@ -256,9 +248,9 @@
         "https://play-lh.googleusercontent.com/kS4iHQ8HoeYwxl3RAmsgovjX6P4ry606eeXvS5cWsRrIfR0T2s1tevuNqk1IXZNL5jQde-niEQyqXoyVIsTlkXU=w400"
       ],
       "video": "https://www.youtube.com/embed/b69f2eFqmdU?vq=large&rel=0&autohide=1&showinfo=0",
-      "videoImage": "https://play-lh.googleusercontent.com/wCNkoNlL2YwU64Qdv21V6zmq6srlz8kRZpmIZL6q6h5laJz8PADRMR40D99hPdf3tLo7Z5GdRx01o4oPKozneA=w480",
+      "videoImage": "https://play-lh.googleusercontent.com/I7z-Vma8B4KhveX5oMZKiVjxmtLWW7c9JNEjK4rV1uVbiOz1Iu0attm_h7wDGyQc-3Z2LmtnYxqHEBfVWXMrkw=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.devsisters.gb&hl=ko&gl=kr",
-      "recentChanges": "**신규유저 특별 보상 이벤트 (~11/27)<br>쉽고 재밌는 국민 런게임!<br>수백 종의 귀여운 쿠키와 함께 즐겨요.<br><br>*버그 수정<br>1. 모든 용감한 우리들에게 이벤트모드 OPEN!<br>어느날 갑자기 게임 속에 떨어졌다?!<br>이벤트를 플레이하며 스위트 아카이브의 위기를 해결해 주세요!<br><br>2. 브레이브 로드 쿠키 &amp; 픽셀방울 출시!<br>스위트 아카이브의 창조자 브레이브 로드 쿠키를 만나보세요!<br><br>3. 점프맛 쿠키 &amp; 토마토 찹찹 출시!<br>스위트 아카이브 전담 안전 점검관 점프맛 쿠키를 만나보세요!<br><br>4. 세계 제작용 콘솔창 보물 출시!<br>달콤한 세계를 만드는 방법이 실시간으로 입력되는 콘솔창!<br><br>5. 마이쿠키 출시!<br>오븐브레이크 세계를 달리는 나만의 쿠키를 만들어 보세요!<br>마이쿠키 우정런에서 친구들과 달리며 내 마이쿠키를 자랑해 보세요!<br><br>6. 10주년 기념! 10가지 이벤트 OPEN!<br>다양한 이벤트를 플레이하고 스위트 키코드를 모아<br>엄청난 보상과 특별한 기념 스킨들을 획득하세요!"
+      "recentChanges": "**신규유저 특별 보상 이벤트 (~12/30)<br>쉽고 재밌는 국민 런게임!<br>수백 종의 귀여운 쿠키와 함께 즐겨요.<br><br>1. 구겔호프맛 쿠키 &amp; 산타보따리 펫 출시<br>스노우벨에서 온 반항아, 구겔호프맛 쿠키를 만나보세요!<br><br>2. 광휘의 곰젤리 인장 레전더리 보물 출시!<br>영롱한 빛의 곰젤리들이 쏟아지는 눈부신 권능을 만나보세요!<br><br>3. 여름나라의 크리스마스! OPEN!<br>뜨거운 여름나라의 산타학교, 샌드벨!<br>과연 샌드벨에 눈이 내리는 기적이 일어날까요?<br><br>4. 신규 스킨 출시!<br>구겔호프맛 쿠키의 슈퍼에픽 스킨과 버터베어맛 쿠키의 에픽 스킨을 만나보세요!<br><br>5. 2026 쿠키대상 시작!<br>올해도 쿠키대상이 돌아왔습니다!<br>당신의 쿠키에게 투표하세요!<br><br>6. 팀파이트: 쟁탈전 시즌! (12월 4일 OPEN)<br>수박맛 쿠키의 특별 수업과 함께 새로운 시즌을 즐겨보세요!"
     }
   },
   "1053012308": {
@@ -315,13 +307,13 @@
     }
   },
   "1105855019": {
-    "researchedAt": "2026-11-22T14:46:47.085Z",
+    "researchedAt": "2026-11-28T14:47:49.482Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "등대 이벤트·겨울 컬렉션 등 신규 콘텐츠 추가로 매출 순위 상승 추정",
-      "summary": "검색으로는 이 순위 변동을 직접 다룬 한국어 기사를 찾지 못했다. 스토어 업데이트 내역에는 '외딴 등대' 신규 이벤트와 '겨울 컬렉션' 테마 카드 추가가 있어, 기간 한정 콘텐츠가 유입 및 결제를 자극했을 가능성이 있다. 다만 이는 업데이트 내역에 근거한 추정이며, 매출 상승의 실제 원인으로 확정할 수 없다.",
+      "short": "외딴 등대 신규 이벤트·겨울 컬렉션 추가로 매출 순위 상승 추정",
+      "summary": "검색에서 이 순위 상승을 직접 다룬 최신 한국어 기사는 찾지 못했다. 스토어 최근 업데이트 내역에는 '외딴 등대' 신규 이벤트(폭풍 속 배 구조 미션)와 '겨울 컬렉션'(테마 카드 수집) 두 가지가 있다. 두 콘텐츠가 신규 유입과 결제 욕구를 자극했을 가능성이 있으나, 이는 업데이트 내역을 근거로 한 추정이며 매출 증가의 직접 원인이라는 검증은 되지 않았다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/C5Yp55qwwU8zJAkfO9DQTtHauJcmQgMM59HH8odxPM6KlHiqO6WY9jZsWnIN1k3pfgwo2o3e3ygiizwHSIPbY-w=w128",
       "screenshots": [
@@ -489,13 +481,13 @@
     }
   },
   "1229016807": {
-    "researchedAt": "2026-11-19T14:47:16.140Z",
+    "researchedAt": "2026-11-28T14:46:50.483Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "경쟁전 개편·신규 브롤러·시즌 패스 업데이트로 매출 순위 상승 추정",
-      "summary": "최근 스토어 업데이트 내역에는 경쟁전 초기화와 개편, 신규 브롤러 루비와 레이, 선더 프로그 추가, 브롤 패스 시즌 56·57이 포함되어 있다. 이 변화가 이용자 결제를 늘렸을 가능성이 있으나, 이번 순위 상승을 직접 다룬 최신 기사는 찾지 못했다. 검색된 기사는 2024년 11월 업데이트에 관한 것이라 현재 상승 원인을 입증하지 못하므로 verified=false로 둔다.",
+      "short": "경쟁전 개편·신규 브롤러 루비/레이·선더 프로그 업데이트",
+      "summary": "최근 기사에서 이번 순위 상승 원인을 직접 다룬 자료를 찾지 못해, 스토어 업데이트 내역(업데이트 70: 경쟁전 초기화 및 브롤리데이, 2026년 11월~12월)을 근거로 판단했습니다. 업데이트에는 솔로 플레이어를 위해 정교해진 경쟁전, 신규 브롤러 루비와 레이, 선더 프로그, 추가 핀 슬롯과 신규 게임 모드, 하이퍼차지 등이 포함됩니다. 다만 매출 순위 상승과의 인과관계는 추정이며, 시즌 56·57 브롤 패스 공개도 함께 작용했을 가능성이 있습니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/c0hXyphuxh-gpnhSJGZV1I0IpWbq9IdEc1pautS7SmHlXNBrCff7bMqK-u63pJdfP3KJoxamG7W1dRMKr7ZzWKs=w128",
       "screenshots": [
@@ -957,13 +949,13 @@
     }
   },
   "1480616990": {
-    "researchedAt": "2026-11-20T14:46:37.771Z",
+    "researchedAt": "2026-11-28T14:47:10.417Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "7.3 패치(신규 챔피언 흐웨이·사일러스, 신규 모드) 영향 추정",
-      "summary": "최근 기사 검색에서는 이번 순위 상승을 직접 다룬 최신 한국어 기사를 찾지 못했습니다. 제공된 스토어 업데이트 내역을 근거로 보면, 7.3 패치의 신규 챔피언 흐웨이와 사일러스, 3대3 신규 모드, 신규 증강 등 콘텐츠 추가가 신규 유입과 매출 상승의 원인일 가능성이 있습니다. 다만 검색된 게임 순위 페이지에서는 앱스토어 기준 45위(전일 대비 8계단 하락)로 나타나 15위 수치와 차이가 있어, 차트 기준 시점과 집계 방식을 확인할 필요가 있습니다.",
+      "short": "7.3 패치(9월): 신규 챔피언·3대3대3대3 모드 추가",
+      "summary": "스토어 업데이트 내역에 따르면 9월 7.3 패치 '스포트라이트'로 신규 챔피언 흐웨이·사일러스·렉사이와 신규 3대3대3대3 모드, 커뮤니티 크리에이터 행사 '스매쉬', 무작위 총력전 신규 증강이 추가되었다. 이러한 콘텐츠 업데이트가 앱스토어 매출 순위 상승의 원인으로 보이나, 이를 직접 다룬 최신 기사는 찾지 못해 추정에 가깝다. 참고로 검색된 순위 자료는 9월 월간 통합 50위, 10월 8일 앱스토어 76위 등으로 현재 41위와 시점이 달라 교차 검증이 어렵다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/7-kbcpgrCOE1mleJ9g0d61sJeoqKcQRIj4iFvJ8DjPlRIfocOWfOQsXzKWw2I5oHySVdbjR2fvzfCCz1FYQ-RQ=w128",
       "screenshots": [
@@ -1088,13 +1080,13 @@
     }
   },
   "1521236603": {
-    "researchedAt": "2026-11-24T03:04:47.301Z",
+    "researchedAt": "2026-11-28T14:47:21.141Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "기타",
-      "short": "순위 상승 원인 기사 미확인, 업데이트 내역은 일반 문구",
-      "summary": "검색으로 찾은 한국어 기사 중 Travel Town의 App Store 매출 순위 상승 원인을 직접 다룬 기사는 없었습니다. 스토어 최근 업데이트 내역은 버그 수정과 게임 개선을 알리는 일반적인 안내문이라 특정 이벤트나 콘텐츠를 근거로 삼기 어렵습니다. 따라서 6계단 상승의 원인은 확인되지 않은 상태이며, 확인되지 않은 추정을 근거로 분류하지 않았습니다.",
+      "short": "스토어 업데이트만 확인, 상승 원인 기사 미확인",
+      "summary": "최신 한국어 기사에서 Travel Town의 10계단 상승 원인을 확인하지 못했다. 제공된 스토어 업데이트 문구는 일반적인 환영 인사와 버그 수정 안내뿐이라 구체적인 이벤트나 신규 콘텐츠를 특정할 수 없다. 검색된 외부 자료에는 2026년 8월 말 버전 2.12.1721에 노동절 선물 이벤트가 포함되었다는 내용이 있지만, 이것이 이번 순위 상승과 직접 연결된다는 근거는 없어 원인으로 단정하지 않는다. 확인된 원인이 없으므로 보류하고, 앱 애널리틱스에서 해당 기간의 이벤트와 결제 변화를 점검할 필요가 있다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/_YoJBEqLA6qZ0xiulFJWKfubaZmxzyphcW4BwMIXFapkO3ifyuVsnMaLkWQClMPuUnahVtIAtyU_baUHLOdP2A=w128",
       "screenshots": [
@@ -1310,13 +1302,13 @@
     }
   },
   "1606549505": {
-    "researchedAt": "2026-11-20T14:48:11.083Z",
+    "researchedAt": "2026-11-28T14:48:02.190Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "2주년 기념 업데이트·신규 레벨 100개·체스 정원 추가로 순위 상승 추정",
-      "summary": "검색으로는 이번 순위 상승을 직접 다룬 최신 한국어 기사를 찾지 못했습니다. 스토어 업데이트 내역에 따르면 신규 레벨 100개, 신규 아이템 '수정', 새 적 '슬라임', 새 구역 '체스 정원'이 추가되었고 2주년 기념 선물도 제공됩니다. 이러한 대규모 콘텐츠 업데이트와 기념 이벤트가 App Store 매출 상위권 상승의 원인일 가능성이 있으나, 확인된 근거가 없으므로 추정입니다.",
+      "short": "2주년 기념 신규 레벨·구역·적 업데이트로 상승 추정",
+      "summary": "검색에서 로얄 킹덤의 이번 5계단 상승 원인을 직접 다룬 최신 기사를 찾지 못했습니다. 따라서 스토어 업데이트 내역을 근거로 판단하면, 2주년 기념 업데이트와 함께 레벨 100개, 신규 아이템 수정, 신규 적 슬라임, 체스 정원 구역이 추가되어 컨텐츠 업데이트가 상승 요인으로 보입니다. 다만 이는 추정이며 매출 수치나 이벤트 효과는 확인되지 않았습니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/rebIi7rCFacazMU6uBVIe7iKUEmxDfSpE_izjgMYUMhdOEautp-IexJ4FS-j35MWAZYCitxH-kXSvgR2fm0k=w128",
       "screenshots": [
@@ -2171,13 +2163,13 @@
     }
   },
   "6475757306": {
-    "researchedAt": "2026-11-16T14:47:20.041Z",
+    "researchedAt": "2026-11-28T14:47:15.876Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "신규 레벨·디즈니 캐릭터·기능 추가 업데이트로 6계단 상승 추정",
-      "summary": "검색으로는 이 게임의 순위 상승을 직접 다룬 최신 한국어 기사를 찾지 못했습니다. 제공된 스토어 업데이트 내역에는 새 레벨 추가, 새로운 디즈니 캐릭터 잠금 해제, 새로운 디즈니 기능 추가, 성능 개선이 적혀 있어 콘텐츠 업데이트가 상승 원인일 가능성이 있습니다. 다만 이는 업데이트 내역에 근거한 추정이므로 확정된 원인으로 보기 어렵고, 같은 기간의 프로모션이나 매출 이벤트 여부는 확인되지 않았습니다.",
+      "short": "신규 레벨·디즈니 캐릭터·기능 추가 업데이트 영향 추정",
+      "summary": "스토어 최근 업데이트 내역에는 신규 레벨 추가, 신규 디즈니 캐릭터 잠금 해제, 신규 디즈니 기능 도입, 성능 개선이 포함되어 있어 이것이 13계단 상승의 배경일 가능성이 있다. 다만 이번 상승을 직접 다룬 최신 한국어 기사는 찾지 못했다. 검색된 기사는 2025년 4월 출시 이후의 매출 성과를 다룬 내용이라 현재 순위 변동의 근거로 쓰기에는 시점이 맞지 않는다. 따라서 업데이트 내역에 근거한 추정으로만 보고, 검증은 완료되지 않은 상태로 둔다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/BpyKPyeCiAoCtYP23WtOoHW1G_4IAGUyk4G6V_5YNmXomuBwNC5ZnSq5OfxejW-Ufuukma8-UYZirB2wz3m8UnM=w128",
       "screenshots": [
@@ -2405,13 +2397,13 @@
     }
   },
   "6739554056": {
-    "researchedAt": "2026-11-25T03:48:13.881Z",
+    "researchedAt": "2026-11-28T14:47:56.434Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "낚시 선수권 최적화·임무 추가로 이벤트 참여 효율 상승 추정",
-      "summary": "검색으로 찾은 기사들은 대부분 이 업데이트 이전의 매출 흐름을 다뤄, 이번 9계단 상승을 직접 설명하지 못했습니다. 스토어 업데이트 내역에 따르면 낚시 선수권 대회에 해초 도감과 배수 낚시 10배 옵션이 추가됐고, 기본 낚시 도구 레벨이 자동으로 최고치까지 오르며, 이벤트 낚시 포인트로 섬 장식품을 받는 임무 기능이 들어갔습니다. 이 변화들로 이벤트 참여 효율이 높아졌다는 점이 상승의 원인으로 추정되지만, 이는 업데이트 내역에 근거한 추정이며 매출 데이터로 확인되지 않았습니다.",
+      "short": "낚시 선수권 최적화·영주 프로필 업데이트 추정(미검증)",
+      "summary": "스토어 업데이트 내역에는 낚시 선수권 대회 최적화(해초 도감, 배수 낚시 10배 옵션, 낚시 도구 자동 최고 레벨, 이벤트 임무, 보상 일괄 수령)와 상대 영주의 고화질 프로필 확인 기능이 포함되어 있어, 이벤트 참여 편의를 높인 컨텐츠 업데이트가 순위 상승의 원인일 가능성이 있다. 다만 이 업데이트가 5계단 상승을 직접 설명한다는 기사는 검색되지 않았고, 찾은 자료는 주로 월간 매출 순위표였다. 따라서 원인은 업데이트 내역에 근거한 추정이며 검증되지 않았다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq=w128",
       "screenshots": [
@@ -3139,26 +3131,14 @@
     }
   },
   "6763262759": {
-    "researchedAt": "2026-11-14T14:47:53.983Z",
+    "researchedAt": "2026-11-28T14:46:31.962Z",
     "verified": true,
     "data": {
       "verified": true,
       "category": "신규 오픈",
-      "short": "10/29 정식 출시 및 400회 뽑기 상당 출시 보상 이벤트",
-      "summary": "10월 29일 가레나가 정식 출시하면서 여러 이벤트에 참여하면 최대 400회 뽑기 상당의 보상과 SSR 모험가·동반자를 받을 수 있게 했고, 이것이 초반 신규 유입을 이끈 것으로 보입니다. 신규 모험가 '미도리' 이벤트, 둥지 사냥, 격투대회 등 새 콘텐츠도 함께 공개됐습니다. 전 지역 모험단 레벨 합계 목표를 달성하면 모든 이용자에게 한정 칭호와 스탬프를 주는 '사냥의 유대' 행사와 친구 초대 이벤트(11월 30일까지)도 진행 중입니다. 출시 후 주간 순위가 크게 오른 기사가 있어 신규 오픈 효과가 순위 상승의 주된 원인으로 판단됩니다.",
+      "short": "10월 29일 글로벌 출시 후 초반 매출 집계 반영으로 상승",
+      "summary": "게임은 10월 29일 글로벌 정식 출시됐고, 출시 직후 국내 구글 플레이 인기 순위 4위에 올랐다. 주간 매출 순위는 출시 첫 주에 나흘치만 집계됐다가 이후 전체 기간이 반영되며 84위에서 25위로 크게 올랐다. 출시 보상이 풍부해 과금 부담이 가려진 초반 구간이라는 평가도 함께 나왔다.",
       "articles": [
-        {
-          "title": "가레나, '몬스터헌터 아웃랜더스' 정식 출시!",
-          "url": "https://www.inven.co.kr/webzine/news/?news=322710"
-        },
-        {
-          "title": "모바일 '몬스터헌터 아웃랜더스' 정식 출시…보상 이벤트 진행 : 네이트 뉴스",
-          "url": "https://news.nate.com/view/20261029n17690?mid=n0105"
-        },
-        {
-          "title": "가레나 '몬스터헌터 아웃랜더스' 오늘(29일) 정식 출시",
-          "url": "https://m.ruliweb.com/news/read/231235"
-        },
         {
           "title": "카카오게임즈 '도깨비의세계', 주간 매출 1위 수성…'니케' 맹추격",
           "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62197"
@@ -3314,34 +3294,46 @@
     }
   },
   "com.netmarble.tskgb": {
-    "researchedAt": "2026-11-14T14:47:02.021Z",
+    "researchedAt": "2026-11-28T14:47:45.263Z",
     "verified": true,
     "data": {
       "verified": true,
       "category": "컨텐츠 업데이트",
-      "short": "1.5주년 업데이트로 신규 영웅 이브·영지·코스튬 추가",
-      "summary": "넷마블이 1.5주년 기념 'Re:BIRTH Day - 대축제' 업데이트로 심연의 사도 소속 신규 영웅 '이브'를 추가하고, 이브 성장 이벤트와 메인 시나리오 31영지 및 쫄작 스테이지 10영지 등 콘텐츠를 확장했다. 기사는 코스튬을 6종으로 보도해 스토어 내역의 7종과 차이가 있다. 기사에 순위 상승과의 직접적인 인과관계는 명시되어 있지 않아, 이번 업데이트가 6계단 상승의 원인이라는 판단은 업데이트 시점과 스토어 내역에 근거한 추정이다.",
+      "short": "1.5주년 업데이트로 신규 영웅 바엘·회랑 콘텐츠 추가",
+      "summary": "넷마블은 26일 1.5주년 기념 'Re:BIRTH Day - 대향연' 업데이트를 실시하며 심연의 사도 소속 마법형 영웅 바엘을 추가했다. 함께 로그라이트 방식의 PVE 콘텐츠 '회랑'이 열렸고, 바엘 성장 이벤트는 12월 10일까지 진행된다. 신규 코스튬 3종과 파이 각성, 밀리아 리메이크 등 캐릭터 강화 요소도 포함돼 복귀 및 기존 이용자의 과금 동기를 자극한 것으로 보인다. 기사에서는 순위 변동의 직접 원인을 명시하지 않았으므로, 이는 업데이트 내역과 기사 내용을 바탕으로 한 해석이다.",
       "articles": [
         {
-          "title": "넷마블, 세븐나이츠 리버스 1.5주년 업데이트…신규 영웅 '이브' 추가 < 보도자료 < 경제일반 < 경제 < 기사본문 - 국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3750356"
+          "title": "'세븐나이츠 리버스', '파이' 각성·'밀리아' 리메이크까지 1.5주년",
+          "url": "https://www.thisisgame.com/articles/433407"
         },
         {
-          "title": "넷마블 '세븐나이츠 리버스', 신규 영웅 '이브' 추가…1.5주년 대축제 업데이트 < 게임 < 기사본문 - 넥스트데일리",
-          "url": "https://www.nextdaily.co.kr/news/articleView.html?idxno=254871"
+          "title": "넷마블 '세븐나이츠 리버스', 1.5주년 업데이트…신규 영웅 바엘 추가",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3764202"
+        },
+        {
+          "title": "넷마블, 1.5주년 업데이트… 신규 영웅 ‘바엘’ 추가",
+          "url": "http://www.ttlnews.com/news/articleView.html?idxno=3166740"
+        },
+        {
+          "title": "넷마블 ‘세븐나이츠 리버스’, 1.5주년 대규모 업데이트…신규 영웅 ‘바엘’ 등장",
+          "url": "https://www.newsflix.co.kr/news/articleView.html?idxno=33349"
+        },
+        {
+          "title": "‘세븐나이츠 리버스’, 1.5주년 대향연 업데이트…신규 영웅 ‘바엘’ 추가",
+          "url": "https://www.ppss.kr/news/articleView.html?idxno=323391"
         }
       ],
-      "icon": "https://play-lh.googleusercontent.com/nzAuo9T5xaXc-gdAZR44nw6KPyQCz59pe1pvu2Iclxw_pk7Zc43gafLGkzc0UyveAJio5_4eEW92FEjNADt0=w128",
+      "icon": "https://play-lh.googleusercontent.com/pcsb/AEecphaUrjVoXrfN410w8CO_ViY-6ReJNIQ_xYkmxDQYgMVDCTP4-uXgfMpkZ0CTD5VhTze8ENk16qMSEJdXQoGAT6bU4gyidEM=w128",
       "screenshots": [
         "https://play-lh.googleusercontent.com/-B3kFwG3iUl-OKa8nK_3ZTT-TB6WsO71Z9wmdEOr2MJk_DSfBRdHhSRP1_O_Iq-0fXI5AwVOE1-49zynJVY-9h0=w400",
         "https://play-lh.googleusercontent.com/59H9wNbAqz7n8wtz9yR0mhSFpPKY6cNeFw1Y_3Lo8CcBW2YOZwHFfX4R2Kw3j3cx9yZ0YB8VPJ9-ZaFQN1TSS9A=w400",
         "https://play-lh.googleusercontent.com/_LUvI5G2ji4mSNwZSrd9HjsiWbgR1gZMrhYe6CzMvvMstDTqWhtQXvj52CTjkleqrch7kQK9PGVHc-m8w1wj=w400",
         "https://play-lh.googleusercontent.com/nA1sAhISdHNyWFHYV7BAIoXUZuZe8IMa-Wx8BpZba04nZl_y-lkFLC3xNmszlPCg9FCdfPco1smlCRlCVbovye8=w400"
       ],
-      "video": "https://www.youtube.com/embed/pC23jrGHAJ0?vq=large&rel=0&autohide=1&showinfo=0",
-      "videoImage": "https://play-lh.googleusercontent.com/-H0NH6Tk1oSzyKlnohlW9xaPE3UQsmlVZ2htt7qC5qzgGpfY_Nf633BpTP9tNLHm0bEHrPu5LOI_OMWznOX2hTI=w480",
+      "video": "https://www.youtube.com/embed/SqDs91P2-5E?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/pcsb/AEecphaYkCk6QQzrkbLSSx73RV7p_fFXUnYeetM_ZVKvt_p-C2r06X9lKB37KiXliYcLfQvJ71Giu4Eaa78ZZBjIBY6VXI_5gWk=w480",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.netmarble.tskgb&hl=ko&gl=kr",
-      "recentChanges": "[신규 추가 사항]<br>- 신규 전설 영웅 [이브] 추가<br>- 신규 영지 추가<br>- 신규 코스튬 7종 추가<br><br>[개선 및 수정 사항]<br>- 콘텐츠 편의성 개선<br>- 오류 사항 수정 / 기타 기능 개선"
+      "recentChanges": "[신규 추가 사항]<br>- 신규 전설 영웅 [바엘] 추가<br>- 영웅 각성 [파이] 추가<br>- 신규 콘텐츠 [회랑] 추가<br>- 신규 코스튬 3종 추가<br><br>[개선 및 수정 사항]<br>- 콘텐츠 편의성 개선<br>- 오류 사항 수정 / 기타 기능 개선"
     }
   },
   "com.webzen.mumonarch2.google": {
@@ -3553,21 +3545,25 @@
     }
   },
   "com.garena.game.mho": {
-    "researchedAt": "2026-10-31T18:47:15.996Z",
+    "researchedAt": "2026-11-28T14:46:42.342Z",
     "verified": true,
     "data": {
       "verified": true,
-      "category": "신규 오픈",
-      "short": "10월 29일 글로벌 정식 출시, 출시 기념 뽑기·SSR 보상 이벤트 진행",
-      "summary": "가레나가 캡콤 IP를 활용해 티미 스튜디오 그룹이 개발한 이 게임을 10월 29일 정식 출시하면서 신규 유입이 집중된 것으로 보인다. 출시 기념으로 최대 400회 뽑기 상당의 보상과 SSR 모험가·동반자를 제공하고, 11월 30일까지 친구 초대 이벤트를 진행한다. 출시 버전에는 신규 무기 차지액스가 포함됐으며, 개발진은 이후 시즌 업데이트로 콘텐츠를 늘리겠다고 예고했다.",
+      "category": "컨텐츠 업데이트",
+      "short": "SSR 프레야·스티리아 추가, 12/4 네르기간테 습격 이벤트 시작",
+      "summary": "가레나는 11월 27일 SSR 모험가 '프레야'와 '스티리아'를 추가하고, 프레야·스티리아 전용 이벤트와 출석 보상을 함께 열었습니다. 12월 4일부터는 4인 파티로 고룡 네르기간테를 토벌하는 기간 한정 '네르기간테 습격' 이벤트가 진행됩니다. 다만 수집한 기사들은 업데이트 내용만 다루며 구글 매출 순위 상승을 직접 언급하지는 않아, 순위와의 연관은 업데이트 시점에 기반한 추정입니다.",
       "articles": [
         {
-          "title": "가레나, ‘몬스터헌터 아웃랜더스’ 정식 출시!",
-          "url": "https://www.inven.co.kr/webzine/news/?news=322710"
+          "title": "몬스터헌터 아웃랜더스, 프레야·스티리아 공개",
+          "url": "https://www.inven.co.kr/webzine/news/?news=323954"
         },
         {
-          "title": "가레나 ‘몬스터헌터 아웃랜더스’ 오늘(29일) 정식 출시",
-          "url": "https://m.ruliweb.com/news/read/231235"
+          "title": "몬헌 아웃랜더스, 12월 4일 '네르기간테'를 대비하세요",
+          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=113479"
+        },
+        {
+          "title": "가레나, '몬헌 아웃랜더스' 신규 모험가 2종 선보여…12월 네르기간테 등장",
+          "url": "https://www.playforum.net/news/articleView.html?idxno=635958"
         }
       ],
       "icon": "https://play-lh.googleusercontent.com/ZPNpOwGr2MKvcICAPsduTVDJNOQRMUcrzr1X30WlKLV-GdIIbRTNQFiyemLkuLMx_t3Jfeovf8Qo38DglZY6=w128",
@@ -4322,13 +4318,13 @@
     }
   },
   "6443755785": {
-    "researchedAt": "2026-11-20T14:48:05.306Z",
+    "researchedAt": "2026-11-28T14:47:39.153Z",
     "verified": false,
     "data": {
       "verified": false,
       "category": "컨텐츠 업데이트",
-      "short": "주간 신규 지역·이벤트 추가로 콘텐츠 갱신 중",
-      "summary": "검색으로 순위 상승을 직접 설명하는 최신 한국어 기사는 찾지 못했다. 스토어 업데이트 내역을 보면 매주 새 지역과 주간 이벤트를 추가하는 운영이 이어지고 있어, 이 콘텐츠 갱신이 매출 상승의 배경일 가능성이 있다. 다만 이는 업데이트 내역에 기반한 추정이며, 매출 지표나 이벤트 성과 데이터로 검증이 필요하다.",
+      "short": "주간 신규 장소·이벤트 추가로 인한 매출 순위 상승 추정",
+      "summary": "검색으로는 이 게임의 순위 상승을 다룬 최신 한국어 기사를 찾지 못했습니다. 따라서 제공된 스토어 업데이트 내역을 근거로 판단하면, 매주 새 장소 해제와 주간 이벤트 추가가 주요 원인으로 보입니다. 다만 순위 변동의 직접적 원인은 확인되지 않았으므로 추정으로만 봐야 합니다.",
       "articles": [],
       "icon": "https://play-lh.googleusercontent.com/8nrl-23VkfKxd9HoGpSBaxz0oK3c6hpsFGPwMIyOP94CIndFH8teUUi8ULDr0UHqtVRBJOpHDTdMHvEVE7XjbA=w128",
       "screenshots": [
@@ -5360,6 +5356,75 @@
       "video": null,
       "storeUrl": "https://play.google.com/store/apps/details?id=com.epidgames.trickcalrevive&hl=ko&gl=kr",
       "recentChanges": "메인스토리 시즌3 외전 B 오픈!<br>리뉴아 꼬까꼬까옷 패스 출시!"
+    }
+  },
+  "6816853767": {
+    "researchedAt": "2026-11-28T14:46:26.374Z",
+    "verified": true,
+    "data": {
+      "verified": true,
+      "category": "신규 오픈",
+      "short": "11/26 정식 오픈 및 7일 오픈 선물 패키지로 신규 진입",
+      "summary": "스카이워크가 2026년 11월 26일 오전 10시에 국내 정식 출시하면서 앱스토어 신규 진입이 이루어졌다. 출시 전 앱스토어와 구글 플레이에서 사전예약을 받았고, 초기 접속자에게 7일간 재화·의상·차량 등을 담은 오픈 기념 패키지를 지급한다. 원작은 2025년 10월 서비스를 종료했다가 권리를 확보해 재개된 작품이라 이용자 관심이 이어진 것으로 보인다. 다만 기사에는 순위 수치나 매출 집계가 없어, 39위 진입의 정확한 기여도는 확인되지 않았다.",
+      "articles": [
+        {
+          "title": "스카이워크, 놀러와 마이홈 국내 사전예약 시작",
+          "url": "https://www.inven.co.kr/webzine/news/?news=322631"
+        },
+        {
+          "title": "놀러와 마이홈, 다시 컴백",
+          "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4026169"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/l-ThixQFDG_yVvE3niIFdfVn45gPQLF3JhmZFeACtpx4oJNDToquO9M1dXuJtZ19ht1katiYs3xY21dq-WkAhw=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/mHZc4n-keCzB1tEQhmTWVfQeHTXfzDSA2vYjSRnr22bBuS_GvR4zKR0vBwpAdVj6xflE5Z51w2fsloAciGgEVg=w400",
+        "https://play-lh.googleusercontent.com/grcP4LCh6-T_789Pp06HfcOZXO3A_IItlCyjiRIphVVTOGrD7276e3BZWpIYYFG8DNuaUGb-qqA-NVvwe-F8YA=w400",
+        "https://play-lh.googleusercontent.com/Tgr5yTtF2555pnqj6F4obTWrp9ziZJ18ljgwZqd59EGqM0Nc3yr8m5lrSdVESTdx1jabXv-3jCkpcuA2pzWG5A=w400",
+        "https://play-lh.googleusercontent.com/izEZlBypez8IPC3i8JxuMIMaZatN7yLD5THsk9MLSIGsbDhGOpCbpRgEkipoypbtBWWt2vjBGw1M7AMgsUK0YA=w400"
+      ],
+      "video": null,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.skywalkgames.myhome.reboot&hl=ko&gl=kr",
+      "recentChanges": "출시용 빌드"
+    }
+  },
+  "com.nexon.azurpromilia": {
+    "researchedAt": "2026-11-28T14:47:04.929Z",
+    "verified": true,
+    "data": {
+      "verified": true,
+      "category": "신규 오픈",
+      "short": "11/26 정식 출시 후 사전등록 3,000만 명 흥행으로 매출 순위 상승",
+      "summary": "아주르 프로밀리아는 11월 26일 PC·모바일로 정식 출시됐고, 출시 전 사전등록 3,000만 명을 넘기며 사전 다운로드 단계에서 앱스토어와 갤럭시 스토어 인기 1위에 올랐습니다. 출시 2일 만에 누적 매출 1억 위안(약 200억 원)을 돌파했다는 개발사 발표가 보도됐으며, 출시 첫날 매출은 PC가 65%를 넘었습니다. 출시 기념 출석 이벤트, 도산소옥·페페 성장 이벤트, 반올림피자 등 브랜드 컬래버가 함께 진행되면서 매출 상위권 진입을 뒷받침한 것으로 보입니다.",
+      "articles": [
+        {
+          "title": "[아주르 프로밀리아] 출시 2일 만에 200억 원 벌었다",
+          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=113502"
+        },
+        {
+          "title": "넥슨 퍼블리싱 2연타 홈런, 템빨과 아주르 성공적 출격",
+          "url": "https://www.gamemeca.com/view.php?gid=1784342"
+        },
+        {
+          "title": "템빨 구글 매출 3위...넥슨 신작 2종 흥행 돌풍",
+          "url": "http://www.gamey.kr/news/articleView.html?idxno=3020017"
+        },
+        {
+          "title": "'아주르 프로밀리아' 26일 출시, 피자·치킨 컬래버까지 예고",
+          "url": "https://www.thisisgame.com/articles/433166"
+        }
+      ],
+      "icon": "https://play-lh.googleusercontent.com/3RQcMLdaNzl3OpgQPr3cnwwbFeVyZq_iE3bmh7cs9f9YUZnl07MtWxCcKAsfRhrt47DFFAl1IQvyp2CRYIyN1cY=w128",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/n3zIgJUJIyclNHstmRd2I7ZX1Quj_tP6Y9sobhHH00KEdtIXtGHUrTQpmCmRsy0GUMd2UZjrsotzOPLknSSaqwI=w400",
+        "https://play-lh.googleusercontent.com/fKCcf_vMQMGOUU86583Wyg5X38unBFwoXlIKvHTKOvxfrCqOs9-khX__-ThF3l8F4gqJ06MIM0mtYpW7ck7j=w400",
+        "https://play-lh.googleusercontent.com/Vz9ZcNME9gjFOWD7yTEYgCm_WyZtnaG257JgT6dm1ffK_Hnr8LraQopvWk7jU97q6uQOT0DQWYzpGJw-lP9o=w400",
+        "https://play-lh.googleusercontent.com/9Gm2GmCMVYkUEM2mPnlU2j4TqLQpxcWbe_STKAhworp9aOddDByhTdZjH0hEE3rEtQwQPZFhlNYjNfOZ1BGJ7g=w400"
+      ],
+      "video": "https://www.youtube.com/embed/7VkArNW-Htk?vq=large&rel=0&autohide=1&showinfo=0",
+      "videoImage": "https://play-lh.googleusercontent.com/iiEk-6TxKddTqfS_5GsmRkePyMsWJKZ8kktRM9kf3KYPssoAfe_zyOSLn60iGNcMzoUVyCzT7s1Ke68OkIMz=w480",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.nexon.azurpromilia&hl=ko&gl=kr",
+      "recentChanges": ""
     }
   }
 }

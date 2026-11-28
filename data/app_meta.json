@@ -181,6 +181,13 @@
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/98/c4/f298c428-1e55-a238-3c3c-a2c59b50523a/PesMobile-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "source": "apple"
   },
+  "1127108818": {
+    "released": "2016.09.22",
+    "developer": "Electronic Arts",
+    "country": "US",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/90/a6/cb90a634-8353-a094-cd7a-490eced6c4c2/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
   "1128255542": {
     "released": "2017.06.20",
     "developer": "NC Corp.",
@@ -7339,7 +7346,7 @@
     "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202210/12/SE201812131608139870035108/0000760600/ko/img/original/0000760600_DP000101_20221012105109.png",
     "released": "2022.04.11",
     "developer": "추천",
-    "country": null,
+    "country": "CN",
     "source": "kr-onestore",
     "title": "Infinite Borders-인피니트 보더스"
   },
@@ -10196,5 +10203,389 @@
     "country": "KR",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/c0/c0/6cc0c0ed-c5cc-0dbb-10d1-2c4cd8cb661d/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/100x100bb.jpg",
     "source": "apple"
+  },
+  "com.enp.mergezombie.google": {
+    "released": "2026.11.16",
+    "developer": "ENP GAMES Co., Ltd",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/6_IcPD3qUNOVC_4UG7457GO7DZll938I3t-lCYPXz4qwnsjPEsRYRubLOEtigthtaP5Qd6gRB-Deu9dGNntpLw=w48",
+    "source": "google"
+  },
+  "com.fc.electronic.repair.shop.simulator": {
+    "released": "2026.11.16",
+    "developer": "Think Different FC.",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/2gQvTkOPfCINt7Cd9z-HCehT5qjAmQMtMxrKamWuVg3Ls0hcZ2sg8yCf1V7Mz1uEM78XOHhVC85CELg4rpOiCA=w48",
+    "source": "google"
+  },
+  "com.pdd.sfungames": {
+    "released": "2026.10.22",
+    "developer": "SFungames",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/UTCNAnf1ig7iamaUzO_-9PHpVbMcziY1_F1M05spbTK0ORdJz55FSNuiOzribYCcrMeEbq4T9xgoXstrIowfkw=w48",
+    "source": "google"
+  },
+  "com.skywalkgames.myhome.reboot": {
+    "released": "2026.11.26",
+    "developer": "SKYWALK",
+    "country": null,
+    "icon": "https://play-lh.googleusercontent.com/l-ThixQFDG_yVvE3niIFdfVn45gPQLF3JhmZFeACtpx4oJNDToquO9M1dXuJtZ19ht1katiYs3xY21dq-WkAhw=w48",
+    "source": "google"
+  },
+  "com.moonactive.cmboard": {
+    "released": "2026.03.11",
+    "developer": "Moon Active",
+    "country": "IL",
+    "icon": "https://play-lh.googleusercontent.com/pFMYxxHpIsLKeaxO9wjVRpAsgMaLKbT1kPwofNQtGi69-6fF_eUyIViAMY66auDrvsJnw2h6S5rpF8XaZcrm=w48",
+    "source": "google"
+  },
+  "6800343219": {
+    "released": "2026.09.21",
+    "developer": "The Rookie Lab",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/b8/a5/b2b8a57c-dbc6-4e2a-a791-4af57beeade0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6807326174": {
+    "released": "2026.09.25",
+    "developer": "Hyper Surfer Games",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/7e/13/ff7e131d-7963-331f-5f53-6e0071d75217/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6749853213": {
+    "released": "2025.12.09",
+    "developer": "CAOX",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/bb/cf/e4bbcfd9-92c5-d971-05e1-f711f7edb151/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6814395879": {
+    "released": "2026.11.09",
+    "developer": "Arcloom., Ltd.",
+    "country": null,
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/14/d1/9514d172-b2bf-a8eb-a521-9d8607f2ad36/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "6748432502": {
+    "released": "2026.08.13",
+    "developer": "111%",
+    "country": "KR",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/5b/6e/765b6e3a-21a4-175c-4fb2-e868a321ead9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "source": "apple"
+  },
+  "one:컴투스프로야구for매니저": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/22/IF142158856020090629182843/0000648374/ko/img/original/0000648374_20260922100203.png",
+    "released": "2013.12.06",
+    "developer": "(주)컴투스",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "컴투스프로야구 for 매니저"
+  },
+  "one:대항해시대origin": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/19/SE202009161645355210053006/0001008578/ko/img/original/0001008578_20261119142841.png",
+    "released": "2026.11.23",
+    "developer": "LINE Games",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "대항해시대 Origin"
+  },
+  "one:페르소나5더팬텀x": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/22/SE201907121935432990045259/0000773383/ko/img/original/0000773383_20260922151958.png",
+    "released": "2024.05.01",
+    "developer": "Perfect World Games",
+    "country": "CN",
+    "source": "kr-onestore",
+    "title": "페르소나5: 더 팬텀 X"
+  },
+  "one:아르미스": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202607/10/SE202008121128380290052561/0000756270/ko/img/original/0000756270_20260710182441.png",
+    "released": "2021.07.20",
+    "developer": "NetEase Games",
+    "country": "CN",
+    "source": "kr-onestore",
+    "title": "아르미스"
+  },
+  "one:삼국지m": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202603/13/IF1423499941320130701113434/0000730787/ko/img/original/0000730787_20260313111557.png",
+    "released": "2018.07.12",
+    "developer": "Efun Company",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "삼국지M"
+  },
+  "one:검은사막모바일foronestore": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202604/14/SE201909181545533260047765/0000743136/ko/img/original/0000743136_20260414140032.png",
+    "released": "2019.10.16",
+    "developer": "PearlAbyss",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "검은사막 모바일 for ONE store"
+  },
+  "one:원피스최종결전": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/25/SE202605051636411140068919/0001008282/ko/img/original/0001008282_20261125180217.png",
+    "released": "2026.11.26",
+    "developer": "룽야오게임즈",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "원피스: 최종결전"
+  },
+  "one:올림포스x아스가르드총력전": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202611/10/SE201909171705157400047760/0001010800/ko/img/original/0001010800_20261110155757.jpg",
+    "released": "2026.11.26",
+    "developer": "KINGKONGSOFT",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "올림포스X아스가르드 총력전"
+  },
+  "one:귀혼키우기": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202608/06/IF1423694711220120306141955/0001008083/ko/img/original/0001008083_20260806153913.png",
+    "released": "2026.11.24",
+    "developer": "MGMAE Corp",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "귀혼키우기"
+  },
+  "one:영웅삼국세개의태양": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/26/SE202601091559076820067958/0001012533/ko/img/original/0001012533_20261126150731.png",
+    "released": "2026.11.26",
+    "developer": "메가자이언트",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "영웅삼국:세개의 태양"
+  },
+  "one:이모탈라이징불멸의각성": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202611/23/SE202206211637068190059359/0001011001/ko/img/original/0001011001_20261123170626.jpg",
+    "released": "2026.11.25",
+    "developer": "Goat Games Company Limited",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "이모탈 라이징: 불멸의 각성"
+  },
+  "one:삼국블레이드": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202601/27/SE202010191054390090053562/0000751797/ko/img/original/0000751797_20260127140026.png",
+    "released": "2021.01.27",
+    "developer": "NEXUS",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "삼국블레이드"
+  },
+  "one:무극삼국지": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202611/18/SE202402151505591980063412/0001012928/ko/img/original/0001012928_20261118145722.jpg",
+    "released": "2026.11.22",
+    "developer": "PLUG GAME LIMITED",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "무극삼국지"
+  },
+  "one:해적냥방치형키우기rpg": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/21/SE202610131818124590070956/0001013202/ko/img/original/0001013202_20261121212930.png",
+    "released": "2026.11.24",
+    "developer": "빌드업크루",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "해적냥 - 방치형 키우기 RPG"
+  },
+  "one:꽥꽥서바이버": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/24/SE202611190858592400072174/0001013380/ko/img/original/0001013380_20261124100654.png",
+    "released": "2026.11.24",
+    "developer": "dotoriinvestment",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "꽥꽥서바이버"
+  },
+  "one:무제정통무협방치형rpg": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202409/30/IF1423501699120130916211803/0000770130/ko/img/original/0000770130_DP000101_20240930164347.png",
+    "released": "2023.08.15",
+    "developer": "(주)이엔피게임즈",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "무제:정통무협방치형RPG"
+  },
+  "one:야구천재실시간야구매니지먼트": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/25/SE202611161100396310072060/0001013514/ko/img/original/0001013514_20261125172627.png",
+    "released": "2026.11.26",
+    "developer": "더블유엔피",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "야구천재 - 실시간 야구 매니지먼트"
+  },
+  "one:테르비아tervia": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/25/SE202611102105565950071876/0001012364/ko/img/original/0001012364_20261125230856.png",
+    "released": "2026.11.25",
+    "developer": "joumuni",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "테르비아(tervia)"
+  },
+  "one:fabletown귀여운머지게임": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/04/SE201602140238062270008713/0001011259/ko/img/original/0001011259_20261104172930.png",
+    "released": "2026.11.26",
+    "developer": "REEF GAMES LTD",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "Fable Town: 귀여운 머지게임"
+  },
+  "one:양궁소녀키우기방치형rpg": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/15/SE202611150402577710072037/0001012680/ko/img/original/0001012680_20261115044044.png",
+    "released": "2026.11.26",
+    "developer": "Boomuk Games",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "양궁소녀 키우기: 방치형 RPG"
+  },
+  "gal:모리멘스morimens": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202611/21/SE202007212129343820052373/0001001789/ko/img/original/0001001789_20261121002408.png",
+    "released": "2026.03.19",
+    "developer": "Qookka Entertainment Limited",
+    "country": "CN",
+    "source": "kr-onestore",
+    "title": "모리멘스 Morimens"
+  },
+  "gal:이세계판타지라이프": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202605/20/SE202112241633358960057904/0000780423/ko/img/original/0000780423_20260520162851.png",
+    "released": "2025.02.11",
+    "developer": "SINGAPORE JUST GAME TECHNOLOGY PTE LTD",
+    "country": "SG",
+    "source": "kr-onestore",
+    "title": "이세계 판타지 라이프"
+  },
+  "gal:사북성언데드": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202508/18/SE202503121634338770066138/0001001272/ko/img/original/0001001272_20250818224633.png",
+    "released": "2025.07.02",
+    "developer": "Hong Kong Xingyou Limited",
+    "country": "HK",
+    "source": "kr-onestore",
+    "title": "사북성:언데드"
+  },
+  "gal:올림포스x아스가르드총력전": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202611/10/SE201909171705157400047760/0001010800/ko/img/original/0001010800_20261110155757.jpg",
+    "released": "2026.11.26",
+    "developer": "추천",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "올림포스X아스가르드 총력전"
+  },
+  "gal:영혼군단키우기방치형소울rpg": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202608/04/IF142815936020090818140347/0001008041/ko/img/original/0001008041_20260804162620.png",
+    "released": "2026.10.19",
+    "developer": "LUNOSOFT INC",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "영혼군단 키우기: 방치형 소울 RPG"
+  },
+  "gal:미친타워가되었다노빠꾸rpg": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202602/20/SE201610051348349000012481/0001000917/ko/img/original/0001000917_20260220105933.png",
+    "released": "2025.09.09",
+    "developer": "V2R",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "미친 타워가 되었다:노빠꾸RPG"
+  },
+  "gal:소녀x헌터": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_F20_95/data12/android/202305/08/SE201602191405590330008750/0000753918/ko/img/original/0000753918_DP000101_20230508171907.jpg",
+    "released": "2021.05.17",
+    "developer": "ⓒSINCETIMES KOREA",
+    "country": "KR",
+    "source": "kr-onestore",
+    "title": "소녀X헌터"
+  },
+  "gal:citybussimulator": {
+    "icon": "https://img.onestore.co.kr/thumbnails/img_sac/122_122_A20_40/data12/android/202609/10/SE202512160013073230067821/0001009038/en/img/original/0001009038_20260910171127.png",
+    "released": "2026.11.27",
+    "developer": "ISHU TECHNOLOGIES LLP",
+    "country": null,
+    "source": "kr-onestore",
+    "title": "City Bus Simulator"
+  },
+  "one:infinitebordersqilie20a": {
+    "icon": "https://play-lh.googleusercontent.com/MNMJrNDRXc-vuXWPM1acTYG68JCz8XDyvsVURornGdxwL60QmkrqzmxcB8KATHJo-iwabSg335fOzJR2aC5S=w48",
+    "developer": "NetEase Games",
+    "country": "CN",
+    "released": "2016.05.31",
+    "url": "https://play.google.com/store/apps/details?id=com.entermate.stzb&hl=ko&gl=kr",
+    "appId": "com.entermate.stzb",
+    "source": "kr-google-match",
+    "title": "Infinite Borders-인피니트 보더스"
+  },
+  "one:faewelastsheltersurvival": {
+    "icon": "https://play-lh.googleusercontent.com/bCUKlHtllYdlK5A9FT3nIo_LxoapkzO2jeyEwrRnZZNvD1stuB-6JATy86hORqWR6qqfS-5FtzXh4ERasBf_sQ=w48",
+    "developer": "LAST ORIGIN STUDIO LIMITED",
+    "country": null,
+    "released": "2026.08.12",
+    "url": "https://play.google.com/store/apps/details?id=com.more.lastshelter.gp&hl=ko&gl=kr",
+    "appId": "com.more.lastshelter.gp",
+    "source": "kr-google-match",
+    "title": "Last Shelter: War Z"
+  },
+  "one:legendsreborndteif": {
+    "icon": "https://play-lh.googleusercontent.com/LbUIZKnQUPt3MvFLoVLOLE4sx9THRwq9NwCRQE-BZdfHpFwEM5Rrj6Dj8YoXQuf57AKQ6iJ-7AtkQaQGsPMJAQ=w48",
+    "developer": "ACE GAME INTERNATIONAL LIMITED",
+    "country": null,
+    "released": "2025.11.13",
+    "url": "https://play.google.com/store/apps/details?id=com.Knight.GrandQuest&hl=ko&gl=kr",
+    "appId": "com.Knight.GrandQuest",
+    "source": "kr-google-match",
+    "title": "Legends Reborn: 마지막 전투"
+  },
+  "one:wejoypteltd": {
+    "icon": "https://play-lh.googleusercontent.com/gqjqhrWllw00o_xN1xndTk08IyBbcXnLN-e4qrBpmE66IDT6J0xxXTgiNpQMqL2ApPdSnDKx3aki7Ee3m3MjGg=w48",
+    "developer": "Polaris Team",
+    "country": null,
+    "released": "2025.02.19",
+    "url": "https://play.google.com/store/apps/details?id=com.polaris.live.pro&hl=ko&gl=kr",
+    "appId": "com.polaris.live.pro",
+    "source": "kr-google-match",
+    "title": "WeJoy Pro-Call Video Party"
+  },
+  "gal:아주르프로밀리아": {
+    "icon": "https://play-lh.googleusercontent.com/3RQcMLdaNzl3OpgQPr3cnwwbFeVyZq_iE3bmh7cs9f9YUZnl07MtWxCcKAsfRhrt47DFFAl1IQvyp2CRYIyN1cY=w48",
+    "developer": "NEXON Company",
+    "country": "KR",
+    "released": "2026.11.11",
+    "url": "https://play.google.com/store/apps/details?id=com.nexon.azurpromilia&hl=ko&gl=kr",
+    "appId": "com.nexon.azurpromilia",
+    "source": "kr-google-match",
+    "title": "아주르 프로밀리아"
+  },
+  "gal:포탈팡디펜스": {
+    "icon": "https://play-lh.googleusercontent.com/K7535M3lbij8WEz5RGjMoGEeSHdPCpe3oAddSIAzQ2BRfh-R4p-124kLaIvqxx-gA1ab_PYvl1P6KWDle5-INg=w48",
+    "developer": "mobirix",
+    "country": "KR",
+    "released": "2026.10.26",
+    "url": "https://play.google.com/store/apps/details?id=com.mobirix.extfdf2&hl=ko&gl=kr",
+    "appId": "com.mobirix.extfdf2",
+    "source": "kr-google-match",
+    "title": "포탈팡 디펜스"
+  },
+  "gal:2playersgames1v1challenge": {
+    "icon": "https://play-lh.googleusercontent.com/0Zh7QkcbRoOO370R2kuFrMgeGbHWfoW3u2G9cKDoi7JSvfZ6Mnu3YYgHvLZZ4PI_OULAd31cdpukIjLHFS7l6Q=w48",
+    "developer": "Dark Halo",
+    "country": null,
+    "released": "2022.12.27",
+    "url": "https://play.google.com/store/apps/details?id=two.player.friends.multiplayer.together.player2&hl=ko&gl=kr",
+    "appId": "two.player.friends.multiplayer.together.player2",
+    "source": "kr-google-match",
+    "title": "2 Player Games - 2인용게임 & 멀티게임"
+  },
+  "gal:수학게임덧셈뺄셈곱셈나눗셈": {
+    "icon": "https://play-lh.googleusercontent.com/fuIb9hWRfIom9K90-rY0WtnC--HdBexd0dt1BTsFHKryJao4gZA-gIAgWni-tT_BpQNfN3pG8OBYjWiMavxxgA=w48",
+    "developer": "RV AppStudios",
+    "country": null,
+    "released": "2020.08.25",
+    "url": "https://play.google.com/store/apps/details?id=com.rvappstudios.math.games.kids.addition.subtraction.multiplication.division&hl=ko&gl=kr",
+    "appId": "com.rvappstudios.math.games.kids.addition.subtraction.multiplication.division",
+    "source": "kr-google-match",
+    "title": "수학 게임 - 덧셈, 뺄셈, 곱셈, 나눗셈"
+  },
+  "gal:gamesfilterminigames": {
+    "icon": "https://play-lh.googleusercontent.com/LwULDGYIy7NU9NCtQnwl7CispHV_b5LSUoZSOHDyx_aKBANvE3mA1ELI-10-wsmsoDr_9N47YKADqjcsw-VF=w48",
+    "developer": "Dream World Legends",
+    "country": null,
+    "released": "2025.08.13",
+    "url": "https://play.google.com/store/apps/details?id=com.predictions.filter.collection.married&hl=ko&gl=kr",
+    "appId": "com.predictions.filter.collection.married",
+    "source": "kr-google-match",
+    "title": "Prediction Mini Games Filter"
   }
 }
